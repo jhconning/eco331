@@ -1,5 +1,6 @@
 ---
 title: sl6_Culture
+description: "Culture"
 deploy: true
 title_custom: true
 tags: [slides/final]

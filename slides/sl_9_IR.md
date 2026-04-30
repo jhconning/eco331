@@ -1,6 +1,6 @@
 ---
 title: sl9_IR
-description: "ECO 331: Economic History - sl9_IR"
+description: "The Industrial Revolution"
 author: "Jonathan Conning"
 deploy: true
 title_custom: true

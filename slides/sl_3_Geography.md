@@ -1,6 +1,6 @@
 ---
 title: sl_3_geography
-description: "ECO 331: Economic History - sl_3_geography"
+description: "Geography"
 author: "Jonathan Conning"
 deploy: true
 title_custom: true

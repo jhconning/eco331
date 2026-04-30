@@ -1,6 +1,6 @@
 ---
 title: sl_7b_LandAbundant
-description: "ECO 331: Economic History - sl_7b_LandAbundant"
+description: "Land Abundance and Domar's Trilemma"
 author: "Jonathan Conning"
 deploy: true
 marp: true

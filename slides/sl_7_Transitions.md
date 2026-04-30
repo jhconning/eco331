@@ -1,6 +1,6 @@
 ---
 title: sl7_Transitions
-description: "ECO 331: Economic History - sl7_Transitions"
+description: "Transitions"
 author: "Jonathan Conning"
 deploy: true
 title_custom: true

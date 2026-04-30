@@ -40,7 +40,10 @@ jobs:
             find slides -type f -name "*.md" | sort | while read -r file; do
               if grep -q "^deploy:[[:space:]]*true" "$file"; then
                 filename=$(basename "$file")
-                title=$(grep -m 1 "^# " "$file" | sed 's/^# //' | tr -d '\r' || echo "${filename%.md}")
+                title=$(grep -m 1 "^description:[[:space:]]*" "$file" | sed 's/^description:[[:space:]]*//' | sed 's/^"//;s/"$//' | sed "s/^'//;s/'$//" | tr -d '\r')
+                if [ -z "$title" ]; then
+                  title=$(grep -m 1 "^# " "$file" | sed 's/^# //' | tr -d '\r' || echo "${filename%.md}")
+                fi
                 edit_date=$(TZ='America/New_York' git log -1 --format="%cd" --date=format:"%Y-%m-%d %H:%M" -- "$file")
                 if [ -z "$edit_date" ]; then edit_date="Unknown"; fi
                 echo "- [$title](https://jhconning.github.io/eco331/slides/${filename%.md}.html) ([PDF](https://jhconning.github.io/eco331/slides/${filename%.md}.pdf)) *(Last edit: $edit_date)*" >> toc.tmp

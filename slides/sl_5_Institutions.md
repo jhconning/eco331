@@ -2,7 +2,7 @@
 
 ---
 title: sl6_Culture
-description: "ECO 331: Economic History - sl6_Culture"
+description: "Institutions"
 author: "Jonathan Conning"
 deploy: true
 title_custom: true

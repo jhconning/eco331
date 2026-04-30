@@ -1,6 +1,6 @@
 ---
 title: sl4_Malthus
-description: "ECO 331: Economic History - sl4_Malthus"
+description: "Malthusian Trap and Escape"
 author: "Jonathan Conning"
 deploy: true
 title_custom: true

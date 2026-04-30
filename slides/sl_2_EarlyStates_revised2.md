@@ -1,9 +1,8 @@
 ---
 title: sl_2_EarlyStates
-description: "ECO 331: Economic History - sl_2_EarlyStates"
+description: "Neolithic Revolutio and Early States"
 author: "Jonathan Conning"
 deploy: true
-title_custom: true
 tags: [slides/final]
 created: 2023-01-27T02:00:38.712Z
 modified: 2025-01-30T14:00:00.000Z

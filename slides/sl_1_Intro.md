@@ -1,6 +1,6 @@
 ---
 title: sl_1_Intro
-description: "ECO 331: Economic History - sl_1_Intro"
+description: "Introduction"
 author: "Jonathan Conning"
 title_custom: true
 deploy: true
