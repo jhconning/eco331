@@ -1,5 +1,7 @@
 ---
 title: sl_2_EarlyStates
+description: "ECO 331: Economic History - sl_2_EarlyStates"
+author: "Jonathan Conning"
 deploy: true
 title_custom: true
 tags: [slides/final]
@@ -19,8 +21,8 @@ style: |
 
 <!-- footer: "" -->
 
-![bg right w:450](attachments/neolithic.jpg)sl3_river-basins.jpg
-### ECO 331
+![bg right w:450 Image of Neolithic](attachments/neolithic.jpg)sl3_river-basins.jpg
+# ECO 331
 ## Economic History
 
 ```
@@ -49,11 +51,11 @@ These slides cover readings from:
 # Part I: The Long View
 
 ---
-#### Galor's 'Mysteries of the Human Journey'
+# Galor's 'Mysteries of the Human Journey'
 
 **What was life like in 1651?**
 
-![bg left:35% w:350](https://upload.wikimedia.org/wikipedia/commons/5/57/Leviathan_frontispiece_cropped_British_Museum.jpg)
+![bg left:35% w:350 Image of Leviathan Frontispiece Cropped British Museum](https://upload.wikimedia.org/wikipedia/commons/5/57/Leviathan_frontispiece_cropped_British_Museum.jpg)
 
 When **Thomas Hobbes** wrote _Leviathan_ in 1651, life was "Nasty, Brutish, and Short."
 
@@ -78,12 +80,12 @@ Hobbes argued humans in their natural state live in chaos, leading them to form 
 
 ---
 
-![bg center:50%](attachments/og_epochs.png)
+![bg center:50% Image of Og Epochs](attachments/og_epochs.png)
 
 ---
 ## The Malthusian Epoch
 
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/5/53/Sciurus_vulgaris.png)
+![bg left:35% Image of Sciurus Vulgaris](https://upload.wikimedia.org/wikipedia/commons/5/53/Sciurus_vulgaris.png)
 
 > ... during the Malthusian epoch... the fruits of technological advancements were channelled primarily towards larger and denser populations and had only glacial impact on their long-term prosperity. (Galor p4-5)
 
@@ -106,15 +108,15 @@ Implications:
 * Next slides investigate this claim empirically:
 ---
 
-![bg center w:900](attachments/og_land_pop.png)
+![bg center w:900 Image of Og Land Pop](attachments/og_land_pop.png)
 
 ---
-![bg center w:950](attachments/og_land_gdpcap.png)
+![bg center w:950 Image of Og Land Gdpcap](attachments/og_land_gdpcap.png)
 
 ---
 
-![bg right:60%  w:650](attachments/gc_f2.6_income_pop.png)
-#### British evidence
+![bg right:60%  w:650 Image of Gc F2.6 Income Pop](attachments/gc_f2.6_income_pop.png)
+## British evidence
 * English data 1200-1790s
 * Note effects of the Black Death > 1340s
 * Transition ~ 17th century
@@ -164,7 +166,7 @@ Why evolved this way? Why no *convergent evolution* in other species?
 
 ## The Puzzling Primate
 
-![bg right:35% w:400](attachments/sl2_capuchin.png)
+![bg right:35% w:400 Image of Sl2 Capuchin](attachments/sl2_capuchin.png)
 
 **Individual humans** are not strongest, fastest, or most intelligent primates
   * Can't survive alone in wild without learned skills
@@ -175,7 +177,7 @@ Why evolved this way? Why no *convergent evolution* in other species?
 ---
 ### Yet Humans Dominate Every Habitat
 
-![w:600](attachments/sl2_arctic_people.png)
+![w:600 Image of Sl2 Arctic People](attachments/sl2_arctic_people.png)
 
 **Why?** Culture enables solving survival problems through **learned knowledge** 
 rather than biological adaptation.
@@ -183,7 +185,7 @@ rather than biological adaptation.
 ---
 ## Ants vs. Humans
 
-![bg right:35% w:400](attachments/sl2_ant_species.jpg)
+![bg right:35% w:400 Image of Sl2 Ant Species](attachments/sl2_ant_species.jpg)
 
 * **One species of humans** thrives in arctic, desert, tropical, and high-altitude environments
   * **Cultural adaptation** — not biological adaptation
@@ -197,7 +199,7 @@ rather than biological adaptation.
 
 ## Cumulative Culture
 
-![w:600](attachments/sl2_stone_tool.png)
+![w:600 Image of Sl2 Stone Tool](attachments/sl2_stone_tool.png)
 
 * **Culture** = information stored outside the genome (tools, techniques, norms)
 * **Cumulative** = each generation builds on prior knowledge
@@ -207,7 +209,7 @@ rather than biological adaptation.
 
 ### Fire: The First Domestication
 
-![w:950](attachments/Scott_quote_fire.png)
+![w:950 Image of Scott Quote Fire](attachments/Scott_quote_fire.png)
 
 Long before agriculture, hominids were domesticating the environment.
 
@@ -222,7 +224,7 @@ Culture and genes evolve together in a **feedback loop**:
 
 Example: Domestication of dairy animals → selection for lactase persistence
 
-![bg right w:500](attachments/sl2_lactase.png)
+![bg right w:500 Image of Sl2 Lactase](attachments/sl2_lactase.png)
 
 ---
 ### Technological advancements $\Longleftrightarrow$ further evolution
@@ -234,13 +236,13 @@ Example: Domestication of dairy animals → selection for lactase persistence
       * less chewing → less need for large jaw → more cranium space
     * **Domestication of the environment**
       * The first great tool to shape the environment
-![bg right:40% w:500](attachments/sl2_brain_size.png)
+![bg right:40% w:500 Image of Sl2 Brain Size](attachments/sl2_brain_size.png)
 
 ---
 
 ### Self-Domestication: Humans Evolving Through Culture
 
-![w:700](attachments/sl2_dog_human.jpg)
+![w:700 Image of Sl2 Dog Human](attachments/sl2_dog_human.jpg)
 
 * Cultural norms reward **cooperation**, punish **aggression**
 * Selection toward prosocial traits
@@ -250,7 +252,7 @@ Example: Domestication of dairy animals → selection for lactase persistence
 ---
 
 
-### Galor's Positive Feedback Loops
+# Galor's Positive Feedback Loops
 
 - environmental changes
   $\Rightarrow$ technological innovations
@@ -269,11 +271,11 @@ Example: Domestication of dairy animals → selection for lactase persistence
   * Longest-lived early human species (~9X longer than *homo sapiens*)
   * Survived until ~117K years ago
 
-![bg right w:650](attachments/hominids.png)
+![bg right w:650 Image of Hominids](attachments/hominids.png)
 
 ---
 
-![bg right:35% w:400](attachments/eve.png)
+![bg right:35% w:400 Image of Eve](attachments/eve.png)
 ### Mitochondrial Eve
 
 - Unique genetic code passed from female to female
@@ -288,7 +290,7 @@ Example: Domestication of dairy animals → selection for lactase persistence
 
 # Out of Africa 
 
-![bg right:60%](attachments/og_Fig3_migrations.png)
+![bg right:60% Image of Og Fig3 Migrations](attachments/og_Fig3_migrations.png)
 
 - Anatomically modern *Homo Sapiens*: ~200-300,000 years ago in Horn of Africa
 - Major migration out of Africa 60-90K years ago
@@ -298,7 +300,7 @@ Example: Domestication of dairy animals → selection for lactase persistence
 
 ## Megafauna Extinction in the Americas
 
-![bg right w:600](attachments/extinct_animals.jpg)
+![bg right w:600 Image of Extinct Animals](attachments/extinct_animals.jpg)
 
 * By time humans reach Americas, hunting methods highly evolved
 * Local large animals had **not co-evolved** with human predators
@@ -310,7 +312,7 @@ Example: Domestication of dairy animals → selection for lactase persistence
 
 ## The "Original Affluent Society"?
 
-![bg right w:450](attachments/sl2_hunter.png)
+![bg right w:450 Image of Sl2 Hunter](attachments/sl2_hunter.png)
 <!-- PLACEHOLDER: Photo of Hadza or San people -->
 
 **Marshall Sahlins** (1972) challenged the view of primitive hardship:
@@ -333,7 +335,7 @@ Or the Invetions of agriculture.
 
 ## Climate and the Fertile Crescent
 
-![bg right w:500](attachments/sl2_fertile_crescent.png)
+![bg right w:500 Image of Sl2 Fertile Crescent](attachments/sl2_fertile_crescent.png)
 <!-- PLACEHOLDER: Map showing Fertile Crescent -->
 
 **End of last Ice Age (~11,700 years ago):**
@@ -348,13 +350,13 @@ Or the Invetions of agriculture.
 
 ### Galor on the Agricultural Revolution
 
-![w:950](attachments/galor_quote_agrev.png)
+![w:950 Image of Galor Quote Agrev](attachments/galor_quote_agrev.png)
 
 Transition from nomadic hunter-gatherer to sedentary agricultural societies began ~12K years ago.
 
 ---
 
-![bg center w:1000](attachments/og_fig17.png)
+![bg center w:1000 Image of Og Fig17](attachments/og_fig17.png)
 
 ---
 
@@ -370,16 +372,16 @@ Population pressure drove the transition:
 
 ---
 
-###### Jared Diamond 
-#### The Worst Mistake in the History of the Human Race
+#### Jared Diamond 
+## The Worst Mistake in the History of the Human Race
 
-![w:600](attachments/diamond_worst.png)
+![w:600 Image of Diamond Worst](attachments/diamond_worst.png)
 
 ---
 
 ## Diamond: Agriculture as Decline
 
-![bg right:35% w:400](attachments/sl2_hunter_vs_ag.jpg)
+![bg right:35% w:400 Image of Sl2 Hunter Vs Ag](attachments/sl2_hunter_vs_ag.jpg)
 <!-- PLACEHOLDER: Health comparison image -->
 
 **Skeletal evidence confirms the costs:**
@@ -398,7 +400,7 @@ Population pressure drove the transition:
 
 ## Scott: Agriculture as Precondition for States
 
-![bg right:35% w:400](attachments/scott_books.png)
+![bg right:35% w:400 Image of Scott Books](attachments/scott_books.png)
 
 James C. Scott argues:
 
@@ -413,7 +415,7 @@ James C. Scott argues:
 
 
 ---
-![bg left:35% w:400](attachments/sl2_scott_grain.jpg)
+![bg left:35% w:400 Image of Sl2 Scott Grain](attachments/sl2_scott_grain.jpg)
 ## Grain States
 
 From the state's perspective, grain is ideal:
@@ -444,7 +446,7 @@ The transition was **gradual, halting, and sometimes reversed.**  Over hundreds 
 
 ### Early Civilizations
 
-![bg right](attachments/pyramids.png)
+![bg right Image of Pyramids](attachments/pyramids.png)
 
 - Mesopotamia ~4000-3000 BCE
 - Egypt ~3100 BCE
@@ -458,7 +460,7 @@ The transition was **gradual, halting, and sometimes reversed.**  Over hundreds 
 
 ## Mesopotamia: The Setting
 
-![bg right w:500](attachments/sumerian_cuneiform.jpg)
+![bg right w:500 Image of Sumerian Cuneiform](attachments/sumerian_cuneiform.jpg)
 
 - Area between Tigris and Euphrates rivers
 - Rich alluvium soils but volatile, unpredictable floods
@@ -470,7 +472,7 @@ The transition was **gradual, halting, and sometimes reversed.**  Over hundreds 
 
 ## Uruk: The First City
 
-![bg right w:500](attachments/sl2_uruk.jpg)
+![bg right w:500 Image of Sl2 Uruk](attachments/sl2_uruk.jpg)
 
 * By 3000 BCE: perhaps **40,000 inhabitants** — unprecedented
 * Eanna temple complex: religious and administrative center
@@ -481,7 +483,7 @@ The transition was **gradual, halting, and sometimes reversed.**  Over hundreds 
 
 ## The Warka Vase: Overview
 
-![bg right w:450](attachments/sl2_varka_vase.jpg)
+![bg right w:450 Image of Sl2 Varka Vase](attachments/sl2_varka_vase.jpg)
  
 
 * Found at Uruk (modern Warka, Iraq)
@@ -494,7 +496,7 @@ The transition was **gradual, halting, and sometimes reversed.**  Over hundreds 
 
 ## The Warka Vase: Reading the Registers
 
-![bg right w:500](attachments/sl2_warka_vase_detail.jpg)
+![bg right w:500 Image of Sl2 Warka Vase Detail](attachments/sl2_warka_vase_detail.jpg)
 <!-- YOUR IMAGE: Drawn diagram of registers -->
 
 Four horizontal bands, read bottom to top:
@@ -546,7 +548,7 @@ Olson, Mancur (1993) "Dictatorship, Democracy, and Development," *American Polit
   - *May provide public goods (protection, roads, irrigation) to increase future tax base.*
 
 ---
-![bg right w:500](attachments/sl2_vinland_raid.png)
+![bg right w:500 Image of Sl2 Vinland Raid](attachments/sl2_vinland_raid.png)
 ## Olson's Bandit model
 
 - Period 1 and 2.  
@@ -578,11 +580,11 @@ $$
 Leads to an interior solution $0<t<1$
 
 See [python Colab Notebook](https://colab.research.google.com/drive/1aM13a-Zu8zk3mlp_wkmncFxsE9Gs8zan?usp=sharing)
-![](attachments/ch9_olson_bandit.png)
+![Image of Ch9 Olson Bandit](attachments/ch9_olson_bandit.png)
 
 ---
 
-![](attachments/sl2_bandit_tax.png)
+![Image of Sl2 Bandit Tax](attachments/sl2_bandit_tax.png)
 
 
 ---
@@ -628,7 +630,7 @@ $$V = \underbrace{t \cdot y_1}_{\text{Period 1 Revenue}} + \underbrace{p(t) \cdo
 
 ## Scott: The State as Population Machine
 
-![](attachments/scott_prisoners.png)
+![Image of Scott Prisoners](attachments/scott_prisoners.png)
 
 Scott emphasizes coercion, bondage, and population control as central to early statecraft.
 
@@ -636,11 +638,11 @@ Scott emphasizes coercion, bondage, and population control as central to early s
 
 ## The Open Frontier Problem
 
-![w:1000](attachments/Scott_quote_coerce1.png) 
+![w:1000 Image of Scott Quote Coerce1](attachments/Scott_quote_coerce1.png) 
 
 ---
 
-![w:1050](attachments/Scott_quote_coerce2.png) 
+![w:1050 Image of Scott Quote Coerce2](attachments/Scott_quote_coerce2.png) 
 
 ---
 
@@ -675,7 +677,7 @@ Scott: "The state with the most people was generally richest"
 ## Evidence: River Shifts and State Formation
 
 ![bg left 95%](attachments/abstract_origins_govt.png)
-![width:400px](attachments/river_shift.png)
+![width:400px Image of River Shift](attachments/river_shift.png)
 
 ([PDF link](https://www.aeaweb.org/articles?id=10.1257/aer.20201919))
 
@@ -693,7 +695,7 @@ Authors distinguish between **initial state formation** and later evolution, ack
 
 
 ---
-![bg right:47% w:600](attachments/sl2_rainfall_states.png)
+![bg right:47% w:600 Image of Sl2 Rainfall States](attachments/sl2_rainfall_states.png)
 ### Why was state formation rare?
 
 States formed as regional rainfall declined (making irrigation valuable) and where:
@@ -760,10 +762,10 @@ No single answer — likely all factors:
 
 ---
 
-![bg](attachments/car_land.png)
-![bg](attachments/Earth_Madagascar.png)
-![bg](attachments/english_open.png)
-![bg](attachments/earth_PA.png)
+![bg Image of Car Land](attachments/car_land.png)
+![bg Image of Earth Madagascar](attachments/Earth_Madagascar.png)
+![bg Image of English Open](attachments/english_open.png)
+![bg Image of Earth Pa](attachments/earth_PA.png)
 
 ---
 ## Slides we did not use
@@ -772,7 +774,7 @@ No single answer — likely all factors:
 ---
 ## Climate Variability and Civilizations
 
-![bg right:25% w:300](attachments/cover_Vinland_Saga.jpg)
+![bg right:25% w:300 Image of Cover Vinland Saga](attachments/cover_Vinland_Saga.jpg)
 **Medieval Warm Period (900-1300 CE)**
 - North Atlantic warming → Viking expansion, Greenland settlement
 
@@ -786,7 +788,7 @@ No single answer — likely all factors:
 ## Modern Period: Industrialization and Unprecedented Warming
 **1850-present**
 
-![bg left w:650](attachments/sl2_rising_temp.png)
+![bg left w:650 Image of Sl2 Rising Temp](attachments/sl2_rising_temp.png)
 
 - General warming begins ~1850
 - **Accelerated warming since 1950** (industrial era)
@@ -799,7 +801,7 @@ No single answer — likely all factors:
 
 ### Jared Diamond: Agricultural Advantage as Conquest
 
-![bg right:35% w:400](attachments/book_cover_Diamond.png)
+![bg right:35% w:400 Image of Book Cover Diamond](attachments/book_cover_Diamond.png)
 
 **"Guns, Germs, and Steel" Thesis:**
 
@@ -855,7 +857,7 @@ States with earlier agriculture developed **larger, stratified populations** wit
 ### Early Bantu Expansion: Settlement
 
 
-![bg left:30% w:400](attachments/map_bantu0.png)
+![bg left:30% w:400 Image of Map Bantu0](attachments/map_bantu0.png)
 
 **Timeline:** ~3000 BCE - 1000 CE
 
@@ -872,7 +874,7 @@ States with earlier agriculture developed **larger, stratified populations** wit
 
 ## Later Bantu Expansion: State Conquest
 
-![bg right w:500](attachments/map_bantu_language.png)
+![bg right w:500 Image of Map Bantu Language](attachments/map_bantu_language.png)
 
 **Early Expansion (3000 BCE - 1000 CE):**
 * Decentralized communities
@@ -891,7 +893,7 @@ Peaceful settlement → population growth → **later** state consolidation and 
 
 ## The Austronesian Expansion: Maritime Innovation
 
-![bg right:40% w:500](attachments/polynesian.png)
+![bg right:40% w:500 Image of Polynesian](attachments/polynesian.png)
 
 **Timeline:** ~3000 BCE onward; most intensive 2000 BCE - 1 CE
 

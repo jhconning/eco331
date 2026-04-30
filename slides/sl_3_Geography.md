@@ -1,5 +1,7 @@
 ---
 title: sl_3_geography
+description: "ECO 331: Economic History - sl_3_geography"
+author: "Jonathan Conning"
 deploy: true
 title_custom: true
 tags: [slides/final]
@@ -26,9 +28,9 @@ style: |
 
 
 
-![bg right w:550](attachments/sl3_river-basins.jpg)
+![bg right w:550 Image of Sl3 River-Basins](attachments/sl3_river-basins.jpg)
 
-### ECO 331
+# ECO 331
 ## Economic History
 
 ```
@@ -81,18 +83,18 @@ Spring 2026
 
 ---
 
-#### A simple primer on linear regression
+## A simple primer on linear regression
 
 Suppose we have data on students scores on a midterm and a final.
 
-![bg right w:600](attachments/gr_reg1.png)
+![bg right w:600 Image of Gr Reg1](attachments/gr_reg1.png)
 
 ---
 We hypothesize 
 
 
 
-![bg right w:600](attachments/gr_reg0.png)
+![bg right w:600 Image of Gr Reg0](attachments/gr_reg0.png)
 
 
 Linear Regression to fit a hypothesized linear relation of the form
@@ -111,14 +113,14 @@ $e_i$ = i.i.d. error
 ---
 Students w/ high attendance (orange) have on avg. higher scores:
 
-![bg right w:600](attachments/gr_reg3.png)
+![bg right w:600 Image of Gr Reg3](attachments/gr_reg3.png)
 
 
 ---
-#### Revised model 
+## Revised model 
 - Controls for a previously omitted variable 
 
-![bg right w:600](attachments/gr_reg4.png)
+![bg right w:600 Image of Gr Reg4](attachments/gr_reg4.png)
 
 $$
 y_i = a + b_1 \cdot x_i + b_2 \cdot D_i + e_i
@@ -132,18 +134,18 @@ $e_i$ = error term
 
 ---
 
-![bg left w:550](attachments/gr_reg4.png)
-![](attachments/reg_table2.png)
+![bg left w:550 Image of Gr Reg4](attachments/gr_reg4.png)
+![Image of Reg Table2](attachments/reg_table2.png)
 
 
 If `class` dummy is omitted; estimated $b_1$ coefficient biased upward. 
 
-![](attachments/reg_table.png)
+![Image of Reg Table](attachments/reg_table.png)
 
 ---
 
-![bg w:600](attachments/correlation1.png)
-![bg w:600](attachments/correlation2.png)
+![bg w:600 Image of Correlation1](attachments/correlation1.png)
+![bg w:600 Image of Correlation2](attachments/correlation2.png)
 
 
 ---
@@ -159,7 +161,7 @@ If `class` dummy is omitted; estimated $b_1$ coefficient biased upward.
     e.g. is $x_i$ variable exogenous (like the weather) or determined by same unobserved factors that affect $y_i$ 
 
 ---
-#### Does ice-cream explain pool drownings?
+## Does ice-cream explain pool drownings?
 
 * ice-cream consumption jointly determined with pool drownings
 * both are affected by temperature
@@ -168,7 +170,7 @@ If `class` dummy is omitted; estimated $b_1$ coefficient biased upward.
       * more ice-cream consumption
 
 
-![bg right w:700](attachments/gr_icecream_drownings.jpg)
+![bg right w:700 Image of Gr Icecream Drownings](attachments/gr_icecream_drownings.jpg)
 
 
 ---
@@ -176,7 +178,7 @@ If `class` dummy is omitted; estimated $b_1$ coefficient biased upward.
 ## Empirical Methodology: Difference-in-Differences
 Recall Allen et al (2023) “The Economic Origins of Government.” 
 
-![bg right w:650](attachments/diff_in_diff.png)
+![bg right w:650 Image of Diff In Diff](attachments/diff_in_diff.png)
 
 - 1374 grid cells covering Tigris-Euphrates area
 - 31 historical periods, 5000 BCE to 1950 CE
@@ -186,7 +188,7 @@ Recall Allen et al (2023) “The Economic Origins of Government.”
 
 ---
 
-![bg center w:800](attachments/mesopotamia_effects.png)
+![bg center w:800 Image of Mesopotamia Effects](attachments/mesopotamia_effects.png)
 
 
 ---
@@ -206,18 +208,18 @@ Recall Allen et al (2023) “The Economic Origins of Government.”
 
 ---
 ### Geography and Economic Development
-![bg right w:700](attachments/Kr_F2_1.png)
+![bg right w:700 Image of Kr F2 1](attachments/Kr_F2_1.png)
 * How does geography shape development?
 * Jeff Sachs (Columbia) observes many poorest countries are landlocked.
 * Water-based the most cost-effective transport, so a major disadvantage.
 ---
 
 
-![bg center w:1200](attachments/map_CO2.png)
+![bg center w:1200 Image of Map Co2](attachments/map_CO2.png)
 ---
 
 ---
-![bg center w:900](attachments/map_US_waterways.png)
+![bg center w:900 Image of Map Us Waterways](attachments/map_US_waterways.png)
 
 
 ---
@@ -235,19 +237,19 @@ next slide:
 <div class="columns">
 <div class="columns-left">
 
-#### River Basins
+## River Basins
 
-![w:450](attachments/gr_India_basin.jpeg)
+![w:450 Image of Gr India Basin](attachments/gr_India_basin.jpeg)
 [Source](https://twitter.com/tomaspueyo/status/1622753371663867905)
 
 </div>
 <div class="columns-right">
 
 
-#### Population Density
+## Population Density
 
 
-![w:550](attachments/gr_India_pop.jpeg)
+![w:550 Image of Gr India Pop](attachments/gr_India_pop.jpeg)
 
 
 </div>
@@ -264,8 +266,8 @@ next slide:
 
 ---
 
-#### Geography and Disease Environment
-![bg right w:650](attachments/kr_F2_2.png)
+## Geography and Disease Environment
+![bg right w:650 Image of Kr F2 2](attachments/kr_F2_2.png)
 
 * Geography determines disease environment.
 * Malaria has likely killed more than any other cause.
@@ -275,38 +277,38 @@ next slide:
 ---
 
 
-![](attachments/tsetse_abstract.png)
+![Image of Tsetse Abstract](attachments/tsetse_abstract.png)
 
 ---
 
-![bg right](attachments/tsetse2.png)
+![bg right Image of Tsetse2](attachments/tsetse2.png)
 
-#### Geography and Disease Environment
+## Geography and Disease Environment
 
 * tsetse fly causes sleeping sickness.
 * kills livestock
 * Impacts economic development and political formation
 * Where fly is active less likely to develop large-scale states (Alsan, 2014)
 ---
-##### Jared Diamond
+### Jared Diamond
 ### Guns, Germs, and Steel
 
 * Shape of Continents determined speed of technological diffusion.
 
-![bg right w:800](attachments/kr_F2_3.png)
+![bg right w:800 Image of Kr F2 3](attachments/kr_F2_3.png)
 
 ---
-![bg center w:1200](attachments/kr_F2_4.png)
+![bg center w:1200 Image of Kr F2 4](attachments/kr_F2_4.png)
 
 ---
 
 
- ![bg center w:900](attachments/og_F17.png)
+ ![bg center w:900 Image of Og F17](attachments/og_F17.png)
 
 ---
-#### Geography and Climate
+## Geography and Climate
 
-![bg right:40% w:500](attachments/kr_temp.png)
+![bg right:40% w:500 Image of Kr Temp](attachments/kr_temp.png)
 * Climate changes.
 * Roman Empire arose during period of exceptionally warm weather.
   * Decline during colder period
@@ -327,43 +329,43 @@ next slide:
 
 ---
 
-![bg w:550](attachments/kr_F2_6.png)
-![bg w:550](attachments/map_roman.png)
+![bg w:550 Image of Kr F2 6](attachments/kr_F2_6.png)
+![bg w:550 Image of Map Roman](attachments/map_roman.png)
 
 ---
 
-![bg center w:950](attachments/kr_F2_7.png)
+![bg center w:950 Image of Kr F2 7](attachments/kr_F2_7.png)
 
 ---
 
-![bg center w:800](attachments/kr_F2_9.png)
+![bg center w:800 Image of Kr F2 9](attachments/kr_F2_9.png)
 
 
 ---
 
 ### The Columbian Exchange
-#### The Potato
+## The Potato
 
 (Friday presentation)
-![bg right w:600](attachments/potato_woman.png)
+![bg right w:600 Image of Potato Woman](attachments/potato_woman.png)
 
 <!--
 ---
-![bg w:600](attachments/potato1.png)
+![bg w:600 Image of Potato1](attachments/potato1.png)
 
 
 ---
 
-![bg center w:900](attachments/potato2.png)
+![bg center w:900 Image of Potato2](attachments/potato2.png)
 
 ---
 
-![bg center w:1000](attachments/potato3.png)
+![bg center w:1000 Image of Potato3](attachments/potato3.png)
 
 
 ---
 
-![bg center w:800](attachments/kr_F2_9.png)
+![bg center w:800 Image of Kr F2 9](attachments/kr_F2_9.png)
 
 -->
 

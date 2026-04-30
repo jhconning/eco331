@@ -1,4 +1,7 @@
 ---
+title: sl_isi
+description: "ECO 331: Economic History - sl_isi"
+author: "Jonathan Conning"
 marp: true
 paginate: true
 theme: gaia
@@ -44,7 +47,7 @@ India, Turkey, Egypt, Latin America, Philippines, Indonesia, Malaysia, etc.
 ---
 ### Friedrich List 
 * "Any nation which by means of protective duties and restrictions on navigation has raised her manufacturing power and her navigation to such a degree of development that no other nation can sustain free competition with her can do nothing wiser than to throw away these ladders of her greatness, to preach to other nations the benefits of free trade, and to declare in penitent tones that she has hitherto wandered in the paths of error, and has now for the first time succeeded in discovering the truth." 
-<img src="../attachments/ladder_kicki.png" width="300" style="float: right; margin-left: 10px;">
+<img src="../attachments/ladder_kicki.png" alt="Image of ladder_kicki.png" width="300" style="float: right; margin-left: 10px;">
 
 
 

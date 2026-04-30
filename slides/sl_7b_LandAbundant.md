@@ -1,4 +1,7 @@
 ---
+title: sl_7b_LandAbundant
+description: "ECO 331: Economic History - sl_7b_LandAbundant"
+author: "Jonathan Conning"
 deploy: true
 marp: true
 theme: gaia

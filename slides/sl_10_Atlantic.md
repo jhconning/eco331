@@ -1,5 +1,7 @@
 ---
 title: sl_10_Atlantic
+description: "ECO 331: Economic History - sl_10_Atlantic"
+author: "Jonathan Conning"
 title_custom: true
 tags: [slides/final]
 created: 2023-03-29T17:53:42.166Z
@@ -19,7 +21,7 @@ style: |
 -->
 
 
-![bg right w:550](./../attachments/IR1.png)
+![bg right w:550 Image of Ir1](./../attachments/IR1.png)
 ## ECO 331
 # Economic History
 ```
@@ -44,7 +46,7 @@ Reasonably priced in e-book, print, and/or audio formats.
 ## Canvas LMS
 
 
-![bg right:41% w:500](./../attachments/Serfs.jpg)
+![bg right:41% w:500 Image of Serfs](./../attachments/Serfs.jpg)
 https://canvas.instructure.com/enroll/Y79KWT
 <br></br>
 * Syllabus, Reading Schedule
@@ -57,7 +59,7 @@ https://canvas.instructure.com/enroll/Y79KWT
 
 ## Grading
 
-![bg left w:450](./../attachments/woman_write.jpg)
+![bg left w:450 Image of Woman Write](./../attachments/woman_write.jpg)
 
 | Activity                               | pct |
 | :------------------------------------- | ------- |
@@ -74,17 +76,17 @@ https://canvas.instructure.com/enroll/Y79KWT
 **Oded Galor**
 Brown University
 
-![bg right:70% w:300](./../attachments/Galor_pic.jpg)
-![bg w:350](./../attachments/book_cover_Galor.png)
+![bg right:70% w:300 Image of Galor Pic](./../attachments/Galor_pic.jpg)
+![bg w:350 Image of Book Cover Galor](./../attachments/book_cover_Galor.png)
 
 ---
-![bg w:350](attachments/Galor_unified.png)
+![bg w:350 Image of Galor Unified](attachments/Galor_unified.png)
 
 ---
 
-![bg left:74% w:300](./../attachments/book_cover_Koyama.png)
-![bg w:240](./../attachments/MarkKoyama.png)
-![bg w:240](./../attachments/JRubin.jpg)
+![bg left:74% w:300 Image of Book Cover Koyama](./../attachments/book_cover_Koyama.png)
+![bg w:240 Image of Markkoyama](./../attachments/MarkKoyama.png)
+![bg w:240 Image of Jrubin](./../attachments/JRubin.jpg)
 
 <br></br>
 <br></br>
@@ -95,19 +97,19 @@ Brown University
 
 ---
 ## 'Big History' Questions
-![bg right:45%  w:600](../growth_chart1.png)
+![bg right:45%  w:600 Image of Growth Chart1](../growth_chart1.png)
 * How did the world become Rich?
 * Why did it take so long?
 * Why isn't the whole world rich?
 
 ---
 
-![bg w:1200](attachments/ch_richerUS1900.png)
+![bg w:1200 Image of Ch Richerus1900](attachments/ch_richerUS1900.png)
 
 
 ---
 ## Transitions
-![bg right:45%  w:500](attachments/enclosures1.jpg)
+![bg right:45%  w:500 Image of Enclosures1](attachments/enclosures1.jpg)
 * The Neolithic Revolution
 * Rise and Fall of Feudalism
 * Capitalist Transitions
@@ -123,26 +125,26 @@ Brown University
 
 ---
 
-![bg w:400](./../attachments/book_cover_Smith.png)
-![bg w:400](./../attachments/book_cover_Marx.png)
+![bg w:400 Image of Book Cover Smith](./../attachments/book_cover_Smith.png)
+![bg w:400 Image of Book Cover Marx](./../attachments/book_cover_Marx.png)
 
 ---
-![bg w:400](./../attachments/book_cover_Moore.png)
+![bg w:400 Image of Book Cover Moore](./../attachments/book_cover_Moore.png)
 
 
-![bg w:400](./../attachments/book_cover_Diamond.png)
+![bg w:400 Image of Book Cover Diamond](./../attachments/book_cover_Diamond.png)
 
-![bg w:400](./../attachments/book_cover_Pomeranz.png)
+![bg w:400 Image of Book Cover Pomeranz](./../attachments/book_cover_Pomeranz.png)
 
 ---
-![bg w:400](./../attachments/book_cover_North.png)
-![bg w:400](./../attachments/book_cover_Acemoglu.png)
+![bg w:400 Image of Book Cover North](./../attachments/book_cover_North.png)
+![bg w:400 Image of Book Cover Acemoglu](./../attachments/book_cover_Acemoglu.png)
 
 
 ---
 # Causal Mechanisms
 
-![bg right w:600](attachments/ch_trust.png)
+![bg right w:600 Image of Ch Trust](attachments/ch_trust.png)
 * Proximate versus Fundamental Causes
 * Causal Relationships vs. Correlations
 * Exogenous vs Endogenous
@@ -153,7 +155,7 @@ Brown University
 
 
 ---
-![bg right w:600](attachments/korea_lights.jpg)
+![bg right w:600 Image of Korea Lights](attachments/korea_lights.jpg)
 ## KR's Explanation Categories
 * Did Some Societies Win the Geography Lottery?
 * Is it All Just Institutions? 
@@ -195,7 +197,7 @@ Can be short or long. Submit via Canvas. Due 11pm the night before class.
 
  
 ---
-![bg left:40% w:300](./../attachments/book_cover_Koyama.png)
+![bg left:40% w:300 Image of Book Cover Koyama](./../attachments/book_cover_Koyama.png)
 
 ## Chapter 1
 
@@ -203,12 +205,12 @@ Can be short or long. Submit via Canvas. Due 11pm the night before class.
 ### Why, When, and How 
 ### Did the World Become Rich?
 
-![w:600px](attachments/growth_chart1.png)
+![w:600px Image of Growth Chart1](attachments/growth_chart1.png)
 
 ---
 <!-- footer: "" -->
 
-![bg left w:600px](attachments/og_Fig2_growth_regions.png)
+![bg left w:600px Image of Og Fig2 Growth Regions](attachments/og_Fig2_growth_regions.png)
 
  
 - What does GDP measure?  
@@ -251,11 +253,11 @@ Same as income?
 Identification challenges
 
 ---
-![bg w:650](attachments/kr_1_7b.png)
-![bg w:650](attachments/kr_1_7a.png)
+![bg w:650 Image of Kr 1 7B](attachments/kr_1_7b.png)
+![bg w:650 Image of Kr 1 7A](attachments/kr_1_7a.png)
 
 
 ---
-![bg w:650](attachments/kr_1_8b.png)
-![bg w:650](attachments/kr_1_8a.png)
+![bg w:650 Image of Kr 1 8B](attachments/kr_1_8b.png)
+![bg w:650 Image of Kr 1 8A](attachments/kr_1_8a.png)
 

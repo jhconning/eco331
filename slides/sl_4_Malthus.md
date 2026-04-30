@@ -1,5 +1,7 @@
 ---
 title: sl4_Malthus
+description: "ECO 331: Economic History - sl4_Malthus"
+author: "Jonathan Conning"
 deploy: true
 title_custom: true
 tags: [slides/final]
@@ -20,8 +22,8 @@ style: |
 <!-- footer: "" -->
 
 
-![bg right w:600](attachments/photo_popn.png)
-### ECO 331
+![bg right w:600 Image of Photo Popn](attachments/photo_popn.png)
+# ECO 331
 ## Economic History
 
 ```
@@ -54,19 +56,19 @@ Student presentation:
   - In 1700 England it was 38 years at birth (considerably higher than France, or Roman Empire)
   - Queen Anne (rule 1702-1714): 17 pregnancies, 4 live births, no child survived past 10.   She died at 49.
 
-![bg right:30% w:300](attachments/gr_queen_anne.png)
+![bg right:30% w:300 Image of Gr Queen Anne](attachments/gr_queen_anne.png)
 
 ---
 ### Life Expectancy
 
 [link](https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1)
 
-![bg center w:900](attachments/gr_gapminderlife.png)
+![bg center w:900 Image of Gr Gapminderlife](attachments/gr_gapminderlife.png)
 
 ---
 
 <!-- footer: "" -->
-![bg center:50%](attachments/og_epochs.png)
+![bg center:50% Image of Og Epochs](attachments/og_epochs.png)
 
 
 
@@ -86,12 +88,12 @@ Student presentation:
 - IMPLICATION:
   - Always return to steady state: 
   - pop $N$ and income $y^*$
-![bg right:60% w:700](attachments/Clark_malthus1.png)
+![bg right:60% w:700 Image of Clark Malthus1](attachments/Clark_malthus1.png)
 
 
 ---
-#### Effect of lower birth date
-![bg right:60% w:650](attachments/gc_malthus_br.png)
+## Effect of lower birth date
+![bg right:60% w:650 Image of Gc Malthus Br](attachments/gc_malthus_br.png)
 
 - Malthus' "preventative check"
 - Efforts lower birth rate for any given $y$
@@ -128,10 +130,10 @@ $$
 
 ---
 
-#### Effect of raised death rate
+## Effect of raised death rate
 (from 1 to 0 in the diagram)
 
-![bg right:60% w:650](attachments/gc_malthus_dr.png)
+![bg right:60% w:650 Image of Gc Malthus Dr](attachments/gc_malthus_dr.png)
 
 - e.g. epidemic
 - At initial $y_1^*$, deaths now exceed births
@@ -142,9 +144,9 @@ $$
 
 
 ---
-#### Effect of isolated Technological advance
+## Effect of isolated Technological advance
 
-![bg right:60% w:650](attachments/gc_malthus_tech.png)
+![bg right:60% w:650 Image of Gc Malthus Tech](attachments/gc_malthus_tech.png)
 
 - Starting from $(y^*, N_0^*)$
 - bottom line shifts out (higher $y$ at any given $N$)
@@ -154,15 +156,15 @@ $$
 
 ---
 ### Malthusian Dynamics (simulation) [colab notebook link](https://drive.google.com/file/d/1FH014dDalwQ0SADaOWhXjpK20epCsgyP/view?usp=sharing)
-![bg center w:1200](attachments/Pasted%20image%2020250214103537.png)
+![bg center w:1200 Image of Pasted%20Image%2020250214103537](attachments/Pasted%20image%2020250214103537.png)
 
 
 
 
 ---
-#### Improvement in Technology in Malthusian World
+## Improvement in Technology in Malthusian World
 
-![bg center w:700](attachments/Malthus2.jpg)
+![bg center w:700 Image of Malthus2](attachments/Malthus2.jpg)
 
 
 ---
@@ -181,32 +183,32 @@ $$
 ---
 
 Galor, p3:
-![bg center w:900](attachments/ogq_compared.png)
+![bg center w:900 Image of Ogq Compared](attachments/ogq_compared.png)
 
 ---
 
-#### Pop Growth in Europe before 1800
+## Pop Growth in Europe before 1800
 
 - High birth rate 
 - High mortality
 - Slow pop growth before 1800
 - Table shows implied number of surviving children per woman:
-![bg right w:650](attachments/clark_2_1.png)
+![bg right w:650 Image of Clark 2 1](attachments/clark_2_1.png)
 
 
 ---
 
-![bg center w:900](attachments/og_years_pop.png)
+![bg center w:900 Image of Og Years Pop](attachments/og_years_pop.png)
 
 
 ---
 
-![bg center w:900](attachments/og_land_pop.png)
+![bg center w:900 Image of Og Land Pop](attachments/og_land_pop.png)
 
 
 ---
 
-![bg center w:950](attachments/og_land_gdpcap.png)
+![bg center w:950 Image of Og Land Gdpcap](attachments/og_land_gdpcap.png)
 
 ---
 
@@ -217,17 +219,17 @@ Galor, p3:
 
 
 ---
-#### Steady state need not mean minimum subsistence
-###### Why are incomes in Malawi today below those of England 1800
+## Steady state need not mean minimum subsistence
+#### Why are incomes in Malawi today below those of England 1800
 Greg Clark _Farewell to Alms_: 
-![bg center w:1200](attachments/gc_malawi_england_para.png)
+![bg center w:1200 Image of Gc Malawi England Para](attachments/gc_malawi_england_para.png)
 
 ---
 
-#### Effect of lowered death rate
+## Effect of lowered death rate
 
 
-![bg right:50% w:650](attachments/gc_malthus_dr.png)
+![bg right:50% w:650 Image of Gc Malthus Dr](attachments/gc_malthus_dr.png)
 
 - Modern medicine (e.g. antibiotics, vaccines) has lowered death rates in poor areas.
 - In a purely Malthusian setting, this leads to *lower* per-capita income
@@ -239,13 +241,13 @@ Greg Clark _Farewell to Alms_:
   
 ---
 
-#### European Marriage and Fertility
+## European Marriage and Fertility
 
-![bg center w:900](attachments/gc_f4.2_age_marriage.png)
+![bg center w:900 Image of Gc F4.2 Age Marriage](attachments/gc_f4.2_age_marriage.png)
 
 ---
 
-#### Why would modern day Malawi incomes be below English of 1800?
+## Why would modern day Malawi incomes be below English of 1800?
 
 - Lots of explanations to be explored
 - A simple Malthusian one:
@@ -267,14 +269,14 @@ Greg Clark _Farewell to Alms_:
 ---
 ### Irish population
 
-![bg center w:800](attachments/gr_irish_pop.png)
+![bg center w:800 Image of Gr Irish Pop](attachments/gr_irish_pop.png)
 
 
 ---
 
 ### 1. Pre-Famine Context and The Blight (1845–1848)
 
-![bg right:40% w:500](attachments/gr_irish_pot1.png)
+![bg right:40% w:500 Image of Gr Irish Pot1](attachments/gr_irish_pot1.png)
 
 * **The Potato Trap:** High-calorie yields fueled a population surge to 8M+, but dangerous "Lumper" monoculture.
 * **Colonial Tenancy:** A rigid land system left the Catholic majority as landless tenants-at-will, dependent on tiny plots.
@@ -302,17 +304,17 @@ Greg Clark _Farewell to Alms_:
 ---
 ### The Black Death
 
-![bg center w:900](attachments/tb_blackdeath.png)
+![bg center w:900 Image of Tb Blackdeath](attachments/tb_blackdeath.png)
 
 ---
 
 ### The Black Death
-![bg center w:800](attachments/gc_black_death.png)
+![bg center w:800 Image of Gc Black Death](attachments/gc_black_death.png)
 
 ---
-![bg right:40% w:550 ](attachments/gr_mapdeaths.png)
+![bg right:40% w:550  Image of Gr Mapdeaths](attachments/gr_mapdeaths.png)
 
-#####  Institutional change following the Black Death
+###  Institutional change following the Black Death
 - Elites attempted 'Seigneurial Reaction' to limit rise in real wages. But ultimately failed.
   - The Stature of Laborers, 1349 .
   - Serfdom dissappears in most West Europe
@@ -325,7 +327,7 @@ Greg Clark _Farewell to Alms_:
 
 ---
 
-![bg left:60% w:750](attachments/gc_f2.6_income_pop.png)
+![bg left:60% w:750 Image of Gc F2.6 Income Pop](attachments/gc_f2.6_income_pop.png)
 
 * English data 1200-1790s
 * Note clear effects of the Black Death > 1340s
@@ -335,16 +337,16 @@ Greg Clark _Farewell to Alms_:
 
 ---
 
-![bg center w:900](attachments/gc_f3.1_english_wages.png)
+![bg center w:900 Image of Gc F3.1 English Wages](attachments/gc_f3.1_english_wages.png)
 
 
 ---
 
-#### Did plagues lead Europe to transition?
+## Did plagues lead Europe to transition?
  
 
-![bg w:600](attachments/title_3horsemen.png)
-![bg  w:500](attachments/gr_horsemen.jpg)
+![bg w:600 Image of Title 3Horsemen](attachments/title_3horsemen.png)
+![bg  w:500 Image of Gr Horsemen](attachments/gr_horsemen.jpg)
 
 
 ---
@@ -372,16 +374,16 @@ Sociologist **Charles Tilly** estimates that over 1500-1800, European Great Powe
 - Strong centralized states with modern bureaucratic administration emerged.
 
 
-![bg right w:450](attachments/tilly_cover.png)
+![bg right w:450 Image of Tilly Cover](attachments/tilly_cover.png)
 
 ---
 
-![bg center w:1200](attachments/abstract_3horsemen.png)
+![bg center w:1200 Image of Abstract 3Horsemen](attachments/abstract_3horsemen.png)
 
 
 ---
 Shock to populaiton
-![bg center w:1200](attachments/voth_3horse_steady.png)
+![bg center w:1200 Image of Voth 3Horse Steady](attachments/voth_3horse_steady.png)
 
 
 
@@ -389,19 +391,19 @@ Shock to populaiton
 
 ### Escape
 
-![bg center w:800](attachments/gr_escape.jpg)
+![bg center w:800 Image of Gr Escape](attachments/gr_escape.jpg)
 
 ---
 
 
 ## The Storm Beneath the Surface
 
-![bg center w:500](attachments/og_kettle.png)
+![bg center w:500 Image of Og Kettle](attachments/og_kettle.png)
 
 ---
 
 
-![bg center w:900](attachments/og_cogs_change.png)
+![bg center w:900 Image of Og Cogs Change](attachments/og_cogs_change.png)
 
 
 ---
@@ -434,7 +436,7 @@ Positive feedback loop
 ---
 
 
-![bg center w:900](attachments/og_cogs2.png)
+![bg center w:900 Image of Og Cogs2](attachments/og_cogs2.png)
 
 
 
@@ -461,7 +463,7 @@ Traits complementary to the growth process
 - 
 
 ---
-#### A simpler model
+## A simpler model
 
 ## From Malthus to Solow
 
@@ -500,11 +502,11 @@ The early main "neo-classical growth model":
 
 ---
 
-![bg center w:600](attachments/gr_solow.png)
+![bg center w:600 Image of Gr Solow](attachments/gr_solow.png)
 
 
 ---
-![bg right:20% w:300](attachments/pic_solow.png)
+![bg right:20% w:300 Image of Pic Solow](attachments/pic_solow.png)
 - **Solow (neo-classical) growth model:** capital is accumulated.  
   - growing population of workers can be equipped with new capital.
     - capital accumulation subject to diminishing returns.

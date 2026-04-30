@@ -1,5 +1,7 @@
 ---
 title: sl_later
+description: "ECO 331: Economic History - sl_later"
+author: "Jonathan Conning"
 title_custom: true
 tags: [slides/final]
 created: 2024-10-03T21:54:57.757Z
@@ -12,12 +14,12 @@ style: ".columns {\n  display: grid;\n  grid-template-columns: repeat(2, minmax(
 
 
 ---
-![](attachments/scientists_counter_reformation.png)
+![Image of Scientists Counter Reformation](attachments/scientists_counter_reformation.png)
 
 
 ---
 
-![](attachments/map_African_Slave_Trade.png)
+![Image of Map African Slave Trade](attachments/map_African_Slave_Trade.png)
 
 ---
 The first slaves to arrive as part of a labour force in the New World reached the island of Hispaniola (now Haiti and the Dominican Republic) in 1502.
@@ -50,30 +52,30 @@ Africans were brought to Point Comfort – several miles downriver from the Engl
 ---
 
 ## Coerced labor
-![](attachments/gr_coerced_labor.png)
+![Image of Gr Coerced Labor](attachments/gr_coerced_labor.png)
 
 ---
 
 ## Life expectancy
-![](attachments/map_life_expectancy_USA.jpg)
+![Image of Map Life Expectancy Usa](attachments/map_life_expectancy_USA.jpg)
 
 ---
 
-![](attachments/map_slaves1860.png)
+![Image of Map Slaves1860](attachments/map_slaves1860.png)
 
 ---
 ## Cotton Black Belt
 - Refers originally to rich black soils
-![](attachments/map_cotton_1860.jpg)
+![Image of Map Cotton 1860](attachments/map_cotton_1860.jpg)
 
 
 ---
 ## McCain vs Obama vote 2008
-![](attachments/map_vote_blackbelt.jpg)
+![Image of Map Vote Blackbelt](attachments/map_vote_blackbelt.jpg)
 
 ---
 
-![](attachments/map_coastline65M.jpg)
+![Image of Map Coastline65M](attachments/map_coastline65M.jpg)
 
 65 million years ago when the seas were higher and much of the southern United States was under water. 
 Along the ancient coastline, life thrived, as usually does. It especially thrived in the delta region, the Bay of Tennessee, if you will. Here life reproduced, ate, excreted, lived, and died. On the shallow ocean floor, organic debris settled, slowly building a rich layer of nutritious debris. Eventually, the debris would rise as the sea departed, becoming a thick, rich layer of soil that ran from Louisiana to South Carolina.
@@ -92,7 +94,7 @@ Allen, R.C. (2011), "The Ascent of the Rich", and "The Standard Model and Late I
 - Once initial barriers to settlement were overcome, there was rapid Western expansion of the United States.
 - By the mid 19th century 
 
-![bg right w:600](attachments/city_immigrants.png)
+![bg right w:600 Image of City Immigrants](attachments/city_immigrants.png)
 
 ---
 
@@ -111,18 +113,18 @@ Allen, R.C. (2011), "The Ascent of the Rich", and "The Standard Model and Late I
 ---
 
 
-![bg center w:900](attachments/USA_territory.png)
+![bg center w:900 Image of Usa Territory](attachments/USA_territory.png)
 
 ---
-![](attachments/immigration_to_usa.png)
-
----
-
-![](attachments/Pasted%20image%2020250509091922.png)
+![Image of Immigration To Usa](attachments/immigration_to_usa.png)
 
 ---
 
-![](attachments/KL_wage.png)
+![Image of Pasted%20Image%2020250509091922](attachments/Pasted%20image%2020250509091922.png)
+
+---
+
+![Image of Kl Wage](attachments/KL_wage.png)
 source: https://www.geogebra.org/m/hzy5yyeg#material/m6g4xdzk
 
 ---
@@ -141,18 +143,18 @@ source: https://www.geogebra.org/m/hzy5yyeg#material/m6g4xdzk
 - Opening to Trade raises the return to the abundant factor.
 
 ---
-![bg center w:800](attachments/wage-rental1.png)
+![bg center w:800 Image of Wage-Rental1](attachments/wage-rental1.png)
 
 
 ---
 
-![bg center w:800](attachments/wage_rent2.png)
+![bg center w:800 Image of Wage Rent2](attachments/wage_rent2.png)
 
 
 
 
 ---
-![bg center w:800](attachments/Williamson_dispersion.png)
+![bg center w:800 Image of Williamson Dispersion](attachments/Williamson_dispersion.png)
 
 ---
 - Real wage, income per capita continued to rise in USA, even as evidence of convergence in relative terms.
@@ -164,7 +166,7 @@ source: https://www.geogebra.org/m/hzy5yyeg#material/m6g4xdzk
 
 ---
 
-![](attachments/Pasted%20image%2020250509101254.png)
+![Image of Pasted%20Image%2020250509101254](attachments/Pasted%20image%2020250509101254.png)
 
 ---
 ## Emigration and political change in the sending country
@@ -210,7 +212,7 @@ Technique
 depends on 
 economy $w/r$
 
-![bg center w:700](attachments/gr_KLchoice.png)
+![bg center w:700 Image of Gr Klchoice](attachments/gr_KLchoice.png)
 
 [interactive](https://www.geogebra.org/m/hzy5yyeg#material/nrfq7yxr)
 

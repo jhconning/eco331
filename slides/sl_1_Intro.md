@@ -1,5 +1,7 @@
 ---
 title: sl_1_Intro
+description: "ECO 331: Economic History - sl_1_Intro"
+author: "Jonathan Conning"
 title_custom: true
 deploy: true
 tags: [slides/final]
@@ -20,7 +22,7 @@ style: |
 -->
 
 
-![bg right w:550](attachments/IR1.png)
+![bg right w:550 Image of Ir1](attachments/IR1.png)
 ## ECO 331
 # Economic History
 ```
@@ -45,7 +47,7 @@ Reasonably priced in e-book, print, and/or audio formats.
 ## Canvas LMS
 
 
-![bg right:39% w:450](attachments/Serfs.jpg)
+![bg right:39% w:450 Image of Serfs](attachments/Serfs.jpg)
 [canvas.instructure.com/enroll/P9XDGD](https://canvas.instructure.com/enroll/P9XDGD)
 
 <br></br>
@@ -59,7 +61,7 @@ Reasonably priced in e-book, print, and/or audio formats.
 
 ## Grading
 
-![bg left w:450](attachments/woman_write.jpg)
+![bg left w:450 Image of Woman Write](attachments/woman_write.jpg)
 
 | Activity                               | pct |
 | :------------------------------------- | ------- |
@@ -76,17 +78,17 @@ Reasonably priced in e-book, print, and/or audio formats.
 **Oded Galor**
 Brown University
 
-![bg right:70% w:300](attachments/Galor_pic.jpg)
-![bg w:350](attachments/book_cover_Galor.png)
+![bg right:70% w:300 Image of Galor Pic](attachments/Galor_pic.jpg)
+![bg w:350 Image of Book Cover Galor](attachments/book_cover_Galor.png)
 
 ---
-![bg w:350](attachments/Galor_unified.png)
+![bg w:350 Image of Galor Unified](attachments/Galor_unified.png)
 
 ---
 
-![bg left:74% w:300](attachments/book_cover_Koyama.png)
-![bg w:240](attachments/MarkKoyama.png)
-![bg w:240](attachments/JRubin.jpg)
+![bg left:74% w:300 Image of Book Cover Koyama](attachments/book_cover_Koyama.png)
+![bg w:240 Image of Markkoyama](attachments/MarkKoyama.png)
+![bg w:240 Image of Jrubin](attachments/JRubin.jpg)
 
 <br></br>
 <br></br>
@@ -97,7 +99,7 @@ Brown University
 
 ---
 ## 'Big History' Questions
-![bg right:45%  w:600](../growth_chart1.png)
+![bg right:45%  w:600 Image of Growth Chart1](../growth_chart1.png)
 * How did the world become Rich?
 * Why did it take so long?
 * Why did it happen first in some places before others?
@@ -107,12 +109,12 @@ Brown University
 
 
 
-![bg w:1200](attachments/ch_richerUS1900.png)
+![bg w:1200 Image of Ch Richerus1900](attachments/ch_richerUS1900.png)
 
 
 ---
 ## Transitions
-![bg right:45%  w:600](attachments\og_kettle.png)
+![bg right:45%  w:600 Image of Og Kettle](attachments\og_kettle.png)
 * The Neolithic Revolution
 * Early States, Empires
 * Malthusian Trap
@@ -120,7 +122,7 @@ Brown University
 
 ---
 ## Transitions (continued)
-![bg right:45%  w:500](attachments/enclosures1.jpg)
+![bg right:45%  w:500 Image of Enclosures1](attachments/enclosures1.jpg)
 * Capitalist Transitions
   * The enclosure of lands
   * The rise of cities, Modern States
@@ -136,27 +138,27 @@ Brown University
 
 ---
 Classical Political Economy
-![bg w:400](attachments/book_cover_Smith.png)
-![bg w:350](attachments/book_cover_Marx.png)
+![bg w:400 Image of Book Cover Smith](attachments/book_cover_Smith.png)
+![bg w:350 Image of Book Cover Marx](attachments/book_cover_Marx.png)
 
 ---
-![bg w:400](attachments/book_cover_Moore.png)
+![bg w:400 Image of Book Cover Moore](attachments/book_cover_Moore.png)
 
 
-![bg w:400](attachments/book_cover_Diamond.png)
+![bg w:400 Image of Book Cover Diamond](attachments/book_cover_Diamond.png)
 
-![bg w:400](attachments/book_cover_Pomeranz.png)
+![bg w:400 Image of Book Cover Pomeranz](attachments/book_cover_Pomeranz.png)
 
 ---
-![bg w:400](attachments/book_cover_North.png)
-![bg w:400](attachments/book_cover_Acemoglu.png)
+![bg w:400 Image of Book Cover North](attachments/book_cover_North.png)
+![bg w:400 Image of Book Cover Acemoglu](attachments/book_cover_Acemoglu.png)
 
 ---
 
 <!-- footer: "" -->
 
 **2025 Nobel Prize in Economics**
-![w:700](attachments/2025_Nobel_Mokyr.jpg)
+![w:700 Image of 2025 Nobel Mokyr](attachments/2025_Nobel_Mokyr.jpg)
 - Joel Mokyr: “for having identified the prerequisites for sustained growth through technological progress.” 
 - Aghion and Howitt: “for the theory of sustained growth through creative destruction.”
 
@@ -165,15 +167,15 @@ Classical Political Economy
 
 **2024 Nobel Prize in Economics**
 "for studies of how institutions are formed and affect prosperity"
-![](attachments/AJR_nobel.png)
+![Image of Ajr Nobel](attachments/AJR_nobel.png)
 
 ---
-![w:500](attachments/me&jim.png)
+![w:500 Image of Me&Jim](attachments/me&jim.png)
 
 ---
 # Causal Mechanisms
 
-![bg right w:600](attachments/ch_trust.png)
+![bg right w:600 Image of Ch Trust](attachments/ch_trust.png)
 * Proximate versus Fundamental Causes
 * Causal Relationships vs. Correlations
 * Exogenous vs Endogenous
@@ -184,7 +186,7 @@ Classical Political Economy
 
 
 ---
-![bg right w:600](attachments/korea_lights.jpg)
+![bg right w:600 Image of Korea Lights](attachments/korea_lights.jpg)
 ## KR's Explanation Categories
 * Did Some Societies Win the Geography Lottery?
 * Is it All Just Institutions? 
@@ -231,7 +233,7 @@ Classical Political Economy
 
  
 ---
-![bg left:40% w:300](attachments/book_cover_Koyama.png)
+![bg left:40% w:300 Image of Book Cover Koyama](attachments/book_cover_Koyama.png)
 
 ## Chapter 1
 
@@ -239,12 +241,12 @@ Classical Political Economy
 ### Why, When, and How 
 ### Did the World Become Rich?
 
-![w:600px](attachments/growth_chart1.png)
+![w:600px Image of Growth Chart1](attachments/growth_chart1.png)
 
 ---
 <!-- footer: "" -->
 
-![bg left w:600px](attachments/og_Fig2_growth_regions.png)
+![bg left w:600px Image of Og Fig2 Growth Regions](attachments/og_Fig2_growth_regions.png)
 
  
 - What does GDP measure?  
@@ -287,19 +289,19 @@ Same as income?
 Identification challenges
 
 ---
-![bg w:650](attachments/kr_1_7b.png)
-![bg w:650](attachments/kr_1_7a.png)
+![bg w:650 Image of Kr 1 7B](attachments/kr_1_7b.png)
+![bg w:650 Image of Kr 1 7A](attachments/kr_1_7a.png)
 
 
 ---
-![bg w:600](attachments/kr_1_8b.png)
-![bg w:650](attachments/kr_1_8a.png)
+![bg w:600 Image of Kr 1 8B](attachments/kr_1_8b.png)
+![bg w:650 Image of Kr 1 8A](attachments/kr_1_8a.png)
 
 
 ---
 
 ### What Makes Humans Different?
-#### A Puzzling Primate (Henrich)
+## A Puzzling Primate (Henrich)
 
 * Physically weak, slow, poor climbers
 * Any chimp can overpower us. 
@@ -308,7 +310,7 @@ Identification challenges
 
 **The puzzle:** How did the world's most physically vulnerable primate become the most successful?
 
-![bg right:40% w:400](attachments/cover_henrich.png)
+![bg right:40% w:400 Image of Cover Henrich](attachments/cover_henrich.png)
 
 ---
 ## Video Title

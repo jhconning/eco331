@@ -2,6 +2,8 @@
 
 ---
 title: sl6_Culture
+description: "ECO 331: Economic History - sl6_Culture"
+author: "Jonathan Conning"
 deploy: true
 title_custom: true
 created: 2023-02-06T21:13:32.340Z
@@ -23,8 +25,8 @@ style: |
 <!-- footer: "" -->
 
 
-![bg right w:600](attachments/gr_greeks.jpg)
-### ECO 331
+![bg right w:600 Image of Gr Greeks](attachments/gr_greeks.jpg)
+# ECO 331
 ## Economic History
 
 ```
@@ -62,9 +64,9 @@ Douglas North, Nobel
 
 
 ---
-##### A side note on the History of Ideas
+### A side note on the History of Ideas
 
-#### Some Political Economy labels:
+## Some Political Economy labels:
 - Autocratic Rule
 	- Divine right of Kings. Aristocracy
 	- Hierarchies, privilege and vertical control.
@@ -105,7 +107,7 @@ and arbitrary power.
 - Mechanism design:  Constitutions, Separation of powers, Rule of Law.  To harness and direct self-interest.
  
 ---
-#### Political Economy labels (continued):  
+## Political Economy labels (continued):  
 * **Marx:** Rising bourgeoisie class throws out the old, dispossess the poor to make 'free' wage labor/proletariat. 
 * The Social Relations of Production (Institutions, property rights) established by rising class to their advantage. 
 * Capitalist revolution challenges feudal order but also dispossesses peasantry to jump start wage-labor and market imperative. Markets transform the world but with periodic crises and only the few get rich.
@@ -116,7 +118,7 @@ and arbitrary power.
 <br></br>
 
 ---
-#### How economics emerged and pushed institutions to the background:
+## How economics emerged and pushed institutions to the background:
 Twentieth century:
 * **Neo-classical:** Like the classicals, but with marginalism and math and less institutional detail.
   - Firms as black boxes at arms length from consumers
@@ -127,7 +129,7 @@ Twentieth century:
     >An economic transaction is a solved political problem ... Economics has gained the title Queen of the Social Sciences by choosing solved political problems as its domain (Abba Lerner, 1972).
 
 ---
-#### Political Economy labels (continued):
+## Political Economy labels (continued):
 * **Hamiltionian / Keynesian / Development Planning:**  Markets are good, but market failures are very real.  Government needed to create and repair markets, confer legitimacy and stability.
 * **Neo-classical synthesis**: post-war fusion of Keynesian and Neo-classical ideas. Dominant academic and policy paradigm for 50 years.
 	* Bretton Woods Institutions: UN, World Bank, IMF, WTO. 
@@ -181,7 +183,7 @@ But like the neo-classical growth models, these remain mechanical and abstract m
 
 ---
 ### What other factors account for differences in gdp per capita?
-##### Cross country regressions popular in early 90s
+### Cross country regressions popular in early 90s
 
 $$\ln Y_{it} = b_0 + b_1 \cdot t + b2 \cdot \ln K_{it} + b3 \cdot \ln L_{it} + b_4 \cdot X_it + \epsilon_{it}$$
 
@@ -194,7 +196,7 @@ $$\ln Y_{it} = b_0 + b_1 \cdot t + b2 \cdot \ln K_{it} + b3 \cdot \ln L_{it} + b
     - Legal or colonial system (Barro), 'Rule of law', 'expropriation risk', etc.
 
 ---
-##### Cross country regressions 
+### Cross country regressions 
 - Battle lines: Geography vs. Culture, vs. Institutions, etc. 
 - Many severe criticisms: Measurement issues, omitted unobservable variables, endogenous variables, etc.
 - 'Credibility Revolution in Economics' made people very wary of cross-country regressions, unless has clear causal identification strategy (i.e. can convincingly argue that right hand-side variables are not endogenous).
@@ -210,9 +212,9 @@ $$\ln Y_{it} = b_0 + b_1 \cdot t + b2 \cdot \ln K_{it} + b3 \cdot \ln L_{it} + b
   * These authors, at least initially, tended to emphasize evolutionary adaptation.  Institutions evolve over time to minimize transactions costs in a changing environment. 
 
 ---
-![bg w:400](attachments/book_cover_North.png)
-![bg w:400](attachments/cover_North_structure.jpg)
-![bg w:400](attachments/cover_North_institutions.png)
+![bg w:400 Image of Book Cover North](attachments/book_cover_North.png)
+![bg w:400 Image of Cover North Structure](attachments/cover_North_structure.jpg)
+![bg w:400 Image of Cover North Institutions](attachments/cover_North_institutions.png)
 
 ---
 
@@ -225,24 +227,24 @@ $$\ln Y_{it} = b_0 + b_1 \cdot t + b2 \cdot \ln K_{it} + b3 \cdot \ln L_{it} + b
   
 ---
 
-![bg center w:1100](attachments/quote_libecap.png)
+![bg center w:1100 Image of Quote Libecap](attachments/quote_libecap.png)
 
 --- 
 ### The Later North
-![bg right w:500](attachments/cover_North_institutions.png)
+![bg right w:500 Image of Cover North Institutions](attachments/cover_North_institutions.png)
 
 * In earlier work, North argued that Institutions tend to evolve to minimize transactions costs. Societies with more efficient institutions would grow faster, better institutions would spread.
 * North came to elaborate his theory of institutional change to allow for the fact that institutions are shapedto the benefit of elites and the powerful and that this meant that inefficient or dysfunctional institutions could persist for a long time. 
 
 ---
-![bg center w:1100](attachments/q_North2.png)
+![bg center w:1100 Image of Q North2](attachments/q_North2.png)
 
 ---
-![bg center w:1100](attachments/q_North3.png)
+![bg center w:1100 Image of Q North3](attachments/q_North3.png)
 
 ---
 
-#### 'Modern Political Economy' (late 1990s-present)
+## 'Modern Political Economy' (late 1990s-present)
 - Renewed interest in economic history and political economy.
 - Engerman and Sokoloff (1997) "Factor Endowments, Inequality, and Paths of Development in the New World."
 - Acemoglu and Robinson (2000) "Colonial Origins of Comparative Development." 
@@ -256,7 +258,7 @@ $$\ln Y_{it} = b_0 + b_1 \cdot t + b2 \cdot \ln K_{it} + b3 \cdot \ln L_{it} + b
 ---
 ### History Lessons: Institutions, Factor Endowments, and Paths of Development in the New World
 
-##### Sokoloff & Engerman (2000)
+### Sokoloff & Engerman (2000)
 
 - **Initial Puzzle**: Countries like the U.S. and Canada ultimately became more economically successful than Latin America, but this wasn't obvious at the start
     
@@ -306,7 +308,7 @@ $$\ln Y_{it} = b_0 + b_1 \cdot t + b2 \cdot \ln K_{it} + b3 \cdot \ln L_{it} + b
 
 ---
 
-#### Neo-institutional economists
+## Neo-institutional economists
 
 * **Ronald Coase**, Nobel 1991
   * 30s-80s
@@ -319,24 +321,24 @@ $$\ln Y_{it} = b_0 + b_1 \cdot t + b2 \cdot \ln K_{it} + b3 \cdot \ln L_{it} + b
 
 Building on older traditions and other contemporaries.
   - e.g. Asymmetric Information revolution (Stiglitz, Holmstrom, etc) who provide a more micro-founded theory of contracts.
-![bg  w:400](attachments/ph_Coase.png)
-![bg right:40% w:400](attachments/ph_North.png)
+![bg  w:400 Image of Ph Coase](attachments/ph_Coase.png)
+![bg right:40% w:400 Image of Ph North](attachments/ph_North.png)
 ![bg vertical w:400](attachments/ph_sokoloff_engerman.png)
-![bg  w:400](attachments/ph_daron_james.png)
+![bg  w:400 Image of Ph Daron James](attachments/ph_daron_james.png)
 
 ---
-![bg center](attachments/AJR_nobel.png)
+![bg center Image of Ajr Nobel](attachments/AJR_nobel.png)
 
 ---
-![bg w:400](attachments/nobel_medal.png)
-![bg w:500](attachments/me&jim.png)
+![bg w:400 Image of Nobel Medal](attachments/nobel_medal.png)
+![bg w:500 Image of Me&Jim](attachments/me&jim.png)
 
 
 
 ---
-![bg w:400](attachments/cover_acemoglu_origins.jpg)
-![bg w:400](attachments/book_cover_Acemoglu.png)
-![bg w:400](attachments/cover_corridor.jpg)
+![bg w:400 Image of Cover Acemoglu Origins](attachments/cover_acemoglu_origins.jpg)
+![bg w:400 Image of Book Cover Acemoglu](attachments/book_cover_Acemoglu.png)
+![bg w:400 Image of Cover Corridor](attachments/cover_corridor.jpg)
 
 ---
 
@@ -350,16 +352,16 @@ As productive forces develop, new classes may see possibilities for new ways of 
 
 Social relations shaped/transformed by **class conflict**.
 
-![bg left:35% w:500](attachments/gr_marx_engels.png)
+![bg left:35% w:500 Image of Gr Marx Engels](attachments/gr_marx_engels.png)
 
 ---
 
-##### Marx in Preface to a Contribution to the Critique of Political Economy (1860)
+### Marx in Preface to a Contribution to the Critique of Political Economy (1860)
 
 
 <br></br>
 <br></br>
-![bg center w:1200](attachments/quote_Marx.png)
+![bg center w:1200 Image of Quote Marx](attachments/quote_Marx.png)
 
 ---
 ### Marxian vs. Marxist
@@ -421,10 +423,10 @@ Social relations shaped/transformed by **class conflict**.
 
 ---
 ## North and Thomas (1973)
-#### France and Spain: 
+## France and Spain: 
  - absolutist monarchies, relied on granting and taxing local monopoly privileges.
   - feared adjusting property would undermine their political and economic base, even if such changes might offer broader gains.
-#### England and the Netherlands:
+## England and the Netherlands:
   - commercial interests were stronger (particularly after 1688 "Glorious Revolution").
   - Property rights tended to be adopted that allowed for more fluid resource movements and respond to market opportunities.
   - Enclosures and market for private land.
@@ -433,7 +435,7 @@ Social relations shaped/transformed by **class conflict**.
 
 ---
 ### The Glorious Revolution of 1688
-![bg center w:600](attachments/gr_glorious_rev.jpg)
+![bg center w:600 Image of Gr Glorious Rev](attachments/gr_glorious_rev.jpg)
 
 ---
 
@@ -459,10 +461,10 @@ Social relations shaped/transformed by **class conflict**.
 ## "Rule of Law" index 2017
 
 
-![bg center w:1200](attachments/rule_law.jpg)
+![bg center w:1200 Image of Rule Law](attachments/rule_law.jpg)
 
 ---
-#### Causation or Correlation?
+## Causation or Correlation?
 ![bg horizontal w:800](attachments/rule_reg.png)
 
 
@@ -470,7 +472,7 @@ Social relations shaped/transformed by **class conflict**.
 
 ## Natural Experiments
 
-![bg right w:550](attachments/korea_lights.jpg)
+![bg right w:550 Image of Korea Lights](attachments/korea_lights.jpg)
 
 
 
@@ -481,9 +483,9 @@ Social relations shaped/transformed by **class conflict**.
 
 ---
 
-#### Dissolution of the Monasteries
+## Dissolution of the Monasteries
 
-![bg right:40% w:550](attachments/monasteries.png)
+![bg right:40% w:550 Image of Monasteries](attachments/monasteries.png)
 
 - Heldring, Robinson, Vollmer (2021)
  "The Long-Run Effects of the Dissolution of the English Monasteries," _Quarterly Journal of Economics_
@@ -496,7 +498,7 @@ Social relations shaped/transformed by **class conflict**.
 ---
 
 ## Napoleonic Invasions
-![bg right w:600](attachments/abs_french_revolution.png)
+![bg right w:600 Image of Abs French Revolution](attachments/abs_french_revolution.png)
 
 - French Revolution 1789-1799.
 - Republic. Abolishes feudalism, Church's right to collect tithes.
@@ -508,7 +510,7 @@ Social relations shaped/transformed by **class conflict**.
 ### Empirical strategy
 - Difference-in-difference: German regions had different exposure to French presence and reforms.
 
-![w:700](attachments/gr_french_f1.png)
+![w:700 Image of Gr French F1](attachments/gr_french_f1.png)
 
 ---
 Possible Impacts:
@@ -517,23 +519,23 @@ Possible Impacts:
 
 Their empirical conclusion:
 
-![w:850](attachments/text_french1.png)
+![w:850 Image of Text French1](attachments/text_french1.png)
 and
-![w:850](attachments/text_french2.png)
+![w:850 Image of Text French2](attachments/text_french2.png)
 
 
 ---
 ### Inclusive vs. Extractive Institutions
 
-![bg right:40% w:350](attachments/book_cover_Acemoglu.png)
+![bg right:40% w:350 Image of Book Cover Acemoglu](attachments/book_cover_Acemoglu.png)
 
 - key feature of political and economic institutions: how broadly power is distributed.
 - Acemoglu and Robinson (2012) distinguish between **inclusive** and **extractive** political and economic institutions.
 - North, Wallis, and Weingast (2009) distinguish between closed-access orders (natural states) and open access orders. 
 
 ---
-#### Political Institutions during the Commercial Revolution
-![bg right:40% w:400](attachments/pic_greek.jpg)
+## Political Institutions during the Commercial Revolution
+![bg right:40% w:400 Image of Pic Greek](attachments/pic_greek.jpg)
 - Fundamental political institutions: those that govern the selection of who rules.
 - Today one of the most important distinctions is between democracy and autocracy. 
 - Democracy emerged in the ancient Greek city-states. 
@@ -551,7 +553,7 @@ and
 
 ---
 ### Political Institutions: Parliaments
-![bg right:40% w:400](attachments/pic_parliament2.jpg)
+![bg right:40% w:400 Image of Pic Parliament2](attachments/pic_parliament2.jpg)
 -  England, Spain, and France were governed by territorial monarchies. 
 - Kings in these territories called councils of their leading nobles in order to consult them. 
 - Over time these councils became more formal. 
@@ -560,18 +562,18 @@ and
 - English “Model Parliament” of 1295 established the principle that the towns would be represented. 
 
 ---
-#### Rise and Fall of Parliaments
-![bg right w:600](attachments/gr_numparliaments.jpg)
+## Rise and Fall of Parliaments
+![bg right w:600 Image of Gr Numparliaments](attachments/gr_numparliaments.jpg)
 - Number of parliaments per century, 1100-1700.
 
 ---
-#### Rise and Fall of Parliaments
-![bg right w:600](attachments/gr_taxparliament.jpg)
+## Rise and Fall of Parliaments
+![bg right w:600 Image of Gr Taxparliament](attachments/gr_taxparliament.jpg)
 - Tax Revenue per capita, 1100-1700.
 
 ---
-#### Rise and Fall of Parliaments
-![bg right w:600](attachments/gr_fallinterest.jpg)
+## Rise and Fall of Parliaments
+![bg right w:600 Image of Gr Fallinterest](attachments/gr_fallinterest.jpg)
 - Interest rates in city states and territorial states, 1200-1800.
 - Representative institutions mattered for the cost of capital in medieval and early modern Europe.
 - Kings paid high interest rates on their loans due to the uncertainty that they would repay. 
@@ -579,22 +581,22 @@ and
 
 ---
 ### AJR 2001
-![bg center w:900](attachments/cover_AJR01.png)
+![bg center w:900 Image of Cover Ajr01](attachments/cover_AJR01.png)
 
 ---
-![bg center w:900](attachments/ajr_causal.png)
+![bg center w:900 Image of Ajr Causal](attachments/ajr_causal.png)
 
 ---
 
-![bg center w:900](attachments/ajr_settler.png)
+![bg center w:900 Image of Ajr Settler](attachments/ajr_settler.png)
 
 ---
-![bg center w:900](attachments/ajr_expropriation.png)
+![bg center w:900 Image of Ajr Expropriation](attachments/ajr_expropriation.png)
 
 ---
 
 ## The Peruvian Mita
-![bg right:60% w:700](attachments/abs_mita.png)
+![bg right:60% w:700 Image of Abs Mita](attachments/abs_mita.png)
 - The Spanish Crown imposed a forced labour tax (corvee) on the conquered Inca Empire to man silver and mercury mines.
   
 - [See online Slides](https://drive.google.com/file/d/19guksdMR5e7Kt6WUYWo2piD_fCiN3E77/view?usp=sharing)

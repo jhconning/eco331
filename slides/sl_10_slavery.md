@@ -1,5 +1,7 @@
 ---
 title: sl10_slavery
+description: "ECO 331: Economic History - sl10_slavery"
+author: "Jonathan Conning"
 title_custom: true
 tags: [slides/final]
 created: 2023-02-06T21:13:32.340Z
@@ -20,8 +22,8 @@ style: |
 <!-- footer: "" -->
 
 
-![bg right w:600](attachments/interior-of-a-boiling-house.jpg)
-### ECO 331
+![bg right w:600 Image of Interior-Of-A-Boiling-House](attachments/interior-of-a-boiling-house.jpg)
+# ECO 331
 ## Economic History
 
 ```
@@ -43,7 +45,7 @@ Spring 2026
 
 ---
 ## A large part of the World Was colonized by just a few
-![bg center w:1200](attachments/gr_colonized.png)
+![bg center w:1200 Image of Gr Colonized](attachments/gr_colonized.png)
 
 
 ---
@@ -55,7 +57,7 @@ Spring 2026
 - How did North America develop?
 
 ---
-![bg right  w:500](attachments/gr_rubber_coils.png)
+![bg right  w:500 Image of Gr Rubber Coils](attachments/gr_rubber_coils.png)
 ### Legacies of Colonialism
 - The colonial powers exploited the natural resources of their colonies
   - Precious metals (South America) ,  Rubber (Congo),  Sugar (Caribbean, Brazil), Spices and sugar (Indonesia), Oil (Middle East),  Slave trade itself
@@ -69,7 +71,7 @@ Nunn and Qian (2010): potato explains one-quarter of Old World population growth
 - Pomeranz (2000): key to Europe’s rise was new land (“ghost acreage”) in the New World, relieved population pressures and brought in new natural resources
 - Slave/coerced labor thought to play a role in Britain’s industrialization via cotton and sugar production
 
-![bg right:40% w:500](attachments/ghost_acres.png)
+![bg right:40% w:500 Image of Ghost Acres](attachments/ghost_acres.png)
 
 ---
 
@@ -89,14 +91,14 @@ Nunn and Qian (2010): potato explains one-quarter of Old World population growth
 
 ---
 ### The Slave Trade
-![bg right w:700](attachments/Slave_shipments.png)
+![bg right w:700 Image of Slave Shipments](attachments/Slave_shipments.png)
 - most odious aspect of colonization
 - Colonial powers brought over 12 million slaves to the New World
 - By 1850, Africa’s population only half what it would have been had slave trades never taken place
 
 ---
 
-![bg center w:1200](attachments/map_African_Slave_Trade.png)
+![bg center w:1200 Image of Map African Slave Trade](attachments/map_African_Slave_Trade.png)
 
 ---
 ## Triangular Trade
@@ -105,7 +107,7 @@ Nunn and Qian (2010): potato explains one-quarter of Old World population growth
 - Carribbean and Americas to Britain
 
 ---
-![bg center w:1000](attachments/gr_transatlantic-slave-trade.jpg)
+![bg center w:1000 Image of Gr Transatlantic-Slave-Trade](attachments/gr_transatlantic-slave-trade.jpg)
 
 ---
 ## Barbara Solow
@@ -166,8 +168,8 @@ $$
   
 
 ---
-###### Firm profit-maximization
-![bg right w:550](attachments/gr_tech_wr1.png)
+#### Firm profit-maximization
+![bg right w:550 Image of Gr Tech Wr1](attachments/gr_tech_wr1.png)
 $$
 \max_{T,L} \ \ P \cdot F(T,L)-w\cdot L -r \cdot T
 $$
@@ -192,12 +194,12 @@ $$
 
 ---
 ## Economywide Equilibrium
-![bg right w:750](attachments/gr_domar1.png)
+![bg right w:750 Image of Gr Domar1](attachments/gr_domar1.png)
 We can use profit max condition:
 $$\frac{w}{r} = \frac{1-\alpha}{\alpha} \cdot \frac{T}{L}$$
 to derive: 
 
-#### Demand for Labor relative to Land:
+## Demand for Labor relative to Land:
 
 
 $$\frac{L}{T} =  \frac{1-\alpha}{\alpha} \cdot \frac{r}{w}$$
@@ -212,11 +214,11 @@ Supply relative to demand.
 
 ---
 
-#### Relative Factor Supply
+## Relative Factor Supply
 - Relative factor supply: $\frac{\bar L}{\bar T}$
   - e.g.  $\bar T=\bar L=100$,  $\frac{\bar L}{\bar T}=1$
 
-![bg right w:750](attachments/gr_domar1.png)
+![bg right w:750 Image of Gr Domar1](attachments/gr_domar1.png)
 
 
 Equilibrium $w/r$ where relative labor demand equals relative labor supply.
@@ -239,19 +241,19 @@ Equilibrium $w/r$ where relative labor demand equals relative labor supply.
 
 ---
 
-###### Evsey Domar (1970) 
+#### Evsey Domar (1970) 
 
 - Why did Russian frontier expansion in 16th C (rise in land/person) lead to imposition of new serfdom?
 - While Black Death in 14th C West (also rise in land/person) lead to collapse of old serfdom?
 
-![bg right:65% w:800](attachments/txt_domar1.png)
+![bg right:65% w:800 Image of Txt Domar1](attachments/txt_domar1.png)
 
 ---
 ![bg vertical w:900](attachments/txt_domar2.png)
-![bg  w:900](attachments/txt_domar3.png)
+![bg  w:900 Image of Txt Domar3](attachments/txt_domar3.png)
 
 ---
-#### Of interest
+## Of interest
 
 [Paul Krugman's](https://en.wikipedia.org/wiki/Paul_Krugman) short essay: ["Why I am an Economist (sigh)"](http://web.mit.edu/krugman/www/Serfdom.htm) interprets Domar's paper.
 
@@ -269,10 +271,10 @@ It was not for lack of trying:
 
 
 ---
-#### Effect of Frontier expansion:  $\bar T \uparrow \rightarrow \frac{\bar T}{\bar L} \uparrow \frac{w}{r} \uparrow$ 
+## Effect of Frontier expansion:  $\bar T \uparrow \rightarrow \frac{\bar T}{\bar L} \uparrow \frac{w}{r} \uparrow$ 
 
-![bg  w:700](attachments/gr_domar1.png)
-![bg  w:700](attachments/gr_domar2.png)
+![bg  w:700 Image of Gr Domar1](attachments/gr_domar1.png)
+![bg  w:700 Image of Gr Domar2](attachments/gr_domar2.png)
 
 ---
 ## Domar's Trilemma
@@ -354,7 +356,7 @@ Two extreme examples:
 ---
 
 ### Edward Gibbon Wakefield
-![bg right:40% w:450](attachments/gr_wakefield.jpg)
+![bg right:40% w:450 Image of Gr Wakefield](attachments/gr_wakefield.jpg)
 - Writing in early 19th century, after British abolition of slave trade.
 - Concerned that, absent coercion, colonization efforts in frontier colonies would be stymied by problem of maintaining 'constancy of labor' to large farms and other enterprises.
 - Proposed solution: limit immigrants access to land via minimum land price.
@@ -371,7 +373,7 @@ Two extreme examples:
 
 ---
 ### Why no slavery in the North?
-![bg right w:450](attachments/cover_Foner.png)
+![bg right w:450 Image of Cover Foner](attachments/cover_Foner.png)
 - Grain crops based on family labor, history of settlement meant no tight-knit Virginia aristocracy.
 - By eve of civil war, Republican party created around ideas of **Free Soil** opposed the expansion of slavery into new territories and in favor of Federal lands cheaply to settlers.  Homestead Acts, 1862 and 1866. Settlers could claim up to 160 acres of public land.
 - The **Free Labor** ideology emphasized importance of free labor, as opposed to slave labor, as cornerstone of American democracy and economic opportunity.  
@@ -389,10 +391,10 @@ Two extreme examples:
 - Counter-argument by Engerman and others: slave trade and plantation profits not large relative to the fast growing British economy.  Also, hard to prove capital flows.
 - A very recent empirical paper mounts an important counter-counter-argument...  
 
-![bg right w:450](attachments/slave_work.jpg)
+![bg right w:450 Image of Slave Work](attachments/slave_work.jpg)
 
 ---
-![bg w:600 left](attachments/gr_slavery_IR_cover.png)
+![bg w:600 left Image of Gr Slavery Ir Cover](attachments/gr_slavery_IR_cover.png)
 
 **Important Recent paper:**
 > Heblich, S., Redding, S.J., Voth, H.-J., 2022. [Slavery and the British Industrial Revolution](https://doi.org/10.3386/w30451). WP. 
@@ -418,11 +420,11 @@ Two extreme examples:
   
 --- 
 
-![bg w:800](attachments/gr_slavery_IR_map1.png)
+![bg w:800 Image of Gr Slavery Ir Map1](attachments/gr_slavery_IR_map1.png)
 
 ---
 
-![bg w:850](attachments/gr_slavery_IR_plots.png)
+![bg w:850 Image of Gr Slavery Ir Plots](attachments/gr_slavery_IR_plots.png)
 
 ---
 
@@ -443,7 +445,7 @@ Two extreme examples:
 ---
 
   ## Abolition and the labor systems that followed
-![bg right w:400](attachments/cover_mighty_experiment.png)
+![bg right w:400 Image of Cover Mighty Experiment](attachments/cover_mighty_experiment.png)
 - British abolished slave trade 1807, slavery itself in 1834.
 - Slavery abolished USA 1863, Serfdom in Russia 1861, Brazil 1888.
 - Was slavery abolished for economic reasons or moral reasons?
@@ -460,8 +462,8 @@ Two extreme examples:
 
 ---
   
-#### Labor markets following abolition
-![bg right w:600](attachments/gr_coerced_labor.png)
+## Labor markets following abolition
+![bg right w:600 Image of Gr Coerced Labor](attachments/gr_coerced_labor.png)
 - Downward sloping demand for labor
 - **Slavery** (coerced labor) forced to inelastically supply of labor at low subsistence wage **B**.
   - Market price for slaves at **C**  
@@ -471,7 +473,7 @@ Two extreme examples:
   
   
 ---
-#### Labor markets following abolition
+## Labor markets following abolition
 - Wherever slavery was abolished landlord often then engaged in efforts to limit the now freed slaves: 
   - mobility restrictions (e.g. vagrancy laws)
   - limit competition amongst landlords
@@ -482,22 +484,22 @@ Two extreme examples:
 - US sharecropping, Brazil 'peonage', Labor-service tenancies in LAC.
  
 ---
-![bg center w:1100](attachments/abs_dippel.png)
+![bg center w:1100 Image of Abs Dippel](attachments/abs_dippel.png)
 
 [blog summary](https://cepr.org/voxeu/columns/labour-coercion-and-outside-options)
 
 ---
-![bg center w:1100](attachments/gr_plantation_fall.png)
+![bg center w:1100 Image of Gr Plantation Fall](attachments/gr_plantation_fall.png)
 
 
 
 ---
 
-![bg center w:1100](attachments/map_dippel1.png)
+![bg center w:1100 Image of Map Dippel1](attachments/map_dippel1.png)
 
 ---
 
-![bg center w:750](attachments/map_dippel2.png)
+![bg center w:750 Image of Map Dippel2](attachments/map_dippel2.png)
 
 ---
 ## Geography, Institutions and Persistence
@@ -509,27 +511,27 @@ Two extreme examples:
 
 
 
-![bg right w:500](attachments/geology_black%20belt.png)
+![bg right w:500 Image of Geology Black%20Belt](attachments/geology_black%20belt.png)
 
 ---
 
-![bg center ](attachments/animation-slave-density-ezgifcom-gif-to-webp-converter.webp)
+![bg center  Image of Animation-Slave-Density-Ezgifcom-Gif-To-Webp-Converter](attachments/animation-slave-density-ezgifcom-gif-to-webp-converter.webp)
 
 ---
 
-![bg center w:900](attachments/map_slaves1860.png)
+![bg center w:900 Image of Map Slaves1860](attachments/map_slaves1860.png)
 
 
 
 ---
 ## Cotton Black Belt
 - Refers originally to rich black soils
-![w:700](attachments/map_cotton_1860.jpg)
+![w:700 Image of Map Cotton 1860](attachments/map_cotton_1860.jpg)
 
 
 ---
 ## McCain vs Obama vote 2008
-![w:750](attachments/map_vote_blackbelt.jpg)
+![w:750 Image of Map Vote Blackbelt](attachments/map_vote_blackbelt.jpg)
 
 ---
-![bg center w:600](attachments/Alabama_black_belt.png)
+![bg center w:600 Image of Alabama Black Belt](attachments/Alabama_black_belt.png)

@@ -1,5 +1,7 @@
 ---
 title: sl_2_EarlyStates
+description: "ECO 331: Economic History - sl_2_EarlyStates"
+author: "Jonathan Conning"
 title_custom: true
 tags: [slides/_final]
 created: 2023-01-27T02:00:38.712Z
@@ -18,8 +20,8 @@ style: |
 
 <!-- footer: "" -->
 
-![bg right w:450](attachments/neolithic.jpg)
-### ECO 331
+![bg right w:450 Image of Neolithic](attachments/neolithic.jpg)
+# ECO 331
 ## Economic History
 
 ```
@@ -49,11 +51,11 @@ These slides cover readings from :
 # Part I: The Long View
 
 ---
-#### Galor's 'Mysteries of the Human Journey'
+# Galor's 'Mysteries of the Human Journey'
 
 **What was life like in 1651?**
 
-![bg left:35% w:350](https://upload.wikimedia.org/wikipedia/commons/5/57/Leviathan_frontispiece_cropped_British_Museum.jpg)
+![bg left:35% w:350 Image of Leviathan Frontispiece Cropped British Museum](https://upload.wikimedia.org/wikipedia/commons/5/57/Leviathan_frontispiece_cropped_British_Museum.jpg)
 When **Thomas Hobbes** wrote _Leviathan_ in 1651.
 It was "Nasty, Brutish, and Short."
 
@@ -78,11 +80,11 @@ It was "Nasty, Brutish, and Short."
 
 ---
 
-![bg center:50%](attachments/og_epochs.png)
+![bg center:50% Image of Og Epochs](attachments/og_epochs.png)
 
 ---
 ## The Malthusian Epoch
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/5/53/Sciurus_vulgaris.png)
+![bg left:35% Image of Sciurus Vulgaris](https://upload.wikimedia.org/wikipedia/commons/5/53/Sciurus_vulgaris.png)
 
 > ... during the Malthusian epoch - ... the entirety of human history up until the recent dramatic leap forward - the fruits of technological advancements were channelled primarily towards larger and denser populations and had only glacial impact on their long-term prosperity. (Galor p4-5).
 
@@ -92,12 +94,12 @@ It was "Nasty, Brutish, and Short."
 
 ---
 
-![bg center w:900](attachments/og_land_pop.png)
+![bg center w:900 Image of Og Land Pop](attachments/og_land_pop.png)
 
 
 ---
 
-![bg left:60% w:750](attachments/gc_f2.6_income_pop.png)
+![bg left:60% w:750 Image of Gc F2.6 Income Pop](attachments/gc_f2.6_income_pop.png)
 
 * English data 1200-1790s
 * Note clear effects of the Black Death > 1340s
@@ -122,9 +124,9 @@ It was "Nasty, Brutish, and Short."
 # Part II: Human Origins & Capabilities
 
 ---
-### Galor's 'The Human Odyssey: First Steps'
+# Galor's 'The Human Odyssey: First Steps'
 
-#### The Human Brain
+## The Human Brain
 * Human brain: large, compressed, complex. 
 * Tripled in size over 6M years, mostly 200-800K years ago
 * Drawbacks:
@@ -157,9 +159,9 @@ It was "Nasty, Brutish, and Short."
 
 ---
 ## The Puzzling Primate
-##### Humans are neither the strongest nor smartest
+### Humans are neither the strongest nor smartest
 
-![bg right:35% w:400](attachments/sl2_capuchin.png)
+![bg right:35% w:400 Image of Sl2 Capuchin](attachments/sl2_capuchin.png)
 
 * **Individual humans** are not strongest, fastest, or most intelligent primates
   * Can't survive alone in wild without learned skills
@@ -170,11 +172,11 @@ It was "Nasty, Brutish, and Short."
   * Capuchin monkey versus human in the wild.
 
 ---
-![bg right:35% w:400](attachments/sl2_ant_species.jpg)
+![bg right:35% w:400 Image of Sl2 Ant Species](attachments/sl2_ant_species.jpg)
 
 
 ## A Puzzling Primate
-##### Yet Humans are Collectively Strong
+### Yet Humans are Collectively Strong
 
 * **One species of humans** thrives in arctic, desert, tropical, and high-altitude environments
   * Through **cultural adaptation** — not biological adaptation
@@ -185,7 +187,7 @@ It was "Nasty, Brutish, and Short."
 ---
 ## Humans Dominate Every Habitat
 
-![w:600](attachments/sl2_arctic_people.png)
+![w:600 Image of Sl2 Arctic People](attachments/sl2_arctic_people.png)
 
 **Why?** Culture enables solving survival problems through **learned knowledge** rather than biological adaptation
 
@@ -205,7 +207,7 @@ It was "Nasty, Brutish, and Short."
 
 ## Stone Tool Progression: Evidence of Cumulative Culture
 
-![w:600](attachments/sl2_stone_tool.png)
+![w:600 Image of Sl2 Stone Tool](attachments/sl2_stone_tool.png)
 
 Over hundreds of thousands of years: simple rocks → hand axes → composite tools. Each generation built on knowledge of prior generations.
 
@@ -235,7 +237,7 @@ These mechanisms allow **rapid cultural evolution** and diffusion of innovations
 
 ### Self-Domestication: Humans Evolving Through Culture
 
-![w:700](attachments/sl2_dog_human.jpg)
+![w:700 Image of Sl2 Dog Human](attachments/sl2_dog_human.jpg)
 
 * Cultural norms reward **cooperation**, punish **aggression**
 * Selection toward prosocial traits
@@ -247,7 +249,7 @@ These mechanisms allow **rapid cultural evolution** and diffusion of innovations
 ## Lactase Persistence
 ### Culture and Gene Frequency
 
-![bg right w:620](attachments/sl2_lactase.png)
+![bg right w:620 Image of Sl2 Lactase](attachments/sl2_lactase.png)
 
 * **Culture**: Domestication of dairy animals (herding societies)
 * **Genetic consequence**: Selection for ability to digest lactose into adulthood
@@ -272,10 +274,10 @@ Long before agriculture, hominids were domesticating the environment:
 
 From J.C. Scott _Against the Grain_
 
-![w:950](attachments/Scott_quote_fire.png)
+![w:950 Image of Scott Quote Fire](attachments/Scott_quote_fire.png)
 
 ---
-### Galor's Positive Feedback loops
+# Galor's Positive Feedback loops
 
 - environmental changes
   $\Rightarrow$ technological innovations
@@ -298,11 +300,11 @@ From J.C. Scott _Against the Grain_
   * longest lived early human species, ~9X longer than *homo sapiens*
   * Survived until ~117K years ago
 
-![bg right w:650](attachments/hominids.png)
+![bg right w:650 Image of Hominids](attachments/hominids.png)
 
 ---
 
-![bg right w:500](attachments/eve.png)
+![bg right w:500 Image of Eve](attachments/eve.png)
 ### Mitochondrial Eve
 - unique genetic code passed down from female to female.
 - "The most recent woman from whom all living humans descend in an unbroken line purely through their mothers."
@@ -314,7 +316,7 @@ From J.C. Scott _Against the Grain_
 # Out of Africa 
 ### Homo Sapiens
 - Anatomically modern Homo Sapiens developed ~200-300,000 years ago in the Horn of Africa.
-![bg right:60%](attachments/og_Fig3_migrations.png)
+![bg right:60% Image of Og Fig3 Migrations](attachments/og_Fig3_migrations.png)
 - Several 'out of Africa' dispersals as early as 270K years ago. 
 - Evidence reached China 80K years ago
 
@@ -336,7 +338,7 @@ From J.C. Scott _Against the Grain_
 * Local large animal populations (that had not co-evolved with human predators) are rapidly wiped out.
 * 30+ mammals hunted or otherwise led to extinction including: Woolly mammoths, giant armadillos, horses.
   
-  ![bg right w:600](attachments/extinct_animals.jpg)
+  ![bg right w:600 Image of Extinct Animals](attachments/extinct_animals.jpg)
 
 ---
 ## Why Africa Was Different
@@ -352,7 +354,7 @@ From J.C. Scott _Against the Grain_
 
 ## Hunter-Gatherer Societies
 
-![bg right:40% w:500](attachments/sl2_hunter.png)
+![bg right:40% w:500 Image of Sl2 Hunter](attachments/sl2_hunter.png)
 <!-- PLACEHOLDER IMAGE: Photo of contemporary hunter-gatherer society (e.g., Hadza, !Kung San) -->
 
 - Small-scale tribal societies, densely interwoven kinship ties
@@ -377,11 +379,11 @@ Diamond, Scott add political dimension:
 
 If forager life was good, why adopt agriculture?
 
-![bg right:40% ](attachments/sl2_nodomus.png)
+![bg right:40%  Image of Sl2 Nodomus](attachments/sl2_nodomus.png)
 
 ---
 
-![bg right:35% w:400](attachments/sl2_hunter_vs_ag.jpg)
+![bg right:35% w:400 Image of Sl2 Hunter Vs Ag](attachments/sl2_hunter_vs_ag.jpg)
 ## Hunter-Gatherer Health
 
 Skeletal and archaeological evidence suggests:
@@ -405,7 +407,7 @@ Early farmers show: shorter stature, more cavities, signs of anemia, repetitive 
 ---
 
 ## Climate and the Holocene
-![bg right w:630](attachments/sl2_long_temp.png)
+![bg right w:630 Image of Sl2 Long Temp](attachments/sl2_long_temp.png)
 
 
 
@@ -424,7 +426,7 @@ The wild ancestors of wheat, barley, lentils grew naturally in the Fertile Cresc
 
 ## The Fertile Crescent
 
-![bg right w:500](attachments/sl2_fertile_crescent.png)
+![bg right w:500 Image of Sl2 Fertile Crescent](attachments/sl2_fertile_crescent.png)
 <!-- PLACEHOLDER: Map showing Fertile Crescent with wild grain distribution -->
 
 * Arc from Levant through southeastern Turkey to Zagros foothills
@@ -439,11 +441,11 @@ The wild ancestors of wheat, barley, lentils grew naturally in the Fertile Cresc
 
   * "Hundreds of thousands of years of painfully slow technological and social change"
 
-![w:950](attachments/galor_quote_agrev.png)
+![w:950 Image of Galor Quote Agrev](attachments/galor_quote_agrev.png)
 Galor, p 21
 
 ---
-![bg center w:1000](attachments/og_fig17.png)
+![bg center w:1000 Image of Og Fig17](attachments/og_fig17.png)
 
 ---
 
@@ -462,15 +464,15 @@ This view is not uncontested.
 
 ---
 
-###### Jared Diamond 
-#### The Worst Mistake in the History of the Human Race
+#### Jared Diamond 
+## The Worst Mistake in the History of the Human Race
 
-![w:600](attachments/diamond_worst.png)
+![w:600 Image of Diamond Worst](attachments/diamond_worst.png)
 
 ---
 ## Diamond: Agriculture as Decline
 
-![bg right:30% w:350](attachments/sl2_hunter_vs_ag.jpg)
+![bg right:30% w:350 Image of Sl2 Hunter Vs Ag](attachments/sl2_hunter_vs_ag.jpg)
 
 **Skeletal evidence confirms the costs:**
 * Shorter stature, more cavities, signs of anemia
@@ -489,7 +491,7 @@ This view is not uncontested.
 
 ## James Scott's Grain Thesis
 
-![bg right:35% w:400](attachments/scott_books.png)
+![bg right:35% w:400 Image of Scott Books](attachments/scott_books.png)
 
 James C. Scott argues:
 
@@ -531,7 +533,7 @@ This is what Scott means by "legibility" — states need to see and count their 
 
 ## The Costs of Agriculture
 
-![bg right w:500](attachments/sl2_health_decline.png)
+![bg right w:500 Image of Sl2 Health Decline](attachments/sl2_health_decline.png)
 <!-- PLACEHOLDER: Chart comparing forager vs. farmer health indicators -->
 
 Evidence from skeletal remains:
@@ -565,14 +567,14 @@ The transition was **gradual, halting, and sometimes reversed**
 ---
 
 ### The Rise of Civilizations
-![bg right](attachments/pyramids.png)
+![bg right Image of Pyramids](attachments/pyramids.png)
 - Mesopotamia ~4000-3000 BCE
 - Egypt ~3100 BCE
 - Indus Valley ~2500 BCE
 - China ~ 1500 BCE
 - Central America/Mexico 1200 BCE
 
-#### Characteristics
+## Characteristics
 - Urban Areas
 - Monuments, infrastructure
 - Writing systems
@@ -582,7 +584,7 @@ The transition was **gradual, halting, and sometimes reversed**
 
 ## Mesopotamia: The Setting
 
-![bg right w:500](attachments/sumerian_cuneiform.jpg)
+![bg right w:500 Image of Sumerian Cuneiform](attachments/sumerian_cuneiform.jpg)
 
 - Area between rivers (Tigris and Euphrates)
 - Civilizations emerge 4th and 3rd millennia BCE
@@ -594,7 +596,7 @@ The transition was **gradual, halting, and sometimes reversed**
 
 ## Uruk: The First City
 
-![bg right w:500](attachments/sl2_uruk_reconstruction.jpg)
+![bg right w:500 Image of Sl2 Uruk Reconstruction](attachments/sl2_uruk_reconstruction.jpg)
 <!-- PLACEHOLDER: Artistic reconstruction of ancient Uruk -->
 
 * By 3000 BCE: perhaps 40,000 inhabitants
@@ -607,7 +609,7 @@ The transition was **gradual, halting, and sometimes reversed**
 
 ## The Warka Vase: Overview
 
-![bg right w:450](attachments/sl2_warka_vase.jpg)
+![bg right w:450 Image of Sl2 Warka Vase](attachments/sl2_warka_vase.jpg)
 <!-- YOUR IMAGE: Full photograph of the Warka Vase -->
 
 * Found at Uruk (modern Warka, Iraq)
@@ -620,7 +622,7 @@ The transition was **gradual, halting, and sometimes reversed**
 
 ## The Warka Vase: Reading the Registers
 
-![bg right w:500](attachments/sl2_warka_vase_diagram.jpg)
+![bg right w:500 Image of Sl2 Warka Vase Diagram](attachments/sl2_warka_vase_diagram.jpg)
 <!-- YOUR IMAGE: Drawn diagram showing the four registers -->
 
 Four horizontal bands, read bottom to top:
@@ -727,7 +729,7 @@ This is a **theory of autocracy**, not democracy or voluntary cooperation
 
 ## Scott: The State as Predator
 
-![](attachments/scott_prisoners.png)
+![Image of Scott Prisoners](attachments/scott_prisoners.png)
 
 Scott emphasizes coercion, bondage, and population control as central to early statecraft.
 
@@ -735,10 +737,10 @@ Scott emphasizes coercion, bondage, and population control as central to early s
 
 ## Land Abundance and the Coercion Problem
 
-![w:1000](attachments/Scott_quote_coerce1.png) 
+![w:1000 Image of Scott Quote Coerce1](attachments/Scott_quote_coerce1.png) 
 
 ---
-![w:1050](attachments/Scott_quote_coerce2.png) 
+![w:1050 Image of Scott Quote Coerce2](attachments/Scott_quote_coerce2.png) 
 
 ---
 
@@ -805,12 +807,12 @@ Scott argues bondage was central to early states:
 	* New Zealand ~1250-1300 CE
 
 
-![bg right w:500](attachments/polynesian.png)
+![bg right w:500 Image of Polynesian](attachments/polynesian.png)
 
 ---
 <!-- footer: Bantu Expansion starting ~3000 BCE-->
-![bg w:400](attachments/map_bantu0.png)
-![bg](attachments/map_bantu_language.png)
+![bg w:400 Image of Map Bantu0](attachments/map_bantu0.png)
+![bg Image of Map Bantu Language](attachments/map_bantu_language.png)
 
 ---
 <!-- footer: Eco 331: Neolithic Revolution, Early States -->
@@ -820,7 +822,7 @@ Scott argues bondage was central to early states:
 Presentation volunteers for Fri 2/7?
 ([PDF link](https://www.aeaweb.org/articles?id=10.1257/aer.20201919))
 ![bg left 95%](attachments/abstract_origins_govt.png)
-![width:400px](attachments/river_shift.png)
+![width:400px Image of River Shift](attachments/river_shift.png)
 
 ---
 
@@ -830,14 +832,14 @@ Presentation volunteers for Fri 2/7?
 - Differences in Differences estimation
 	- compare treated (flooded) to untreated control groups
 	- how much did the event *increase* the outcome over trend
-	![bg right w:650](attachments/diff_in_diff.png)
+	![bg right w:650 Image of Diff In Diff](attachments/diff_in_diff.png)
 
 ---
 
-![bg center w:800](attachments/mesopotamia_effects.png)
+![bg center w:800 Image of Mesopotamia Effects](attachments/mesopotamia_effects.png)
 
 ---
-![bg center w:800](attachments/mesopotamia_heterog.png)
+![bg center w:800 Image of Mesopotamia Heterog](attachments/mesopotamia_heterog.png)
 
 ---
 ### Methodological concerns
@@ -885,8 +887,8 @@ The debate continues: Were early states net benefits or net costs to most people
 * What explains the eventual "escape" from the Malthusian trap?
 
 ---
-![bg](attachments/car_land.png)
-![bg](attachments/Earth_Madagascar.png)
-![bg](attachments/english_open.png)
-![bg](attachments/earth_PA.png)
+![bg Image of Car Land](attachments/car_land.png)
+![bg Image of Earth Madagascar](attachments/Earth_Madagascar.png)
+![bg Image of English Open](attachments/english_open.png)
+![bg Image of Earth Pa](attachments/earth_PA.png)
 

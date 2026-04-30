@@ -613,7 +613,7 @@ Galor, p 21
     * public goods: protection, irrigation, communal life.
 
 --- 
-#### Jared Diamond 
+## Jared Diamond 
 ## The Worst Mistake in the History of the Human Race
 
 ![w:600 Image of Diamond Worst](attachments/diamond_worst.png)

@@ -1,5 +1,7 @@
 ---
 title: sl7_Transitions
+description: "ECO 331: Economic History - sl7_Transitions"
+author: "Jonathan Conning"
 deploy: true
 title_custom: true
 tags: [slides/final]
@@ -26,8 +28,8 @@ Notes:
 -->
 
 
-![bg right w:600](attachments/img_Reeve_and_Serfs.jpg)
-### ECO 331
+![bg right w:600 Image of Img Reeve And Serfs](attachments/img_Reeve_and_Serfs.jpg)
+# ECO 331
 ## Economic History
 
 ```
@@ -56,7 +58,7 @@ Spring 2026
 - Allen, R.C., 1992."Introduction." in _Enclosure and the Yeoman: the agricultural development of the South Midlands 1450-1850_. Oxford University Press.
 
 ---
-#### Epochs and Transitions
+## Epochs and Transitions
 **How did the World Get Rich?**
   * Why did the Malthusian epoch last so long?
   * What led to the transition? (per-capita incomes not declining with pop growth).
@@ -84,7 +86,7 @@ Spring 2026
 
 ---
 ## Global Context (~1000 - 1300 CE)
-![bg right:40% w:600](attachments/world_map_1200_ce.png)
+![bg right:40% w:600 Image of World Map 1200 Ce](attachments/world_map_1200_ce.png)
 <div style="font-size: 15px; text-align: right; margin-top: -10px;"> <a href="https://worldhist.org/">Historical Maps</a> </div>
 
 - If you surveyed the world in 1200 CE, Western Europe appeared as an economic and political **backwater**.
@@ -94,7 +96,7 @@ Spring 2026
 
 ---
 ### Advanced Core: Song Dynasty China
-![bg right:40% w:600](attachments/song_dynasty_city.png)
+![bg right:40% w:600 Image of Song Dynasty City](attachments/song_dynasty_city.png)
 - **Peak of Pre-Industrial Growth:** The Song (960–1279 CE) and Ming dynasties achieved were centers of economic complexity.
 - **Achievements:**
   - Commercialization and urbanization.
@@ -104,7 +106,7 @@ Spring 2026
 
 ---
 ###  The Islamic Golden Age
-![bg right:40% w:600](attachments/islamic_golden_age_scholars.png)
+![bg right:40% w:600 Image of Islamic Golden Age Scholars](attachments/islamic_golden_age_scholars.png)
 - **Center of Trade and Learning:** From the 8th to the 14th centuries, the Islamic world was the geographic and intellectual center of the world.
 - **Achievements:**
   - Translated and preserved classical Greek and Persian texts.
@@ -121,7 +123,7 @@ Spring 2026
 - **Classical Antiquity:** Europe *was* once highly advanced under the Greco-Roman tradition.
 
 ---
-![bg right w:600](attachments/map_roman_empire.png)
+![bg right w:600 Image of Map Roman Empire](attachments/map_roman_empire.png)
 ### From Classical Antiquity to the Middle Ages
 - Roman Empire: 
   8th C BCE to 5th CE 
@@ -133,18 +135,18 @@ Spring 2026
 
 ---
 
-###### What Have the Romans Done for Us? 
+#### What Have the Romans Done for Us? 
 
 [youtube link](https://www.youtube.com/watch?v=Qc7HmhrgTuQ)
 
-![bg left w:600](attachments/img_monty_python.png)
+![bg left w:600 Image of Img Monty Python](attachments/img_monty_python.png)
 
 "... apart from the sanitation, the medicine, education, wine, public order, irrigation, roads, the fresh water system, and public health, what have the Romans ever done for us?"
 
 
 ---
 ## Fall of the Roman Empire
-![bg right:40% w:600](attachments/West_East_roman.png)
+![bg right:40% w:600 Image of West East Roman](attachments/West_East_roman.png)
 - **Power Vacuum (c. 476 CE):** Collapse of the Western Roman Empire eliminated centralized governance and the protection of the Roman legions.
 - **Economic Contraction:**
   - De-urbanization. Rome's population fell from 1 million to a few tens of thousands.
@@ -153,7 +155,7 @@ Spring 2026
 
 ---
 ## The Rise of Feudalism
-![bg right:40% w:600](attachments/feudalism_structure.png)
+![bg right:40% w:600 Image of Feudalism Structure](attachments/feudalism_structure.png)
 - **A Response to Chaos:** Feudalism was a decentralized military and political system that emerged to fill the power vacuum.
 - **Oaths and Loyalty:** Kings granted land (fiefs) to lords and vassals in exchange for military service (knights). 
 - **Chains of Obligation:** Personal loyalty and localized control replaced imperial bureaucracy and formal Roman law. 
@@ -177,18 +179,18 @@ Spring 2026
   
 ---
 
-##### Early medieval slave trade and 10th C Invasions
+### Early medieval slave trade and 10th C Invasions
 
-![bg w:650](attachments/map_medieval_slave.jpg)
-
----
-![bg w:450](attachments/map_epstein_invasions.jpg)
-
+![bg w:650 Image of Map Medieval Slave](attachments/map_medieval_slave.jpg)
 
 ---
+![bg w:450 Image of Map Epstein Invasions](attachments/map_epstein_invasions.jpg)
 
-#### Norman Conquest of England (1066)
-![bg right w:600](attachments/pic_norman.jpg)
+
+---
+
+## Norman Conquest of England (1066)
+![bg right w:600 Image of Pic Norman](attachments/pic_norman.jpg)
 - Norman (Vikings who had settled France) conquer England in 1066.
 - William the Conqueror 
   - Expropriated Anglo-Saxon elite and enfeoffed lands to followers.
@@ -199,7 +201,7 @@ Spring 2026
 ---
 ### Domesday Book
 
-![bg left w:500](attachments/Domesday.png)
+![bg left w:500 Image of Domesday](attachments/Domesday.png)
 - Domesday Book (1086) - first comprehensive survey of land ownership in England.
   - 13,000 manors
   - 1/3 by the King
@@ -214,12 +216,12 @@ Spring 2026
   https://opendomesday.org
 
 
-![bg right:61% w:750](attachments/Domesday_map.png)
+![bg right:61% w:750 Image of Domesday Map](attachments/Domesday_map.png)
 
 ---
 
-![bg w:400](attachments/cover_Vinland_Saga.jpg)
-![bg w:600](attachments/vinland_tree.jpg)
+![bg w:400 Image of Cover Vinland Saga](attachments/cover_Vinland_Saga.jpg)
+![bg w:600 Image of Vinland Tree](attachments/vinland_tree.jpg)
 
 <!-- _footer: "[Trailer Season 2](https://www.youtube.com/watch?v=Ph50sNkApVM&t=2s)" -->
 
@@ -228,13 +230,13 @@ Spring 2026
 ## Medieval Agriculture
 
 
-![bg center w:900](attachments/pic_plow.jpg)
+![bg center w:900 Image of Pic Plow](attachments/pic_plow.jpg)
 
 
 
 ---
 
-![bg left w:500](attachments/Plan_mediaeval_manor.jpg)
+![bg left w:500 Image of Plan Mediaeval Manor](attachments/Plan_mediaeval_manor.jpg)
 ## A typical manor
 - Autumn Planting Field
 - Spring Planting Field
@@ -253,7 +255,7 @@ Also: Village, Manor house, Church, roads, etc.
 ---
 ### The Open Field System
 
-![bg left:40% w:500](attachments/pic_field_furrow.jpg)
+![bg left:40% w:500 Image of Pic Field Furrow](attachments/pic_field_furrow.jpg)
 - Prevalent in Europe during middle ages (also Russia, Iran, Turkey)
 - Each manor had 2-3 open fields of several hundred acres.
   - divided into narrow strips of land or furlongs.
@@ -265,7 +267,7 @@ Also: Village, Manor house, Church, roads, etc.
 - **Post-Roman organization:** local landlords took on protective and administrative roles for surrounding communities.
 * **The Manor:** legal, economic and administrative unit.
 * **Norman Conquest 1066**: imposed harsher and more uniform manorial structures.
-![bg right:30% w:400](attachments/anglo_saxon_settlement.png)
+![bg right:30% w:400 Image of Anglo Saxon Settlement](attachments/anglo_saxon_settlement.png)
 ---
 ## Land Tenure and Labor Services
 - Crown was only _alloidal_ land owner.  All others 'held' land from the Crown.
@@ -282,7 +284,7 @@ Also: Village, Manor house, Church, roads, etc.
 ---
 
 
-![bg right w:600](attachments/img_diggers.jpeg)
+![bg right w:600 Image of Img Diggers](attachments/img_diggers.jpeg)
 ### From Manoralism and the Middle Ages to Agrarian Capitalism
 - Transformation of feudal and peasant PRs and social order.
 - Development of private property rights to land.
@@ -333,16 +335,16 @@ Also: Village, Manor house, Church, roads, etc.
 - Admittance: admitting individual to a tenancy (e.g. marriage, inheritance, surrender)
 
 ---
-#### Admittance fines (1627)
+## Admittance fines (1627)
 
-![bg w:600](attachments/img_manor_fines.jpg)
-![bg w:650](attachments/gr_fines2.png)
+![bg w:600 Image of Img Manor Fines](attachments/img_manor_fines.jpg)
+![bg w:650 Image of Gr Fines2](attachments/gr_fines2.png)
 
 [src](https://www.lancaster.ac.uk/fass/projects/manorialrecords/gallery/fines.htm)
 
 
 ---
-![bg right:40% w:550](attachments/gr_fines0.jpg)
+![bg right:40% w:550 Image of Gr Fines0](attachments/gr_fines0.jpg)
 
 ### Fines (gresums): 
  - e.g. Bleatarn Manor in Lancaster, annual fine income ~10X rents [source](https://www.lancaster.ac.uk/fass/projects/manorialrecords/gallery/fines.htm)
@@ -354,7 +356,7 @@ Also: Village, Manor house, Church, roads, etc.
 - Fines often worth as much as 20X annual rent.
 
 ---
-#### Some major Events
+## Some major Events
 - Statute of _Quia emptores_ 1290 forbids further subinfeudation.
   - Allowed tenants to sell tenancy to another (substitute) but not create further vassal sub-tenants. Fealty to the crown. Expanded market transactions and common law.
 - Black Death (1348-1350) subsequent population collapse
@@ -413,7 +415,7 @@ a solved political problem. Economics has gained the title of queen of the socia
 - Yet they do still place 'conflict' at the center of their arguments and argue the feudal system would have eventually faced crisisbecause it was based a largely 'non-entrepreneurial' landlord class extracting surplus from peasants via coercive means.
 ---
 
-![bg left w:500](attachments/python_king.jpg)
+![bg left w:500 Image of Python King](attachments/python_king.jpg)
 
 ## More Monty Python 
 [video link](https://vimeo.com/748305311)
@@ -440,8 +442,8 @@ a solved political problem. Economics has gained the title of queen of the socia
 - Phillip II of Spain prize in 1576. Dutch and British offer larger prizes.
 - John Harrison award in 1770s.
 
-![bg left](attachments/harrison_chronometer.png)
-![w:150](attachments/Pasted%20image%2020250313124801.png)
+![bg left Image of Harrison Chronometer](attachments/harrison_chronometer.png)
+![w:150 Image of Pasted%20Image%2020250313124801](attachments/Pasted%20image%2020250313124801.png)
 
 ---
 
@@ -467,14 +469,14 @@ Non-excludability is a Property rights problem
 
 
 ---
-![bg w:1200](attachments/quote_north.png)
+![bg w:1200 Image of Quote North](attachments/quote_north.png)
 
 ---
 
 ![bg vertical w:1200](attachments/quote_north2.png)
 
 ---
-![bg w:1200](attachments/quote_north3.png)
+![bg w:1200 Image of Quote North3](attachments/quote_north3.png)
 
 ---
 <!-- footer: "Capitalist Transition" -->
@@ -492,7 +494,7 @@ Non-excludability is a Property rights problem
 
 
 ---
-#### The Commercialization or neo-Smithian model
+## The Commercialization or neo-Smithian model
 
 **Ellen Wood's critique**:
 - This explanation of origin of capitalism presupposes it is natural outcome of human practices.  Required only maturation and removal of external obstacles.
@@ -563,7 +565,7 @@ Do they change too fast or not fast enough?
 Do they become more efficient, or can inefficient arrangements arise and persist?
 
 ---
-![bg right w:600](attachments/sl7b_domar_trilemma.png)
+![bg right w:600 Image of Sl7B Domar Trilemma](attachments/sl7b_domar_trilemma.png)
 
 ## Evsey Domar (1970)
 
@@ -631,7 +633,7 @@ $$
 
 ---
 ### Class-Conflict centered explanations 
-![bg right:30% w:350](attachments/cover_Brenner.png)
+![bg right:30% w:350 Image of Cover Brenner](attachments/cover_Brenner.png)
 
   * Earlier Marxist capitalist transition debates. 
     * Was 'prime mover' external (trade, technology) or internal (change 'balance of class forces').
@@ -684,7 +686,7 @@ New paper by Baker and Conning (2023): "A model of enclosures: Conflict, Coordin
 
 
 ---
-![bg right:30%](attachments/gr_Kett_oak_1549.jpg)
+![bg right:30% Image of Gr Kett Oak 1549](attachments/gr_Kett_oak_1549.jpg)
 ## Kett's rebellion (1549)
 - 1540s crisis in agricutlure. Inflation, unemployment, rising rents, and declining wages.
 - Enclosures of common lands, often led to loss of areas to graze animals and access to resources.
@@ -709,7 +711,7 @@ New paper by Baker and Conning (2023): "A model of enclosures: Conflict, Coordin
 
 ---
 Religious opposition to enclosures
-#### Historian R.H. Tawney (describing mid 1500s):
+## Historian R.H. Tawney (describing mid 1500s):
 “the popular hatred of the encloser and the engrosser found a natural ally in religious sentiment, schooled, as it was, in a tradition which had taught that the greed of gain was a deadly sin, and that the plea of economic self-interest did not mitigate the verdict, but aggravated the offence."
 
 “... doctrinal radicalism marched hand in hand with social conservatism. ...saw in economic individualism but another expression of the laxity and licence which had degraded the purity of religion..."
@@ -726,7 +728,7 @@ Religious opposition to enclosures
 - Rise of the Yeoman (successful peasant producers). Property rights strengthened. Expanded tenancies and holdings. Often initiated/benefited from enclosure.
 
 ---
-![bg right:40% w:400](attachments/cover_upside_down.jpg)
+![bg right:40% w:400 Image of Cover Upside Down](attachments/cover_upside_down.jpg)
 <style scoped>
 section {
   font-size: 24px;
@@ -740,7 +742,7 @@ section {
 - In 1648-49 aprox 40 families started to farm common lands in the village of St. George's Hill, Surrey.  Local landowners send gangs and arsonists. Diggers arrested and evicted.
 
 ---
-##### Diggers in popular culture
+### Diggers in popular culture
 "The World Turned Upside Down" ballad.
 
 Billy Bragg's popular (folk punk) interpretation (of very much changed lyrics): 
@@ -761,7 +763,7 @@ https://www.youtube.com/watch?v=YwQwA_kFxoE
 - First Industrial Revolution 1760-1830.
 
 ---
-![](attachments/gr_English_pop.png)
+![Image of Gr English Pop](attachments/gr_English_pop.png)
 
 ---
 By 1851 Agricultural Census
@@ -829,7 +831,7 @@ Included:
    4. communal grazing made selective breeding difficult, and also spread disease.
 
 ---
-![](attachments/gr_enclosure_acts.jpg)
+![Image of Gr Enclosure Acts](attachments/gr_enclosure_acts.jpg)
 
 
 ---
@@ -860,7 +862,7 @@ Food consumption:
 
 
 ---
-#### Rise and Fall of the Yeoman
+## Rise and Fall of the Yeoman
 - Black death popn decline destabilized serfdom.
 - Labor mobility and wages increased, rents collapsed.
 - Early enclosure and conversion to pasture were seigniorial response to new order.
@@ -891,11 +893,11 @@ On rents:
 - Real rents increased about seven fold between 1450-1850.
 ---
 
-![bg center w:800](attachments/gr_allenRev1.png)
+![bg center w:800 Image of Gr Allenrev1](attachments/gr_allenRev1.png)
 
 
 ---
-![bg center w:800](attachments/gr_allenRev2.png)
+![bg center w:800 Image of Gr Allenrev2](attachments/gr_allenRev2.png)
 
 
 ---
@@ -922,7 +924,7 @@ On rents:
 
 ---
 ### British Agricultural Revolution 1500-1800
-![w:300](attachments/gr_bull.jpg)
+![w:300 Image of Gr Bull](attachments/gr_bull.jpg)
 
 
 - Transition from organic ag system to more energy-intensive inputs.
@@ -934,7 +936,7 @@ On rents:
 
 ---
 - Large parts of Eastern England were fenlands, marshes, and peat bogs.
-![](attachments/gr_thefens.jpg)
+![Image of Gr Thefens](attachments/gr_thefens.jpg)
 - Acts of Parliament 1740 to 1840 drained 1.5 million acres of land.
 ---
 
@@ -969,7 +971,7 @@ The second and third agricultural revolution
 - European continent built agricultural extension services to help farmers adopt new technologies.  Not the case in Britain. 
 
 ---
-![bg center w:800](attachments/gr_ag_growth1870.png)
+![bg center w:800 Image of Gr Ag Growth1870](attachments/gr_ag_growth1870.png)
 
 ---
 ![bg vertical w:800](attachments/foo1.png)

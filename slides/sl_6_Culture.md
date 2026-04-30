@@ -103,22 +103,22 @@ https://chat.openai.com/chat
 
 (or other alternatives)
 
-![bg right:70% w:850](attachments/chatgpt.png)
+![bg right:70% w:850 Image of Chatgpt](attachments/chatgpt.png)
 
 ---
 **related...**
 ### [Dall-E](https://labs.openai.com/)
-#### Text to image generation (Spring 2023 tech)
+## Text to image generation (Spring 2023 tech)
 
 "An oil painting of a medieval peasant pushing a wheelbarrow."
-![bg right w:600](attachments/gpt_peasant.png)
+![bg right w:600 Image of Gpt Peasant](attachments/gpt_peasant.png)
 
 ---
 ### Gemini imagen 3
 (Spring 2026 tech).
 
 Generate an image of an oil painting of a medieval peasant pushing a wheelbarrow. Make it look like an oil painting that was painted in medieval times.
-![bg right w:600](attachments/imagen_peasant.jpg)
+![bg right w:600 Image of Imagen Peasant](attachments/imagen_peasant.jpg)
 
 -->
 
