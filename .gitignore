@@ -1,0 +1,21 @@
+# Ignore generated slides and documents
+*.pdf
+*.html
+*.pptx
+*.aux
+*.log
+
+# Ignore environment and secrets
+.env
+.DS_Store
+
+# Ignore private/sensitive class folders (uncomment to track later if needed)
+grades/
+exams/
+
+# Ignore AI and editor config
+.agents/
+.claude/
+.obsidian/
+.trash/
+__pycache__/

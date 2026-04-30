@@ -1,0 +1,106 @@
+name: marp-to-pages
+concurrency: marp-to-pages
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Ensure build dir exists
+        run: mkdir -p build
+
+      - name: Copy images directory (if exists)
+        run: |
+          if [[ -d img ]]; then cp -R img build/img; fi
+          if [[ -d slides/attachments ]]; then mkdir -p build/slides && cp -R slides/attachments build/slides/attachments; fi
+
+      - name: Update Table of Contents in README
+        run: |
+          deploy_date=$(TZ='America/New_York' date '+%Y-%m-%d %H:%M')
+          echo -e "\n*Last Deployed: $deploy_date EST*\n" > toc.tmp
+          echo -e "## Deployed Presentations\n" >> toc.tmp
+          if [[ -d slides ]]; then
+            find slides -type f -name "*.md" | sort | while read -r file; do
+              if grep -q "^deploy:[[:space:]]*true" "$file"; then
+                filename=$(basename "$file")
+                title=$(grep -m 1 "^# " "$file" | sed 's/^# //' | tr -d '\r' || echo "${filename%.md}")
+                edit_date=$(TZ='America/New_York' git log -1 --format="%cd" --date=format:"%Y-%m-%d %H:%M" -- "$file")
+                if [ -z "$edit_date" ]; then edit_date="Unknown"; fi
+                echo "- [$title](https://jhconning.github.io/eco331/slides/${filename%.md}.html) ([PDF](https://jhconning.github.io/eco331/slides/${filename%.md}.pdf)) *(Last edit: $edit_date)*" >> toc.tmp
+              fi
+            done
+          fi
+          awk '/<!-- TOC_START -->/{p=1; print; system("cat toc.tmp"); next} /<!-- TOC_END -->/{p=0} !p' README.md > README.new
+          mv README.new README.md
+
+      - name: Commit and Push README
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Table of Contents [skip ci]" && git push)
+
+      - name: Copy README to build directory
+        run: cp README.md build/index.md
+      - name: Check if slides folder exists
+        id: slides-folder-exists
+        run: bash -c "[[ -d slides ]] ; echo \"has_slides=\$?\" >> \"$GITHUB_OUTPUT\""
+
+      - name: Filter slides for deploy true
+        if: steps.slides-folder-exists.outputs.has_slides == '0'
+        run: |
+          find slides -type f -name "*.md" | while read -r file; do
+            if ! grep -q "^deploy:[[:space:]]*true" "$file"; then
+              echo "Removing $file because it lacks deploy: true"
+              rm "$file"
+            fi
+          done
+
+      - name: Marp Build (slides folder, if exists)
+        if: steps.slides-folder-exists.outputs.has_slides == '0'
+        uses: docker://marpteam/marp-cli:v3.0.2
+        with:
+          args: -I slides/ -o build/slides/
+        env:
+          MARP_USER: root:root
+
+      - name: Marp Build PDFs (slides folder, if exists)
+        if: steps.slides-folder-exists.outputs.has_slides == '0'
+        uses: docker://marpteam/marp-cli:v3.0.2
+        with:
+          args: -I slides/ -o build/slides/ --pdf --allow-local-files
+        env:
+          MARP_USER: root:root
+
+      - name: Deploy preview
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./build/
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+
+      - name: Deploy production
+        if: ${{ github.event_name == 'push' }}
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: ./build/
+          clean-exclude: pr-preview/
