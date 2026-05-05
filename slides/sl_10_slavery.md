@@ -6,7 +6,7 @@ title_custom: true
 tags: [slides/final]
 created: 2023-02-06T21:13:32.340Z
 modified: 2025-01-25T19:17:05.686Z
-marp: false
+marp: true
 style: ".columns {\n  display: grid;\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n  gap: 1rem;\n}\n"
 ---
 
@@ -34,11 +34,11 @@ Spring 2026
 <br></br>
 
 ---
-### read 4/25
+### read previously
 
 - Solow, Barbara, 1993. "Slavery and Colonization," Chapter 1 in *Slavery and the Rise of the Atlantic System*. Cambridge University Press. [PDF](https://drive.google.com/file/d/1eq6wZ9QlW77dBg46yDFD0swRFFWcZ1TX/view?usp=sharing)
 
-### read 4/29
+### Read now
 
 - KR 6 "Was it Just a matter of Colonization and Exploitation?"
 - Inikori, J (2007) “Africa and the globalization process: Western Africa, 1450–1850” *Journal of Global History*, 2, pp. 63-86. (read pages 79-84, skim the rest) [PDF](https://drive.google.com/file/d/1FVPGnZxyrXcSz_TzStInGiW81YSRbD6l/view?usp=sharing) 
