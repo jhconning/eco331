@@ -4,7 +4,7 @@ Welcome to the course repository! Below you will find the links to all active pr
 
 <!-- TOC_START -->
 
-*Last Deployed: 2026-05-05 09:11 EST*
+*Last Deployed: 2026-05-07 08:51 EST*
 
 ## Deployed Presentations
 
@@ -17,4 +17,5 @@ Welcome to the course repository! Below you will find the links to all active pr
 - [Transitions](https://jhconning.github.io/eco331/slides/sl_7_Transitions.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_7_Transitions.pdf)) *(Last edit: 2026-04-29 22:59)*
 - [Land Abundance and Domar's Trilemma](https://jhconning.github.io/eco331/slides/sl_7b_LandAbundant.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_7b_LandAbundant.pdf)) *(Last edit: 2026-04-29 22:59)*
 - [The Industrial Revolution](https://jhconning.github.io/eco331/slides/sl_9_IR.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_9_IR.pdf)) *(Last edit: 2026-04-29 22:59)*
+- [The Late Industrializers](https://jhconning.github.io/eco331/slides/sl_9b_IR2.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_9b_IR2.pdf)) *(Last edit: 2026-05-07 08:50)*
 <!-- TOC_END -->
