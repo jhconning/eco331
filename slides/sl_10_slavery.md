@@ -7,6 +7,7 @@ tags: [slides/final]
 created: 2023-02-06T21:13:32.340Z
 modified: 2025-01-25T19:17:05.686Z
 marp: true
+deploy: true
 style: ".columns {\n  display: grid;\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n  gap: 1rem;\n}\n"
 ---
 
