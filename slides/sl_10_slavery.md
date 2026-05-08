@@ -1,6 +1,6 @@
 ---
 title: sl10_slavery
-description: "ECO 331: Economic History - sl10_slavery"
+description: "Slavery and Colonization II"
 author: "Jonathan Conning"
 title_custom: true
 tags: [slides/final]
