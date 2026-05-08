@@ -23,13 +23,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Ensure build dir exists
-        run: mkdir -p docs/_build/html/slides
 
-      - name: Copy images directory (if exists)
-        run: |
-          if [[ -d img ]]; then cp -R img docs/_build/html/img; fi
-          if [[ -d slides/attachments ]]; then mkdir -p docs/_build/html/slides && cp -R slides/attachments docs/_build/html/slides/attachments; fi
 
       - name: Update Table of Contents in slideslist.md
         run: |
@@ -74,6 +68,14 @@ jobs:
         run: |
           cd docs
           myst build --html
+
+      - name: Ensure build dir exists
+        run: mkdir -p docs/_build/html/slides
+
+      - name: Copy images directory (if exists)
+        run: |
+          if [[ -d img ]]; then cp -R img docs/_build/html/img; fi
+          if [[ -d slides/attachments ]]; then mkdir -p docs/_build/html/slides && cp -R slides/attachments docs/_build/html/slides/attachments; fi
 
       - name: Check if slides folder exists
         id: slides-folder-exists
