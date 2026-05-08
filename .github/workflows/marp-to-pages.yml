@@ -111,6 +111,9 @@ jobs:
           preview-branch: gh-pages
           umbrella-dir: pr-preview
 
+      - name: Add .nojekyll
+        run: touch docs/_build/html/.nojekyll
+
       - name: Deploy production
         if: ${{ github.event_name == 'push' }}
         uses: JamesIves/github-pages-deploy-action@v4
