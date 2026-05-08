@@ -18,7 +18,7 @@ If you do this with several of the questions below, you'll learn a lot and becom
 ** There is a large number of questions here, but many are variants of the same question. Your best preparation is to sketch out short bullet point answers to these questions, aided by the slides and the readings.
 
   1. Use the diagram below to write a description of the operation of the Malthusian model (covered in the slide deck, also in first pages of KR chapter 5). Describe the assumed relationships that have been used to draw each of the three curves shown in the figures (the 'Birth rate' curve as upward sloping, the 'Death rate' curve as downward sloping, and the relationship between population and per-capita income shown in the lower diagram. Why does income per-capita end up at y∗. Explain using economic reasoning (and not with non-explanations such as 'because that's where the two curves intersect')  
-![Malthusian Equilibrium](../slides/attachments/Clark_malthus1.png)
+![Malthusian Equilibrium](../../slides/attachments/Clark_malthus1.png)
 
   2. Use the diagram below to write a description of the operation of the Malthusian model. Describe the assumed relationships that have been used to draw each of the three curves shown in the figures (the 'Birth rate' curve as upward sloping, the 'Death rate' curve as downward sloping, and the relationship between population and per-capita income shown in the lower diagram. Why does income per-capita end up at y∗. Explain using economic reasoning (and not with non-explanations such as 'because that's where the two curves intersect')
 

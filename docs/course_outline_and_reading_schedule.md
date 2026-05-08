@@ -157,23 +157,17 @@ Class Date: 4/21 [Slides](https://jhconning.github.io/eco331/slides/sl_7b_LandAb
 
   * VoxTalks Economics podcast, "Slavery and the Industrial Revolution" (Tim Phillips interviews S Heblich and J Voth on recent research) ([link](https://cepr.org/multimedia/slavery-and-industrial-revolution), ~27 min)
 
-  * KR 6 "Was it Just a matter of Colonization and Exploitation?"
-  * Inikori, J (2007) “Africa and the globalization process: Western Africa, 1450–1850” _Journal of Global History_ , 2, pp. 63-86. (read pages 79-84, skim the rest) [PDF](https://drive.google.com/file/d/1FVPGnZxyrXcSz_TzStInGiW81YSRbD6l/view?usp=sharing)
-
 
 
 Student Focus papers:
 
   * Heblich, Stephan, Stephen J. Redding, and Hans-Joachim Voth. 2022. "Slavery and the British Industrial Revolution." Working Paper. National Bureau of Economic Research. [PaperLinks to an external site.](https://www.princeton.edu/~reddings/papers/SBIR_Paper.pdf)
-  * Dippel, Christian, Avner Greif, and Daniel Trefler. 2020. "Outside Options, Coercion, and Wages: Removing the Sugar Coating." _The Economic Journal_ 130(630): 1678–1714. [PaperLinks to an external site.](https://drive.google.com/file/d/19Z071GHVKbaLjvFRv7iuqdmDPDWy3dkn/view?usp=sharing)
-  * Williamson, Jeffrey G. 1998. "Globalization, Labor Markets and Policy Backlash in the Past." _Journal of Economic Perspectives_ 12(4): 51–72. [PaperLinks to an external site.](https://www.aeaweb.org/articles?id=10.1257/jep.12.4.51)
-
 
 
 ### T9: The Industrial Revolution
 
-Class Date: 4/28 (we're catching up on reading assigned earlier, but not yet discussed).  
-[Slides](https://jhconning.github.io/eco331/slides/sl_9_IR.html) [as pdf](https://jhconning.github.io/eco331/slides/sl_9_IR.pdf)
+Class Date: 4/28    
+[Slides](https://jhconning.github.io/eco331/slides/sl_9_IR.html), [as pdf](https://jhconning.github.io/eco331/slides/sl_9_IR.pdf)
 
   * OG 4 "Full Steam"
   * KR 8 "Britain's Industrial Revolution"
@@ -189,11 +183,10 @@ Student Focus papers:
 
 
 
-### 
 
 ### T9: The second Industrial Revolution and the Late Industrialisers
 
-Class Date:
+[slides](https://jhconning.github.io/eco331/slides/sl_9b_IR2.html), [as pdf](https://jhconning.github.io/eco331/slides/sl_9b_IR2.pdf)
 
 KR 9: "The Rise of the Modern Economy"  
 OG 4 ,5 "Full Steam" and "Metamorphosis"
@@ -201,6 +194,26 @@ OG 4 ,5 "Full Steam" and "Metamorphosis"
 Allen, R.C. (2011), "The Ascent of the Rich", and "The Standard Model and Late Industrialization," chapters 4 and 8 in _Global economic history: a very short introduction_. Oxford University Press. ([PDF](https://drive.google.com/file/d/1_x9U85lxtkBIgU2MuCSHg_uclQ3S1e6m/view?usp=sharing)) < \-- important to read.
 
 Allen, R.C. (2005), "A reassessment of the Soviet industrial revolution" _Comparative Economic Studies_ 47, 315–333.([PDF](https://drive.google.com/file/d/1_l2nbH7Dvopfj2scgQo1mew59CpnlqKp/view?usp=sharing)) optional.
+
+
+
+
+
+
+
+### T10: Globalization and Colonization
+
+[slides](https://jhconning.github.io/eco331/slides/sl_10_slavery.html) 
+
+  * KR 6 "Was it Just a matter of Colonization and Exploitation?"
+  * Inikori, J (2007) “Africa and the globalization process: Western Africa, 1450–1850” _Journal of Global History_ , 2, pp. 63-86. (read pages 79-84, skim the rest) [PDF](https://drive.google.com/file/d/1FVPGnZxyrXcSz_TzStInGiW81YSRbD6l/view?usp=sharing)
+
+Student presentations
+  * Dippel, Christian, Avner Greif, and Daniel Trefler. 2020. "Outside Options, Coercion, and Wages: Removing the Sugar Coating." _The Economic Journal_ 130(630): 1678–1714. [PaperLinks to an external site.](https://drive.google.com/file/d/19Z071GHVKbaLjvFRv7iuqdmDPDWy3dkn/view?usp=sharing)
+  * Williamson, Jeffrey G. 1998. "Globalization, Labor Markets and Policy Backlash in the Past." _Journal of Economic Perspectives_ 12(4): 51–72. [PaperLinks to an external site.](https://www.aeaweb.org/articles?id=10.1257/jep.12.4.51)
+
+
+
 
 ### T0: The American experience
 
