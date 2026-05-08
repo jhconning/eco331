@@ -7,3 +7,10 @@
 > Hopefully, we will have the Canvas site back in a few days.
 
 Welcome to the course repository! Use the navigation menu to view the reading schedule and access the slide decks.
+
+### Quick Links
+- [Course Syllabus](course_syllabus.md)
+- [Course Outline and Reading Schedule](course_outline_and_reading_schedule.md)
+- [Paper Presentation Assignments](paper_presentation_assignments.md)
+- [Midterm Materials](midterm_materials.md)
+- [Slide Decks](slideslist.md)

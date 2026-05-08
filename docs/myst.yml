@@ -9,7 +9,13 @@ site:
   nav:
     - title: Home
       url: /index
+    - title: Syllabus
+      url: /course_syllabus
     - title: Reading Schedule
       url: /course_outline_and_reading_schedule
+    - title: Paper Presentation Assignments
+      url: /paper_presentation_assignments
+    - title: Midterm Materials
+      url: /midterm_materials
     - title: Slide Decks
       url: /slideslist
