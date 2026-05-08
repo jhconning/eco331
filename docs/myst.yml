@@ -1,0 +1,15 @@
+version: 1
+project:
+  title: "ECO 331: Economic History 2026"
+  description: "Course Materials and Slide Decks"
+site:
+  template: book-theme
+  options:
+    logo: images/IR1.png
+  nav:
+    - title: Home
+      url: /index
+    - title: Reading Schedule
+      url: /course_outline_and_reading_schedule
+    - title: Slide Decks
+      url: /slideslist
