@@ -217,9 +217,13 @@ Student presentations
 
 ### T0: The American experience
 
+Atack, Jeremy, Robert A. Margo, and Paul W. Rhode. 2019. “‘Automation’ of Manufacturing in the Late Nineteenth Century: The Hand and Machine Labor Study.” Journal of Economic Perspectives 33 (2): 51–70. [PDF](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.51)
+
+
+
 Lamoreaux, Naomi R. 2011. “The Mystery of Property Rights: A US Perspective.” _The Journal of Economic History_ , 275–306.
 
-Atack, Jeremy and Passell, Peter. 1994. "The Beginnings of Industrialization," chapter 7 in Atack and Passell, _A New Economic View of American History_. 
+
 
 Student focus papers:
 
