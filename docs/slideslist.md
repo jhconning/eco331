@@ -4,11 +4,11 @@ Below you will find the links to all active presentations for the semester.
 
 <!-- TOC_START -->
 
-*Last Deployed: 2026-05-08 09:06 EST*
+*Last Deployed: 2026-05-08 09:08 EST*
 
 ## Deployed Presentations
 
-- [ECO 331: Economic History - sl10_slavery](https://jhconning.github.io/eco331/slides/sl_10_slavery.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_10_slavery.pdf)) *(Last edit: 2026-05-07 08:59)*
+- [Slavery and Colonization II](https://jhconning.github.io/eco331/slides/sl_10_slavery.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_10_slavery.pdf)) *(Last edit: 2026-05-08 09:07)*
 - [Introduction](https://jhconning.github.io/eco331/slides/sl_1_Intro.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_1_Intro.pdf)) *(Last edit: 2026-04-29 22:59)*
 - [Neolithic Revolutio and Early States](https://jhconning.github.io/eco331/slides/sl_2_EarlyStates_revised2.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_2_EarlyStates_revised2.pdf)) *(Last edit: 2026-04-29 22:59)*
 - [Geography](https://jhconning.github.io/eco331/slides/sl_3_Geography.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_3_Geography.pdf)) *(Last edit: 2026-04-29 22:59)*
