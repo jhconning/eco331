@@ -96,7 +96,7 @@ jobs:
         if: steps.slides-folder-exists.outputs.has_slides == '0'
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: -I slides/ -o docs/_build/html/slides/
+          args: --html -I slides/ -o docs/_build/html/slides/
         env:
           MARP_USER: root:root
 
@@ -104,7 +104,7 @@ jobs:
         if: steps.slides-folder-exists.outputs.has_slides == '0'
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: -I slides/ -o docs/_build/html/slides/ --pdf --allow-local-files
+          args: --html -I slides/ -o docs/_build/html/slides/ --pdf --allow-local-files
         env:
           MARP_USER: root:root
 
