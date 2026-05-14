@@ -9,6 +9,8 @@ title: Course Outline And Reading Schedule
 
 See the [student presentation assignment ](https://canvas.instructure.com/courses/14011875/pages/paper-presentation-assignments "Paper presentation assignments")page to see what group you are assigned to.
 
+All slides are available as links below or at [Slide Decks](https://jhconning.github.io/eco331/slideslist) where you can also HTML (interactive) and PDF links.
+
 * * *
 
 **Required texts (and abbreviations)**
@@ -157,17 +159,23 @@ Class Date: 4/21 [Slides](https://jhconning.github.io/eco331/slides/sl_7b_LandAb
 
   * VoxTalks Economics podcast, "Slavery and the Industrial Revolution" (Tim Phillips interviews S Heblich and J Voth on recent research) ([link](https://cepr.org/multimedia/slavery-and-industrial-revolution), ~27 min)
 
+  * KR 6 "Was it Just a matter of Colonization and Exploitation?"
+  * Inikori, J (2007) “Africa and the globalization process: Western Africa, 1450–1850” _Journal of Global History_ , 2, pp. 63-86. (read pages 79-84, skim the rest) [PDF](https://drive.google.com/file/d/1FVPGnZxyrXcSz_TzStInGiW81YSRbD6l/view?usp=sharing)
+
 
 
 Student Focus papers:
 
   * Heblich, Stephan, Stephen J. Redding, and Hans-Joachim Voth. 2022. "Slavery and the British Industrial Revolution." Working Paper. National Bureau of Economic Research. [PaperLinks to an external site.](https://www.princeton.edu/~reddings/papers/SBIR_Paper.pdf)
+  * Dippel, Christian, Avner Greif, and Daniel Trefler. 2020. "Outside Options, Coercion, and Wages: Removing the Sugar Coating." _The Economic Journal_ 130(630): 1678–1714. [PaperLinks to an external site.](https://drive.google.com/file/d/19Z071GHVKbaLjvFRv7iuqdmDPDWy3dkn/view?usp=sharing)
+  * Williamson, Jeffrey G. 1998. "Globalization, Labor Markets and Policy Backlash in the Past." _Journal of Economic Perspectives_ 12(4): 51–72. [PaperLinks to an external site.](https://www.aeaweb.org/articles?id=10.1257/jep.12.4.51)
+
 
 
 ### T9: The Industrial Revolution
 
-Class Date: 4/28    
-[Slides](https://jhconning.github.io/eco331/slides/sl_9_IR.html), [as pdf](https://jhconning.github.io/eco331/slides/sl_9_IR.pdf)
+Class Date: 4/28 (we're catching up on reading assigned earlier, but not yet discussed).  
+[Slides](https://jhconning.github.io/eco331/slides/sl_9_IR.html) [as pdf](https://jhconning.github.io/eco331/slides/sl_9_IR.pdf)
 
   * OG 4 "Full Steam"
   * KR 8 "Britain's Industrial Revolution"
@@ -183,63 +191,52 @@ Student Focus papers:
 
 
 
+### T10: The second Industrial Revolution and the Late Industrialisers
 
-### T9: The second Industrial Revolution and the Late Industrialisers
-
-[slides](https://jhconning.github.io/eco331/slides/sl_9b_IR2.html), [as pdf](https://jhconning.github.io/eco331/slides/sl_9b_IR2.pdf)
+Class Date:
 
 KR 9: "The Rise of the Modern Economy"  
 OG 4 ,5 "Full Steam" and "Metamorphosis"
 
 Allen, R.C. (2011), "The Ascent of the Rich", and "The Standard Model and Late Industrialization," chapters 4 and 8 in _Global economic history: a very short introduction_. Oxford University Press. ([PDF](https://drive.google.com/file/d/1_x9U85lxtkBIgU2MuCSHg_uclQ3S1e6m/view?usp=sharing)) < \-- important to read.
 
-Allen, R.C. (2005), "A reassessment of the Soviet industrial revolution" _Comparative Economic Studies_ 47, 315–333.([PDF](https://drive.google.com/file/d/1_l2nbH7Dvopfj2scgQo1mew59CpnlqKp/view?usp=sharing)) optional.
+## T11: Globalization and Colonization
 
+[Slides](https://jhconning.github.io/eco331/slides/sl_10_slavery.html)
 
+- KR 6 “Was it Just a matter of Colonization and Exploitation?”
 
-
-
-
-
-### T10: Globalization and Colonization
-
-[slides](https://jhconning.github.io/eco331/slides/sl_10_slavery.html) 
-
-  * KR 6 "Was it Just a matter of Colonization and Exploitation?"
-  * Inikori, J (2007) “Africa and the globalization process: Western Africa, 1450–1850” _Journal of Global History_ , 2, pp. 63-86. (read pages 79-84, skim the rest) [PDF](https://drive.google.com/file/d/1FVPGnZxyrXcSz_TzStInGiW81YSRbD6l/view?usp=sharing)
+- Inikori, J (2007) “Africa and the globalization process: Western Africa, 1450–1850” Journal of Global History , 2, pp. 63-86. (read pages 79-84, skim the rest) PDF
 
 Student presentations
-  * Dippel, Christian, Avner Greif, and Daniel Trefler. 2020. "Outside Options, Coercion, and Wages: Removing the Sugar Coating." _The Economic Journal_ 130(630): 1678–1714. [PaperLinks to an external site.](https://drive.google.com/file/d/19Z071GHVKbaLjvFRv7iuqdmDPDWy3dkn/view?usp=sharing)
-  * Williamson, Jeffrey G. 1998. "Globalization, Labor Markets and Policy Backlash in the Past." _Journal of Economic Perspectives_ 12(4): 51–72. [PaperLinks to an external site.](https://www.aeaweb.org/articles?id=10.1257/jep.12.4.51)
+
+- Dippel, Christian, Avner Greif, and Daniel Trefler. 2020. “Outside Options, Coercion, and Wages: Removing the Sugar Coating.” The Economic Journal 130(630): 1678–1714. PaperLinks to an external site.
+
+- Williamson, Jeffrey G. 1998. “Globalization, Labor Markets and Policy Backlash in the Past.” Journal of Economic Perspectives 12(4): 51–72. PaperLinks to an external site.
+
+## T12: The American experience
+
+[slides](https://jhconning.github.io/eco331/slides/automation2.html) as [PDF](https://jhconning.github.io/eco331/slides/automation2.pdf)
+
+- Atack, Jeremy, Robert A. Margo, and Paul W. Rhode. 2019. “‘Automation’ of Manufacturing in the Late Nineteenth Century: The Hand and Machine Labor Study.” Journal of Economic Perspectives 33 (2): 51–70. PDF
+
+- Acemoglu, Daron, and Pascual Restrepo. “Automation and New Tasks: How Technology Displaces and Reinstates Labor.” Journal of Economic Perspectives 33, no. 2 (2019): 3–30.  [PDF](https://drive.google.com/file/d/1EN2vgjUJGaRaKScuriX6N8FCxzVkA5tQ/view?usp=sharing) OPTIONAL
 
 
-
-
-### T0: The American experience
-
-Atack, Jeremy, Robert A. Margo, and Paul W. Rhode. 2019. “‘Automation’ of Manufacturing in the Late Nineteenth Century: The Hand and Machine Labor Study.” Journal of Economic Perspectives 33 (2): 51–70. [PDF](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.51)
-
-
-
-
-### 
 
 ### T12: Asian Miracles and wealth and Inequality in The Modern World
-
-### 
 
   * Studwell, Joe (2013) "Manufacturing: The Victory of the Historians," in _How Asia Works: Success and Failure in the World's Most Dynamic Region, _Grove Press. pp 64-87 ([PDF](https://delong.typepad.com/files/studwell.pdf))
   * Studwell, Joe (2013) "Journey 3: Seoul to Pohang and Ulsan," in _How Asia Works: Success and Failure in the World's Most Dynamic Region, _Grove Press. pp 87-100 ([PDF](https://delong.typepad.com/files/studwell.pdf)) optional
   * KR 10 "Industrialization and the World It Created"
 
 
+Student focus papers:
 
-### 
-
-  * KR 11 "The World is Rich"
-
+  * Allen, Douglas W. 2019. "Establishing Economic Property Rights by Giving Away an Empire." _The Journal of Law and Economics_ 62(2): 251–80. [Paper](https://drive.google.com/file/d/1x3eA_cwjyCss7dl_wsWVnKPja2sRkEkB/view?usp=sharing)
 
 
-Last class
 
-Final Exam
+Last class: May 19
+
+Final Exam:  May 26  (study materials to follow)
