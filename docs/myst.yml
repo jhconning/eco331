@@ -8,14 +8,14 @@ site:
     logo: images/IR1.png
   nav:
     - title: Home
-      url: /index
+      url: /
     - title: Syllabus
-      url: /course_syllabus
+      url: /course-syllabus
     - title: Reading Schedule
-      url: /course_outline_and_reading_schedule
+      url: /course-outline-and-reading-schedule
     - title: Paper Presentation Assignments
-      url: /paper_presentation_assignments
+      url: /paper-presentation-assignments
     - title: Midterm Materials
-      url: /midterm_materials
+      url: /midterm-materials
     - title: Slide Decks
       url: /slideslist
