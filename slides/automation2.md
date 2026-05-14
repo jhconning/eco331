@@ -233,11 +233,7 @@ $$Y = \exp \left( \int_{N-1}^{N} \ln y(i) di \right)$$
 ![bg center w:800](attachments/automation/AR_recent.png)
 
 
----
-## Some explanations
 
-- **Institutional Bias:** U.S. tax code, especially since 1980s, subsidizes capital investment (e.g. investment tax credits and accelerated depreciation) while taxing human labor (via payroll taxes). Weaker unions.
-- **Industry Incentives:** The venture capital model prioritizes software designed to substitute for labor and reduce immediate payroll costs, rather than the longer-term investments required to generate new human-centric industries.
 
 ---
 ## The "So-So" Technology Trap
@@ -265,15 +261,4 @@ $$Y = \exp \left( \int_{N-1}^{N} \ln y(i) di \right)$$
 | **East Asia** | Land reform + Export orientation. | Adaptation drives Reinstatement + Productivity. | Broad-based wage growth. |
 | **Modern Era** | Tax bias for capital + Silicon Valley incentives. | Steady Displacement, slowing Reinstatement. | Stagnant median wages, rising inequality. |
 
----
-## Concluding Thoughts
-
-- The Industrial Revolution fundamentally reorganized the allocation of tasks between capital and labor.
-- Economic history suggests that outcomes for workers are not strictly determined by the capabilities of new machines, but by the surrounding economic and political institutions.
-- Sustained wage growth generally requires technology directed toward creating new tasks, supported by policies that invest in human capital and maintain labor's bargaining position.
-
-
-
-
-Gemini is AI and can make mistakes.
 
