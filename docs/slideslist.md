@@ -4,12 +4,11 @@ Below you will find the links to all active presentations for the semester.
 
 <!-- TOC_START -->
 
-*Last Deployed: 2026-05-13 23:17 EST*
+*Last Deployed: 2026-05-13 23:26 EST*
 
 ## Deployed Presentations
 
-- [Automation, Technology, and Labor Demand](https://jhconning.github.io/eco331/slides/automation2.html) ([PDF](https://jhconning.github.io/eco331/slides/automation2.pdf)) *(Last edit: 2026-05-13 23:16)*
-- [Automation, Technology, and Labor Demand](https://jhconning.github.io/eco331/slides/sl_10_automation.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_10_automation.pdf)) *(Last edit: 2026-05-12 09:05)*
+- [Automation, Technology, and Labor Demand](https://jhconning.github.io/eco331/slides/sl_10_automation.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_10_automation.pdf)) *(Last edit: 2026-05-13 23:25)*
 - [Slavery and Colonization II](https://jhconning.github.io/eco331/slides/sl_10_slavery.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_10_slavery.pdf)) *(Last edit: 2026-05-08 09:07)*
 - [Introduction](https://jhconning.github.io/eco331/slides/sl_1_Intro.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_1_Intro.pdf)) *(Last edit: 2026-04-29 22:59)*
 - [Neolithic Revolutio and Early States](https://jhconning.github.io/eco331/slides/sl_2_EarlyStates_revised2.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_2_EarlyStates_revised2.pdf)) *(Last edit: 2026-04-29 22:59)*
