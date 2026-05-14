@@ -226,8 +226,8 @@ Student presentations
 
 ### T12: Asian Miracles and wealth and Inequality in The Modern World
 
-  * Studwell, Joe (2013) "Manufacturing: The Victory of the Historians," in _How Asia Works: Success and Failure in the World's Most Dynamic Region, _Grove Press. pp 64-87 ([PDF](https://delong.typepad.com/files/studwell.pdf))
-  * Studwell, Joe (2013) "Journey 3: Seoul to Pohang and Ulsan," in _How Asia Works: Success and Failure in the World's Most Dynamic Region, _Grove Press. pp 87-100 ([PDF](https://delong.typepad.com/files/studwell.pdf)) optional
+  * Studwell, Joe (2013) "Manufacturing: The Victory of the Historians," in _How Asia Works: Success and Failure in the World's Most Dynamic Region, _Grove Press. pp 64-87 ([PDF](https://drive.google.com/file/d/1znCQjAyj9scvRs8lZOP4DGnpL5ml1ctW/view?usp=sharing))
+  * Studwell, Joe (2013) "Journey 3: Seoul to Pohang and Ulsan," in _How Asia Works: Success and Failure in the World's Most Dynamic Region, _Grove Press. pp 87-100 ([PDF](https://drive.google.com/file/d/1OYVhnbPYKNSfTciboe8vi-ZuZ1m8zI6D/view?usp=sharing)) optional
   * KR 10 "Industrialization and the World It Created"
 
 
