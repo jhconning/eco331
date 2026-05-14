@@ -72,10 +72,11 @@ jobs:
       - name: Ensure build dir exists
         run: mkdir -p docs/_build/html/slides
 
-      - name: Copy images directory (if exists)
+      - name: Copy assets directory (if exists)
         run: |
           if [[ -d img ]]; then cp -R img docs/_build/html/img; fi
-          if [[ -d slides/attachments ]]; then mkdir -p docs/_build/html/slides && cp -R slides/attachments docs/_build/html/slides/attachments; fi
+          if [[ -d slides/attachments ]]; then mkdir -p docs/_build/html/slides && cp -R slides/attachments docs/_build/html/slides/; fi
+          if [[ -d slides/iframe ]]; then mkdir -p docs/_build/html/slides && cp -R slides/iframe docs/_build/html/slides/; fi
 
       - name: Check if slides folder exists
         id: slides-folder-exists
