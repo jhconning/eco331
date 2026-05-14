@@ -221,15 +221,6 @@ Atack, Jeremy, Robert A. Margo, and Paul W. Rhode. 2019. “‘Automation’ of 
 
 
 
-Lamoreaux, Naomi R. 2011. “The Mystery of Property Rights: A US Perspective.” _The Journal of Economic History_ , 275–306.
-
-
-
-Student focus papers:
-
-  * Allen, Douglas W. 2019. "Establishing Economic Property Rights by Giving Away an Empire." _The Journal of Law and Economics_ 62(2): 251–80. [Paper](https://drive.google.com/file/d/1x3eA_cwjyCss7dl_wsWVnKPja2sRkEkB/view?usp=sharing)
-
-
 
 ### 
 
