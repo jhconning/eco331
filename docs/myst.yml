@@ -3,6 +3,20 @@ project:
   title: "ECO 331: Economic History 2026"
   description: "Course Materials and Slide Decks"
   github: https://github.com/jhconning/eco331
+  toc:
+    - file: index.md
+    - title: Reading Schedule
+      file: course_outline_and_reading_schedule.md
+    - title: Final Exam Prep
+      file: final_exam_questions.md
+    - title: Paper Presentation Assignments
+      file: paper_presentation_assignments.md
+    - title: Midterm Materials
+      file: midterm_materials.md
+    - title: Slide Decks
+      file: slideslist.md
+    - title: Syllabus
+      file: course_syllabus.md
 site:
   template: book-theme
   actions:
@@ -15,7 +29,7 @@ site:
       file: index.md
     - title: Reading Schedule
       file: course_outline_and_reading_schedule.md
-    - title: Final Exam Questions
+    - title: Final Exam Prep
       file: final_exam_questions.md
     - title: Paper Presentation Assignments
       file: paper_presentation_assignments.md
