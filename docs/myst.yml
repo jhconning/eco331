@@ -13,6 +13,8 @@ site:
       url: /course-syllabus
     - title: Reading Schedule
       url: /course-outline-and-reading-schedule
+    - title: Final Exam Questions
+      url: /final_exam_questions
     - title: Paper Presentation Assignments
       url: /paper-presentation-assignments
     - title: Midterm Materials
