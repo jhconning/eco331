@@ -9,8 +9,6 @@ site:
   nav:
     - title: Home
       url: /
-    - title: Syllabus
-      url: /course-syllabus
     - title: Reading Schedule
       url: /course-outline-and-reading-schedule
     - title: Final Exam Questions
@@ -21,3 +19,5 @@ site:
       url: /midterm-materials
     - title: Slide Decks
       url: /slideslist
+    - title: Syllabus
+      url: /course-syllabus
