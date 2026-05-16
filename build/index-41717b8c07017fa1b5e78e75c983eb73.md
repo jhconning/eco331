@@ -9,8 +9,9 @@
 Welcome to the course repository! Use the navigation menu to view the reading schedule and access the slide decks.
 
 ### Quick Links
-- [Course Syllabus](course_syllabus.md)
-- [Course Outline and Reading Schedule](course_outline_and_reading_schedule.md)
-- [Paper Presentation Assignments](paper_presentation_assignments.md)
-- [Midterm Materials](midterm_materials.md)
-- [Slide Decks](slideslist.md)
+- [Final Exam Preparation](final_exam_questions)
+- [Course Outline and Reading Schedule](course-outline-and-reading-schedule)
+- [Paper Presentation Assignments](paper-presentation-assignments)
+- [Midterm Materials](midterm-materials)
+- [Slide Decks](slideslist)
+- [Course Syllabus](course-syllabus)
