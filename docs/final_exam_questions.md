@@ -4,12 +4,12 @@ title: Course Outline And Reading Schedule
 ---
 
 Past exams:
-- [Midterm Exam](midterm-materials)
+- [Midterm Exam](midterm_materials.md)
 - [2025 Final Exam](https://drive.google.com/file/d/1UawozgOIa5JYKMBiHYLY31IeyHp6ohGq/view?usp=sharing) 
 
-The final exam will be similar in format to the [Midterm Exam](midterm-materials) with some multiple-choice questions followed by short and medium length essay questions.  The exam is cumulative, so expect multiple choice and essay questions that draw from throughout the semester, though with more questions coming from the material since the midterm.  
+The final exam will be similar in format to the [Midterm Exam](midterm_materials.md) with some multiple-choice questions followed by short and medium length essay questions.  The exam is cumulative, so expect multiple choice and essay questions that draw from throughout the semester, though with more questions coming from the material since the midterm.  
 
-Below is list of questions that illustrates essay questions on topics since the midterm.    Expect one or two of these questions appearing on the exam, though perhaps in slightly different forms. You should also review the [midterm essay questions](midterm-materials) since I may draw from those, or even recycle questions from the midterm.
+Below is list of questions that illustrates essay questions on topics since the midterm.    Expect one or two of these questions appearing on the exam, though perhaps in slightly different forms. You should also review the [midterm essay questions](midterm_materials.md) since I may draw from those, or even recycle questions from the midterm.
 
 1\. What was the Industrial Revolution? Why do many scholars argue that it first happened in Britain? Discuss at least three interpretations.  Give examples and evidence, naming scholars associated with each view.
 

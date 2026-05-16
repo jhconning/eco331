@@ -8,16 +8,16 @@ site:
     logo: images/IR1.png
   nav:
     - title: Home
-      url: /
+      file: index.md
     - title: Reading Schedule
-      url: /course-outline-and-reading-schedule
+      file: course_outline_and_reading_schedule.md
     - title: Final Exam Questions
-      url: /final_exam_questions
+      file: final_exam_questions.md
     - title: Paper Presentation Assignments
-      url: /paper-presentation-assignments
+      file: paper_presentation_assignments.md
     - title: Midterm Materials
-      url: /midterm-materials
+      file: midterm_materials.md
     - title: Slide Decks
-      url: /slideslist
+      file: slideslist.md
     - title: Syllabus
-      url: /course-syllabus
+      file: course_syllabus.md
