@@ -8,18 +8,18 @@
     <loc>http://localhost:3000/course-outline-and-reading-schedule</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/course-syllabus</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/final-exam-questions</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/midterm-materials</loc>
   </url>
   <url>
     <loc>http://localhost:3000/paper-presentation-assignments</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/midterm-materials</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/slideslist</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/course-syllabus</loc>
   </url>
 </urlset>
