@@ -2,8 +2,12 @@ version: 1
 project:
   title: "ECO 331: Economic History 2026"
   description: "Course Materials and Slide Decks"
+  github: https://github.com/jhconning/eco331
 site:
   template: book-theme
+  actions:
+    - title: GitHub
+      url: https://github.com/jhconning/eco331
   options:
     logo: images/IR1.png
   nav:
