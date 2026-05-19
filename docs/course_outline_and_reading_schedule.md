@@ -216,7 +216,7 @@ Student presentations
 
 ## T12: The American experience
 
-[slides](https://jhconning.github.io/eco331/slides/automation2.html) as [PDF](https://jhconning.github.io/eco331/slides/automation2.pdf)
+[slides](https://jhconning.github.io/eco331/slides/sl_11_automation.html) as [PDF](https://jhconning.github.io/eco331/slides/sl_11_automation.pdf)
 
 - Atack, Jeremy, Robert A. Margo, and Paul W. Rhode. 2019. “‘Automation’ of Manufacturing in the Late Nineteenth Century: The Hand and Machine Labor Study.” Journal of Economic Perspectives 33 (2): 51–70. PDF
 
