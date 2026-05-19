@@ -1,0 +1,1407 @@
+
+--- Page 1 ---
+Journal of Economic Perspectives—Volume 24, Number 2—Spring 2010—Pages 163–188
+TT
+he Columbian Exchange refers to the exchange of diseases, ideas, food h e Co l um bian Ex chan g e ref e rs to th e e x chan g e o f diseases, i d eas, f ood 
+crops, and populations between the New World and the Old World crops, and populations between the New World and the Old World 
+following the voyage to the Americas by Christo pher Columbus in 1492.following the voyage to the Americas by Christo pher Columbus in 1492.
+The Old World— by which we mean not just Europe, but the entire Eastern The Old World—by which we mean not just Europe, but the entire Eastern 
+Hemisphere— gained from the Columbian Exchange in a number of ways. Discov-Hemisphere—gained from the Columbian Exchange in a number of ways. Discov-
+eries of new supplies of metals are perhaps the best known. But the Old World also eries of new supplies of metals are perhaps the best known. But the Old World also 
+gained new staple crops, such as potatoes, sweet potatoes, maize, and cassava. Less gained new staple crops, such as potatoes, sweet potatoes, maize, and cassava. Less 
+calorie-intensive foods, such as tomatoes, chili peppers, cacao, peanuts, and pineap-calorie-intensive foods, such as tomatoes, chili peppers, cacao, peanuts, and pineap-
+ples were also introduced, and are now culinary centerpieces in many Old World ples were also introduced, and are now culinary centerpieces in many Old World 
+countries, namely Italy, Greece, and other Mediterranean countries (tomatoes), countries, namely Italy, Greece, and other Mediterranean countries (tomatoes), 
+India and Korea (chili peppers), Hungary (paprika, made from chili peppers), and India and Korea (chili peppers), Hungary (paprika, made from chili peppers), and 
+Malaysia and Thailand (chili peppers, peanuts, and pineapples). Tobacco, another Malaysia and Thailand (chili peppers, peanuts, and pineapples). Tobacco, another 
+New World crop, was so universally adopted that it came to be used as a substitute New World crop, was so universally adopted that it came to be used as a substitute 
+for currency in many parts of the world. The exchange also drastically increased for currency in many parts of the world. The exchange also drastically increased 
+the availability of many Old World crops, such as sugar and coffee, which were the availability of many Old World crops, such as sugar and coffee, which were 
+particularly well-suited for the soils of the New World.particularly well-suited for the soils of the New World.
+The exchange not only brought gains, but also losses. European contact The exchange not only brought gains, but also losses. European contact 
+enabled the transmission of diseases to previously isolated communities, which enabled the transmission of diseases to previously isolated communities, which 
+The Columbian Exchange: 
+A History of Disease, Food, and Ideas
+■ ■ Nathan Nunn is an Assistant Professor of Economics, Harvard University, Cambridge, Nathan Nunn is an Assistant Professor of Economics, Harvard University, Cambridge, 
+Massachusetts. During the 2009–2010 academic year, he was the Trione Visiting Professor of Massachusetts. During the 2009–2010 academic year, he was the Trione Visiting Professor of 
+Economics at Stanford University, Stanford, California. Nancy Qian is an Assistant Professor Economics at Stanford University, Stanford, California. Nancy Qian is an Assistant Professor 
+of Economics, Yale University, New Haven, Connecticut. Both authors are also Faculty of Economics, Yale University, New Haven, Connecticut. Both authors are also Faculty 
+Research Fellows, National Bureau of Economic Research (NBER), Cambridge, Massachu-Research Fellows, National Bureau of Economic Research (NBER), Cambridge, Massachu-
+setts, and Affi liates, Bureau for Research and Economic Analysis of Development (BREAD). setts, and Affi liates, Bureau for Research and Economic Analysis of Development (BREAD). 
+Their e-mail addresses are Their e-mail addresses are 〈〈nnunn@fas.harvard.edunnunn@fas.harvard.edu〉〉 and  and 〈〈nancy.qian@yale.edunancy.qian@yale.edu〉〉..
+doi=10.1257/jep.24.2.163
+Nathan Nunn and Nancy Qian
+--- Page 2 ---
+164    Journal of Economic Perspectives
+causedcaused  devastation far exceeding that of even the Black Death in fourteenth-century devastation far exceeding that of even the Black Death in fourteenth-century 
+Europe. Europeans brought deadly viruses and bacteria, such as smallpox, measles, Europe. Europeans brought deadly viruses and bacteria, such as smallpox, measles, 
+typhus, and cholera, for which Native Americans had no immunity (Denevan, 1976). typhus, and cholera, for which Native Americans had no immunity (Denevan, 1976). 
+On their return home, European sailors brought syphilis to Europe. Although less On their return home, European sailors brought syphilis to Europe. Although less 
+deadly, the disease was known to have caused great social disruption throughout deadly, the disease was known to have caused great social disruption throughout 
+the Old World (Sherman, 2007).the Old World (Sherman, 2007).
+The effects of the Columbian Exchange were not isolated to the parts of the The effects of the Columbian Exchange were not isolated to the parts of the 
+world most directly participating in the exchange: Europe and the Americas. It also world most directly participating in the exchange: Europe and the Americas. It also 
+had large, although less direct, impacts on Africa and Asia. European exploration had large, although less direct, impacts on Africa and Asia. European exploration 
+and colonization of the vast tropical regions of these continents was aided by the and colonization of the vast tropical regions of these continents was aided by the 
+New World discovery of quinine, the fi rst effective treatment for malaria. Moreover, New World discovery of quinine, the fi rst effective treatment for malaria. Moreover, 
+the cultivation of fi nancially lucrative crops in the Americas, along with the devas-the cultivation of fi nancially lucrative crops in the Americas, along with the devas-
+tation of native populations from disease, resulted in a demand for labor that was tation of native populations from disease, resulted in a demand for labor that was 
+met with the abduction and forced movement of over 12 million Africans during met with the abduction and forced movement of over 12 million Africans during 
+the sixteenth to nineteenth centuries (Lovejoy, 2000; Manning, 1990).the sixteenth to nineteenth centuries (Lovejoy, 2000; Manning, 1990).
+The Columbian Exchange has provided economists interested in the long-The Columbian Exchange has provided economists interested in the long-
+term effects of history on economic development with a rich historical laboratory. term effects of history on economic development with a rich historical laboratory. 
+Economic studies have thus far mainly focused on how European institutions, Economic studies have thus far mainly focused on how European institutions, 
+through colonialism, were transplanted to non-European parts of the world. The through colonialism, were transplanted to non-European parts of the world. The 
+seminal papers by Engerman and Sokoloff (1997), La Porta, Lopez-de-Silanes, seminal papers by Engerman and Sokoloff (1997), La Porta, Lopez-de-Silanes, 
+Shleifer, and Vishny (1997, 1998), and Acemoglu, Johnson, and Robinson (2001) Shleifer, and Vishny (1997, 1998), and Acemoglu, Johnson, and Robinson (2001) 
+examine the effects that European contact, taking the form of formal and informal examine the effects that European contact, taking the form of formal and informal 
+colonial rule, had on other societies.colonial rule, had on other societies.11
+In this paper, we attempt to broaden the scope of economic studies of the In this paper, we attempt to broaden the scope of economic studies of the 
+Columbian Exchange by studying aspects of the exchange that have received less Columbian Exchange by studying aspects of the exchange that have received less 
+attention. First, we pay particular attention to the effects that the exchange had on attention. First, we pay particular attention to the effects that the exchange had on 
+the Old World, rather than examining outcomes in the New World. Second, rather the Old World, rather than examining outcomes in the New World. Second, rather 
+than concentrating on the effects of the exchange that work through institutional than concentrating on the effects of the exchange that work through institutional 
+and political structures, we focus on the less-studied, but no less-important chan-and political structures, we focus on the less-studied, but no less-important chan-
+nels; namely, the biological exchange of food crops and disease. Our hope is that nels; namely, the biological exchange of food crops and disease. Our hope is that 
+our broad descriptive overview of some of the neglected aspects of the Columbian our broad descriptive overview of some of the neglected aspects of the Columbian 
+Exchange will spur further more-rigorous studies of the long-term consequences of Exchange will spur further more-rigorous studies of the long-term consequences of 
+these aspects of the exchange.these aspects of the exchange.
+We are aware of only a handful of empirical papers that either focus on the We are aware of only a handful of empirical papers that either focus on the 
+effect of the exchange on the Old World or focus on channels other than legal effect of the exchange on the Old World or focus on channels other than legal 
+institutions. Acemoglu, Johnson, and Robinson (2005) examine the effects of the institutions. Acemoglu, Johnson, and Robinson (2005) examine the effects of the 
+three-corner Atlantic trade on Europe. They argue that the profi ts from the trade three-corner Atlantic trade on Europe. They argue that the profi ts from the trade 
+strengthened the merchant class, which resulted in stronger probusiness institutions strengthened the merchant class, which resulted in stronger probusiness institutions 
+and increased economic growth. Two studies have recently explored the effects from and increased economic growth. Two studies have recently explored the effects from 
+1 Subsequent studies have since added to the understanding of the long-term effects of colonial rule 
+and European contact on New World Societies. See for example Mitchener and McLean (2003), 
+Berkowitz and Clay (2005, 2006), Acemoglu, Bautista, Querubin, and Robinson (2008), Dell (2008), 
+and Nunn (2008a), as well as the review by Nunn (2009).
+--- Page 3 ---
+Nathan Nunn and Nancy Qian     165
+the botanical exchange. In Nunn and Qian (2009), using a generalized difference-the botanical exchange. In Nunn and Qian (2009), using a generalized difference-
+in-differences empirical strategy, we fi nd that the introduction of potatoes to the Old in-differences empirical strategy, we fi nd that the introduction of potatoes to the Old 
+World resulted in a signifi cant increase in population and urbanization. Our fi nding World resulted in a signifi cant increase in population and urbanization. Our fi nding 
+complements earlier research by Mokyr (1981) that estimates the effects of the potato complements earlier research by Mokyr (1981) that estimates the effects of the potato 
+on population growth within Ireland. Hersh and Voth (2009) examine the benefi ts on population growth within Ireland. Hersh and Voth (2009) examine the benefi ts 
+that arose from the increase in land for cultivating the Old World crops coffee and that arose from the increase in land for cultivating the Old World crops coffee and 
+sugar after 1492. According to their calculations (see their table 9), the increased sugar after 1492. According to their calculations (see their table 9), the increased 
+availability of sugar increased English welfare by 8 percent by 1850, while the greater availability of sugar increased English welfare by 8 percent by 1850, while the greater 
+availability of coffee increased welfare by 1.5 percent.availability of coffee increased welfare by 1.5 percent.
+In the following section, we examine the most devastating and unfortunate In the following section, we examine the most devastating and unfortunate 
+consequences of the Columbian Exchange, which arose from the exchange of consequences of the Columbian Exchange, which arose from the exchange of 
+disease between the Old and New Worlds. Next, we turn to the effects of the disease between the Old and New Worlds. Next, we turn to the effects of the 
+exchange that arose from the transfer of foods between the New and Old Worlds. exchange that arose from the transfer of foods between the New and Old Worlds. 
+We then examine the indirect consequences of the exchange on Africa and Asia. We then examine the indirect consequences of the exchange on Africa and Asia. 
+The fi nal section of the paper offers concluding thoughts.The fi nal section of the paper offers concluding thoughts.
+DiseaseDisease
+The Spread of Disease from the Old World to the NewThe Spread of Disease from the Old World to the New
+The list of infectious diseases that spread from the Old World to the New is The list of infectious diseases that spread from the Old World to the New is 
+long; the major killers include smallpox, measles, whooping cough, chicken pox, long; the major killers include smallpox, measles, whooping cough, chicken pox, 
+bubonic plague, typhus, and malaria (Denevan, 1976, p. 5). Because native popula-bubonic plague, typhus, and malaria (Denevan, 1976, p. 5). Because native popula-
+tions had no previous contact with Old World diseases, they were immunologically tions had no previous contact with Old World diseases, they were immunologically 
+defenseless. Dobyns (1983, p. 34) writes that “before the invasion of peoples of the defenseless. Dobyns (1983, p. 34) writes that “before the invasion of peoples of the 
+New World by pathogens that evolved among inhabitants of the Old World, Native New World by pathogens that evolved among inhabitants of the Old World, Native 
+Americans lived in a relatively disease-free environment. . . . Before Europeans Americans lived in a relatively disease-free environment. . . . Before Europeans 
+initiated the Columbian Exchange of germs and viruses, the peoples of the Amer-initiated the Columbian Exchange of germs and viruses, the peoples of the Amer-
+icas suffered no smallpox, no measles, no chickenpox, no infl uenza, no typhus, no icas suffered no smallpox, no measles, no chickenpox, no infl uenza, no typhus, no 
+typhoid or parathyroid fever, no diphtheria, no cholera, no bubonic plague, no typhoid or parathyroid fever, no diphtheria, no cholera, no bubonic plague, no 
+scarlet fever, no whooping cough, and no malaria.”scarlet fever, no whooping cough, and no malaria.”
+Although we may never know the exact magnitudes of the depopulation, it is Although we may never know the exact magnitudes of the depopulation, it is 
+estimated that upwards of 80–95 percent of the Native American population was estimated that upwards of 80–95 percent of the Native American population was 
+decimated within the fi rst 100–150 years following 1492 (Newson, 2001). Within decimated within the fi  rst 100–150 years following 1492 (Newson, 2001). Within 
+50 years following contact with Columbus and his crew, the native Taino popu-50 years following contact with Columbus and his crew, the native Taino popu-
+lation of the island of Hispanola, which had an estimated population between lation of the island of Hispanola, which had an estimated population between 
+60,000 and 8 million, was virtually extinct (Cook, 1993). Central Mexico’s popula-60,000 and 8 million, was virtually extinct (Cook, 1993). Central Mexico’s popula-
+tion fell from just under 15 million in 1519 to approximately 1.5 million a century tion fell from just under 15 million in 1519 to approximately 1.5 million a century 
+later. Historian and demographer Nobel David Cook estimates that, in the end, later. Historian and demographer Nobel David Cook estimates that, in the end, 
+the regions least affected lost 80 percent of their populations; those most affected the regions least affected lost 80 percent of their populations; those most affected 
+lost their full populations; and a typical society lost 90 percent of its population lost their full populations; and a typical society lost 90 percent of its population 
+(Cook, 1998, p. 5).(Cook, 1998, p. 5).
+The uncertainty surrounding the exact magnitude of the depopulation The uncertainty surrounding the exact magnitude of the depopulation 
+of the Americas arises because we don’t know the extent to which disease may of the Americas arises because we don’t know the extent to which disease may 
+--- Page 4 ---
+166    Journal of Economic Perspectives
+have depopulated the regions beyond the initial point of contact before literate have depopulated the regions beyond the initial point of contact before literate 
+European observers made physical contact with these populations (Dobyns, 1993). European observers made physical contact with these populations (Dobyns, 1993). 
+If disease traveled faster than the explorers, it would have killed a signifi cant I f  d i s e a s e  t r a v e l e d  f a s t e r  t h a n  t h e  e x p l o r e r s ,  i t  w o u l d  h a v e  k i l l e d  a  s i g n i fi cant 
+portion of native populations before direct contact, causing fi rst-hand accounts portion of native populations before direct contact, causing fi  rst-hand accounts 
+of initial population sizes to be biased downward. The result is that 1491 popula-of initial population sizes to be biased downward. The result is that 1 491 popula-
+tion estimates for the Americas have varied wildly, from a lower-bound estimate tion estimates for the Americas have varied wildly, from a lower-bound estimate 
+of approximately 8 million (Kroeber, 1939) to an upper-bound estimate of over of approximately 8 million (Kroeber, 1939) to an upper-bound estimate of over 
+110 million people (Dobyns, 1966). Surprisingly, despite decades of research, the 110 million people (Dobyns, 1966). Surprisingly, despite decades of research, the 
+range of the estimates has not narrowed, and no clear consensus has emerged range of the estimates has not narrowed, and no clear consensus has emerged 
+about whether the true fi gure lies closer to the high or low end of the range. For  about whether the true fi gure lies closer to the high or low end of the range. For  
+examples of the opposing views, see Henige (1998) and Mann (2005).examples of the opposing views, see Henige (1998) and Mann (2005).
+Syphilis: A New World Disease?Syphilis: A New World Disease?
+There are very few examples of disease being spread from the New World to There are very few examples of disease being spread from the New World to 
+the Old.the Old.22 The most notable exception, and by far the most controversial, is venereal  The most notable exception, and by far the most controversial, is venereal 
+syphilis. Biologist Irwin Sherman (2007) lists venereal syphilis as one of the twelve syphilis. Biologist Irwin Sherman (2007) lists venereal syphilis as one of the twelve 
+diseases that changed the world. This may seem surprising, given that today venereal diseases that changed the world. This may seem surprising, given that today venereal 
+syphilis is a nonfatal disease that is effectively treated with penicillin. However, this syphilis is a nonfatal disease that is effectively treated with penicillin. However, this 
+was not always the case. Early on, in the late fi fteenth and early sixteenth centuries, was not always the case. Early on, in the late fi fteenth and early sixteenth centuries, 
+the disease was frequently fatal, and its symptoms were much more severe. They the disease was frequently fatal, and its symptoms were much more severe. They 
+included genital ulcers, rashes, large tumors, severe pain, dementia, and eventual included genital ulcers, rashes, large tumors, severe pain, dementia, and eventual 
+death. Over time, as the disease evolved, its symptoms changed, becoming more death. Over time, as the disease evolved, its symptoms changed, becoming more 
+benign and less fatal. By the seventeenth century, syphilis had developed into the benign and less fatal. By the seventeenth century, syphilis had developed into the 
+disease that we know today (Crosby, 2003, pp. 151–53).disease that we know today (Crosby, 2003, pp. 151–53).
+Two theories of the origins of venereal syphilis exist. The fi rst, referred to as the Two theories of the origins of venereal syphilis exist. The fi rst, referred to as the 
+“Columbian hypothesis,” asserts that the disease-causing agent “Columbian hypothesis,” asserts that the disease-causing agent Treponema pallidum  
+originated in the New World and was spread in 1493 by Christopher Columbus originated in the New World and was spread in 1493 by Christopher Columbus 
+and his crew, who acquired it from the natives of Hispaniola through sexual and his crew, who acquired it from the natives of Hispaniola through sexual 
+contact. Upon return to Spain, some of these men joined the military campaign contact. Upon return to Spain, some of these men joined the military campaign 
+of Charles VIII of France and laid siege to Naples in 1495. Encamped soldiers o f  C h a r l e s  V I I I  o f  F r a n c e  a n d  l a i d  s i e g e  t o  N a p l e s  i n  1 4 9 5 .  E n c a m p e d  s o l d i e r s  
+exposed the local populations of prostitutes, which amplifi ed disease transmission. exposed the local populations of prostitutes, which amplifi ed disease transmission. 
+Infected and disbanding mercenaries then spread the disease throughout Europe Infected and disbanding mercenaries then spread the disease throughout Europe 
+when they returned home. Within fi ve years of its arrival, the disease was epidemic when they returned home. Within fi ve years of its arrival, the disease was epidemic 
+in Europe. Syphilis reached Hungary and Russia by 1497; Africa, the Middle East, in Europe. Syphilis reached Hungary and Russia by 1497; Africa, the Middle East, 
+and India by 1498; China by 1505; Australia by 1515; and Japan by 1569 (Crosby, and India by 1498; China by 1505; Australia by 1515; and Japan by 1569 (Crosby, 
+1969; Dennie, 1962; Harrison, 1959; Snodgrass, 2003; Sherman, 2007).1969; Dennie, 1962; Harrison, 1959; Snodgrass, 2003; Sherman, 2007).
+The second theory, the “pre-Columbian hypothesis,” asserts that the disease The second theory, the “pre-Columbian hypothesis,” asserts that the disease 
+had always existed in the Old World, and the fact that there were no accounts of the had always existed in the Old World, and the fact that there were no accounts of the 
+disease prior to the 1490s is because prior to this time it had not been differentiated disease prior to the 1490s is because prior to this time it had not been differentiated 
+2 One reason for this is that Eurasian societies had domesticated more animals than societies of the 
+Americas. Since many deadly human diseases originated as diseases among animals, this resulted in 
+more disease originating in and being spread from Europeans to Native Americans, rather than vice 
+versa (Diamond, 1997).
+--- Page 5 ---
+The Columbian Exchange: A History of Disease, Food, and Ideas     167
+from other diseases with similar symptoms (Cockburn, 1961, 1963; Hackett, 1963, from other diseases with similar symptoms (Cockburn, 1961, 1963; Hackett, 1963, 
+1967; Holcomb, 1934, 1935). Proponents of the pre-Columbian hypothesis cite 1967; Holcomb, 1934, 1935). Proponents of the pre-Columbian hypothesis cite 
+pre-Exchange accounts of disease symptoms similar to venereal syphilis, as well as pre-Exchange accounts of disease symptoms similar to venereal syphilis, as well as 
+skeletal remains with scars that are similar to scars left by syphilis. The debates over skeletal remains with scars that are similar to scars left by syphilis. The debates over 
+the true origins of venereal syphilis have been a direct consequence of the diffi culty the true origins of venereal syphilis have been a direct consequence of the diffi culty 
+in distinguishing venereal syphilis from other diseases that had similar symptoms in distinguishing venereal syphilis from other diseases that had similar symptoms 
+and left similar bone scars (Parrot, 1879; Steinbock, 1976; Williams, 1932; Wright, and left similar bone scars (Parrot, 1879; Steinbock, 1976; Williams, 1932; Wright, 
+1971; Verano and Ubelaker, 1992).1971; Verano and Ubelaker, 1992).
+Recent fi ndings from phylogenetics (the evolutionary study of the genetic relat-Recent fi ndings from phylogenetics (the evolutionary study of the genetic relat-
+edness of different populations of organisms) have added valuable evidence to the edness of different populations of organisms) have added valuable evidence to the 
+mystery of the origins of venereal syphilis. The evidence supports the Columbian mystery of the origins of venereal syphilis. The evidence supports the Columbian 
+hypothesis that venereal syphilis is in fact a New World disease. The recent study by hypothesis that venereal syphilis is in fact a New World disease. The recent study by 
+Harper et al. (2008) found that the bacterium causing venereal syphilis arose rela-Harper et al. (2008) found that the bacterium causing venereal syphilis arose rela-
+tively recently in humans and is most closely related to a variation of the tropical tively recently in humans and is most closely related to a variation of the tropical 
+disease yaws found in a remote region of Guyana, South America. This relation-disease yaws found in a remote region of Guyana, South America. This relation-
+ship is most consistent with venereal syphilis, or some early ancestor, originating in ship is most consistent with venereal syphilis, or some early ancestor, originating in 
+the New World. After decades of debate, this powerful study showed that venereal the New World. After decades of debate, this powerful study showed that venereal 
+syphilis was indeed a New World disease.syphilis was indeed a New World disease.
+The Transfer of New World Foods to the Old WorldThe Transfer of New World Foods to the Old World
+The transfer of foods between the Old and New Worlds during the Columbian The transfer of foods between the Old and New Worlds during the Columbian 
+Exchange had important consequences for world history. Historian Alfred Crosby Exchange had important consequences for world history. Historian Alfred Crosby 
+(1989, p. 666) describes the signifi cance of the transfer of food crops between the (1989, p. 666) describes the signifi cance of the transfer of food crops between the 
+continents, writing: “The coming together of the continents was a prerequisite for continents, writing: “The coming together of the continents was a prerequisite for 
+the population explosion of the past two centuries, and certainly played an impor-the population explosion of the past two centuries, and certainly played an impor-
+tant role in the Industrial Revolution. The transfer across the ocean of the staple tant role in the Industrial Revolution. The transfer across the ocean of the staple 
+food crops of the Old and New Worlds made possible the former.”food crops of the Old and New Worlds made possible the former.”
+There are two channels through which the Columbian Exchange expanded the There are two channels through which the Columbian Exchange expanded the 
+global supply of agricultural goods. First, it introduced previously unknown species global supply of agricultural goods. First, it introduced previously unknown species 
+to the Old World. Many of these species— like potatoes, sweet potatoes, maize, to the Old World. Many of these species—like potatoes, sweet potatoes, maize, 
+and cassava (also known as manioc)— resulted in caloric and nutritional improve-and cassava (also known as manioc)—resulted in caloric and nutritional improve-
+ments over previously existing staples. Other crops such as tomatoes, cacao, and ments over previously existing staples. Other crops such as tomatoes, cacao, and 
+chili peppers were not by themselves especially rich in calories, but complemented chili peppers were not by themselves especially rich in calories, but complemented 
+existing foods by increasing vitamin intake and improving taste. In many instances, existing foods by increasing vitamin intake and improving taste. In many instances, 
+the New World foods had an important effect on the evolution of local cuisines. the New World foods had an important effect on the evolution of local cuisines. 
+Chili peppers gave rise to spicy curries in India, to paprika in Hungary, and to spicy Chili peppers gave rise to spicy curries in India, to paprika in Hungary, and to spicy 
+kimchee in Korea. Tomatoes signifi cantly altered the cuisine of Italy and other Medi-kimchee in Korea. Tomatoes signifi cantly altered the cuisine of Italy and other Medi-
+terranean countries. Second, the discovery of the Americas provided the Old World terranean countries. Second, the discovery of the Americas provided the Old World 
+with vast quantities of relatively unpopulated land well-suited for the cultivation of with vast quantities of relatively unpopulated land well-suited for the cultivation of 
+certain crops that were in high demand in Old World markets. Crops such as sugar, certain crops that were in high demand in Old World markets. Crops such as sugar, 
+coffee, soybeans, oranges, and bananas were all introduced to the New World, and coffee, soybeans, oranges, and bananas were all introduced to the New World, and 
+the Americas quickly became the main suppliers of these crops globally.the Americas quickly became the main suppliers of these crops globally.
+--- Page 6 ---
+168    Journal of Economic Perspectives
+The extent to which foods indigenous to the New World today comprise an The extent to which foods indigenous to the New World today comprise an 
+important portion of the world’s diet is illustrated by Table 1, which reports the important portion of the world’s diet is illustrated by Table 1, which reports the 
+world’s most popular foods in 2000. The fi rst list reports foods with popularity world’s most popular foods in 2000. The fi  rst list reports foods with popularity 
+measured by the average consumption of calories per person per day. Because this measured by the average consumption of calories per person per day. Because this 
+measure may overstate the popularity of high-calorie food crops, we also provide measure may overstate the popularity of high-calorie food crops, we also provide 
+rankings based on production and land under cultivation. These are reported rankings based on production and land under cultivation. These are reported 
+in the second and third lists. Foods that are indigenous to the New World are in the second and third lists. Foods that are indigenous to the New World are 
+reported in bold text. From the table it is clear that today New World foods are an reported in bold text. From the table it is clear that today New World foods are an 
+important part of our diets. Although the two most consumed crops (by any of the important part of our diets. Although the two most consumed crops (by any of the 
+three measures) are Old World crops (either rice, wheat, or sugar), many of the three measures) are Old World crops (either rice, wheat, or sugar), many of the 
+next-most-important crops are from the New World. Four New World crops that next-most-important crops are from the New World. Four New World crops that 
+Table 1
+The World’s Most Popular Foods in 2000
+Average Daily Consumption 
+(calories)
+Annual Production 
+(millions of tonnes)
+Land Harvested 
+(millions of hectares)
+Rice 567 Sugar cane 1,252.5 Wheat 215.5
+Wheat 527 Rice 598.8 Rice 154.1
+Sugar 196 Maize 592.5 Maize 137.0
+Maize 147 Wheat 585.9 Soybeans 74.4
+Potatoes 60 Potatoes 328.7 Barley 54.5
+Cassava 42 Sugar beet 247.1 Sorghum 41.0
+Sorghum 32 Cassava 176.5 Millet 37.1
+Sweet Potatoes 29 Soybeans 161.3 Rapeseed 25.8
+Millet 29 Sweet potatoes 138.7 Sunfl  ower seed 21.1
+Soybeans 17 Barley 133.1 Potatoes 20.1
+Bananas 14 Oil palm fruit 120.4 Sugar cane 19.5
+Coconuts 12 Tomatoes 108.9 Cassava 17.0
+Apples 9 Watermelons 76.5 Oats 12.7
+Tomatoes 8 Bananas 64.9 Coffee, green 10.8
+Oranges 8 Grapes 64.8 Coconuts 10.6
+Rye 7 Oranges 63.8 Chick peas 10.1
+Yams 7 Apples 59.1 Oil palm fruit 10.0
+Onions 7 Sorghum 55.8 Rye 9.8
+Plantains 7 Coconuts 52.9 Sweet potatoes 9.7
+Barley 7 Onions, dry 49.8 Olives 8.3
+Other Notable New World Foods:
+Cacao Beans 3 Eggplants 27.2 Cacao beans 7.6
+Pineapples 2 Sunfl  ower seed 26.5 Natural rubber 7.6
+Chillies/peppers, green 20.9 Tobacco 4.2
+Pineapples 15.1 Tomatoes 4.0
+Source: The data are from the FAO’s ProdSTAT and Consumption Databases. See 〈http:/ /faostat.fao.org/〉.
+Notes: All fi gures are for the year 2000. Bold type indicates a New World food crop. Italics indicate 
+an Old World crop for which more than 26 percent of current world production is in the New World 
+(26 percent is the fraction of arable land that is located in the New World). The table does not report 
+the consumption of oils. Among oils, the fourth most consumed oil, sunfl  ower oil, is derived from 
+sunfl owers, a New World crop.
+--- Page 7 ---
+Nathan Nunn and Nancy Qian     169
+make it into the top ten by two or more measures are maize, potatoes, cassava, and make it into the top ten by two or more measures are maize, potatoes, cassava, and 
+sweet potatoes; tomatoes rank among the top 15 by two different measures. Also sweet potatoes; tomatoes rank among the top 15 by two different measures. Also 
+high on the list are a number of additional New World foods such as chili peppers high on the list are a number of additional New World foods such as chili peppers 
+and cacao, which despite not being consumed in large quantities, are of central and cacao, which despite not being consumed in large quantities, are of central 
+importance to the cuisines of many countries.importance to the cuisines of many countries.
+Staple Crops: Potatoes, Sweet Potatoes, Maize, and CassavaStaple Crops: Potatoes, Sweet Potatoes, Maize, and Cassava
+The exchange introduced a wide range of new calorically rich staple crops to The exchange introduced a wide range of new calorically rich staple crops to 
+the Old World— namely potatoes, sweet potatoes, maize, and cassava. The primary the Old World—namely potatoes, sweet potatoes, maize, and cassava. The primary 
+benefi t of the New World staples was that they could be grown in Old World climates benefi t of the New World staples was that they could be grown in Old World climates 
+that were unsuitable for the cultivation of Old World staples. Crosby (2003, p. 177) that were unsuitable for the cultivation of Old World staples. Crosby (2003, p. 177) 
+writes: “The great advantage of the American food plants is that they make different writes: “The great advantage of the American food plants is that they make different 
+demands of soils, weather and cultivation than Old World crops, and are different in demands of soils, weather and cultivation than Old World crops, and are different in 
+the growing seasons in which they make these demands. In many cases the American the growing seasons in which they make these demands. In many cases the American 
+crops do not compete with Old World crops but complement them. The American crops do not compete with Old World crops but complement them. The American 
+plants enable the farmer to produce food from soils that prior to 1492, were rated as plants enable the farmer to produce food from soils that prior to 1492, were rated as 
+useless because of their sandiness, altitude, aridity, and other factors.”useless because of their sandiness, altitude, aridity, and other factors.”
+This benefi t of New World crops has resulted in their adoption in all parts This benefi t of New World crops has resulted in their adoption in all parts 
+of the world. This is shown by Table 2, which reports the top consuming coun-of the world. This is shown by Table 2, which reports the top consuming coun-
+tries for different New World foods. The New World crop maize has been widely tries for different New World foods. The New World crop maize has been widely 
+adopted by a number of Old World countries including Lesotho, Malawi, and adopted by a number of Old World countries including Lesotho, Malawi, and 
+Zambia. The average person in Lesotho consumes an astonishing 1,500 calories Zambia. The average person in Lesotho consumes an astonishing 1,500 calories 
+per day from maize. Even more widely adopted than maize is cassava. The top per day from maize. Even more widely adopted than maize is cassava. The top 
+ten cassava-consuming countries are all from the Old World. Although both ten cassava-consuming countries are all from the Old World. Although both 
+foods do have their imperfections— for example, a diet of too much maize foods do have their imperfections—for example, a diet of too much maize 
+causes causes pellagra  and consumption of insuffi ciently processed cassava results in  and consumption of insuffi  ciently processed cassava results in 
+konzo — they provide sustenance for millions of people around the world today. —they provide sustenance for millions of people around the world today. 
+The table also shows that sweet potatoes have been widely adopted in the Old The table also shows that sweet potatoes have been widely adopted in the Old 
+World and today are most heavily consumed in the Solomon Islands, Rwanda, World and today are most heavily consumed in the Solomon Islands, Rwanda, 
+Burundi, Uganda, and China. Burundi, Uganda, and China. 
+The New World crop that arguably had the largest impact on the Old World The New World crop that arguably had the largest impact on the Old World 
+is the potato. Because it provides an abundant supply of calories and nutrients, is the potato. Because it provides an abundant supply of calories and nutrients, 
+the potato is able to sustain life better than any other food when consumed as the the potato is able to sustain life better than any other food when consumed as the 
+sole article of diet (Davidson and Passmore, 1965, p. 285). Humans can actually sole article of diet (Davidson and Passmore, 1965, p. 285). Humans can actually 
+subsist healthily on a diet of potatoes, supplemented with only milk or butter, which subsist healthily on a diet of potatoes, supplemented with only milk or butter, which 
+contain the two vitamins not provided by potatoes, vitamins A and D (Connell, contain the two vitamins not provided by potatoes, vitamins A and D (Connell, 
+1962; Davidson and Passmore, 1965). This, in fact, was the typical Irish diet, which 1962; Davidson and Passmore, 1965). This, in fact, was the typical Irish diet, which 
+although monotonous, was able to provide suffi cient amounts of all vitamins and although monotonous, was able to provide suffi  cient amounts of all vitamins and 
+nutrients (Connell, 1962). The potato was also adopted as a core staple in many nutrients (Connell, 1962). The potato was also adopted as a core staple in many 
+other parts of the World. As shown by Table 2, this nutritious crop has been so other parts of the World. As shown by Table 2, this nutritious crop has been so 
+widely embraced by Old World populations that today the top consumers of pota-widely embraced by Old World populations that today the top consumers of pota-
+toes are all Old World countries.toes are all Old World countries.
+Recently, two studies have attempted to estimate empirically the benefi ts that Recently, two studies have attempted to estimate empirically the benefi  ts that 
+arose from the introduction of the potato. Mokyr (1981) examines variation across arose from the introduction of the potato. Mokyr (1981) examines variation across 
+--- Page 8 ---
+170    Journal of Economic Perspectives
+counties in Ireland and estimates that the cultivation of the potato did spur popu-counties in Ireland and estimates that the cultivation of the potato did spur popu-
+lation growth. In Nunn and Qian (2009), we also examine the effects of the potato lation growth. In Nunn and Qian (2009), we also examine the effects of the potato 
+on population growth but do so for the entire Old World. Using a difference-in-on population growth but do so for the entire Old World. Using a difference-in-
+differences estimation strategy, we compare the pre- and post-adoption differences differences estimation strategy, we compare the pre- and post-adoption differences 
+in population growth of Old World countries that could adopt the potato with Old in population growth of Old World countries that could adopt the potato with Old 
+World countries that could not. We fi nd that the potato had a signifi cant positive World countries that could not. We fi nd that the potato had a signifi  cant positive 
+impact on population growth, explaining 12 percent of the increase in average im p a c t  o n  p o p ul a ti o n  gr o wth ,  e xp l ainin g  1 2  p e r c e n t  o f  th e  in c r e as e  in  a v e rag e  
+population after the adoption of the potato. We also estimate the effect the potato population after the adoption of the potato. We also estimate the effect the potato 
+had on urbanization, a measure that is closely correlated with GDP. We fi nd that had on urbanization, a measure that is closely correlated with GDP. We fi  nd that 
+47 percent of the post-adoption increase in urbanization is explained by the potato.47 percent of the post-adoption increase in urbanization is explained by the potato.
+We now turn to a discussion of crops that provide fewer calories, but are no less We now turn to a discussion of crops that provide fewer calories, but are no less 
+important to Old World cuisines: capsicum peppers, tomatoes, cacao, and vanilla, important to Old World cuisines: capsicum peppers, tomatoes, cacao, and vanilla, 
+and two less healthy New World crops, coca and tobacco.and two less healthy New World crops, coca and tobacco.
+Table 2
+Top Consuming Countries for Various New World Foods
+(average calories per capita per day)
+Maize Cassava Sweet Potatoes
+Country Consumption Country Consumption Country Consumption
+Lesotho 1,508 Congo, Dem. Rep. 925 Solomon Islands 457
+Malawi 1,151 Congo 688 Rwanda 330
+Mexico 1,093 Angola 668 Burundi 293
+Zambia 1,058 Mozambique 650 Uganda 228
+South Africa 924 Ghana 639 China 106
+Z i m b a b w e 9 0 3B e n i n 4 7 0T i m o r - L e s t e 6 4
+Guatemala 835 Liberia 451 Madagascar 59
+Timor-Leste 808 Togo 393 Cuba 57
+El Salvador 772 Madagascar 382 Tanzania 57
+Kenya 766 Central African Rep. 374 Haiti 45
+Potatoes Tomatoes Pineapples
+Country Consumption Country Consumption Country Consumption
+Belarus 320 Greece 68 Costa Rica 84
+Latvia 258 Libya 47 Thailand 26
+Estonia 255 United Arab Emirates 45 Kenya 20
+Lithuania 248 Egypt 44 Philippines 14
+Ukraine 248 Turkey 42 Samoa 11
+Poland 242 Italy 38 Venezuela 10
+Portugal 221 Lebanon 33 Antigua and Barbuda 8
+United Kingdom 221 Tunisia 32 Australia 8
+Russian Federation 217 Israel 29 Malaysia 8
+Ireland 209 Cuba 26 Swaziland 8
+Source: The data are from the FAO’s Consumption Database. See 〈http:/ /faostat.fao.org/〉.
+Notes: The table reports average consumption per capita for the top ten countries consuming each New 
+World Crop. Bold text indicates consumption of Old World countries.
+--- Page 9 ---
+The Columbian Exchange: A History of Disease, Food, and Ideas     171
+Capsicum PeppersCapsicum Peppers
+The capsicum pepper originated in the areas that today are Bolivia and The capsicum pepper originated in the areas that today are Bolivia and 
+southern Brazil. By the arrival of the Europeans, the plant had migrated to southern Brazil. By the arrival of the Europeans, the plant had migrated to 
+Mesoamerica and the Caribbean. Mesoamerica and the Caribbean. Capsicum annuum , which was domesticated in , which was domesticated in 
+Mesoamerica, is the ancestor to most of the peppers commonly consumed today: Mesoamerica, is the ancestor to most of the peppers commonly consumed today: 
+the cayenne pepper, bell peppers, and the jalapeño pepper. A second variety, the cayenne pepper, bell peppers, and the jalapeño pepper. A second variety, 
+Capsicum frutescens, fi rst cultivated in the Amazon basin, gives us the tabasco pepper , fi rst cultivated in the Amazon basin, gives us the tabasco pepper 
+(Andrews, 1992, 82–83). (Andrews, 1992, 82–83). 
+By 1493, capsicum peppers had arrived in Spain and Africa. They then reached By 1493, capsicum peppers had arrived in Spain and Africa. They then reached 
+the East Indies by 1540 and India by 1542 (Andrews, 1993a, 1993b). In Hungary, the East Indies by 1540 and India by 1542 (Andrews, 1993a, 1993b). In Hungary, 
+paprika, the spice made from grinding dried fruits of the capsicum pepper, is fi rst paprika, the spice made from grinding dried fruits of the capsicum pepper, is fi rst 
+mentioned in 1569. Paprika has since been widely adopted in a variety of Hungarian mentioned in 1569. Paprika has since been widely adopted in a variety of Hungarian 
+dishes, including goulash, and today is the country’s national spice (Halasz, 1963). dishes, including goulash, and today is the country’s national spice (Halasz, 1963). 
+The capsicum has also had a signifi cant impact on the cuisine of many other coun-The capsicum has also had a signifi cant impact on the cuisine of many other coun-
+tries. In South and South East Asia, some form of pepper is used in the base of tries. In South and South East Asia, some form of pepper is used in the base of 
+almost every dish (for example, curries). In China, cuisine in the southwest (like almost every dish (for example, curries). In China, cuisine in the southwest (like 
+Sichuan, Guizhou, and Hunan) are defi ned by uses of certain chili peppers. In Sichuan, Guizhou, and Hunan) are defi  ned by uses of certain chili peppers. In 
+Korea, a side dish of spicy kimchi is consumed with every meal.Korea, a side dish of spicy kimchi is consumed with every meal.
+Capsicums provide several health advantages. First, they are very nutritious. By Capsicums provide several health advantages. First, they are very nutritious. By 
+weight, they contain more vitamin A than any other food plant, and they are also weight, they contain more vitamin A than any other food plant, and they are also 
+rich in Vitamin B. If eaten raw, capsicums provide more vitamin C than citrus fruits. rich in Vitamin B. If eaten raw, capsicums provide more vitamin C than citrus fruits. 
+Capsicums also contain signifi cant amounts of magnesium and iron (Andrews, 1992, Capsicums also contain signifi cant amounts of magnesium and iron (Andrews, 1992, 
+p. 285). Chilies, of course, are not eaten in vast quantities, but for populations with p. 285). Chilies, of course, are not eaten in vast quantities, but for populations with 
+traditional diets defi cient in vitamins and minerals, even a small amount can be traditional diets defi cient in vitamins and minerals, even a small amount can be 
+important. Second, capsicums also aid digestion. Capsaicin, an alkaloid uniquely important. Second, capsicums also aid digestion. Capsaicin, an alkaloid uniquely 
+found in capsicums, is an irritant to the oral and gastrointestinal membranes when found in capsicums, is an irritant to the oral and gastrointestinal membranes when 
+ingested (Viranuvatti, Kalayasiri, Chearani, and Plengvanit, 1972). This causes an ingested (Viranuvatti, Kalayasiri, Chearani, and Plengvanit, 1972). This causes an 
+increase in the fl ow of saliva, which eases the passage of food through the mouth to increase in the fl ow of saliva, which eases the passage of food through the mouth to 
+the stomach and increases gastric acids, which aid in the digestion of food (Solanke, the stomach and increases gastric acids, which aid in the digestion of food (Solanke, 
+1973). If ingested in large quantities, this same alkaloid can cause oral burning, 1973). If ingested in large quantities, this same alkaloid can cause oral burning, 
+which can be removed by casein (Henkin, 1991). (Since casein is most readily avail-which can be removed by casein (Henkin, 1991). (Since casein is most readily avail-
+able from milk and yoghurt, it is not surprising that many spicy diets, such as those able from milk and yoghurt, it is not surprising that many spicy diets, such as those 
+from South Asia, pair chilies with milk and yoghurt.) Finally, capsaicin is now being from South Asia, pair chilies with milk and yoghurt.) Finally, capsaicin is now being 
+utilized in medicine to treat pain, respiratory disorders, shingles, toothache, and utilized in medicine to treat pain, respiratory disorders, shingles, toothache, and 
+arthritis (Rozin, 1990). Research into its various properties is ongoing.arthritis (Rozin, 1990). Research into its various properties is ongoing.
+TomatoesTomatoes
+Tomatoes are a fruit that originated in South America. Botanists believe that Tomatoes are a fruit that originated in South America. Botanists believe that 
+approximately 1,000 years before the Spanish arrived in the Americas, an unidentifi ed approximately 1,000 years before the Spanish arrived in the Americas, an unidentifi ed 
+wild ancestor of the tomato made its way north and came to be cultivated in South wild ancestor of the tomato made its way north and came to be cultivated in South 
+and Central America (Smith, 1994, p. 17). The tomato is fi rst mentioned in European and Central America (Smith, 1994, p. 17). The tomato is fi rst mentioned in European 
+texts in 1544. Mathiolus described how tomatoes, texts in 1544. Mathiolus described how tomatoes, pomi d’oro (golden apple), were  (golden apple), were 
+eaten in Italy with oil, salt, and pepper, suggesting that the fi rst eaten in Italy with oil, salt, and pepper, suggesting that the fi rst tomatoes in Europe tomatoes in Europe 
+were yellow and not red (Gould, 1983, pp. 30–53). European cultivation were yellow and not red (Gould, 1983, pp. 30–53). European cultivation became became 
+--- Page 10 ---
+172    Journal of Economic Perspectives
+widespread in the ensuing decades in Spain, Italy, and in France. The fi rst documented widespread in the ensuing decades in Spain, Italy, and in France. The fi rst documented 
+authentic recipe in Italy appeared in 1692 in an early Italian cookbook, authentic recipe in Italy appeared in 1692 in an early Italian cookbook, Lo scalco alla 
+moderna, by Antonio Latini. Tomatoes were brought to Asia by Spaniards who visited , by Antonio Latini. Tomatoes were brought to Asia by Spaniards who visited 
+the Philippines in 1564. However, in China, where they were regarded as foods of the the Philippines in 1564. However, in China, where they were regarded as foods of the 
+“southern barbarians,” they were not cultivated until the twentieth century (Anderson, “southern barbarians,” they were not cultivated until the twentieth century (Anderson, 
+1988, p. 94). In North Africa, English travelers reported that Spanish 1988, p. 94). In North Africa, English travelers reported that Spanish tomates  were culti-were culti-
+vated in fi elds of North Barbary as early as 1671 (McCue, 1952, p. 330).vated in fi elds of North Barbary as early as 1671 (McCue, 1952, p. 330).
+One of the diffi culties in consuming tomatoes was that they did not preserve One of the diffi culties in consuming tomatoes was that they did not preserve 
+well. Ripe tomatoes can become putrid within days in hot climates. The canning well. Ripe tomatoes can become putrid within days in hot climates. The canning 
+process helped increase the shelf life of the tomato to several months, but prior to process helped increase the shelf life of the tomato to several months, but prior to 
+1890, it was a costly manual process. The mechanization of canning at the turn of 1890, it was a costly manual process. The mechanization of canning at the turn of 
+the twentieth century signifi cantly lowered the cost of this process and resulted in the twentieth century signifi cantly lowered the cost of this process and resulted in 
+a signifi cant increase in tomato consumption (Gould, 1983, pp. 30–53).a signifi cant increase in tomato consumption (Gould, 1983, pp. 30–53).
+Tomatoes have truly become a global food. As shown in Table 2, nine of the Tomatoes have truly become a global food. As shown in Table 2, nine of the 
+top ten tomato-consuming countries are Old World countries. Greece consumes top ten tomato-consuming countries are Old World countries. Greece consumes 
+the most tomatoes per capita, followed by other Mediterranean and Middle Eastern the most tomatoes per capita, followed by other Mediterranean and Middle Eastern 
+countries. Italy, known for its use of tomato sauces with pasta and on pizza, ranks countries. Italy, known for its use of tomato sauces with pasta and on pizza, ranks 
+sixth on the list. Table 3 lists the top ten producers of some New and Old World sixth on the list. Table 3 lists the top ten producers of some New and Old World 
+foods. The top producers of tomatoes are listed in panel A of the table; eight of the foods. The top producers of tomatoes are listed in panel A of the table; eight of the 
+top ten producers are Old World countries, with only two New World countries, top ten producers are Old World countries, with only two New World countries, 
+Brazil and Mexico, breaking the list of top tomato producers. Brazil and Mexico, breaking the list of top tomato producers. 
+Although not particularly rich in calories, tomatoes are an important source Although not particularly rich in calories, tomatoes are an important source 
+of vitamins, particularly vitamins A and C. The tomato has been so thoroughly of vitamins, particularly vitamins A and C. The tomato has been so thoroughly 
+adopted and integrated into Western diets that today it provides more nutrients adopted and integrated into Western diets that today it provides more nutrients 
+and vitamins than any other fruit or vegetable (Sokolov, 1993, p. 108). Medical and vitamins than any other fruit or vegetable (Sokolov, 1993, p. 108). Medical 
+researchers have also recently discovered a number of additional health benefi ts researchers have also recently discovered a number of additional health benefi  ts 
+from tomato consumption. Recent research has found that lycopene, a powerful from tomato consumption. Recent research has found that lycopene, a powerful 
+antioxidant contained in cooked or canned tomatoes, has properties that may help antioxidant contained in cooked or canned tomatoes, has properties that may help 
+reduce cancer (for example, Basu and Imrhan, 2007). Although research is still in reduce cancer (for example, Basu and Imrhan, 2007). Although research is still in 
+progress, the American Cancer Society has already begun to promote increased progress, the American Cancer Society has already begun to promote increased 
+consumption of tomatoes as a potential method for cancer prevention.consumption of tomatoes as a potential method for cancer prevention.
+CacaoCacao
+The Codex Mendoza— an Aztec record of administration and description of The Codex Mendoza—an Aztec record of administration and description of 
+daily life, written approximately 20 years after the Spanish conquest of Mexico—daily life, written approximately 20 years after the Spanish conquest of Mexico—
+documents that by the time Cortes arrived, chocolate was being cultivated by documents that by the time Cortes arrived, chocolate was being cultivated by 
+farmers in the Yucatan and was traded in large quantities throughout the Empire farmers in the Yucatan and was traded in large quantities throughout the Empire 
+(Prescott, 1843, p. 11; West, 1992, p. 108). Historical records indicate that Columbus (Prescott, 1843, p. 11; West, 1992, p. 108). Historical records indicate that Columbus 
+fi rst brought back specimens of cacao pods to King Ferdinand I after his second fi rst brought back specimens of cacao pods to King Ferdinand I after his second 
+voyage to the New World. Outside of the Americas, cacao was fi rst cultivated in 1590 voyage to the New World. Outside of the Americas, cacao was fi rst cultivated in 1590 
+by the Spanish off the coast of Africa on the island of Fernando Po (West, 1992, by the Spanish off the coast of Africa on the island of Fernando Po (West, 1992, 
+pp. 110–111). At fi rst, it was used in expensive chocolate drinks, mainly confi ned to pp. 110–111). At fi rst, it was used in expensive chocolate drinks, mainly confi ned to 
+aristocratic courts. From Spain, it spread to Italy, and then to France via the royal aristocratic courts. From Spain, it spread to Italy, and then to France via the royal 
+marriage of Philip III’s daughter, Ana of Austria, with Louis XIII. In England, marriage of Philip III’s daughter, Ana of Austria, with Louis XIII. In England, 
+--- Page 11 ---
+Nathan Nunn and Nancy Qian     173
+Samuel Pepys, the renowned seventeenth century diarist, records that chocolate Samuel Pepys, the renowned seventeenth century diarist, records that chocolate 
+drinks changed from being novelty drinks to a regular luncheon beverage of the drinks changed from being novelty drinks to a regular luncheon beverage of the 
+middle class during his lifetime (McLeod, 2001).middle class during his lifetime (McLeod, 2001).
+The Spanish held a monopoly on production and trade of cacao up until the The Spanish held a monopoly on production and trade of cacao up until the 
+seventeenth century when the French began cacao production in Martinique and seventeenth century when the French began cacao production in Martinique and 
+Saint Lucia. The Dutch also began production of cacao in Indonesia, which was Saint Lucia. The Dutch also began production of cacao in Indonesia, which was 
+the Dutch East Indies at the time. Even today, as shown by Panel A of Table 3, the Dutch East Indies at the time. Even today, as shown by Panel A of Table 3, 
+Indonesia remains one of the largest producers of cacao beans. Cacao cultivation Indonesia remains one of the largest producers of cacao beans. Cacao cultivation 
+came late to mainland Africa, with Cameroon and Ghana being the fi rst cultivators came late to mainland Africa, with Cameroon and Ghana being the fi rst cultivators 
+in the late 1870s and 1880s (West, 1992, pp. 116–18). But today, the West African in the late 1870s and 1880s (West, 1992, pp. 116–18). But today, the West African 
+countries of Cameroon, Cote d’Ivoire, Ghana, and Nigeria are among the world’s countries of Cameroon, Cote d’Ivoire, Ghana, and Nigeria are among the world’s 
+largest producers of cacao beans, with Cote d’Ivoire being the largest producer in largest producers of cacao beans, with Cote d’Ivoire being the largest producer in 
+the world (again, see Panel A of Table 3).the world (again, see Panel A of Table 3).
+While chocolate is most popularly consumed as a condiment, candy or dessert, While chocolate is most popularly consumed as a condiment, candy or dessert, 
+cacao is also a high energy food known for lifting psychological effects. Pure choco-cacao is also a high energy food known for lifting psychological effects. Pure choco-
+late, which is more than half cocoa butter, has a higher energy output per unit of late, which is more than half cocoa butter, has a higher energy output per unit of 
+weight than most other carbohydrate- or protein-rich foods. This has made it an weight than most other carbohydrate- or protein-rich foods. This has made it an 
+important food for physically taxing expeditions where travelers needed to mini-important food for physically taxing expeditions where travelers needed to mini-
+mize the food carried. For example, in Roald Amundsen’s trek to the South Pole, mize the food carried. For example, in Roald Amundsen’s trek to the South Pole, 
+his men were allocated 4,560 calories per day, of which over 1,000 came from cacao his men were allocated 4,560 calories per day, of which over 1,000 came from cacao 
+(West, 1992, pp. 117–18).(West, 1992, pp. 117–18).
+Plain VanillaPlain Vanilla
+Vanilla was completely unknown to the Old World prior to 1492, but despite Vanilla was completely unknown to the Old World prior to 1492, but despite 
+having little nutritional importance, it has become so widespread and so common having little nutritional importance, it has become so widespread and so common 
+that in English its name is used as an adjective to refer to anything that is “plain, that in English its name is used as an adjective to refer to anything that is “plain, 
+ordinary, or conventional.” Vanilla comes from the tropical forests of eastern and ordinary, or conventional.” Vanilla comes from the tropical forests of eastern and 
+southern Mexico, Central America, and northern South America. It is from the southern Mexico, Central America, and northern South America. It is from the 
+fruit of fruit of Vanilla planifolia, the only species of the orchid family that produces edible , the only species of the orchid family that produces edible 
+fruit. Neither the vanilla fl ower nor its fruit, which takes the shape of a long pod, fruit. Neither the vanilla fl ower nor its fruit, which takes the shape of a long pod, 
+naturally has any noticeable fl avor or scent. Vanilla pods must be fermented to naturally has any noticeable fl  a v o r  o r  s c e n t.  V anill a  p o ds  m us t  be  f e rm e n t e d  t o  
+produce the chemical compound vanillin, which gives the pods their distinctive produce the chemical compound vanillin, which gives the pods their distinctive 
+vanilla fl avor and scent (Rain, 1992, p. 37).vanilla fl avor and scent (Rain, 1992, p. 37).
+It is unclear whether vanilla was fi rst brought back to Spain by Cortes or another It is unclear whether vanilla was fi rst brought back to Spain by Cortes or another 
+Spanish traveler. In any case, it achieved popularity quickly in Spain, where factories Spanish traveler. In any case, it achieved popularity quickly in Spain, where factories 
+were using it to fl avor chocolate by the second half of the sixteenth century. Like were using i t to fl avor chocolate by the second half of the sixteenth century. Like 
+chocolate, it was considered a luxury for the wealthy. King Phillip II was known to chocolate, it was considered a luxury for the wealthy. King Phillip II was known to 
+have drunk vanilla-fl avored chocolate as a nightcap. It was also quickly adopted by have drunk vanilla-fl avored chocolate as a nightcap. It was also quickly adopted by 
+aristocratic circles in other parts of Europe. Queen Elizabeth I of England was also aristocratic circles in other parts of Europe. Queen Elizabeth I of England was also 
+known to have been a frequent user of vanilla products (Rain, 1992, p. 40).known to have been a frequent user of vanilla products (Rain, 1992, p. 40).
+In the eighteenth century, the French began to use it widely as a fl avoring for In the eighteenth century, the French began to use it widely as a fl avoring for 
+confectionaries and ice, and also as a scent for perfumes and tobacco. French colo-confectionaries and ice, and also as a scent for perfumes and tobacco. French colo-
+nial islands began to attempt to systematically cultivate cuttings of the plant taken nial islands began to attempt to systematically cultivate cuttings of the plant taken 
+from the Americas. However, because of a lack of proper insects for pollination, from the Americas. However, because of a lack of proper insects for pollination, 
+--- Page 12 ---
+174    Journal of Economic Perspectives
+initial attempts ended in failure (Bruman, 1948, pp. 371–72). It was not until after initial attempts ended in failure (Bruman, 1948, pp. 371–72). It was not until after 
+1836, when Belgian botanist Charles Morren was able to hand-pollinate vanilla 1836, when Belgian botanist Charles Morren was able to hand-pollinate vanilla 
+orchids, that the French were successfully cultivating plants that fl owered (Morren, orchids, that the French were successfully cultivating plants that fl owered (Morren, 
+1838). As shown in Panel A of Table 3, the French colonial islands of Réunion and 1838). As shown in Panel A of Table 3, the French colonial islands of Réunion and 
+Table 3
+Largest Producers of New and Old World Foods
+(millions of tonnes unless otherwise indicated)
+Panel A: Ten Largest Producers of New World Foods
+Potatoes Chili Peppers, Dry Chili Peppers, Green
+Country Production Country Production Country Production
+China 66.32 India 0.98 China 9.44
+Russia 33.98 China 0.21 Mexico 1.73
+India 24.71 Pakistan 0.17 Turkey 1.48
+Poland 24.23 Bangladesh 0.14 Spain 0.95
+United States 23.30 Ethiopia 0.12 United States 0.91
+Ukraine 19.84 Viet Nam 0.08 Indonesia 0.73
+Germany 13.69 Peru 0.06 Nigeria 0.72
+Belarus 8.72 Mexico 0.06 Egypt 0.43
+Netherlands 8.23 Myanmar 0.05 South Korea 0.39
+UK 6.64 Nigeria 0.05 Italy 0.36
+Tomatoes Cacao Beans Tobacco
+Country Production Country Production Country Production
+China 22.32 Côte d’Ivoire 1.40 China 2.56
+United States 11.56 Ghana 0.44 Brazil 0.58
+Turkey 8.89 Indonesia 0.42 India 0.52
+Italy 7.54 Nigeria 0.34 United States 0.48
+India 7.43 Brazil 0.20 Zimbabwe 0.23
+Egypt 6.79 Cameroon 0.12 Turkey 0.20
+Spain 3.77 Ecuador 0.10 Indonesia 0.15
+Iran 3.19 Malaysia 0.07 Greece 0.14
+Brazil 2.98 Papua New Guinea 0.05 Italy 0.13
+Mexico 2.67 Colombia 0.04 Argentina 0.11
+Vanilla (1,000s tonnes) Natural Rubber Maize
+Country Production Country Production Country Production
+Indonesia 1.68 Thailand 2.38 United States 251.85
+Madagascar 0.88 Indonesia 1.50 China 106.18
+China 0.65 Malaysia 0.93 Brazil 31.88
+Mexico 0.26 India 0.63 Mexico 17.56
+Comoros 0.14 China 0.48 Argentina 16.78
+Tonga 0.13 Viet Nam 0.29 France 16.02
+Turkey 0.10 Côte d’Ivoire 0.12 India 12.04
+Uganda 0.04 Nigeria 0.11 South Africa 11.43
+French Polynesia 0.04 Liberia 0.11 Italy 10.14
+Réunion 0.03 Brazil 0.09 Indonesia 9.68
+--- Page 13 ---
+The Columbian Exchange: A History of Disease, Food, and Ideas     175
+French Polynesia and the former colonial island of Comoros continue to be large French Polynesia and the former colonial island of Comoros continue to be large 
+suppliers of vanilla today. Mexico also continues to be a large producer of vanilla, suppliers of vanilla today. Mexico also continues to be a large producer of vanilla, 
+although its production is exceeded by Indonesia, Madagascar, and China.although its production is exceeded by Indonesia, Madagascar, and China.
+TobaccoTobacco
+It is believed that Native Americans began to use tobacco around the fi rst It is believed that Native Americans began to use tobacco around the fi  rst 
+century BCE. There is no evidence that Native Americans ever consumed tobacco century BCE. There is no evidence that Native Americans ever consumed tobacco 
+recreationally. It was instead used as a hallucinogen during religious ceremonies recreationally. It was instead used as a hallucinogen during religious ceremonies 
+and as a painkiller. Ramon Pane, a monk who accompanied Columbus on his and as a painkiller. Ramon Pane, a monk who accompanied Columbus on his 
+second voyage, gave lengthy descriptions about the custom of smoking tobacco. second voyage, gave lengthy descriptions about the custom of smoking tobacco. 
+He described how natives inhaled smoke through a Y-shaped tube. The two ends He described how natives inhaled smoke through a Y-shaped tube. The two ends 
+were placed in the nostrils and the third end over a pastille of burning leaves. were placed in the nostrils and the third end over a pastille of burning leaves. 
+Although the exact manner of smoking differed between regions within the Although the exact manner of smoking differed between regions within the 
+Table 3 (continued)
+Panel B: Ten Largest Producers of Old World Foods
+Sugar Cane Coffee (Green) Soybeans
+Country Production Country Production Country Production
+Brazil 327.70 Brazil 1.90 United States 75.06
+India 299.23 Viet Nam 0.80 Brazil 32.73
+China 69.30 Colombia 0.64 Argentina 20.14
+Thailand 54.05 Indonesia 0.55 China 15.41
+Pakistan 46.33 Côte d’Ivoire 0.38 India 5.28
+Mexico 44.10 Mexico 0.34 Paraguay 2.98
+Australia 38.16 Guatemala 0.31 Canada 2.70
+Cuba 36.40 India 0.29 Bolivia 1.20
+Colombia 33.40 Ethiopia 0.23 Indonesia 1.02
+United States 32.76 Honduras 0.19 Italy 0.90
+Oranges Bananas
+Country Production Country Production
+Brazil 21.33 India 14.14
+United States 11.79 Ecuador 6.48
+Mexico 3.81 Brazil 5.66
+India 2.67 China 5.14
+Spain 2.62 Philippines 4.93
+Italy 1.88 Indonesia 3.75
+Iran 1.84 Costa Rica 2.18
+Egypt 1.61 Mexico 1.86
+Pakistan 1.33 Thailand 1.75
+China 1.18 Colombia 1.61
+Source: Data are from the FAO’s ProdSTAT Database.
+Notes: The table reports the ten countries that are the largest producers of Old World and New World 
+food crops. Bold text indicates an Old World country producing a New World food crop, or a New 
+World country producing a Old World food crop. All production fi  gures are in millions of tonnes for 
+the year 2000, except for Vanilla which are reported in thousands of tonnes.
+--- Page 14 ---
+176    Journal of Economic Perspectives
+Americas, the practice of smoking tobacco appears to have been universal (Penn, Americas, the practice of smoking tobacco appears to have been universal (Penn, 
+1901, pp. 5–11). 1901, pp. 5–11). 
+Tobacco was quickly adopted by Europeans. At fi rst tobacco was regarded Tobacco was quickly adopted by Europeans. At fi  rst tobacco was regarded 
+and consumed only as a medicine. In 1560, the French ambassador to Portugal, and consumed only as a medicine. In 1560, the French ambassador to Portugal, 
+Jean Nicot de Villemain (from whom the term “nicotine” originates), proclaimed Jean Nicot de Villemain (from whom the term “nicotine” originates), proclaimed 
+that tobacco had a panacea of medicinal properties. In 1561, Nicot sent tobacco that tobacco had a panacea of medicinal properties. In 1561, Nicot sent tobacco 
+leaves to Catherine de Medici, the Queen of France. She was so impressed with the leaves to Catherine de Medici, the Queen of France. She was so impressed with the 
+plant that she decreed that tobacco be called Herba Regina (the Queen’s Herb). plant that she decreed that tobacco be called Herba Regina (the Queen’s Herb). 
+In England, tobacco was fi rst introduced by Sir John Hawkins and his crew in the In England, tobacco was fi rst introduced by Sir John Hawkins and his crew in the 
+1580s. It was chiefl y used by sailors, including those employed by Sir Francis Drake. 1580s. It was chiefl y used by sailors, including those employed by Sir Francis Drake. 
+By the beginning of the seventeenth century, tobacco had spread to all parts of By the beginning of the seventeenth century, tobacco had spread to all parts of 
+Europe (Brooks, 1952, p. 16).Europe (Brooks, 1952, p. 16).
+Besides being consumed, tobacco has also been used as currency at various Besides being consumed, tobacco has also been used as currency at various 
+times. In 1619, the Virginia legislature rated high-quality tobacco at three shillings times. In 1619, the Virginia legislature rated high-quality tobacco at three shillings 
+per pound and in 1642 made it legal tender (Henry, 1894, p. 64; Scharf, 1879, per pound and in 1642 made it legal tender (Henry, 1894, p. 64; Scharf, 1879, 
+p. 220). In Maryland, nearly all business transactions, including debts, fi nes, and p. 220). In Maryland, nearly all business transactions, including debts, fi  nes, and 
+fees, were conducted in terms of tobacco. For example, fees for marriage licenses fees, were conducted in terms of tobacco. For example, fees for marriage licenses 
+were paid in tobacco, and laws imposed fi nes measured in pounds of tobacco w e r e  p a i d  i n  t o b a c c o ,  a n d  l a w s  i m p o s e d  fi nes measured in pounds of tobacco 
+(Scharf, 1879, pp. 37–38, 48). In 1776, during the American Revolutionary War, the (Scharf, 1879, pp. 37–38, 48). In 1776, during the American Revolutionary War, the 
+revolutionary government of America used tobacco as collateral for part of its loans revolutionary government of America used tobacco as collateral for part of its loans 
+from France. Tobacco’s use as currency was not isolated to the American colonies. from France. Tobacco’s use as currency was not isolated to the American colonies. 
+In Japan, Buddhist monks used tobacco seeds as a method of payment along their In Japan, Buddhist monks used tobacco seeds as a method of payment along their 
+long pilgrimages (Brooks, 1952, p. 34).long pilgrimages (Brooks, 1952, p. 34).
+In the twentieth century, tobacco consumption began to increase dramatically In the twentieth century, tobacco consumption began to increase dramatically 
+around the time of World War I, when cigarettes were commonly called “soldier’s ar o un d  th e  tim e  o f  W o r l d  W ar  I ,  w h e n  c i gar e t t e s  w e r e  c o mm o n l y  c all e d  “ s o l di e r ’ s  
+smoke.” Beginning in the 1950s, medical researchers began to discover negative smoke.” Beginning in the 1950s, medical researchers began to discover negative 
+health effects from smoking. In 1964, the U.S. Surgeon General published a report health effects from smoking. In 1964, the U.S. Surgeon General published a report 
+on the health consequences of smoking titled on the health consequences of smoking titled Smoking and Health (Cochran, Farber,  (Cochran, Farber, 
+Frieser, Furth, Hickman, Le Maistre, Schuman, Seevers, Bayne-Jones, and Burdette, Frieser, Furth, Hickman, Le Maistre, Schuman, Seevers, Bayne-Jones, and Burdette, 
+1964). This report was an important stimulus for the extensive antismoking campaigns 1964). This report was an important stimulus for the extensive antismoking campaigns 
+that developed over the next four decades. Although smoking rates have declined in that developed over the next four decades. Although smoking rates have declined in 
+developed countries, tobacco consumption continues to rise in many less-developed developed countries, tobacco consumption continues to rise in many less-developed 
+countries (Jha, 1999, pp. 13–20). As an example, in China between 1992 and 1996 countries (Jha, 1999, pp. 13–20). As an example, in China between 1992 and 1996 
+alone, per capita cigarette consumption increased by 50 percent, from 10 to 15 ciga-alone, per capita cigarette consumption increased by 50 percent, from 10 to 15 ciga-
+rettes per day. According to the World Health Organization, tobacco is currently the rettes per day. According to the World Health Organization, tobacco is currently the 
+leading cause of preventable death (Mackay, Eriksen, and Shafey, 2006). It is estimated leading cause of preventable death (Mackay, Eriksen, and Shafey, 2006). It is estimated 
+that one in every ten adult deaths is due to tobacco consumption. Driven by the rising that one in every ten adult deaths is due to tobacco consumption. Driven by the rising 
+rates of smoking in developing countries, this fi gure is expected to worsen to one in rates of smoking in developing countries, this fi gure is expected to worsen to one in 
+every six adults within the next two decades (Jha, 1999, p. 22).every six adults within the next two decades (Jha, 1999, p. 22).
+CocaCoca
+Coca leaves are grown from bushes native to the Andes. The leaves contain Coca leaves are grown from bushes native to the Andes. The leaves contain 
+alkaloids that can be extracted to produce commercial cocaine. The use of coca alkaloids that can be extracted to produce commercial cocaine. The use of coca 
+leaves has a long history. During the Incan Empire, they were chewed during leaves has a long history. During the Incan Empire, they were chewed during 
+--- Page 15 ---
+Nathan Nunn and Nancy Qian     177
+religious rituals. Early Spanish settlers adopted this practice and brought it back religious rituals. Early Spanish settlers adopted this practice and brought it back 
+to Europe. Many notable fi gures, such as Sigmund Freud, became regular users to Europe. Many notable fi  gures, such as Sigmund Freud, became regular users 
+and active proponents of its ability to increase creativity and stamina, and decrease and active proponents of its ability to increase creativity and stamina, and decrease 
+hunger. Freud supposedly began using it after hearing of the Belgian army’s experi-hunger. Freud supposedly began using it after hearing of the Belgian army’s experi-
+ments in giving coca extracts to its soldiers, who performed better on less food over ments in giving coca extracts to its soldiers, who performed better on less food over 
+longer periods of time. The most famous legal use of coca is undoubtedly with the longer periods of time. The most famous legal use of coca is undoubtedly with the 
+soft drink Coca-Cola, which initially contained marinated coca leaves. The soft soft drink Coca-Cola, which initially contained marinated coca leaves. The soft 
+drink was invented by Atlanta pharmacist Jon Pemberton as a stimulating beverage drink was invented by Atlanta pharmacist Jon Pemberton as a stimulating beverage 
+that served as a substitute for alcohol at a time when the sale of alcohol was illegal that served as a substitute for alcohol at a time when the sale of alcohol was illegal 
+in Atlanta (Hobhouse, 2005, pp. 310–13).in Atlanta (Hobhouse, 2005, pp. 310–13).
+Today, cocaine is one of the most highly traded illegal substances in the world. Today, cocaine is one of the most highly traded illegal substances in the world. 
+Although the consumption of cocaine has spread to all corners of the globe, only Although the consumption of cocaine has spread to all corners of the globe, only 
+three New World countries— Colombia, Peru, and Bolivia— produce the world’s three New World countries—Colombia, Peru, and Bolivia—produce the world’s 
+supply of coca leaves. In 2008, Colombia produced 62 percent, Peru produced s u p p l y  o f  c o c a  l e a v e s .  I n  2 0 0 8 ,  C o l o m b i a  p r o d u c e d  6 2  p e r c e n t ,  P e r u  p r o d u c e d  
+28 percent, and Bolivia produced 10 percent of the world’s supply (U.N. Offi ce on 28 percent, and Bolivia produced 10 percent of the world’s supply (U.N. Offi ce on 
+Drugs and Crime, 2008, p. 70). The coca industry accounts for a signifi cant portion Drugs and Crime, 2008, p. 70). The coca industry accounts for a signifi cant portion 
+of income in these countries. It is estimated that the coca leaf by itself accounts of income in these countries. It is estimated that the coca leaf by itself accounts 
+for 2.3 percent of Bolivia’s GDP, and 16 percent of its total agricultural produc-for 2.3 percent of Bolivia’s GDP, and 16 percent of its total agricultural produc-
+tion (U.N. Offi ce on Drugs and Crime, 2008, p. 233). In Colombia, a country with tion (U.N. Offi ce on Drugs and Crime, 2008, p. 233). In Colombia, a country with 
+a much larger economy, the analogous numbers are smaller, but still signifi cant: a much larger economy, the analogous numbers are smaller, but still signifi  cant: 
+0.5 and 5 percent (U.N. Offi ce on Drugs and Crime, 2009, p. 6).0.5 and 5 percent (U.N. Offi ce on Drugs and Crime, 2009, p. 6).
+Improved Cultivation of Old World Foods in the New WorldImproved Cultivation of Old World Foods in the New World
+After Columbus’ voyages to the Americas, it was soon discovered that certain After Columbus’ voyages to the Americas, it was soon discovered that certain 
+Old World crops were very well-suited to New World climates. In many cases, the Old World crops were very well-suited to New World climates. In many cases, the 
+Old World crops were grown much more productively in the New World soils and Old World crops were grown much more productively in the New World soils and 
+climates than they were grown back home. Table 1 indicates in italics Old World climates than they were grown back home. Table 1 indicates in italics Old World 
+crops that today have more than 26 percent of their total production in the New crops that today have more than 26 percent of their total production in the New 
+World. We choose a 26 percent cut-off because this is the fraction of arable land World. We choose a 26 percent cut-off because this is the fraction of arable land 
+located in the Americas. Therefore, the table highlights Old World crops for which located in the Americas. Therefore, the table highlights Old World crops for which 
+a disproportionate share of output (normalized by arable land) is produced in the a disproportionate share of output (normalized by arable land) is produced in the 
+New World. Because the Americas have 16 percent of the world’s population, on a New World. Because the Americas have 16 percent of the world’s population, on a 
+per capita basis as well, these foods are disproportionately produced in the Americas.per capita basis as well, these foods are disproportionately produced in the Americas.
+The fact that Old World crops fl ourished in the New World, and New World The fact that Old World crops fl ourished in the New World, and New World 
+crops fl ourished in the Old, is not just coincidence. It is, in part, the result of two crops fl ourished in the Old, is not just coincidence. It is, in part, the result of two 
+aspects of the Columbian Exchange. First, both the New World and the Old World aspects of the Columbian Exchange. First, both the New World and the Old World 
+contain continents that lie on a North–South orientation and span nearly all degrees contain continents that lie on a North–South orientation and span nearly all degrees 
+of latitude. Because climates change most drastically as one moves North–South, of latitude. Because climates change most drastically as one moves North–South, 
+rather than East–West, this helped to ensure that New World plants could fi nd an rather than East–West, this helped to ensure that New World plants could fi  nd an 
+Old World climate similar to their native climate and vice versa. Second, a benefi t Old World climate similar to their native climate and vice versa. Second, a benefi  t 
+also arose from the two regions being isolated for thousands of years. The isolation also arose from the two regions being isolated for thousands of years. The isolation 
+caused separate evolutions of plants, parasites, and pests. Therefore, transplanted caused separate evolutions of plants, parasites, and pests. Therefore, transplanted 
+--- Page 16 ---
+178    Journal of Economic Perspectives
+crops often fl ourished because they were able to escape the pests and parasites crops often fl ourished because they were able to escape the pests and parasites 
+that had coevolved with them in their native habitat. Because of the greater preva-that had coevolved with them in their native habitat. Because of the greater preva-
+lence of pests and parasites in tropical regions, tropical plants benefi ted most from lence of pests and parasites in tropical regions, tropical plants benefi ted most from 
+being transplanted (Dean, 1987, pp. 59–60). This benefi t partially explains why being transplanted (Dean, 1987, pp. 59–60). This benefi  t partially explains why 
+today 57 percent of the production of coffee (which originated in the Old World) today 57 percent of the production of coffee (which originated in the Old World) 
+is produced in the New World, and why 98 percent of natural rubber is produced is produced in the New World, and why 98 percent of natural rubber is produced 
+in the Old World from transplanted rubber trees originally from the New World. in the Old World from transplanted rubber trees originally from the New World. 
+Numerous other examples of transplanted crops exist. For example, the Americas Numerous other examples of transplanted crops exist. For example, the Americas 
+currently produce 84 percent of the world’s soybeans, 65 percent of its oranges, and currently produce 84 percent of the world’s soybeans, 65 percent of its oranges, and 
+35 percent of its bananas.35 percent of its bananas.
+Sugar CaneSugar Cane
+The most striking example of an Old World crop that could be much more The most striking example of an Old World crop that could be much more 
+effectively cultivated in the New World is sugar cane. Most of the world’s land suit-effectively cultivated in the New World is sugar cane. Most of the world’s land suit-
+able for sugar cultivation lies in the Americas, particularly in Latin America and the able for sugar cultivation lies in the Americas, particularly in Latin America and the 
+Caribbean. Sugar cane was fi rst carried to the New World (from the Spanish Canary Caribbean. Sugar cane was fi rst carried to the New World (from the Spanish Canary 
+Islands) on Columbus’ second voyage in 1493 and was fi rst cultivated in Spanish I s l a n d s )  o n  C o l u m b u s ’  s e c o n d  v o y a g e  i n  1 4 9 3  a n d  w as  fi rst cultivated in Spanish 
+Santo Domingo (Dominican Republic). By 1509, enslaved Africans were being Santo Domingo (Dominican Republic). By 1509, enslaved Africans were being 
+imported to the island, and by 1516, sugar was being exported to Europe. Soon after, imported to the island, and by 1516, sugar was being exported to Europe. Soon after, 
+the Portuguese also brought sugar cane across the Atlantic, and by 1526, sugar was the Portuguese also brought sugar cane across the Atlantic, and by 1526, sugar was 
+being exported from Brazil to Lisbon (Mintz, 1985, pp. 32–33). Beginning in the being exported from Brazil to Lisbon (Mintz, 1985, pp. 32–33). Beginning in the 
+last two decades of the sixteenth century, the interests of the Dutch, English, and last two decades of the sixteenth century, the interests of the Dutch, English, and 
+French also turned to sugar production. Between 1630 and 1660, the Dutch, English, French also turned to sugar production. Between 1630 and 1660, the Dutch, English, 
+and French began to found their own sugar colonies. The climate in the Americas and French began to found their own sugar colonies. The climate in the Americas 
+provided such an advantage to New World sugar producers that by 1680, sugar cane provided such an advantage to New World sugar producers that by 1680, sugar cane 
+production was dominated by the New World (Galloway, 2005, pp. 78–83).production was dominated by the New World (Galloway, 2005, pp. 78–83).
+One consequence of the large-scale production of sugar in the Americas was One consequence of the large-scale production of sugar in the Americas was 
+that, for the fi rst time in human history, there was a large enough supply of the that, for the fi rst time in human history, there was a large enough supply of the 
+commodity that it could be consumed by the commoner in Europe. In England, commodity that it could be consumed by the commoner in Europe. In England, 
+the annual per capita consumption of sugar increased by 20-fold between 1663 and the annual per capita consumption of sugar increased by 20-fold between 1663 and 
+1775, and it increased a further fi ve-fold between 1835 and 1935 (Sheridan, 1974, 1775, and it increased a further fi ve-fold between 1835 and 1935 (Sheridan, 1974, 
+p. 21, Burnett, 1966, p. 274). Sugar, providing a cheap and easy source of calories p. 21, Burnett, 1966, p. 274). Sugar, providing a cheap and easy source of calories 
+for the growing urban working class in Europe, was fi rst consumed in tea and other for the growing urban working class in Europe, was fi rst consumed in tea and other 
+hot drinks. During the nineteenth century, sugar consumption further increased hot drinks. During the nineteenth century, sugar consumption further increased 
+as processed foods— such as jams, cakes and biscuits, canned vegetables and fruits, as processed foods—such as jams, cakes and biscuits, canned vegetables and fruits, 
+relishes, and white bread— became more common (Galloway, 2005, pp. 6–9).relishes, and white bread—became more common (Galloway, 2005, pp. 6–9).
+It is hard to overstate the importance of sugar for the European masses. Hersh It is hard to overstate the importance of sugar for the European masses. Hersh 
+and Voth (2009) estimate that the increase in sugar availability between 1600 and and Voth (2009) estimate that the increase in sugar availability between 1600 and 
+1850 increased English welfare by an amazing 8 percent. Anthropologist Sidney 1850 increased English welfare by an amazing 8 percent. Anthropologist Sidney 
+Mintz (1985, p. 180) even goes so far as to put forth a hypothesis about the impor-Mintz (1985, p. 180) even goes so far as to put forth a hypothesis about the impor-
+tance of sugar for creating an industrial working class in the United tance of sugar for creating an industrial working class in the United Kingdom. He Kingdom. He 
+writes that sugar, “by provisioning, sating— and, indeed, drugging— farm and writes that sugar, “by provisioning, sating—and, indeed, drugging—farm and 
+factory workers, sharply reduced the overall cost of creating and reproducing the factory workers, sharply reduced the overall cost of creating and reproducing the 
+metropolitanmetropolitan proletariat.” proletariat.”
+--- Page 17 ---
+The Columbian Exchange: A History of Disease, Food, and Ideas     179
+Today, as shown in Panel B of Table 3, Brazil is the world’s largest supplier Today, as shown in Panel B of Table 3, Brazil is the world’s largest supplier 
+of sugar cane. Other New World countries that are also top producers include of sugar cane. Other New World countries that are also top producers include 
+Mexico, Cuba, Colombia, and the United States. Global production of sugar Mexico, Cuba, Colombia, and the United States. Global production of sugar 
+cane in 2000 was 1,252 million tonnes. Of this, 45 percent was produced in the cane in 2000 was 1,252 million tonnes. Of this, 45 percent was produced in the 
+Americas, with Latin America and the Caribbean accounting for 94 percent of Americas, with Latin America and the Caribbean accounting for 94 percent of 
+the New World production.the New World production.
+Indirect Consequences of the Columbian ExchangeIndirect Consequences of the Columbian Exchange
+Quinine: The New World’s “Gift” to Europe’s Old World ColoniesQuinine: The New World’s “Gift” to Europe’s Old World Colonies
+Quinine, an important medicinal “gift” from the New World, had signifi cant Quinine, an important medicinal “gift” from the New World, had signifi  cant 
+consequences for the relationship between Europe and its tropical Old World colo-consequences for the relationship between Europe and its tropical Old World colo-
+nies, particularly its African colonies. Quinine and related anti-malarial alkaloids nies, particularly its African colonies. Quinine and related anti-malarial alkaloids 
+(quinidine, cinchonine, cinchonidine) are derived from the bark of cinchona (quinidine, cinchonine, cinchonidine) are derived from the bark of cinchona 
+trees native to the Andes. The trees grow in scattered clumps in the eastern moun-trees native to the Andes. The trees grow in scattered clumps in the eastern moun-
+tainous forests of Colombia, Ecuador, Peru, and Bolivia between 10 degrees north tainous forests of Colombia, Ecuador, Peru, and Bolivia between 10 degrees north 
+and 20 degrees south at elevations between 800 to 3,400 meters (Brockway, 1979, and 20 degrees south at elevations between 800 to 3,400 meters (Brockway, 1979, 
+p. 108). Quinine was the fi rst effective treatment of malaria caused by p. 108). Quinine was the fi rst effective treatment of malaria caused by Plasmodium 
+falciparum, the protozoan parasite that is transmitted between mammals by the , the protozoan parasite that is transmitted between mammals by the 
+female female Anopheles mosquito. Quinine works by inhibiting plasmodium reproduction. mosquito. Quinine works by inhibiting plasmodium reproduction.
+The use of quinine as a prophylactic was fi rst discovered in 1841 by Dr. Thomas The use of quinine as a prophylactic was fi rst discovered in 1841 by Dr. Thomas 
+R. H. Thomson; the fi ndings were later published in R. H. Thomson; the fi ndings were later published in The Lancet (Thomson, 1846).  (Thomson, 1846). 
+The British government, amidst the expansion of its empire into many malaria-The British government, amidst the expansion of its empire into many malaria-
+ridden regions, and seeing the potential benefi ts of quinine, encouraged the Royal ridden regions, and seeing the potential benefi ts of quinine, encouraged the Royal 
+Society to research the properties of quinine and explore the possibilities of farming Society to research the properties of quinine and explore the possibilities of farming 
+it outside of the Andes. In 1858, the British Botanical Gardens (headed by Kew it outside of the Andes. In 1858, the British Botanical Gardens (headed by Kew 
+Gardens, London) began the “cinchona transfer project” that aimed to ensure a Gardens, London) began the “cinchona transfer project” that aimed to ensure a 
+stable, adequate, and cost-effective quinine supply to the colonizers of the British stable, adequate, and cost-effective quinine supply to the colonizers of the British 
+Empire by buying, stealing, bribing, and smuggling cinchona plants and seeds out Empire by buying, stealing, bribing, and smuggling cinchona plants and seeds out 
+of the Andes to London and colonial gardens in Ceylon and India (Brockway, 1979, of the Andes to London and colonial gardens in Ceylon and India (Brockway, 1979, 
+pp. 115–17). The British were successful in transferring plants to Kew Gardens in pp. 115–17). The British were successful in transferring plants to Kew Gardens in 
+London, Calcutta, and the Nilgiri Hills of India. Within decades, production was London, Calcutta, and the Nilgiri Hills of India. Within decades, production was 
+also expanded to Singapore and Dutch Java. Estimates suggest that by 1880, enough also expanded to Singapore and Dutch Java. Estimates suggest that by 1880, enough 
+was produced to supply ten million people with a daily dose (Hobhouse, 2005, p. 28).was produced to supply ten million people with a daily dose (Hobhouse, 2005, p. 28).
+The exact importance of quinine’s use as an anti-malarial alkaloid is still The exact importance of quinine’s use as an anti-malarial alkaloid is still 
+being established by historians, but the evidence suggests that it was an important being established by historians, but the evidence suggests that it was an important 
+“tool of empire” and signifi cantly enhanced Europe’s ability to colonize tropical “tool of empire” and signifi can tly enhanced Europe ’ s abili ty to colonize tropical 
+regions of the globe. Although debated (for example, by Etemad, 2007), the tradi-regions of the globe. Although debated (for example, by Etemad, 2007), the tradi-
+tional historiography recognizes quinine as having facilitated European survival tional historiography recognizes quinine as having facilitated European survival 
+in malaria-ridden regions during the age of exploration and colonial expansion in malaria-ridden regions during the age of exploration and colonial expansion 
+(Headrick, 1981). The standard view is that Europe’s colonization of Africa would (Headrick, 1981). The standard view is that Europe’s colonization of Africa would 
+have been virtually impossible without quinine. Curtin (1961, p. 110) notes that have been virtually im possi ble wi th ou t quinin e . Curtin ( 1 96 1 , p . 1 1 0 ) n otes that 
+“between 1819 to 1836 the average annual death rate per thousand mean strength “between 1819 to 1836 the average annual death rate per thousand mean strength 
+--- Page 18 ---
+180    Journal of Economic Perspectives
+of European troops on the West African coast was 483 for enlisted men, and 209 for of European troops on the West African coast was 483 for enlisted men, and 209 for 
+offi cers. Between 1881 and 1897 the annual average death rate for offi cials was 76 offi cers. Between 1881 and 1897 the annual average death rate for offi  cials was 76 
+in the Gold Coast and 53 in Lagos. . . . since there were no further medical reforms in the Gold Coast and 53 in Lagos. . . . since there were no further medical reforms 
+between the 1850’s and the 1880’s comparable to quinine prophylaxis or the aboli-between the 1850’s and the 1880’s comparable to quinine prophylaxis or the aboli-
+tion of dangerous treatments, it is fair to assume that the medical reforms of the tion of dangerous treatments, it is fair to assume that the medical reforms of the 
+1840’s reduced European mortality on shore by at least half and perhaps more.” 1840’s reduced European mortality on shore by at least half and perhaps more.” 
+Curtin concludes that “the history of tropical Africa would certainly have been very Curtin concludes that “the history of tropical Africa would certainly have been very 
+different if European mortality had continued at the old rate.”different if European mortality had continued at the old rate.”
+Rubber in the Heart of DarknessRubber in the Heart of Darkness
+Natural rubber is made from latex, which is produced when certain plants are cut Natural rubber is made from latex, which is produced when certain plants are cut 
+or punctured. Although rubber can be made from many different plants from around or punctured. Although rubber can be made from many different plants from around 
+the world, the only commercially viable rubber plants are the the world, the only commercially viable rubber plants are the Hevea rubber tree from  rubber tree from 
+Central and South America, and a wild vine that grows in West-Central Africa.Central and South America, and a wild vine that grows in West-Central Africa.
+Historically, Africans made little use of rubber, except as an adhesive to H i s t o r i c a l l y ,  A f r i c a n s  m a d e  l i t t l e  u s e  o f  r u b b e r ,  e x c e p t  a s  a n  a d h e s i v e  t o  
+fasten spearheads and arrowheads to their shafts (Loadman, 2005, p. 139). Native fasten spearheads and arrowheads to their shafts (Loadman, 2005, p. 139). Native 
+Americans, on the other hand, had developed methods to prevent the latex from Americans, on the other hand, had developed methods to prevent the latex from 
+decaying, which was accomplished by smoking the latex over fi res to form spools of decaying, which was accomplished by smoking the latex over fi res to form spools of 
+usable crude rubber. The rubber was used to create a wide range of items that were usable crude rubber. The rubber was used to create a wide range of items that were 
+of central importance in their daily lives: hoods, boots, tents, balls, torches, jars, of central importance in their daily lives: hoods, boots, tents, balls, torches, jars, 
+containers, syringes, toys, breastplates, rubber-headed drum sticks, and adhesives containers, syringes, toys, breastplates, rubber-headed drum sticks, and adhesives 
+(Brockway, 1979, pp. 144–45).(Brockway, 1979, pp. 144–45).
+Europeans did not recognize the benefi ts of rubber until 1770, when French Europeans did not recognize the benefi  ts of rubber until 1770, when French 
+naturalist Charles Marie de La Condamine noticed its use by Amazon natives. naturalist Charles Marie de La Condamine noticed its use by Amazon natives. 
+The fi rst commercial use of rubber was in the production of shoes, primarily from The fi rst commercial use of rubber was in the production of shoes, primarily from 
+New England, in the early nineteenth century. However, the real boom for the New England, in the early nineteenth century. However, the real boom for the 
+rubber industry did not occur until the process of “vulcanization” was discovered. rubber industry did not occur until the process of “vulcanization” was discovered. 
+This process includes heating the rubber and combining it with other chemicals This process includes heating the rubber and combining it with other chemicals 
+to produce a more stable product with a wider range of uses (Hobhouse, 2003, to produce a more stable product with a wider range of uses (Hobhouse, 2003, 
+pp. 127–30). pp. 127–30). 
+Between 1851 and 1881 the world production of rubber increased from 2,500 Between 1851 and 1881 the world production of rubber increased from 2,500 
+to 20,000 tons annually (Hobhouse, 2003, p. 129). This boom, although signifi -to  20 , 000  to ns  ann ually  ( H o b h o use ,  2003 ,  p .  1 29 ) .  This  boo m ,  al th o ug h  s i gnifi -
+cant, was modest compared to what was to come. The following three decades cant, was modest compared to what was to come. The following three decades 
+witnessed an explosion in the demand for rubber. Hobhouse (p. 130) describes witnessed an explosion in the demand for rubber. Hobhouse (p. 130) describes 
+the rubber boom, which lasted from 1880 to 1910, writing that “rubber became the rubber boom, which lasted from 1880 to 1910, writing that “rubber became 
+the most important, most market-sensitive, most sought-after new commodity in the most important, most market-sensitive, most sought-after new commodity in 
+the world.” The the world.” The rising demand for rubber was fi rst driven by the rise of electricity, rising demand for rubber was fi rst driven by the rise of electricity, 
+since rubber was used as an insulator. The demand was also fed by the need for since rubber was used as an insulator. The demand was also fed by the need for 
+rubber to produce rubber to produce rubber tires for bicycles, and later for motorcycles and cars.rubber tires for bicycles, and later for motorcycles and cars.
+During this period, rubber production increased rapidly, doubling every D u r i n g  t h i s  p e r i o d ,  r u b b e r  p r o d u c t i o n  i n c r e a s e d  r a p i d l y ,  d o u b l i n g  e v e r y  
+three to fi ve years (Hobhouse, 2003, pp. 130–37). This was accomplished, in three to fi  ve years (Hobhouse, 2003, pp. 130–37). This was accomplished, in 
+part, by an increase in supply from tropical regions outside of the Americas. In part, by an increase in supply from tropical regions outside of the Americas. In 
+1876, 70,000 1876, 70,000 Hevea rubber tree seeds were taken from Amazonia to Kew Botan- ru b be r  tr e e  se eds  w e r e  tak e n  fr o m  Amazo nia  to  Kew  Bo tan-
+ical Gardens in Ceylon and Singapore by Sir Henry Wickham (Loadman, 2005, ical Gardens in Ceylon and Singapore by Sir Henry Wickham (Loadman, 2005, 
+--- Page 19 ---
+Nathan Nunn and Nancy Qian     181
+pp. 81–107). This was the genesis of the rubber industry that now exists in all of pp. 81–107). This was the genesis of the rubber industry that now exists in all of 
+Asia. (The current domination of the rubber industry by Asian countries is evident Asia. (The current domination of the rubber industry by Asian countries is evident 
+in Panel A of Table 3— the top six producers of natural rubber are all Asian coun-in Panel A of Table 3—the top six producers of natural rubber are all Asian coun-
+tries.) A second supplier of rubber during the period, one which became the most tries.) A second supplier of rubber during the period, one which became the most 
+notorious example of European exploitation in sub-Saharan Africa, was the Congo notorious example of European exploitation in sub-Saharan Africa, was the Congo 
+region of West Central Africa. Here grew the only other indigenous plants that region of West Central Africa. Here grew the only other indigenous plants that 
+were able to provide commercially viable sources of natural rubber. Between 1900 were able to provide commercially viable sources of natural rubber. Between 1900 
+and 1908, during the height of the boom, between 4,500 and 6,000 tons of rubber and 1908, during the height of the boom, between 4,500 and 6,000 tons of rubber 
+were exported each year from the Congo Free State.were exported each year from the Congo Free State.
+The atrocities and human costs that were suffered in the production of rubber The atrocities and human costs that were suffered in the production of rubber 
+are well known and well documented (for example, Hothschild, 1998). In attempts are well known and well documented (for example, Hothschild, 1998). In attempts 
+to force natives to gather rubber, villages were burnt, groups were massacred, and to force natives to gather rubber, villages were burnt, groups were massacred, and 
+hostages were taken, who were then typically starved and physically disfi gured. h o s ta g e s  w e r e  ta k e n ,  w h o  w e r e  t h e n  typ i c a l l y  s ta rv e d  a n d  p h y s i c a l l y  d i s fi gured. 
+The population of the Congo is estimated to have been about 25 million prior the The population of the Congo is estimated to have been about 25 million prior the 
+rubber boom, in the 1880s. In 1911, after the peak of the boom, the population was rubber boom, in the 1880s. In 1911, after the peak of the boom, the population was 
+8.5 million, and in 1923 after the completion of the boom, it was 7.7 million. If one 8.5 million, and in 1923 after the completion of the boom, it was 7.7 million. If one 
+compares the population losses relative to the production of rubber, an astonishing compares the population losses relative to the production of rubber, an astonishing 
+conclusion is reached: an individual was “lost” from the Congo for every ten kilo-conclusion is reached: an individual was “lost” from the Congo for every ten kilo-
+grams of rubber exported (Loadman, 2005, pp. 140–41).grams of rubber exported (Loadman, 2005, pp. 140–41).
+Forced and Voluntary Migrations to the Americas Forced and Voluntary Migrations to the Americas 
+Between the sixteenth to nineteenth centuries, over twelve million Africans Between the sixteenth to nineteenth centuries, over twelve million Africans 
+were shipped to the Americas during the transatlantic slave trade, the largest invol-were shipped to the Americas during the transatlantic slave trade, the largest invol-
+untary migration in human history (Lovejoy, 2000; Manning, 1990; Nunn, 2008b). untary migration in human history (Lovejoy, 2000; Manning, 1990; Nunn, 2008b). 
+The trade was fueled by the high demand for labor in the Americas, which was The trade was fueled by the high demand for labor in the Americas, which was 
+driven, at least in part, by two aspects of the Columbian Exchange: The fi rst was the driven, at least in part, by two aspects of the Columbian Exchange: The fi rst was the 
+spread of Old World diseases to Native Americans, which resulted in extremely low spread of Old World diseases to Native Americans, which resulted in extremely low 
+population densities in the New World. The second was the cultivation of highly population densities in the New World. The second was the cultivation of highly 
+prized Old World crops, such as sugar and coffee, which were particularly well-prized Old World crops, such as sugar and coffee, which were particularly well-
+suited to New World soils and climates. suited to New World soils and climates. 
+The forced movement of African slaves to the Americas reached its height in The forced movement of African slaves to the Americas reached its height in 
+the eighteenth century. In the nineteenth century, the fl ow of slaves slowed, fi rst the eighteenth century. In the nineteenth century, the fl  ow of slaves slowed, fi rst 
+as a result of the British Slave Trade Act of 1807 that banned imports of slaves as a result of the British Slave Trade Act of 1807 that banned imports of slaves 
+into British colonies, and later because of the British Slavery Abolition Act of 1837, into British colonies, and later because of the British Slavery Abolition Act of 1837, 
+which abolished any use of slave labor within the British colonies.which abolished any use of slave labor within the British colonies.
+In response to the abolition of the slave trade, many employers resorted to In response to the abolition of the slave trade, many employers resorted to 
+bonded labor contracts as a way to obtain a continued supply of cheap labor. Most of bonded labor contracts as a way to obtain a continued supply of cheap labor. Most of 
+the migration occurred between Europe’s Old and New World colonies. Caribbean the migration occurred between Europe’s Old and New World colonies. Caribbean 
+plantations provided the main demand for laborers from French Indochina and plantations provided the main demand for laborers from French Indochina and 
+the British colonies in Asia. For example, over half a million indentured laborers the British colonies in Asia. For example, over half a million indentured laborers 
+were moved from the Indian subcontinent to the British Caribbean during the were moved from the Indian subcontinent to the British Caribbean during the 
+nineteenth century and the beginning of the twentieth century (Williams, 1962, nineteenth century and the beginning of the twentieth century (Williams, 1962, 
+p. 100). China, after its forced opening to the West upon losing the Opium Wars (in p. 100). China, after its forced opening to the West upon losing the Opium Wars (in 
+1842 and 1860), provided another important source of indentured labor. Employers 1842 and 1860), provided another important source of indentured labor. Employers 
+--- Page 20 ---
+182    Journal of Economic Perspectives
+of these “coolies” included guano pits, cotton and sugar industries in Peru, sugar of these “coolies” included guano pits, cotton and sugar industries in Peru, sugar 
+cane fi elds in Cuba (following the abolition of slavery in 1886), and railways in the cane fi elds in Cuba (following the abolition of slavery in 1886), and railways in the 
+United States and British Columbia (Campbell, 1923).United States and British Columbia (Campbell, 1923).
+Although most indentured laborers entered servitude voluntarily, many A l t h o u g h  m o s t  i n d e n t u r e d  l a b o r e r s  e n t e r e d  s e r v i t u d e  v o l u n t a r i l y ,  m a n y  
+parallels can be drawn between the harsh conditions of slavery and those faced parallels can be drawn between the harsh conditions of slavery and those faced 
+by the indentured laborers (Northrop, 1995, pp. 4–10). For example, many would by the indentured laborers (Northrop, 1995, pp. 4–10). For example, many would 
+die on the voyage to the Americas, where crowded conditions and malnutrition die on the voyage to the Americas, where crowded conditions and malnutrition 
+made the laborers vulnerable to disease (for example, Castro de Mendoza, 1989, made the laborers vulnerable to disease (for example, Castro de Mendoza, 1989, 
+p. 45). And like slaves who were denied the rights of ordinary citizens, indentured p. 45). And like slaves who were denied the rights of ordinary citizens, indentured 
+laborers were often denied the right to naturalize and obtain citizenship after their laborers were often denied the right to naturalize and obtain citizenship after their 
+contracts were over.contracts were over.
+The nineteenth and twentieth centuries also witnessed a dramatic increase in The nineteenth and twentieth centuries also witnessed a dramatic increase in 
+voluntary migrations from the Old World. Between 1851 and 1924 alone, 45 million voluntary migrations from the Old World. Between 1851 and 1924 alone, 45 million 
+people migrated from the Old World to the Americas, with the majority, 34 million, people migrated from the Old World to the Americas, with the majority, 34 million, 
+choosing to migrate to the United States. Those that migrated to Latin America choosing to migrate to the United States. Those that migrated to Latin America 
+primarily went to Argentina and Brazil. Between 1850 and 1940, 7 million went to primarily went to Argentina and Brazil. Between 1850 and 1940, 7 million went to 
+Argentina and 4.5 million to Brazil (Crosby, 2003, pp. 214–15).Argentina and 4.5 million to Brazil (Crosby, 2003, pp. 214–15).
+A recent data construction effort by Putterman and Weil (2009) provides A  r e c e n t  d a t a  c o n s t r u c t i o n  e f f o r t  b y  P u t t e r m a n  a n d  W e i l  ( 2 0 0 9 )  p r o v i d e s  
+comprehensive estimates of the magnitudes of post-1492 population fl ows from the comprehensive estimates of the magnitudes of post-1492 population fl ows from the 
+Old World to the New World. The authors construct a matrix showing the share Old World to the New World. The authors construct a matrix showing the share 
+of a country’s current population (in 2000) whose ancestors were originally from of a country’s current population (in 2000) whose ancestors were originally from 
+other countries of the world. Using this matrix, we are able to calculate, for the 27 other countries of the world. Using this matrix, we are able to calculate, for the 27 
+New World countries in their sample, the share of their current populations origi-New World countries in their sample, the share of their current populations origi-
+nally from the Old World. These fi gures are reported in the fi rst column of Table nally from the Old World. These fi gures are reported in the fi rst column of Table 
+4.4.33 The share ranges from 26 percent for Guatemala, to 100 percent for the New  The share ranges from 26 percent for Guatemala, to 100 percent for the New 
+World island economics of Haiti, Jamaica, and Trinidad and Tobago. In the second World island economics of Haiti, Jamaica, and Trinidad and Tobago. In the second 
+and third columns of the table, we further disaggregate the Old World category, and third columns of the table, we further disaggregate the Old World category, 
+reporting explicitly the population shares from Africa and from Europe. (The reporting explicitly the population shares from Africa and from Europe. (The 
+remaining share, not reported, is for Asia and Oceania.) For many countries, most remaining share, not reported, is for Asia and Oceania.) For many countries, most 
+of their current population is from either Africa (for example, 98 percent for Haiti) of their current population is from either Africa (for example, 98 percent for Haiti) 
+or Europe (for example, 91 percent for Uruguay or 84 percent for Argentina).or Europe (for example, 91 percent for Uruguay or 84 percent for Argentina).
+Concluding ThoughtsConcluding Thoughts
+The aim of this paper has been to provide a historical overview of the The aim of this paper has been to provide a historical overview of the 
+Columbian Exchange, with a particular emphasis on aspects of the exchange Columbian Exchange, with a particular emphasis on aspects of the exchange 
+that have generally been neglected by economists. The New World provided soils that have generally been neglected by economists. The New World provided soils 
+that were very suitable for the cultivation of a variety of Old World products, that were very suitable for the cultivation of a variety of Old World products, 
+like sugar and coffee. The increased supply lowered the prices of these products like sugar and coffee. The increased supply lowered the prices of these products 
+3 For all of the fi  ne details, including data sources and calculation procedures, see Putterman and 
+Weil (2009), as well as their online appendices, which are available at 〈http:/ /www.econ.brown.edu/fac
+/Louis_Putterman/world%20migration%20matrix.htm 〉.
+--- Page 21 ---
+The Columbian Exchange: A History of Disease, Food, and Ideas     183
+signifi cantly, making them affordable to the general population for the fi rst time signifi cantly, making them affordable to the general population for the fi  rst time 
+in history. The production of these products also resulted in large infl ows of i n  h i s t o ry .  T h e  p r o d u c ti o n  o f  t h e s e  p r o d u c ts  a l s o  r e s u l t e d  i n  l a r g e  i n fl ows of 
+profi ts back to Europe, which some have argued fueled the Industrial Revolu-profi ts back to E uro pe , whi ch so m e ha v e argu ed fu e l ed th e In d us trial Rev o l u-
+tion and the rise of Europe (Inikori, 2002; Acemoglu, Johnson, and Robinson, tion and the rise of Europe (Inikori, 2002; Acemoglu, Johnson, and Robinson, 
+2005). The Old World also gained access to new crops that were widely adopted. 2005). The Old World also gained access to new crops that were widely adopted. 
+Potatoes were embraced by the Irish and the eastern European societies, chili Potatoes were embraced by the Irish and the eastern European societies, chili 
+peppers by the cultures of South and Southeast Asia, tomatoes by Italy and other peppers by the cultures of South and Southeast Asia, tomatoes by Italy and other 
+Mediterranean societies, and tobacco by all nations of the world.Mediterranean societies, and tobacco by all nations of the world.
+The exchange also had some extremely negative impacts. Native American The exchange also had some extremely negative impacts. Native American 
+populations were decimated by Old World diseases.populations were decimated by Old World diseases.   This depopulation along This depopulation along 
+Table 4
+Origins of New World Populations
+Share of population in 2000 that is of:
+Country Old World origin African origin European origin
+Haiti 1.00 0.98 0.02
+Jamaica 1.00 0.89 0.08
+Trinidad and Tobago 1.00 0.46 0.07
+Cuba 0.98 0.34 0.63
+Canada 0.97 0.02 0.76
+Dominican Republic 0.96 0.44 0.52
+Uruguay 0.96 0.04 0.91
+Guyana 0.95 0.39 0.00
+Argentina 0.95 0.02 0.84
+Brazil 0.91 0.16 0.19
+United States 0.90 0.10 0.68
+Puerto Rico 0.82 0.16 0.66
+Costa Rica 0.70 0.09 0.60
+Venezuela 0.69 0.14 0.55
+Panama 0.64 0.13 0.45
+Colombia 0.63 0.17 0.46
+Chile 0.63 0.01 0.59
+Belize 0.61 0.17 0.40
+Nicaragua 0.60 0.09 0.51
+Paraguay 0.54 0.01 0.52
+El Salvador 0.50 0.00 0.50
+Honduras 0.48 0.02 0.46
+Ecuador 0.39 0.07 0.32
+Mexico 0.38 0.07 0.30
+Peru 0.36 0.06 0.28
+Bolivia 0.28 0.01 0.27
+Guatemala 0.26 0.04 0.22
+Source: Data are from Louis Putterman and David Weil’s World Migration Matrix, 
+1500–2000 Version 1.1. 〈http:/ /www.econ.brown.edu/fac/Louis_Putterman/world
+%20migration%20matrix.htm〉.
+Note: The table shows the proportion of the population of New World Countries 
+in 2000 that were descendents of individuals living in the Old World, Africa, and 
+Europe in 1500. See Putterman and Weil (2009) for full details.
+--- Page 22 ---
+184    Journal of Economic Perspectives
+with the production of valuable Old World crops like sugar cane and coffee with the production of valuable Old World crops like sugar cane and coffee 
+then fueled the then fueled the demand for labor that gave rise to the transatlantic slave trade. demand for labor that gave rise to the transatlantic slave trade. 
+The result was the forced movement of The result was the forced movement of over twelve million slaves from Africa to over twelve million slaves from Africa to 
+the Americas and devastating political, social, and economic the Americas and devastating political, social, and economic consequences for consequences for 
+the African continent. Following the slave trade, the African continent was the African continent. Following the slave trade, the African continent was 
+divided and brought under divided and brought under European colonial rule, an event that some have European colonial rule, an event that some have 
+argued would have been impossible without the discovery of quinine in the New argued would have been impossible without the discovery of quinine in the New 
+World. World. Moreover, the knowledge of how to harvest and process rubber, learned Moreover, the knowledge of how to harvest and process rubber, learned 
+from natives of the Andes, had particularly regrettable consequences for those in from natives of the Andes, had particularly regrettable consequences for those in 
+Africa’s Congo region.Africa’s Congo region.
+Our hope is that this broad overview will spur further research examining the Our hope is that this broad overview will spur further research examining the 
+neglected aspects of the exchange. One interesting question that is particularly rele-neglected aspects of the exchange. One interesting question that is particularly rele-
+vant for the exchange is the effect that diseases had on domestic institutions, social vant for the exchange is the effect that diseases had on domestic institutions, social 
+structures, and development generally. The recent book by Mann (2005) argues that structures, and development generally. The recent book by Mann (2005) argues that 
+the New World was much more politically, economically, and technologically devel-the New World was much more politically, economically, and technologically devel-
+oped than scholars have presumed, and one reason for this mischaracterization is the oped than scholars have presumed, and one reason for this mischaracterization is the 
+large negative impacts Old World diseases had on New World societies.large negative impacts Old World diseases had on New World societies.
+The study by Hersh and Voth (2009) provides estimates of English welfare The study by Hersh and Voth (2009) provides estimates of English welfare 
+gains from the increased supply of sugar and coffee that arose after the discovery gains from the increased supply of sugar and coffee that arose after the discovery 
+of New World virgin soils. Their study makes one wonder about the welfare gains of New World virgin soils. Their study makes one wonder about the welfare gains 
+that arose from the introduction of various New World crops. For example, what that arose from the introduction of various New World crops. For example, what 
+were the welfare gains from tomatoes in Italy, maize in Lesotho, chili peppers in were the welfare gains from tomatoes in Italy, maize in Lesotho, chili peppers in 
+Asia, or cassava in West-Central Africa? Another interesting avenue of research Asia, or cassava in West-Central Africa? Another interesting avenue of research 
+is to exploit the introduction of new food crops to examine the effects of agri-is to exploit the introduction of new food crops to examine the effects of agri-
+cultural productivity and health on paths of development. Our fi ndings in Nunn cultural productivity and health on paths of development. Our fi  ndings in Nunn 
+and Qian (2009) suggest that the improvement in agricultural productivity from and Qian (2009) suggest that the improvement in agricultural productivity from 
+the introduction of potatoes had signifi cant effects on historic population growth the introduction of potatoes had signifi cant effects on historic population growth 
+and urbanization. This raises the natural question of whether the adoption of and urbanization. This raises the natural question of whether the adoption of 
+potatoes brought any additional effects. For example, how did the introduction of potatoes brought any additional effects. For example, how did the introduction of 
+the new food crop affect health outcomes? Given the evidence that the introduc-the new food crop affect health outcomes? Given the evidence that the introduc-
+tion of potatoes eased population pressures and increased incomes, it is natural tion of potatoes eased population pressures and increased incomes, it is natural 
+to ask whether the adoption of potatoes had any effect on confl ict or warfare. to ask whether the adoption of potatoes had any effect on confl  ict or warfare. 
+If so, how did this in turn affect state formation and subsequent institutional If so, how did this in turn affect state formation and subsequent institutional 
+development?development?
+These examples provide a small sample of the many questions that one could These examples provide a small sample of the many questions that one could 
+investigate to further our understanding of the effects of the Columbian Exchange. investigate to further our understanding of the effects of the Columbian Exchange. 
+These questions lie in virgin soils, waiting to be explored.These questions lie in virgin soils, waiting to be explored.
+■ We thank David Autor, Jonathan Hersh, Chad Jones, Timothy Taylor, and Joachim Voth for 
+valuable comments. We also thank Eva Ng for excellent research assistance.
+--- Page 23 ---
+Nathan Nunn and Nancy Qian     185
+References
+Acemoglu, Daron, María Angélica Bautista, 
+Pablo Querubin, and James A. Robinson. 2008. 
+“Economic and Political Inequality in Develop-
+ment: The Case of Cundinamarca, Colombia.” 
+Chap. 5 in Institutions and Economic Performance , 
+ed. Elhanan Helpman. Cambridge, MA: Harvard 
+University Press.
+Acemoglu, Daron, Simon Johnson, and 
+James A. Robinson. 2001. “The Colonial Origins 
+o f  C o m p a r a t i v e  D e v e l o p m e n t :  A n  E m p i r i c a l  
+Investigation. American Economic Review , 91(5): 
+1369–1401.
+Acemoglu, Daron, Simon Johnson, and James 
+A. Robinson. 2005. “The Rise of Europe: Atlantic 
+Trade, Institutional Change, and Economic 
+Growth.” American Economic Review, 95(3): 546–79.
+Anderson, E. N. 1988. The Food of China. New 
+Haven, CT: Yale University Press.
+Andrews, Jean. 1992. “The Peripatetic Chili 
+Pepper: Diffusion of the Domesticated Capsi-
+cums since Columbus.” In Chilies to Chocolate: Food 
+the Americas Gave the World, ed. Nelson Foster and 
+Linda S. Cordell, 81–93. Tucson: University of 
+Arizona Press.
+Andrews, Jean. 1 9 9 3 a .  “ D i f f u s i o n  o f  t h e  
+Mesoamerican Food Complex to Southeastern 
+Europe.” Geographical Review, 83(2): 194–204.
+Andrews, Jean. 1993b. “Chili Peppers.” In 
+The Cambridge World History of Food , ed. Kenneth 
+F. Kiple and Kiremhild Conee Ornelas, 281–87. 
+Cambridge, UK: Cambridge University Press.
+Basu, A., and V. Imrhan. 2007. “Tomatoes versus 
+Lycopene in Oxidative Stress and Carcinogenesis: 
+Conclusions from Clinical Trials.” European Journal 
+of Clinical Nutrition, 61(3): 295–303.
+Berkowitz, Daniel, and Karen Clay. 2005. 
+“American Civil Law Origins: Implications for 
+State Constitutions.” American Law and Economics 
+Review, 7(1): 62–84.
+Berkowitz, Daniel, and Karen Clay. 2006. 
+“The Effect of Judicial Independence on Courts: 
+Evidence from the American States.” Journal of 
+Legal Studies, 35(2): 399–440.
+Brockway, Lucile H. 1979. Science and Colonial 
+Expansion: The Role of the British Royal Botanical 
+Gardens. New York: Academic Press.
+Brooks, Jerome Edmund. 1952. The Mighty 
+Leaf: Tobacco through the Centuries . Boston: Little, 
+Brown and Company.
+Bruman, Henry. 1948. “The Culture History 
+of Mexican Vanilla.” Hispanic American Historical 
+Review, 28(3): 360–76.
+Burnett, John. 1966. Plenty and Want. London: 
+Thomas Nelson.
+Campbell, Persia Crawford. 1923. Chinese 
+Coolie Emigration to Counties within the British Empire. 
+London: P.S. King & Sons.
+Castro de Mendoza, Mario. 1989. El transporte 
+marítimo en la inmigración China, 1849–1874. Lima, 
+Peru: Consejo Nacional de Ciencia y Tecnología.
+Cochran, William G., Emanuel Farber, 
+Louis F. Frieser, Jacob Furth, John B. Hickman, 
+Charles Le Maistre, Leonard Schuman, Maurice 
+H. Seevers, Stanhope Bayne-Jones, and Walter J. 
+Burdette. 1964. Smoking and Health: Report of the 
+Advisory Committee to the Surgeon General of the Public 
+Health Service. Washington, DC: U.S. Department 
+of Health, Education, and Welfare.
+Cockburn, Aidan. 1963. The Evolution and 
+Eradication of Infectious Diseases. Baltimore: Johns 
+Hopkins University Press.
+Cockburn, Thomas A. 1961. “Origin of the 
+Treponematoses.” Bulletin of the World Health 
+Organization 24, pp. 221–28.
+Connell, K. H. 1962. “The Potato in Ireland.” 
+Past and Present, 23(1): 57–71.
+Cook, Noble David. 1977. “Estimaciones 
+sobre la poblacion del Peru en el momento de la 
+conquista.” Historica. 1(1): 37–60.
+Cook, Noble David. 1993. “Disease and 
+Depopulation of Hispaniola, 1492–1518.” Colonial 
+Latin American Review, 2(1–2): 213–45.
+Cook, Noble David. 1998. Born to Die: Disease 
+and New World Conquest , 1492–1650. Cambridge: 
+Cambridge University Press.
+Crosby, Alfred W. 1969. “The Early History of 
+Syphilis: A Reappraisal. American Anthropologist, 
+71(2): 218–27.
+Crosby, Alfred W. 1989. “Reassessing 1492.” 
+American Quarterly, 41(4): 661–69.
+Crosby, Alfred W. 2003. The Columbian 
+Exchange: Biological and Cultural Consequences of 
+1492. Westport, CT: Praeger Publishers.
+Curtin, Philip D. 1961. “The White Man’s 
+Grave: Image and Reality, 1780–1850.” Journal of 
+British Studies, 1(1): 94–110.
+Davidson, Stanley, and R. Passmore. 
+1965. Human Nutrition and Dietetics . Baltimore: 
+Churchill Livingstone.
+Dean, Warren. 1987. Brazil and the Struggle for 
+Rubber: A Study in Environmental History. New York, 
+NY: Cambridge University Press.
+Dell, Melissa. 2008. “The Mining Mita: 
+Explaining Institutional Persistence.” http:/ /
+www.stanford.edu/ group/peg/ april_2008
+_conference/080330mita.pdf.
+Denevan, William M. 1976. Introduction to 
+T h e  N a t i v e  P o p u l a t i o n  o f  t h e  A m e r i c a s  i n  1 4 9 2, ed. 
+--- Page 24 ---
+186    Journal of Economic Perspectives
+William M. Denevan, 1–12. Madison: University 
+of Wisconsin Press.
+Dennie, Charles. 1962. A History of Syphilis . 
+Springfi eld: Thomas.
+Diamond, Jared. 1997. Guns, Germs and Steel . 
+New York: W. W. Norton and Company.
+Dobyns, Henry F. 1966. “An Appraisal of Tech-
+niques with a New Hemispheric Estimate.” Current 
+Anthropology, 7(4): 395–416.
+Dobyns, Henry F. 1983. Their Number Become 
+Thinned. Knoxville: University of Tennessee Press.
+Dobyns, Henry F. 1993. “Disease Transfer at 
+Contact.” Annual Review of Anthropology , vol. 22, 
+pp. 273–91.
+Engerman, Stanley L., and Kenneth L. 
+Sokoloff. 1997. “Factor Endowments, Institutions, 
+and Differential Paths of Growth among New 
+World Economies: A View from Economic Histo-
+rians of the United States.” In How Latin America 
+Fell Behind, ed. Stephen Haber. Stanford: Stanford 
+University Press, 260–304.
+Etemad, Bouda. 2007. Possessing the World: 
+T a k i n g  t h e  M e a s u r e m e n t s  o f  C o l o n i s a t i o n  f r o m  t h e  
+Eighteenth Century to the Twentieth Century . New 
+York: Berghahn Books.
+Galloway, J. H. 2000. “Sugar.” In Cambridge 
+World History of Food , ed. Kenneth F. Kiple and 
+Kriemhild Coneè Ornelas, 437–49. Cambridge: 
+Cambridge University Press.
+Galloway, J. H. 2005. The Sugar Cane Industry: 
+An Historical Geography from its Origins to 1914 . 
+Cambridge: Cambridge University Press.
+Gould, Wilbour A. 1983. Tomato Production, 
+Processing and Quality Evaluation . Westport, CT: 
+AVI Publishing Company.
+Hackett, Cecil John. 1963. “On the Origin of 
+the Human Treponematoses.” Bulletin of the World 
+Health Organization, 29(1): 7–41.
+Hackett, Cecil John. 1967. “The Human 
+Treponematoses.” In Disease in Antiquity, ed. Don 
+Brothwell and A.T. Sandison, 152–69. Springfi eld, 
+IL: Charles C. Thomas, Publisher.
+Halasz, Zoltan. 1963. Hungarian Paprika 
+through the Ages. Budapest: Corvina Press.
+Harper, Kristin N., Paolo S. Ocampo, Bret 
+M .  S t e i n e r ,  R o b e r t  W .  G e o r g e ,  M i c h a e l  S .  
+Silverman, Shelly Bolotin, Allan Pillay, Nigel J. 
+Saunders, and George J. Armelagos. 2008. “On 
+the Origin of the Treponematoses: A Phyloge-
+netic Approach.” Public Library of Science: Neglected 
+Tropical Diseases, 2(1): 1–13.
+Harrison, L. W. 1959. “The Origin of Syphilis.” 
+British Journal of Venereal Diseases, 35(1): 1–7.
+Headrick, Daniel R. 1981. The Tools of Empire: 
+Technology and European Imperialism in the Nineteenth 
+Century. Oxford: Oxford University Press.
+Henige, David P. 1992. “Native American 
+Population at Contact: Discursive Strategies and 
+Standards of Proof in the Debate.” 
+Latin American 
+Population History Bulletin, no. 22 (Fall), pp. 2–23.
+Henige, David P. 1998. Numbers from Nowhere: 
+The American Indian Contact Population Debate . 
+Norman: University of Oklahoma Press.
+Henkin, R. 1991. “Cooling the Burn from Hot 
+Peppers.” Journal of the American Medical Associa-
+tion, 226(19): 2766.
+Henry, W. W. 1894. “The First Legislative 
+Assembly in America: Sitting in Jamestown, 
+Virginia, 1619.” T h e  V i r g i n i a  M a g a z i n e  o f  H i s t o r y  
+and Biography, 2(1): 55–67.
+Hersh, Jonathan, and Hans-Joachim Voth. 
+2009. “Sweet Diversity: Colonial Goods and the 
+Ri s e  o f  E u r o p e a n  L i vi n g  S t a n d a r d s  a f t e r  1 4 9 2 . ”  
+http://ideas.repec.org/p/upf/upfgen/1163.html.
+Hobhouse, Henry. 2003. Seeds of Wealth: Four 
+Plants that Made Men Rich. Oxford: MacMillan.
+Hobhouse, Henry. 2005. Seeds of Change: Six 
+Plants That Transformed Mankind. New York: Shoe-
+maker and Hoard.
+Holcomb, Richmond C. 1934. Christopher 
+Columbus and the American Origin of Syphilis. 
+United States Naval Medical Bulletin, 32(4): 401–30.
+Holcomb, Richmond C. 1935. “Antiquity of 
+Syphilis.” Medical Life, vol. 42, pp. 275–325.
+Hothschild, Adam. 1998. King Leopold’s Ghost. 
+New York: McMillan.
+Hudson, Ellis Herndon. 1961. “Historical 
+Approach to the Terminology of Syphilis.” Archives 
+of Dermatology, 84(4): 545–62.
+Inikori, Joseph E. 2002. Africans and the Indus-
+trial Revolution in England: A Study in International 
+Trade and Economic Development . Cambridge: 
+Cambridge University Press.
+Jha, Prabhat. 1999. Curbing the Epidemic: 
+Governments and the Economics of Tobacco Control . 
+Washington, DC: World Bank.
+Kroeber, Alfred L. 1939. Cultural and Natural 
+Areas of Native North America . University of Cali-
+fornia Publications in American Archaeology and 
+Ethnology 38.
+La Porta, Rafael, Florencio Lopez-de-Silanes, 
+Andrei Shleifer, and Robert Vishny. 1997. “Legal 
+Determinants of External Finance.” Journal of 
+Finance, 52(3): 1131–50. 
+La Porta, Rafael, Florencio Lopez-de-Silanes, 
+Andrei Shleifer, and Robert Vishny. 1998. “Law 
+and Finance.” Journal of Political Economy, 106(6): 
+1113–55. 
+Loadman, John. 2005. Tears of the Tree. Oxford: 
+Oxford University Press.
+Lovejoy, Paul E. 2000. Transformations in 
+Slavery: A History of Slavery in Africa , 2
+nd ed. 
+Cambridge, UK: Cambridge University Press.
+Mackay, Judith, Michael Eriksen, and Omar 
+--- Page 25 ---
+The Columbian Exchange: A History of Disease, Food, and Ideas     187
+Shafey. 2006. The Tobacco Atlas . Brighton, UK: 
+Myriad Editions Ltd. 
+MacLeod, Murdo. 2001. “Cacao.” In Cambridge 
+World History of Food, vol. 1, pp. 635–40. Cambridge, 
+UK: Cambridge University Press.
+Mann, Charles C. 2005. 1491: New Revelations 
+of the Americas before Columbus. New York: Knopf.
+Manning, Patrick. 1990. Slavery and African 
+Life. Cambridge: Cambridge University Press.
+McCue, George Allen. 1952. “The History 
+of the Use of the Tomato: An Annotated Bibli-
+ography.” Annals of the Missouri Botanical Garden , 
+39(4): 289–348.
+McNeill, William H. 1977. Plagues and Peoples. 
+Garden City, NY: Anchor Books.
+Mintz, Sidney W. 1985. Sweetness and Power: The 
+Place of Sugar in Modern History. New York: Penguin 
+Books.
+Mitchener, Kris James, and Ian W. McLean. 
+2003. “The Productivity of U.S. States since 1880.” 
+Journal of Economic Growth, 8(1): 73–114.
+Mokyr, Joel. 1981. “Irish History with the 
+Potato.” Irish Economic and Social History, vol. 8, pp. 
+8–29.
+Morren, Charles. 1838. “On the Production of 
+Vanilla in Europe.” Annals of Natural History, 1(3): 
+1–9.
+Newson, Linda. 2001. Pathogens, Places 
+and Peoples. In T echnology, Disease and Colonial 
+Conquests, Sixteenth to Eighteenth Centuries , ed. 
+George Raudzens, 167–210. Boston: Brill.
+Northrop, David. 1995. Indentured Labor 
+in the Age of Imperialism, 1834–1922 . New York: 
+Cambridge University Press.
+Nunn, Nathan. 2008a. “Slavery, Inequality, 
+and Economic Development in the Americas: An 
+Examination of the Engerman–Sokoloff Hypoth-
+esis.” In Institutions and Economic Performance, ed. 
+Elhanan Helpman, 148–180. Cambridge, MA: 
+Harvard University Press.
+Nunn, Nathan. 2008b. “The Long-Term 
+Effects of Africa’s Slave Trades.” Quarterly Journal 
+of Economics, 123(1): 139–76.
+Nunn, Nathan. 2009. “The Importance of 
+History for Economic Development.” Annual 
+Review of Economics, 1(1): 65–92. 
+Nunn, Nathan, and Nancy Qian. 2009. “The 
+Potato’s Contribution to Population and Urban-
+ization: Evidence from an Historical Experiment.” 
+NBER Working Paper 15157.
+Parrot, M. J. 1879. “The Osseous Lesions of 
+Hereditary Syphilis.” Lancet, 113(2709): 696–98.
+Penn, W. A. 1901. The Soverane Herbe: A History 
+of Tobacco. New York: E. P. Dutton & Co.
+Prescott, William. 1843 [2001]. The History of the 
+Conquest of Mexico
+. New York: The Modern Library.
+Putterman, Louis, and David Weil. 2009. 
+“Post-1500 Population Flows and the Long Run 
+Determinants of Economic Growth and Inequality.” 
+http:/ /www.brown.edu/Departments/Economics
+/Papers/2008/2008-15_paper.pdf.
+Rain, Patricia. 1992. “Vanilla: Nectar of the 
+Gods.” In Chilies to Chocolate: Food the Americas gave 
+the World, ed. Nelson Foster and Linda S. Cordell, 
+35–45. Tucson: University of Arizona Press.
+Rozin, Paul. 1990. “Getting to Like the Burn 
+of Chili Pepper: Biological, Psychological, and 
+Cultural Perspectives.” In Chemical Senses, Vol. 2: 
+Irritation, ed. B. G. Green, J. R. Mason, and M. R. 
+Kare, 231–59. New York: Marcel Decker.
+Scharf, J. Thomas. 1879. History of Maryland: 
+From the Earliest Periods to the Present Day, Volume II. 
+Baltimore: John B. Piet.
+Sheridan, Richard B. 1974. Sugar and Slavery. 
+Barbados: Caribbean University Press.
+Sherman, Irwin W. 2007. Twelve Diseases That 
+Changed our World. Washington, DC: ASM Press.
+Smith, Andrew F. 1994. The Tomato in America: 
+Early History, Culture, and Cookery. Columbia, South 
+Carolina: University of South Carolina Press.
+Smith, C. T. 1970. “Depopulation of the 
+Central Andes in the 16
+th Century.” Current 
+Anthropology, 11(4/5): 453–64.
+Snodgrass, Mary Ellen. 2003. World Epidemics: 
+A Cultural Chronology of Disease from Prehistory to the 
+Era of SARS. Jefferson, North Carolina: McFarland 
+& Company Inc.
+Sokolov, Raymond. 1993. Why We Eat What We 
+Eat? How Columbus Changed the Way the World Eats. 
+New York: Simon & Schuster.
+Solanke, T. F. 1973 “The Effect of Red Pepper 
+(Capsicum frutescens) on Gastric Acid Secre-
+tion.” Journal of Surgical Research, 15(6): 385–90.
+Steinbock, Ted. 1976. Paleopathological Diag-
+nosis and Interpretation. Springfi eld: Thomas.
+Thomson, Thomas R. H. 1846. “The Value of 
+Quinine in African Remittent Fever.” The Lancet, 
+47(1174): 244–45.
+United Nations Offi ce on Drugs and Crime. 
+2008. World Drug Report 2008 . New York: United 
+Nations Publications.
+United Nations Offi ce on Drugs and Crime. 
+2009. Columbia Coca Survey 2008 . New York: 
+United Nations Publications.
+Verano, John W., and Douglas H. Ubelaker. 
+1992. Diseases and Demography in the Americas . 
+Washington, DC: Smithsonian Institution Press.
+Viranuvatti, Vikit, Chiamchit Kalayasiri, 
+Orapan Chearani, and Ukrist Plengvanit. 1972. 
+“Effects of Capsicum Solution on Human Gastric 
+M u c o s a  a s  O b s e rv e d  G a s t r o s c o p i c a l l y . ”  American 
+Journal of Gastroenterology, 58(3): 225–32.
+West, John A. 1992. “A Brief History and 
+Botany of Cacao.” In Chilies to Chocolate: Food the 
+--- Page 26 ---
+188    Journal of Economic Perspectives
+Americas Gave the World , ed. Nelson Foster and 
+Linda S. Cornell, 105–21. Tucson: University of 
+Arizona Press.
+Williams, Eric. 1962. History of the People of 
+Trinidad and Tobago. London: Andre Deutsch.
+Williams, Herbert. 1932. “The Origin 
+and Antiquity of Syphilis: The Evidence from 
+Diseased Bones, a Review, with Some New Mate-
+rial from America.” Archives of Pathology, vol. 13, 
+pp. 799–814, 931–83.
+Wright, D. 1971. “Syphilis and Neanderthal 
+Man.” Nature, 229(5284): 409.
+--- Page 27 ---
+This article has been cited by:
+1. Jevan Cherniwchan, Juan Moreno-Cruz. 2019. Maize and precolonial Africa. Journal of Development
+Economics 136, 137-150. [Crossref]
+2. Idoia Grau-Sologestoa, Umberto Albarella. 2018. The ‘long’ sixteenth century: a key period of animal
+husbandry change in England. Archaeological and Anthropological Sciences 25/26. . [Crossref]
+3. THOR BERGER. 2018. Adopting a new technology: potatoes and population growth in the
+periphery. The Economic History Review 95. . [Crossref]
+4. Leonardo M. Klüppel, Lamar Pierce, Jason A. Snyder. 2018. Perspective—The Deep Historical Roots
+of Organization and Strategy: Traumatic Shocks, Culture, and Institutions. Organization Science 29:4,
+702-721. [Crossref]
+5. Carl Marnewick, Wikus Erasmus, Nazeer Joseph. 2018. Infusing African management philosophy
+into project management. Acta Commercii 18:1. . [Crossref]
+6. Mallory A. Melton. 2018. CROPPING IN AN AGE OF CAPTIVE TAKING: EXPLORING
+EVIDENCE FOR UNCERTAINTY AND FOOD INSECURITY IN THE SEVENTEENTH-
+CENTURY NORTH CAROLINA PIEDMONT. American Antiquity 83:02, 204-223. [Crossref]
+7. Patrick Manning, Pieter François, Daniel Hoyer, Vladimir Zadorozhny. Collaborative Historical
+Information Analysis 119-144. [Crossref]
+8. Emily Lena Jones. Coming to Terms with Imperfection: Comparative Studies and the Search for
+Grazing Impacts in Seventeenth Century New Mexico 251-268. [Crossref]
+9. Anne Booth. Southeast Asian Agricultural Growth: 1930–2010 235-255. [Crossref]
+10. . Bibliography 223-278. [Crossref]
+11. Vivian Scheinsohn. South American Geography and Chronology 1-17. [Crossref]
+12. T Toivanen, K Lummaa, A Majava, P Järvensivu, V Lähde, T Vaden, JT Eronen. 2017. The
+many Anthropocenes: A transdisciplinary challenge for the Anthropocene research. The Anthropocene
+Review 4:3, 183-198. [Crossref]
+13. Thomas P . Leppard. 2017. The Biophysical Effects of Neolithic Island Colonization: General
+Dynamics and Sociocultural Implications. Human Ecology 45:5, 555-568. [Crossref]
+14. Yves Boquet. Farm Productions and Rural Landscapes 213-258. [Crossref]
+15. I. King Jordan. 2016. The Columbian Exchange as a source of adaptive introgression in human
+populations. Biology Direct 11:1. . [Crossref]
+16. Jonas van der Straeten, Ute Hasenöhrl. 2016. Connecting the Empire: New Research Perspectives on
+Infrastructures and the Environment in the (Post)Colonial World. NTM Zeitschrift für Geschichte der
+Wissenschaften, Technik und Medizin 24:4, 355-391. [Crossref]
+17. Shaherin Basith, Minghua Cui, Sunhye Hong, Sun Choi. 2016. Harnessing the Therapeutic Potential
+of Capsaicin and Its Analogues in Pain and Other Diseases. Molecules 21:8, 966. [Crossref]
+18. Shuo Chen, James Kai-sing Kung. 2016. Of maize and men: the effect of a New World crop on
+population and economic growth in China. Journal of Economic Growth 21:1, 71-99. [Crossref]
+19. Daphne Gallagher. 2016. American plants in Sub-Saharan Africa: a review of the archaeological
+evidence. Azania: Archaeological Research in Africa 51:1, 24-61. [Crossref]
+20. Kym Anderson. The Long History of Food Globalization 39-60. [Crossref]
+21. André Arruda Villela. 2015. Diferenciais de preço no comércio colonial não servem como medida de
+margens de lucro. Topoi (Rio de Janeiro) 16:31, 729-740. [Crossref]
+--- Page 28 ---
+22. Tariq Tell, Astrid Meier. 2015. The World the Bedouin Lived in: Climate, Migration and Politics in
+the Early Modern Arab East. Journal of the Economic and Social History of the Orient  58:1-2, 21-55.
+[Crossref]
+23. Guy D. Middleton. 2015. Telling Stories: The Mycenaean Origins of the Philistines. Oxford Journal
+of Archaeology 34:1, 45-65. [Crossref]
+24. Kym Anderson. 2014. Globalisation and Agricultural Trade. Australian Economic History Review 54:3,
+285-306. [Crossref]
+25. Nathan Nunn. Historical Development 347-402. [Crossref]
+26. Pratik Chakrabarti. Imperialism and the globalization of disease 73-100. [Crossref]
+27. Louis Putterman. History and Comparative Development 1-13. [Crossref]
+28. . Bibliography 439-478. [Crossref]
+29. Márcia Rodrigues Carvalho Oliveira, Alberto Soares Corrêa, Giselle Anselmo de Souza, Raul Narciso
+Carvalho Guedes, Luiz Orlando de Oliveira. 2013. Mesoamerican Origin and Pre- and Post-
+Columbian Expansions of the Ranges of Acanthoscelides obtectus Say, a Cosmopolitan Insect Pest of
+the Common Bean. PLoS ONE 8:7, e70039. [Crossref]
+30. Camilla F. Speller, David V. Burley, Robyn P . Woodward, Dongya Y. Yang. 2013. Ancient mtDNA
+Analysis of Early 16th Century Caribbean Cattle Provides Insight into Founding Populations of New
+World Creole Cattle Breeds. PLoS ONE 8:7, e69584. [Crossref]
+31. Elizabeth Minei, Jonathan Matusitz. 2013. Diffusion and glocalization: dialectical tensions for Wal-
+Mart de México. Global Business Perspectives 1:2, 106-121. [Crossref]
+32. Beverly C. Tomek. United States: African colonization, Manifest Destiny, and Indian Removal .
+[Crossref]
+33. T. Grennes. 2012. 1493: Uncovering the New World Columbus Created. American Journal of
+Agricultural Economics . [Crossref]
+34. N. Nunn, N. Qian. 2011. The Potato's Contribution to Population and Urbanization: Evidence From
+A Historical Experiment. The Quarterly Journal of Economics . [Crossref]
+35. Thomas Grennes. 2010. A Thousand Years of Trade History: What's Left Out?. Historical Methods:
+A Journal of Quantitative and Interdisciplinary History 43:4, 159-163. [Crossref]

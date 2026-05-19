@@ -1,0 +1,1043 @@
+Journal of Economic Perspectives—Volume 33, Number 2—Spring 2019—Pages 51–70
+O
+ver the course of the nineteenth century, the United States experienced 
+its first “industrial revolution.” A central feature of this revolution was the 
+mechanization of production, first through water power and later steam 
+power. By the late nineteenth century, the process was well advanced, fostering 
+serious concerns about its effects on labor (Giedion 1948; Hounshell 1984). For 
+example, David A. Wells (1889, p. 68), a prominent US economist of the time, wrote 
+that “the increasing frequency of strikes and industrial revolts ... have been largely 
+prompted by changes in the conditions of production resulting from prior labor-
+saving inventions and discoveries” and he opined “the depression of industry in 
+recent years has been experienced with greatest severity in those countries where 
+machinery has been most extensively adopted.” Indeed, the historical process was 
+so disruptive that it inspired Edward Bellamy’s Looking Backward, 2000–1887 (1888), 
+a utopian science fiction novel, which quickly became the era’s third-largest best-
+seller and provoked extensive political and social discussion.
+In the first annual report to Congress, Commissioner of Labor Carroll D. 
+Wright (US Bureau of Labor 1886) drew attention to the problem of the “tempo-
+rary displacement of labor and to conditions of industry and of society which would 
+“Automation” of Manufacturing in the 
+Late Nineteenth Century: The Hand and 
+Machine Labor Study
+■ Jeremy Atack is Professor of Economics Emeritus, Vanderbilt University, Nashville, Tennessee. 
+Robert A. Margo is Professor of Economics, Boston University, Boston, Massachusetts. Paul 
+W. Rhode is Professor of Economics, University of Michigan, Ann Arbor, Michigan. All 
+three authors are Research Associates, National Bureau of Economic Research, Cambridge, 
+Massachusetts. Their email addresses are jeremy.atack@vanderbilt.edu, margora@bu.edu, 
+and pwrhode@umich.edu. 
+† For supplementary materials such as appendices, datasets, and author disclosure statements, see the 
+article page at
+https://doi.org/10.1257/jep.33.2.51	
+doi=10.1257/jep.33.2.51
+Jeremy Atack, Robert A. Margo, and Paul W. Rhode
+52     Journal of Economic Perspectives
+exist without the presence of power machinery,” illustrating with several examples. 
+In small arms production, one worker using conventional hand tools turned and 
+fitted one musket stock per ten-hour day, whereas using specialized machines and 
+dividing the tasks between them, three workers could turn and fit between 125 and 
+150 musket stocks per day, a 40- to 50-fold gain in labor productivity. Similarly, data 
+from boot and shoe manufacturers suggested an 80 percent savings in labor for 
+machine over handicraft production (US Bureau of Labor 1886, p. 81).
+In 1894, Congress requested a fuller investigation, noting “there are works 
+now in existence where the very best and highest grade of machinery is used that 
+formerly employed cruder methods, and the men in charge have knowledge of the 
+old methods as compared with the new; but these men are fast passing away, and the 
+difficulty increases each year of securing the information sought …” (US Congress, 
+House of Representatives 1894). To this end, it directed the Commissioner of Labor 
+to “investigate and report upon the effect of the use of machinery upon labor and 
+the cost of production, the relative productive power of hand and machine labor … 
+and whether changes in the creative cost of products are due to a lack or surplus of 
+labor or to the introduction of power machinery.” 
+The resulting “Hand and Machine Labor” (HML) study took five years to 
+complete, finally appearing as the thirteenth annual report of the Commissioner 
+of Labor (US Department of Labor 1899). 1 The HML study presents its informa-
+tion at a level of detail that was highly unusual not only for its time but even ours, 
+by analyzing the production of highly specific goods (for example, production of 
+circular saw blades with a given number of teeth) at the task level for a matched pair 
+of establishments, one of which produced the product by “hand” (or traditional 
+artisanal) methods and the other using “machine” methods. Among other data, 
+the report specifies the amount of time each task took, the sequence in which these 
+were performed, the characteristics of the workers employed, the tool(s) used, 
+and notably, the source of inanimate power, if any, including steam power, which 
+was the key “general-purpose technology” of that historical period. Brynjolfsson 
+and McAfee (2014, p. 6), for example, describe steam power as the first machine 
+age’s “most important” technological development, “overcoming the limitations of 
+1  The US Bureau of Labor was established in the Department of the Interior by the Bureau of Labor 
+Act (23 Stat. 60) on June 27, 1884. The Bureau’s mission was to collect information about employment 
+and labor. The Act also created the post of US Commissioner of Labor to direct the Bureau. Carroll 
+Wright served as the first US Commissioner of Labor. The Bureau of Labor became an independent 
+(sub-Cabinet) department through the Department of Labor Act (25 Stat. 182) on June 13, 1888. As 
+indicated by the title of the legislation, the Bureau of Labor was renamed the “US Department of Labor” 
+in 1888. The cabinet-level Department of Commerce and Labor was created in 1903 by the Department 
+of Commerce Act (32 Stat. 827) on February 14, 1903. The Act authorized a new “Bureau of Labor” 
+within the Department of Commerce and Labor, which took over the activities of the preceding “Depart-
+ment of Labor.” Finally, in 1913, Congress created a separate cabinet-level Department of Labor, within 
+which the “Bureau of Labor” was renamed the Bureau of Labor Statistics. As is clear from this timeline, 
+the 1890s “Department of Labor” is a direct predecessor of the modern Bureau of Labor Statistics, which 
+is why the National Archives stores the extant records of the 1890s department in its Record Group 
+257 (“Records of the Bureau of Labor Statistics”). The timeline above expands on Rockoff’s (2019, 
+pp.147–51) discussion.
+Jeremy Atack, Robert A. Margo, and Paul W. Rhode     53
+muscle power, human and animal” and propelling a “sudden, sharp, and sustained 
+jump in human progress.” 
+The enormously complex Hand and Machine Labor data were published in 
+two large, very dense volumes. We have digitized these data, coding and restruc-
+turing them to be tractable to modern econometric techniques. Our analysis here 
+focuses on transitions at the task level from hand to machine production, and on 
+the impact of inanimate power on labor productivity in machine production. 
+By “transitions at the task level” we mean whether particular tasks in hand 
+production were no longer present under machine production; whether the task 
+content remained the same, even if inanimate power was used under machine 
+production; whether task reorganization occurred in the move from hand to 
+machine labor; or whether entirely new tasks were present under machine labor. 
+Transitions in which the task content remained the same except for the possibility 
+of mechanization—we call these 1:1 transitions—were the most common. However, 
+highly complex task reorganization did occur, and new task creation substantially 
+dominated the abandonment of obsolete hand tasks. Overall, the transition to 
+machine labor brought very large gains in productivity. We show in a regression 
+analysis of the 1:1 transitions that use of steam power explains a large fraction of the 
+productivity gain. Economic historians have been studying the diffusion and impact 
+of steam power for a very long time; but as far as we know, our regressions are the 
+first to show the productivity effects of steam power at the level of individual produc-
+tion tasks in an historical context.
+We consider the Hand and Machine Labor data and our findings in the 
+context of the modern “task-based approach” to production (Acemoglu and Autor 
+2011; Autor 2013; Zeira 1998). This literature develops models allowing technolog-
+ical change to reduce returns to specific factors, which is not possible in standard 
+models of factor-augmenting technological change. We will focus in particular 
+on Acemoglu and Restrepo’s (2018) recent model of automation (also discussed 
+in their paper for this symposium). Their model is quite useful in drawing out 
+inferences as to how, in response to technical progress, some tasks are abandoned; 
+others automated, and new, non-automated tasks created. Substituting “mecha-
+nized” for “automated” in their framework, we find a similar pattern in the data 
+from the HML study. However, we will also argue that our historical example 
+clearly parts company with Acemoglu and Restrepo in that their model abstracts 
+from the division of labor. Indeed, there is considerable evidence that the diffu-
+sion of steam power enhanced the division of labor (Atack, Bateman, and Margo 
+2008), as Thomson (1989) also shows in the transformation of US boot and shoe 
+production during this time. The underlying issue is the degree to which workers 
+are specialized or not in the tasks they perform, and how this may feed back into 
+human capital investment. Indeed, we will suggest that one of the meaningful 
+differences between nineteenth-century mechanization and the current techno-
+logical revolution based in robotics and artificial intelligence is that they seem 
+to have quite different implications for the division of labor and thus for human 
+capital investment. 
+54     Journal of Economic Perspectives
+The Hand and Machine Labor Study
+Although the title of the 1899 study was “Hand and Machine Labor,” Commis-
+sioner of Labor Wright cautioned in his introductory remarks that the words were 
+not used in their strictest sense, but rather to characterize two different methods 
+of production. “Machines” were used in “hand” production although these were 
+usually simple hand tools—saws, hammers, chisels, files, knitting needles, screw-
+drivers, and the like—what he called “the primitive method of production which was 
+in vogue before the general use of automatic or power machines” (US Department 
+of Labor 1899, vol. 1, p. 11). Similarly, some tasks in machine production continued 
+to be performed by hand using these same simple tools, including adjusting the 
+machinery. For Wright, however, a crucial distinction was that, in machine produc-
+tion, “every workman has his particular work to perform, generally but a very small 
+portion of that which goes to the completion of the article”—that is, division of 
+labor was central (p. 11). 
+The basic unit of observation in the Hand and Machine Labor study was a 
+matched pair of production units: one using hand methods, the other using 
+machine methods to make a particular quantity of product. The products chosen 
+were highly specific—for example, the output of “Unit 71” was described in the 
+report as “SHOES:—100 pairs of men’s medium grade, calf, welt, lace shoes, with 
+single soles and soft box toes” (US Department of Labor 1899). Where necessary, 
+production was scaled to industry norms by adjusting the time (and thus the cost) 
+spent on tasks by the appropriate factor, keeping the number of workers unchanged 
+(as we will explain further below). Overall, there are 672 paired units in the HML 
+study: 27 in agriculture, 10 in mining and quarrying, and 9 in transportation, leaving 
+626 paired units producing manufactures. We focus on these manufactures. 
+As mentioned, the data were reported in two parts (and volumes). In Part 1, 
+the following was reported for each unit (matched pair of plants producing a highly 
+specific product): an industry classification, an exact description of the product, the 
+standardized quantity of that product, the year in which the production under each 
+method took place, the number of separate tasks of production, the number of 
+different workers employed, and the total number of hours of work to produce the 
+given quantity, the total labor costs, and the average daily hours of operation of the 
+unit. In Part 2, the following information was reported for each mode of producing 
+the product: a brief description of the task in the order in which it was performed; 
+a list of capital goods or machines used in the task; the type of motive power if 
+used; the number of workers assigned to that task; the number, age, gender, and 
+occupational titles of the workers employed in the task; the hours of work by each 
+employee engaged in the task; and the labor cost of each employee engaged in the 
+task along with any miscellaneous comments.
+The raw data were collected by trained agents either through direct observa-
+tion or from written records, following up (sometimes repeatedly) when necessary to 
+resolve inconsistencies and ambiguities. For machine production, the vast majority of 
+the observations pertain to activities conducted in the mid-to-late 1890s (1894–98). 
+“Automation” of Manufacturing in the Late Nineteenth Century     55
+For a few products, the study was unable to find matching hand production from 
+the same year that occurred nearby, presumably because the relevant establishments 
+were no longer in existence. In such cases, the agents assiduously sought out histor-
+ical records or, in 13 instances, located hand production establishments overseas 
+that they deemed similar to those that no longer survived in the United States. All 
+machine production data, however, was taken from US establishments. Moreover, 
+in the majority of cases, two reports on hand and machine production were secured 
+for establishments/manufacturers from different, widely separated, localities to help 
+spot errors and omissions with “the better and more complete one then selected for 
+presentation” (US Department of Labor 1899, vol. 1, p. 13).
+A concrete example illustrates the exceptional (indeed, stupefying) detail in 
+the published study. In making men’s medium grade, laced shoes (Unit 71), the 
+study compared production by a bespoke shoemaker producing a single pair of 
+shoes with that of a factory producing 1,500 pairs, scaling the time (and cost) as 
+if each in fact produced 100 pairs of shoes. 2 The shoe size is not specified but is 
+(implicitly) assumed to be different for each pair. The data were tabulated, verso 
+and recto, across several pages, with task identifiers aligning the rows across the left- 
+and right-hand pages and with the numbering sequenced according to the order in 
+which the tasks were performed in machine production. 
+Hand production of medium grade, laced shoes involved 72 tasks. Selecting 
+and sorting the leather was one task in hand production—presumably so that the 
+uppers for one pair of shoes could come from the same hide—compared with eight 
+separate operations in machine production, for uppers, vamps, quarters, outsoles, 
+insoles, lifts, and counters (machine-molded heel reinforcements), all of which had 
+to be both sorted and matched. In hand production, the individual shoemaker traced 
+each foot to create a cutting pattern and subsequently hand-carved a “last” (a wooden 
+form around which each shoe was molded). These steps were crucial for the fit of the 
+shoe and would be repeated for each individual customer served by the shoemaker. 
+Producing lasts by hand was time-consuming, taking 54 minutes 24 seconds per pair—
+almost 92 hours for the production run of 100 different pairs of shoes. By contrast, 
+under machine production, the factory skipped these steps, instead purchasing lathe-
+turned lasts for left and right feet in standard sizes from outside specialist suppliers, 
+which would be used in the fabrication of thousands of pairs of shoes—an example 
+of the subsidiary industries predicted to emerge to meet special needs once a certain 
+scale of operation was achieved (Marshall and Marshall 1881, p. 52). 
+In the machine production of these shoes, the Hand and Machine Labor study 
+identified 173 separate tasks. These include not only tasks directly related to the 
+manufacture of shoes, like sorting leather, cutting out the vamps (the main part of the 
+shoe between the toe and the laces), quarters (the heel portions), toes, soles, insoles, 
+2 Exhibits 1 and 2 in the online Appendix available with this paper at the journal’s website reproduce 
+sections of the tables for Unit 71 detailing the tasks in the hand and machine production of men’s 
+medium grade, laced shoes from the Hand and Machine Labor report (US Department of Labor 
+1899).
+56     Journal of Economic Perspectives
+and heels and sewing these together around the last to form the shoe and punching 
+holes for the laces. Tasks also included finishing the shoes for market by smoothing 
+the welts, waxing and polishing, matching pairs, stamping with the maker’s name 
+and size, and boxing for shipment. Moreover, other tasks involved keeping the shoe-
+making machinery in good order, and maintaining and firing the steam engine that 
+powered the various machines—tasks not directly involved with production but vital 
+to that production. Some of the tasks, like sorting, required nothing more than a good 
+eye. Others, like cutting out the parts, still used basic hand tools (scissors and knives) 
+rather than steam-powered die presses. Eighty of the tasks, however, including trim-
+ming, making eyelets, nailing heels, polishing and buffing, made use of steam power 
+driving specialized machines (US Department of Labor 1899, vol. 2, pp. 544–51).
+The study investigators carefully linked each operation in hand production to 
+the corresponding operation in machine production via the machine task number. 
+Machine tasks that were a part of several hand tasks had lowercase letters appended 
+to the machine task number. The data showing the connections from hand tasks to 
+machine tasks can be displayed as a “slope chart”3 relating each of the various hand 
+tasks for shoe-making on the left to the (far more numerous) machine tasks for 
+shoe-making on the right, as in Figure 1. Tasks are numbered in sequence.
+Some hand tasks link to multiple machine tasks. Some are performed in quite 
+different sequences between hand and machine production—these lines cross over. 
+A few hand tasks like “selecting and sorting stock” vanish in machine production (we 
+have connected these to “Task 0” in Machine Production on the right hand side). 
+Moreover, the white space on the right-hand axis to which no hand production tasks 
+connect represent new tasks created by mechanization for which there was no hand 
+production analog. In the next section, we discuss these task “transitions.”
+The complexity of the Hand and Machine Labor data overwhelmed statisti-
+cians at the time. As Carroll Wright (1900) would later remark: “This report answers 
+in a measure the many demands for information … but no aggregation can be 
+made because it is impossible to carry out calculations through the innumerable 
+ramifications of production under hand and machine methods … although such 
+a summary would be of the greatest possible value in the study of the question of 
+machinery.” Its complexity has also largely prevented analysis by modern economic 
+historians until very recently.4 
+Before turning to our findings, we highlight four limitations of the Hand 
+and Machine Labor data. First, although a wide range of goods and industries are 
+covered, the establishments that were included are in no sense a random sample 
+either within or across industries. Second, no information was collected on output 
+prices, revenues, or costs, except those pertaining to the labor involved directly in 
+3 For more on slope charts, see Tufte (1983, p. 143), or https://www.edwardtufte.com/bboard/ 
+q-and-a-fetch-msg?msg_id=0003nk. 
+4 Stanley Engerman has informed us (via personal communication) that he and Robert Fogel included the 
+Hand and Machine Labor study on an unpublished list of key data sources in US economic history that 
+the two prepared in the early 1970s. However, in their view the data were far too complex to digitize and 
+analyze at that time, which was a reasonable judgment until recent advances in information technologies.
+Jeremy Atack, Robert A. Margo, and Paul W. Rhode     57
+the production of the product (and its supervision). Consequently, any analysis of 
+productivity, including ours, must rely on the measure provided by the study—the 
+amount of time that it took to complete a task—rather than a measure that would 
+be more conventional for economists like value added per worker. Third, while the 
+agents recorded additional information on the survey form that would have been 
+very useful to have for some analyses—for example, the names of the individual 
+workers, and the address of the establishment—this information was not included 
+in the published study. Moreover, as far as we can determine, the completed survey 
+forms have not survived and so this additional information has been lost.5 Finally, 
+5 We tracked down copies of the original survey instrument which are now stored in Record Group 
+(RG) 257 in the US National Archives (US Bureau of Labor Statistics 1890–1905). The forms asked for 
+additional information that was not published, such as the name and location of the establishment, and 
+the names of the workers employed in the production of the various articles. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Hand 
+Machine 
+Tasks, ordered in sequence
+Figure 1 
+Slope Chart Linking Hand to Machine Tasks for Unit 71
+Source: Authors.
+Note: Figure 1 relates each of the various hand tasks for shoe-making on the left to the (far more 
+numerous) machine tasks for shoe-making on the right. Tasks are numbered in sequence. Some hand 
+tasks link to multiple machine tasks. Some are performed in quite different sequences between hand and 
+machine production—these lines cross over. A few hand tasks like “selecting and sorting stock” vanish 
+in machine production (we have connected these to “Task 0” in machine production on the right-hand 
+side). Moreover, the white space on the right-hand axis to which no hand production tasks connect 
+represent new tasks created by mechanization for which there was no hand production analog.
+58     Journal of Economic Perspectives
+as previously noted, the study reported the labor requirements for a standardized 
+scale of production, which enhances comparability. But the number of workers 
+employed and the organization of work may not reflect how producers, especially 
+hand producers, would have operated at that specific scale under realistic time-cost 
+considerations.
+Task Transitions and the Role of Steam Power 
+We focus on three broad features of the Hand and Machine Labor data: transi-
+tions of tasks from hand to machine labor; the overall productivity gains associated 
+with machine labor; and the impact of steam power on productivity in machine 
+production for the subset of tasks that were common to both hand and machine 
+labor (tasks in the 1:1 transition category as discussed below). 
+Task Transitions: From Hand to Machine Production
+The data from the Hand and Machine Labor study allow us to see the transition 
+from hand to machine labor at the task level. The agents collecting the data listed 
+tasks in production order under both hand and machine manufacture, adding a 
+column linking hand to machine tasks. This allows us to draw a slope chart as in 
+Figure 1 and to distinguish six types of transitions from hand to machine tasks:
+	
+a)	  Hand tasks that were no longer performed under machine labor, or old 
+tasks, which we label as 1:0 transitions;
+	
+b)	 Tasks whose content was deemed to be essentially the same in hand and 
+machine production, except that the machine task might be mechanized, 
+which we label as 1:1 transitions; 
+	
+c)	 A single hand task that was subdivided into M machine tasks, which we label 
+as 1:M transitions;
+	
+d)	 N hand tasks that were combined into a single machine task, which we label 
+as N:1 transitions; 
+	
+e)	 N hand tasks were mapped into M machine tasks, with both N and M greater 
+than one, which we label as N:M transitions; and, lastly, 
+	
+f)	 Tasks present under machine production but not hand production, or “new” 
+tasks, which we label as 0:1 transitions.
+Table 1 presents summary statistics on each different kind of task transition 
+across production units in the study. Table 1A presents these statistics from the 
+point of view of the origin, hand labor, and Table 1B from the point of view of the 
+destination, machine labor. Instead of counts of transitions, we focus on the share 
+of tasks for each type of transition. We normalize within production units either by 
+the total number of tasks (equal weights) or by weighting each task by its share of 
+total production time (time weights); in either case, our estimates of average shares 
+are equally weighted across units. Both panels also show the proportion of tasks that 
+“Automation” of Manufacturing in the Late Nineteenth Century     59
+were mechanized, whether by steam or water, similarly weighted. The sample used 
+to compute Table 1 covers 610 of the original 626 manufacturing units.6 For the 
+most part, our discussion of Table 1 focuses on the equally weighted (rather than 
+the time-weighted) statistics in Table 1.
+Although some hand tasks were abandoned in the transition to machine labor, 
+these comprised a small share of hand tasks and of the time spent in hand labor. 
+The largest category of transitions by far was 1:1—that is, the agents were able to 
+match a singleton task in hand production with a singleton task in machine produc-
+tion whose content was deemed to be the same, except that in machine production 
+of the product, the task was far more likely to be mechanized. As can be seen from 
+6 We excluded units from foreign countries, those that used horses, and which were otherwise missing 
+data necessary for our analyses.
+Table 1 
+Tasks Transitions, Hand to Machine Labor
+Transition
+Share of tasks,  
+equal weights
+Share of tasks, 
+time weights
+Share using 
+steam power, 
+equal weights
+Share using 
+water power, 
+equal weights
+Share using 
+steam power, 
+time weights
+Share using 
+water power, 
+time weights
+A: Hand Labor
+1:0
+0.044
+0.030
+0.003
+0.002
+0.002
+< 0.001
+1:1
+0.673
+0.604
+0.014
+0.017
+0.009
+0.020
+1:M
+0.134
+0.192
+0.023
+0.005
+0.008
+0.006
+N:M, N > 1, M > 1
+0.040
+0.054
+< 0.001
+0.010
+< 0.001
+0.003
+N:1
+0.108
+0.121
+0.010
+0.018
+0.031
+0.019
+Total
+1.000
+1.000
+0.014
+0.014
+0.011
+0.016
+B: Machine Labor
+1:1
+0.458
+0.563
+0.436
+0.029
+0.461
+0.033
+1:M
+0.146
+0.172
+0.558
+0.058
+0.538
+0.068
+N:M, N>1, M>1
+0.024
+0.038
+0.593
+0.070
+0.518
+0.068
+N:1
+0.037
+0.070
+0.757
+0.051
+0.764
+0.060
+0:1
+0.334
+0.158
+0.360
+0.014
+0.333
+0.020
+Total
+1.000
+1.000
+0.444
+0.034
+0.477
+0.040
+Source: Computed from a digitized version of the Hand and Machine Labor study, see text and US 
+Department of Labor (1899).
+Notes: The unit of observation is a task as described by the staff of the Hand and Machine Labor study. 
+The basic sample size in Panel A is 7,152 hand tasks from 610 production units. The basic sample size 
+in Panel B is 12,473 machine labor tasks from 610 production units. 1:0 transitions are the hand labor 
+tasks that disappeared in the transition to machine labor. 1:1 transitions are hand labor tasks that have a 
+unique counterpart in machine production. In a 1:M transition, a single hand labor task subdivides into 
+M machine tasks. In an N:M transition, N hand labor tasks transition into M machine labor tasks, with 
+N > 1 and M > 1. In an N:1 transition N hand tasks combine to a single machine task. 0:1 indicates new 
+tasks under machine labor. For equal weights, observations count equally in determining the average task 
+shares within units. For time weights, observations are weighted by completion time in determining the 
+average task shares within units. 
+60     Journal of Economic Perspectives
+Table 1B, about 46.5 percent of 1:1 tasks in machine production used inanimate 
+power; of these, 94 percent (0.436/0.465) were steam-powered.
+As examples of mechanization in 1:1 transitions, consider the relatively large 
+number of tasks involving trimming excess leather at various stages (for example, 
+operations 33, 117, 133, and 135) or “skiving” leather where it overlapped to 
+reducing bulk (operations 17–21, 54, 63, 71, 82, 88–93, and 135) in the produc-
+tion of boots and shoes, such as in Unit 71. Many patents were issued for tools 
+and machines to facilitate these activities (see, for example, patents issued for 
+leather trimming and skiving prior to 1874 (US Patent Office 1874). Under hand 
+production, these activities were accomplished with a sharp (sometimes special-
+ized) knife, guided by hand and eye. Under machine production, however, the 
+knives were built into powered machines (for example, see US Patent 609868A 
+granted 1898; also see the YouTube https://www.youtube.com/watch?v=Jv-
+nE1ixiB0 for the mechanics of a belt-driven skiving machine that is more or 
+less contemporaneous with the Hand and Machine Labor study). These oper-
+ated at high speed, allowing little chance of recovery if the product was wrongly 
+placed, and with considerable risk to the operator. The operation of the trimming 
+machine (and trimmer), for example, is described as follows (in Goldmark 1912, 
+p. 65): 
+[It] consists of a sharp knife edge, operating constantly against a sharp edged 
+revolving top. The man who works the machine stands, holding upside down 
+somewhat below the level of his eyes, the partly made, still unsoled shoe. He 
+turns it skillfully and rapidly on the revolving top, against whose sharp edge 
+the second knife-blade operates, cutting off all the surplus crimpled leather. 
+The work is extremely rapid and absolutely uniform. But it takes skill and 
+close attention. The machine could easily cut off too much, or could cut into 
+the upper, if the swift handling of the shoe were not absolutely correct. 
+The more complex transitions that involved subdividing hand tasks (1:M) 
+or consolidating (N:1) them (or possibly both (N:M)), were less common but by 
+no means unusual. Keeping with the example of producing medium grade, laced 
+shoes (Unit 71), machine production subdivided the selection of stock into several 
+tasks (1, 23, and 35) because the various parts of a pair of shoes no longer came 
+from a single hide as they would for hand-made shoes. Selecting various parts by 
+look and feel so that the pattern and texture of the leather was similar improved 
+the appearance of the finished product, making machine-made shoes look more 
+like their hand-made counterparts. Mechanization, however, sometimes led to the 
+consolidation of separate tasks. For example, the development of a super heavy-
+duty sewing machine (such as patent US 502873, granted to J. E. Bertrand in 
+1893) allowed the outsoles to be attached to the welts directly while locking the 
+shoe shank in place. This reduced what had been two separate tasks (124a and 
+124b) in handicraft production (where the shoemaker used two variations on a 
+single tool—an awl, round for locking the shank in place and square to attach 
+Jeremy Atack, Robert A. Margo, and Paul W. Rhode     61
+the outsole) to a single machine operation (that is, a N:1 transition, or consolida-
+tion). From the perspective of hand labor, about 28 percent of hand tasks, on 
+average, fell into the 1:M, N:M, or N:1 transitions; the corresponding figure from 
+the perspective of machine labor was smaller, about 21 percent. As Panel B shows, 
+the more complex transitions, especially consolidations, were also more likely to 
+be mechanized by steam.
+An important finding in Panel B is that new tasks were one-third of all tasks 
+in machine labor, a much higher fraction than the share of hand labor tasks that 
+were abandoned. Compared with the other tasks performed by machine labor, 
+these new tasks were considerably less likely to use steam power, although the 
+overall rate of steam use in new tasks, about 36 percent, was still substantial in 
+an absolute sense. Many of these tasks were themselves directly related to that 
+power source: engineers and firemen, for example, represented 15 percent of 
+these new tasks. However, the more important group of new nonpowered tasks 
+in machine production were those related to monitoring of the workplace activi-
+ties (for example, the task of foreman/supervisor) and inspection of the finished 
+product (for example, inspector, examiner, packer, and finisher). These activities 
+made up about 20 percent of the 0:1 tasks and were essential to the smooth flow 
+of the production line and the quality of the final product given that no single 
+worker or group thereof assumed responsibility for the outcome of the production 
+process. 
+The relative importance of new tasks declines when the data are weighted by 
+time, indicating that many of the new tasks were relatively brief in duration. Even 
+allowing for this, however, new tasks performed by machine labor accounted for a 
+larger share of total production time than the share of time accounted for by old 
+tasks in hand labor. We return to this point later in the paper when we consider our 
+findings in light of Acemoglu and Restrepo’s (2018) model of automation.
+Although we have focused on task shares in Table 1, it is important to 
+acknowledge that the absolute number of tasks increased from hand to machine 
+labor. This increase is a direct manifestation of the increased division of labor 
+that accompanied mechanization. As we described in detail in Atack, Margo, and 
+Rhode (2017), it is possible to use the information in the Hand and Machine 
+Labor study to compute a summary statistic of the division of labor—specifi-
+cally, the proportion of tasks performed by the average worker. Multiplying by 
+the number of tasks transforms the statistic into the average number of tasks per 
+worker. The median number of tasks per worker in hand production was two, 
+whereas in machine production, it was just one. In other words, the division of 
+labor in machine production was virtually complete—if the HML study delineated 
+a task, one or more workers were assigned to it and, on average, that was pretty 
+much all they did, as far as the production of the specific good was concerned. As 
+Marshall and Marshall (1881, p. 49) would note, “when the division of [labor] is 
+carried very far a man’s whole attention is concentrated on one operation …[and] 
+such operations are performed … with a rapidity and an unerring accuracy …” We 
+return to the division of labor below. 
+62     Journal of Economic Perspectives
+The Productivity Effects of Machine Labor and the Role of Steam Power 
+The standard way to measure labor productivity is by the flow of output over 
+some period of time (for example, annually) divided by total labor hours over the 
+same period. The Hand and Machine Labor study did not do this. Rather, for a stan-
+dardized quantity of the specific good, the HML staff computed the amount of time 
+each task took and then summed to get the total amount of time. Because a specific 
+good is held constant (insofar as this is ever possible) while looking at hand and 
+machine production, as is the standardized quantity, the overall productivity gain is 
+simply the difference in total time between machine and hand labor. Given that the 
+range of products considered were so very different, we do not compute the produc-
+tivity gain in absolute units of time (say, hours) but rather calculate the logarithm 
+of the ratio of machine to labor time, which is then averaged (equally weighted) 
+across units. This average is -1.96. If we take the exponent, it is 0.14 [e–1.96]—that 
+is, on average, machine labor reduced total production time by a factor of seven 
+(≈ 1/.14).
+What accounts for these remarkable gains in productivity? In Atack, Margo, 
+and Rhode (2017), we concentrated on the role of division of labor (to which we 
+return in the discussion below). In this paper, we shift our attention to mechaniza-
+tion—that is, the use of an inanimate power source, in particular, steam power.
+Economic historians have long had a keen interest in the diffusion of the steam 
+engine and its attendant microeconomic and aggregate effects. These include 
+the geography of steam adoption, changes in relative power costs in the face of 
+technological innovation, externalities of steam power such as its role in fostering 
+urbanization, and its impact on aggregate total factor productivity growth (Atack 
+1979; Atack, Bateman, and Weiss 1980; Kim 2005; Temin 1966). More recently, 
+there have also been studies of how mechanization, whether steam power or electri-
+fication, affected the relative demand for different occupations (de Pleijt, Nuvolari, 
+and Weisdorf 2018; Franck and Galor 2017; Gray 2013; Ojala, Pehkonen, and 
+Eloranta 2016). By comparison, the Hand and Machine Labor study allows us to 
+narrow the focus down to the task level for highly specific goods, comparing hand 
+to machine production. This is straightforward to accomplish for the 1:1 overlap 
+tasks; for these, we can difference the data at the task level within production units. 
+Table 2 reports our productivity regressions. Recall that “productivity” in the 
+Hand and Machine Labor study is measured by the amount of time that it takes to 
+complete a particular task in sequence in the making of a given amount of a specific 
+good. If it is possible to change something to complete the given task more quickly 
+than before—for example, use inanimate power—productivity has increased. We 
+derive the regression specification from the following equation:
+ln T(i, j, k) = α(i, k) + β (  j, k) + γ × (Steam = 1|i, j, k) + δ × (Water = 1|i, j, k) + ε(i, j, k)
+The index i refers to the task; the index j, to the type of labor ( j = hand or machine); 
+and the index k, to the specific product or equivalently, what the HMLS staff called 
+the “unit.” Ln T(i, j, k) is the log of the amount of time that it takes to complete task 
+“Automation” of Manufacturing in the Late Nineteenth Century     63
+i for labor type j in unit k; the greater is T, the longer it took to complete the given 
+task. The parameter α is a task–unit fixed effect; that is, it is indexed for task i and 
+unit k but not for labor type j. In making α dependent on i and k but not j, we are 
+assuming that, while some tasks might take proportionately longer than others for 
+a given product, these relative differences are the same under both machine and 
+hand labor. The parameter β is a labor type–unit fixed effect; it is indexed by j and k 
+but not by i. This allows for the possibility that machine labor was more productive 
+in general and that the productivity gain differed across specific products. Our main 
+interest is in the parameters γ and δ, which are the log effects of steam and water 
+power use and which we assume have the same values under machine and hand 
+labor. If steam or water power use proportionately reduces the amount of time to 
+complete a task, then γ < 0 and δ < 0. 
+To estimate this regression, we difference between machine and hand labor 
+within units for all variables measured at the task level. We can do this directly 
+because for every 1:1 task under machine labor there is an exact match to a coun-
+terpart task under hand labor. After differencing, we have:
+	
+∆ ln T = ∆β + γ × ∆ (Steam = 1) + δ × ∆ (Water = 1) + ∆ ε
+For ease of reading, we suppress the indexes but keep in mind that the unit 
+of observation is the task. The dependent variable is the difference between 
+machine and hand labor in the log of the amount of time it took to complete a task, 
+Table 2 
+The Productivity Effects of Steam and Water Power Use in 
+Machine versus Hand Production: 1:1 Task Transitions
+Dependent variable
+Independent  
+variable
+ln (Time spent in machine task) – 
+ln (Time spent in hand task)
+(1)
+ln (Time spent in machine task) − 
+ln (Time spent in hand task)
+(2)
+ln (Time spent in  
+  hand task)
+−0.36
+(12.29)
+∆ (Steam = 1)
+−1.13
+(19.29)
+−0.84
+(15.67)
+∆ (Water = 1)
+−0.35
+(2.86)
+−0.28
+(2.42)
+Adjusted R2
+0.52
+0.61
+Source: Authors.
+Note: The sample consists of tasks in the 1:1 transition category for which there 
+was complete information on the regression variables (N = 4,257). The dependent 
+variable is the difference between machine and hand labor in the log of the amount 
+of time that it took to complete the task. The mean value of the dependent variable 
+is −1.74. See the text for the derivation of the regression equation. Both regressions 
+in the table include unit fixed effects. Standard errors are clustered at the unit level.
+Absolute value of t-statistics shown in parentheses.
+64     Journal of Economic Perspectives
+(∆ln T). The right-hand side variables are product fixed effects (∆β), the differ-
+ences in the steam and water power dummies between machine and hand labor 
+at the task level, and the difference in the error terms (∆ε). The mean value of 
+the dependent variable is –1.74. If we take the exponent of this mean value, it is 
+0.18 [= exp (–1.74)] or approximately 18 percent. That is, on average in the set of 
+1:1 transitions, a task under machine labor took 18 percent of the time to complete 
+as the counterpart task under hand labor, indicating that labor was much more 
+productive in completing the machine task than the equivalent hand task. Note that 
+this mean value, –1.74, is smaller in absolute value than the analogous difference 
+overall between hand and machine labor, -1.96, implying that the more complex 
+transitions in Table 1 were, in an accounting sense, more important in generating 
+overall productivity gains than were the 1:1 transitions.
+As shown in column 1 of Table 2, the estimates of γ and δ are negative and 
+highly significant, indicating the use of steam or water is associated with a reduction 
+in time to complete a task. Relative to the mean value of the dependent variable 
+(–1.74), the magnitude of the steam power coefficient (–1.13) in column 1 is quite 
+large, suggesting a very large impact of steam use. By contrast, the coefficient for 
+water (–0.35) is much smaller, although still statistically significant. The impact of 
+water was more modest than steam, probably because of water’s seasonality and 
+storage constraints that limited its sustained flow. 
+Of course we cannot claim that these coefficients are causal; in particular, there 
+may be omitted variables that are correlated with ∆ Steam or ∆ Water. One way to 
+explore this possibility is to include the log of the amount of time the task took 
+under hand labor as a right-hand side variable, as shown in column 2 of Table 2. 
+If use of steam or water became more likely in machine labor for tasks for which 
+hand labor was particularly unskillful (which we cannot observe directly), we would 
+expect the absolute values of the steam and water power coefficients to be smaller 
+in column 2 than in column 1. While this is the case, the coefficients of steam and 
+water power use remain quite large and highly significant, suggesting that inan-
+imate power use was, indeed, a major factor contributing to higher productivity 
+under machine labor.
+Discussion
+We discuss our results in light of the recent paper by Daron Acemoglu and 
+Pascual Restrepo (2018, and see also their paper in this symposium), which provides 
+a formal task-based model for analyzing the effects of automation. In Acemoglu and 
+Restrepo’s model, tasks are ordered on a continuum along the unit interval from 
+N – 1 to N  in terms of the productivity of labor relative to capital. At date t = 0, 
+capital costs are assumed to be lower than labor costs. Some tasks can be performed 
+by either capital or labor, so if capital is sufficiently cheap, these will already be 
+“automated” at date t = 0. However, other tasks might still be performed just by 
+labor, simply because the technology is not sufficiently advanced for automation to 
+Jeremy Atack, Robert A. Margo, and Paul W. Rhode     65
+occur. An improvement in technology, then, will induce additional automation to 
+the new level of technical feasibility in the unit interval, or to the point where the 
+firm is indifferent, on cost grounds, between capital and labor.  
+Their model also allows for new tasks to be created that are superior to existing 
+tasks. The process by which this occurs is independent from changes in automa-
+tion. The assumptions in the model ensure that new tasks will appear at N *, the 
+new right endpoint of the unit interval, while abandoned tasks will come from the 
+former left endpoint, up to N * – 1. The entire unit interval, therefore, moves to the 
+right.
+The key implications of the Acemoglu and Restrepo framework concern the 
+net impacts of automation and new task creation on labor demand. If automation 
+occurs, there is a displacement effect—capital replaces labor in some tasks below 
+the threshold. There is also a productivity effect. If overall output increases suffi-
+ciently, demand for labor in non-automated tasks will increase on net. If, on net, 
+new tasks use more labor, labor demand will further increase. However, if new tasks 
+use less labor compared with abandoned tasks, the net impact of task replacement 
+is negative, reducing any positive net effect that automation might have otherwise 
+through productivity gains. 
+We cannot use the Hand and Machine Labor data to “test” the Acemoglu 
+and Restrepo model literally for three reasons. First, their model orders tasks in 
+terms of labor’s comparative advantage at performing them. This is not the same 
+as the order that tasks are actually performed in production. Second, we cannot 
+re-order the HML tasks in terms of labor’s comparative advantage because this is 
+not observed in the HML data. Third, tasks in the Acemoglu and Restrepo model 
+are on a continuum, whereas the task descriptions in the HML study are written 
+summaries of discrete activities—in effect, subsets of the tasks in the unit interval 
+of tasks in the Acemoglu and Restrepo model. Even if the HML staff had somehow 
+channeled the logic of an economic model from 125-odd years into the future and 
+managed to collect information on labor’s comparative advantage, this would refer 
+to the discrete activity, not to points (tasks) on a unit interval. 
+Nevertheless, the Acemoglu and Restrepo model is still highly valuable as an 
+interpretive framework. First, their displacement effect is obviously present in the 
+Hand and Machine Labor data; inanimately powered machines did things that were 
+previously done by hand using simple tools. In some cases, the machine task was a 
+sped-up version of what hand labor did—a machine-powered sander or polisher, 
+for example. But as shown by the N:1 transitions, multiple hand tasks were also 
+consolidated into a single machine task, a complicated transition that cannot simply 
+be described as a faster version of a single hand labor activity. As Marshall (1890, 
+p. 112) observed in his Principles: “[M]achinery constantly supplants and renders 
+unnecessary that purely manual skill, the attainment of which was, even up to Adam 
+Smith’s time, the chief advantage of division of [labor]. But this influence is more 
+than countervailed by its tendency to increase the scale of manufactures and to 
+make them more complex; and therefore to increase the opportunities for divi-
+sion of [labor] of all kinds.” Moreover, the displacement effect must have been 
+66     Journal of Economic Perspectives
+largest for the N:1 transitions, because the N hand tasks took nearly twice as long 
+to complete (as a share of total time) than one machine task, a far larger amount 
+of “labor-saving” than is evident in the other transitions. The N:1 transitions, as we 
+noted earlier, were the most mechanized—the share of machine tasks using steam 
+or water power—of all the transitions from hand to machine production. 
+Second, the productivity effect was enormous. While detailed data are lacking, 
+there is little doubt the average annual hours of operation per establishment in 
+manufacturing increased over the nineteenth century (Atack and Bateman 1992; 
+Whaples 1990). Yet, as the Hand and Machine Labor study shows, the amount of 
+time it took machine labor to complete a product was a mere fraction of the time 
+it took machine labor. On an average annual basis, therefore, the increase in total 
+output was an order of magnitude larger than the displacement effect per unit of 
+output, implying a very large positive impact on labor demand. 
+Third, the net effect of the introduction of new tasks on labor demand appears 
+to have been positive. This is because the share of time taken up by new tasks in 
+machine labor was larger than the share of time associated with hand tasks that 
+were abandoned—indeed, five times larger. Among other activities, these new tasks 
+included maintenance of steam engines, a foreman supervising large numbers of 
+workers (discussed further below), and workers packaging products for distant 
+markets.
+The upshot is that the transition from hand to machine labor led to a vast 
+expansion in the size of the manufacturing labor force, both in absolute number 
+and as a proportion of the national aggregate. This was because, not in spite, of an 
+equally vast increase in productivity, such that by the end of the nineteenth century, 
+output per worker in US manufacturing was twice the level in Britain or Germany 
+(Broadberry 1998). As we have noted, a long literature in economic history and 
+economics asserts that the diffusion of steam power was a major factor behind the 
+increase in productivity, but never, until the regression analysis in this paper, has this 
+been demonstrated for individual production tasks.
+However, our analysis also shows that steam power was not the full story. In 
+our earlier paper, Atack, Margo, and Rhode (2017), we studied the overall differ-
+ence in productivity between machine and hand labor at the unit-level, rather than 
+task-level. Because we were analyzing differences across units rather than across 
+tasks within units, we could include measures of the overall division of labor in 
+the relevant regressions. We found that direct measures of the division of labor—
+specifically, the fraction of total tasks performed by the average worker and the 
+number of tasks—fully account for the positive effects of overall scale, as measured 
+by the number of workers. Unlike the regressions in Table 2 of this paper, those in 
+our earlier paper do not control directly for steam (or water) power, but instead 
+have a dummy variable for hand production. The coefficient of this dummy vari-
+able is positive and significant, implying that, once we control for the division of 
+labor, other factors associated with machine labor compared with hand labor, such 
+as greater use of steam power, contributed to overall productivity gains. Our results 
+in Table 2 here are fully consistent with this interpretation.
+“Automation” of Manufacturing in the Late Nineteenth Century     67
+The point we wish to make here is that, as useful as it is as an overall framing 
+device, the Acemoglu and Restrepo model omits a fundamental feature of histor-
+ical industrialization—namely, its extensive division of labor. As far as that model is 
+concerned, the individual workers who perform tasks before and after automation 
+could be the same people. 
+In point of fact, however, they were not the same people. In the tiniest shops 
+that are iconic depictions of hand production in early manufacturing, the artisan 
+was highly skilled in the sense of performing most or all of the production tasks 
+from start to finish, as well as “nonproduction” tasks associated with managing the 
+business. In the transition to machine labor, the artisan shop was displaced by the 
+factory, which was different in many ways that could perhaps be summarized as 
+“more” of everything—more capital, more labor, and more output. Establishments 
+grew in size and complexity, an evolution that spawned the rise of a white collar 
+labor force to oversee it—a “visible hand” in Alfred Chandler’s (1977) memorable 
+phase.
+Our concern here is not so much the rise of the modern corporation a la Chan-
+dler, but rather what labor historians call “deskilling.” Examples of deskilling are 
+everywhere to be found in the data from the Hand and Machine Labor study. We 
+have already cited the example of shoemaking; another example is blacksmithing—
+previously, this involved making rakes (Unit 30), most of the assorted carriage and 
+wagon products (units 140–185), tools, and various other metal goods. The “village 
+smithy,” fashioning metal objects like pots, pans, plows, and numerous other 
+objects from iron, could be found in small towns and in the countryside all over 
+the United States as late as 1850. Atack and Margo (2019) use census data to study 
+the relative decline of blacksmithing as a “hand trade” over the second half of the 
+nineteenth century. Machine production led to establishments specializing in, for 
+example, agricultural implements. These establishments were much larger in terms 
+of employment than blacksmith shops, and far more productive in making plows, 
+rakes and hoes, and related tools. Faced with such competition, blacksmith shops 
+either shifted away from making objects to fixing them by offering repair services, 
+or simply disappeared. The job of blacksmithing was once considered sufficiently 
+numerous to warrant its own industry classification, but by the very end of the nine-
+teenth century it was dropped from the manufacturing census as no longer worth 
+the trouble to enumerate.
+The point we are emphasizing, however, is not deskilling per se, but rather that 
+the extent to which individual workers might be specialized in allocating their labor 
+across tasks has important implications. The massive division of labor documented 
+front and center in the Hand and Machine Labor study dramatically affected the 
+nature of the human capital investment decision facing successive cohorts of Amer-
+ican workers contemplating whether to enter the manufacturing sector. Earlier in 
+the nineteenth century, the human capital investment problem such workers faced 
+was mastering the diverse set of skills associated with most or all of the tasks involved 
+in making a product, along with managing the affairs of a (very) small business, 
+an artisan shop. The human capital investment problem facing the prospective 
+68     Journal of Economic Perspectives
+manufacturing worker in the 1890s was quite different. There was little or no need 
+to learn how to fashion a product from start to finish; mastery of one or two tasks 
+would do, and such mastery might be gained quickly on the job. The more able or 
+ambitious might gravitate to learning new skills, such as designing, maintaining, or 
+repairing steam engines, or clerical/managerial tasks, the demand for which had 
+grown sharply as average establishment size increased over the century (Katz and 
+Margo 2014). 
+For many decades in the twentieth century, specialization was economically 
+beneficial to workers—the costs of learning skills were relatively modest and the 
+return on the investment—a relatively secure, highly paid job in manufacturing—
+made that investment worthwhile. The prospect of widespread automation has 
+arguably changed this calculus. No single “job” is safe and the optimal investment 
+strategy may be very different—a suite of diverse, relatively uncorrelated skills as 
+insurance against displacement by robotics and artificial intelligence. This is perhaps 
+the sense in which the history of how technology affects jobs is not repeating itself, 
+and “this time” really is different.
+Concluding Remarks
+To understand the effects of automation on jobs, a number of labor econo-
+mists have turned away from traditional “black box” models of production and 
+their assumptions of relative complementarity or substitutability between capital 
+and different types of labor. Instead, production is modeled as a collection of tasks, 
+some of which might be performed by labor or automated with capital. Empir-
+ical assessments of these models have generally been indirect, in part because 
+the data demands are so formidable. Even in today’s world awash in “big data,” 
+information on production is rarely recorded at the task level. In the absence 
+of such data, analysts must infer the task content of jobs indirectly through 
+the use of, for example, the Dictionary of Occupational Titles (US Employment 
+Service 1991).
+This paper has reported on some preliminary but ongoing analyses of the US 
+Department of Labor’s Hand and Machine Labor (US Department of Labor 1899) 
+study. The study has been long known by economic historians—but almost never 
+used because the data were, until recent advances in information technologies, 
+too complex to analyze. Our analysis of the HML data confirms the modern view 
+that the “machine age” was transformative. It also reveals, however, that current 
+task-based models of automation need elaboration to take into account certain 
+effects of mechanization on labor that were historically relevant, like the division 
+of labor. 
+The modern debate over automation and labor frequently invokes historical 
+antecedents, most notably the steam engine during the early industrialization. 
+Typically, historical evidence serves as anecdote to provide a context against 
+which qualitative predictions can be made. For example, the steam engine was 
+Jeremy Atack, Robert A. Margo, and Paul W. Rhode     69
+revolutionary in its time, and in retrospect it is clear that it “destroyed” some jobs 
+but created many others. However, the extent to which the disruptive effects of the 
+mechanization of the past serves as a prologue to the technologies of the present or 
+future, or whether the modern technologies of robotics and artificial intelligence 
+are fundamentally different in some way, remains an open question. It is intriguing 
+to imagine how artificial intelligence might reduce the cost of reassigning and reor-
+ganizing tasks, allowing for more efficient dynamic optimization of production 
+in response to changing conditions. Models that allow for such shifts of tasks and 
+alterations in the division of labor may pay a useful role in understanding the tech-
+nological shifts to come. 
+■ We thank Daron Acemoglu, Hoyt Bleakley, Zorina Khan, Pascual Restrepo, Elyce Rotella, 
+the JEP editors, and seminar participants at New York Stern, University of Michigan, and 
+Yale University for helpful comments.
+References 
+Acemoglu, Daron, and David H. Autor. 2011. 
+“Skills, Tasks and Technologies: Implications for 
+Employment and Earnings.” Chap. 12 in Handbook 
+of Labor Economics, vol. 4B, edited by Orley Ashen-
+felter and David Card, 1043–171. Amsterdam: 
+Elsevier-North Holland.
+Acemoglu, Daron, and Pascual Restrepo. 2018. 
+“The Race Between Man and Machine: Implica-
+tions of Technology for Growth, Factor Shares, and 
+Employment.” American Economic Review 108(6): 
+1488–542.
+Atack, Jeremy. 1979. “Fact or Fiction? The Rela-
+tive Costs of Steam and Water Power: A Simulation 
+Approach.” Explorations in Economic History 16(4): 
+409–37. 
+Atack, Jeremy, and Fred Bateman. 1992. 
+“How Long Was the Workday in 1880?” Journal of 
+Economic History 52(1): 129–60.
+Atack, Jeremy, Fred Bateman, and Robert A. 
+Margo. 2008. “Steam Power, Establishment Size, 
+and Labor Productivity in Nineteenth Century 
+American Manufacturing.” Explorations in Economic 
+History 45(2): 185–98.
+Atack, Jeremy, Fred Bateman, and Thomas 
+Weiss. 1980. “The Regional Diffusion and Adoption 
+of the Steam Engine in American Manufacturing.” 
+Journal of Economic History 40(2): 281–308.
+Atack, Jeremy, and Robert A Margo. 2019. 
+“Gallman Revisited: Blacksmithing and American 
+Manufacturing, 1850–1870.” Cliometrica 13(1): 
+1–23.
+Atack, Jeremy, Robert A. Margo, and Paul 
+W. Rhode. 2017. “The Division of Labor and 
+Economies of Scale in Late Nineteenth Century 
+American Manufacturing.” Paper presented at the 
+NBER Development of the American Economy 
+Summer Institute, July 2017.
+Autor, David H. 2013. “The ‘Task Approach’ to 
+Labor Markets: An Overview.” Journal for Labour 
+Market Research 46(3): 185–99.
+Bellamy, Edward. 1888. Looking Backward, 
+2000–1887. Boston: Ticknor and Co.
+Broadberry, Stephen N. 1998. “How Did the 
+United States and Germany Overtake Britain? 
+A Sectoral Analysis of Comparative Productivity 
+Levels, 1870–1990.” Journal of Economic History 
+58(2): 375–407.
+Brynjolfsson, Erik, and Andrew McAfee. 
+2014. The Second Machine Age: Work, Progress, and 
+Prosperity in a Time of Brilliant Technologies. W. W. 
+70     Journal of Economic Perspectives
+Norton.
+Chandler, Alfred D., Jr. 1977. The Visible Hand: 
+The Managerial Revolution in American Business. 
+Cambridge, MA: Belknap Press.
+de Pleijt, Alexandra, Alessandro Nuvolari, and 
+Jacob Weisdorf. 2018. “Human Capital Formation 
+during the First Industry Revolution: Evidence 
+from the Use of Steam Engines.” CEPR Working 
+Paper 12987, Centre for Economic Policy Research.
+Franck, Raphaël, and Oded Galor. 2017. “Tech-
+nology-Skill Complementarity in Early Phases of 
+Industrialization.” NBER Working Paper 23197.
+Giedion, Sigfried. 1948. Mechanization Takes 
+Command: A Contribution to Anonymous History. 
+New York: Oxford University Press.
+Goldmark, Josephine. 1912. Fatigue and Effi-
+ciency: A Study in Industry. New York: Russell Sage 
+Foundation. 
+Gray, Rowena. 2013. “Taking Technology to 
+Task: The Skill Content of Technological Change 
+in Early Twentieth Century United States.” Explora-
+tions in Economic History 50(3): 351–67.
+Hounshell, David A. 1984. From the American 
+System to Mass Production, 1800–1932: The Develop-
+ment of Manufacturing Technology in the United States. 
+Baltimore: Johns Hopkins University Press.
+Katz, Lawrence F., and Robert A Margo. 2014. 
+“Technical Change and the Relative Demand for 
+Skilled Labor: The United States in Historical 
+Perspective.” Chap. 1 in Human Capital in History: 
+The American Record, edited by Leah Platt Boustan, 
+Carola Frydman, and Robert A. Margo. University 
+of Chicago Press.
+Kim, Sukkoo. 2005. “Industrialization and 
+Urbanization: Did the Steam Engine Contribute to 
+the Growth of Cities in the United States?” Explora-
+tions in Economic History 42(4): 586–98.
+Marshall, Alfred. 1890. Principles of Economics. 
+London and New York: Macmillan.
+Marshall, Alfred, and Mary Paley Marshall. 1881. 
+The Economics of Industry. London: Macmillan.
+Ojala, Jari, Jaakko Pehkonen, and Jari Eloranta. 
+2016. “Deskilling and Decline in Skill Premium 
+during the Age of Sail: Swedish and Finnish 
+Seamen, 1751–1913.” Explorations in Economic 
+History 61: 85–94.
+Rockoff, Hugh. 2019. “On the Controversies 
+behind the Origins of the Federal Economic Statis-
+tics.” Journal of Economic Perspectives 33(1): 147–64.
+Temin, Peter. 1966. “Steam and Waterpower in 
+the Early Nineteenth Century.” Journal of Economic 
+History 26(2): 187–205.
+Thomson, Ross. 1989. The Path to Mechanized 
+Shoe Production in the United States. Chapel Hill: 
+University of North Carolina.
+Tufte, Edward R. 1983. The Visual Display of 
+Quantitative Information. Cheshire, CT: Graphics 
+Press.
+US Bureau of Labor. 1886. First Annual Report 
+of the Commissioner of Labor, March 1886: Industrial 
+Depressions. Washington DC: US Government 
+Printing Office. 
+US Bureau of Labor Statistics. 1890–1905. “RG 
+257 Records of the Bureau of Labor Statistics, 
+Records of the Department of Commerce and 
+Labor, Reports of Bureau Activities, 1890–1905 
+Box No. 1, Scrap Book: Memo and Compilations.” 
+National Archives and Records Administration.
+US Congress, House of Representatives. 1894. 
+Effects of Machinery on Labor. Washington DC: US 
+Government Printing Office. 
+US Department of Labor. 1899. Thirteenth 
+Annual Report of the Commissioner of Labor, 1898: 
+Hand and Machine Labor. Washington DC: GPO. 
+Available from HathiTrust.org: http://hdl.handle.
+net/2027/nnc1.cu08593957. 
+US Employment Service. 1991. Dictionary of 
+Occupational Titles. Washington DC: US Govern-
+ment Printing Office.
+US Patent Office. 1874. Subject-Matter Index of 
+Patents for Inventions. Washington DC: US Govern-
+ment Printing Office.
+Wells, David Ames. 1889. Recent Economic 
+Changes, and their Effect on the Production and Distri-
+bution of Wealth and the Well-Being of Society. New 
+York: D. Appleton.
+Whaples, Robert. 1990. “The Shortening of 
+the American Work Week: An Economic and 
+Historical Analysis of Its Context, Causes, and 
+Consequences.” Thesis (PhD in Economics), 
+Graduate School of Arts and Sciences, University 
+of Pennsylvania. 
+Wright, Carroll D. 1900. “Hand and Machine 
+Labor.” In Gunton’s Magazine, 209–17. New York: 
+Political Science Publishing Co.
+Zeira, Joseph. 1998. “Workers, Machines, and 
+Economic Growth.” Quarterly Journal of Economics 
+113(4): 1091–117.

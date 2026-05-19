@@ -1,0 +1,1137 @@
+
+--- Page 1 ---
+Africa and the globalization
+process: western Africa,
+1450–1850
+1
+Joseph E. Inikori
+Department of History, University of Rochester, Rochester, NY 14627, USA
+E-mail: jinikori@rochester.rr.com
+Abstract
+The article examines the debate on globalization as a historical process and provides a context
+for the assessment of western Africa’s long-run contribution to the process, the main subject
+of the article. It argues that the process began in the Atlantic basin in the sixteenth century; in
+the nineteenth, it gave rise to an integrated Atlantic economy, the nucleus of the modern
+global economy. The process involved the transformation of the predominantly subsistence
+economies of the Atlantic basin in 1450 to market-based economies before their integration
+by the Atlantic market could occur. Large-scale specialization of the plantation and mining
+economies of the Americas was central to the transformation process. Because of abundant
+land, large-scale plantation agriculture in the Americas was made possible by coerced African
+labour. In the end, the unique characteristics of the export slave trade that supplied coerced
+African labour to the Americas retarded the development of the market economy in western
+Africa and kept the region’s economies out of the integrated commodity production processes
+of the Atlantic economy until that trade ended in the mid-nineteenth century. The analysis of
+the commercializing process in the Atlantic basin and its causal link to England’s Industrial
+Revolution, with its new technologies, and to the establishment of the integrated
+nineteenth-century Atlantic economy presents a powerful argument that places Africa at
+the centre stage of the globalization process.
+Introduction
+Since the term globalization was popularized by the media in the 1990s, social science
+historians and other scholars have struggled to define what it means as a historical process.
+An assessment of western Africa’s contribution to the process, the subject of this article,
+requires clarification of several conceptual issues, such as the starting point in time of the
+process; the geographical location of the epicentre(s); the dialectical relationship between
+local and global forces; aborted processes, new beginnings, redirections; and so on.
+1 The first draft of the article was read, with helpful critical comments, by Patrick Manning and Tony
+Hopkins. I am grateful to both of them. I also want to thank the anonymous readers, who offered very
+helpful comments, and the editors, especially Ken Pomeranz, for their encouragement and unusual
+attention to details. Kevin O’Rourke kindly sent to me one of his co-authored papers (discussed in the
+article), for which I am grateful.
+63
+Journal of Global History (2007) 2, pp. 63–86 ª London School of Economics and Political Science 2007
+doi:10.1017/S1740022807002045
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 2 ---
+A focused treatment of these issues needs a clear statement of what constitutes globalization
+as a historical process. The first section of the article addresses these questions and discusses
+issues in the literature pertinent to the assessment of western Africa’s contribution. The
+second section examines the evolution of an integrated economy in the Atlantic basin, which
+by the nineteenth century became the nucleus of the modern global economy. 2 The third
+section focuses on western Africa’s long-run contribution to the evolution of this integrated
+Atlantic economy and the cost for the region’s economies.
+What constitutes globalization as
+a historical process?
+Globalization, as popularly understood since the 1990s, is a snapshot description of an
+observable reality: a highly integrated world, often called a ‘global village’. The most visible
+aspect of this integration is the global economy. The world has become a single production
+site, dominated by transnational corporations that are free to select anywhere in the world
+to produce products or components of products. The more sophisticated the product the
+greater the global spread of the production process. All of this is controlled by a tightly inte-
+grated global market for products and capital, and, to a lesser extent, for labour. Many
+portfolio investors are now global investors; hence, financial problems even in small eco-
+nomies like those in Southeast Asia can have impact across the globe as happened in the
+late 1990s.
+3 Just as the global market has integrated the economies of the world so also
+have the societies and cultures of the world been brought closely together through migra-
+tion, travelling, and twenty-four hour instant news and telecommunication.
+On the downside, socio-political conflict arising from the hierarchical character of the
+integration is now also on a global scale. 4 The potential danger of real or perceived injustice
+arising from economic and political power disparity among nations was recognized by
+world leaders in the 1970s. The Brandt Commission, established in 1977, reported that
+the economic and social disparities between ‘North’ and ‘South’ had become a problem
+comparable in importance to the dangers of the arms race. 5 The 11 September 2001 attack
+on New York and Washington may be seen as the unfortunate fulfillment of this prophecy.
+From the preceding snapshot, it is clear that the defining characteristics of current globa-
+lization popularized by the media are integration and hierarchy. Other manifestations of the
+phenomenon are related in one way or another to these defining elements. How, global
+historians should ask, did we get here?
+2 There are two earlier studies of the evolution of an integrated economy in the Atlantic basin: J. E. Inikori,
+‘Africa in world history’, in B. A. Ogot, ed., General history of Africa , Volume 5, Paris, Oxford, Berkeley:
+UNESCO, Heinemann, University of California Press, 1992; Kevin H. O’Rourke and Jeffrey G.
+Williamson, Globalization and history , Cambridge, MA: MIT Press, 1999. They both leave considerable
+gaps that this article, among other things, attempts to fill.
+3 Padma Desai, Financial crisis, contagion and containment , Princeton, NJ: Princeton University Press, 2003.
+4 Arthur Mitzman, Prometheus revisited , Amherst, MA: University of Massachusetts Press, 2003, p. xi;
+Amira K. Bennison, ‘Muslim universalism and western globalization’, in A. G. Hopkins, ed.,
+Globalization in world history , New York: W. W. Norton, 2002, p. 97.
+5 North-South, a programme for survival , London: Pan Books, 1980, p. 8.
+64 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 3 ---
+But the conceptions of global history in the literature do not always take integration and
+hierarchy as the defining elements. One of the main problems is the distinction between
+global history and world history. In her discussion of a number of well-known works,
+Abu-Lughod distinguished between those whose focus is on ‘disparate places’, which she
+placed under world history, and those whose focus is on ‘the linkages among places and
+the systematic nature of those linkages’, which she placed under global history. 6 Bentley
+and Ziegler drew somewhat similar distinctions in their Traditions and encounters .7 On
+the other hand, Patrick Manning implies that what Abu-Lughod calls global history is the
+only true world history:
+To put it simply, world history is the story of connections within the global human com-
+munity. The world historian’s work is to portray the crossing of boundaries and the linking
+of systems in the human past. ... World history is far less than the sum total of all history .8
+The tension between the focus of global history and other fields of history arises partly
+from the problem of clarifying what is meant by integration and how it can be measured for
+purposes of studying the historical processes that produced differing degrees of integration
+over different time periods. The problem is easier to deal with if our focus is on the eco-
+nomic aspect of the process. Here the market is the main mechanism for the process of inte-
+gration and the degree of integration can be measured in terms of price convergence and the
+mobility of products and production factors across the globe. 9 Since the evolution of the
+integrated global economy was central to the long-run process of integration which gave
+birth to our current ‘global village’, it may be helpful conceptually to view integration
+from the standpoint of the economic process. The socio-political elements in the process
+may then be taken as causes and effects.
+This article focuses on the economic process. We, therefore, examine the debate in the
+literature concerning dating in terms of the historical processes which produced the defining
+elements of the current global economic order – integration and hierarchy. First, we must
+distinguish between work devoted to the historical origins of the hierarchical structure of
+our ‘global village’ and scholarship focused on the process of integration. It is also impor-
+tant to note two essentially separate issues in the debate about the historical origins of
+hierarchy – divergence that was already in existence before the modern process of integra-
+tion and caused by factors unrelated to that process, and hierarchy that resulted from the
+integration process itself.
+At a glance, it is unmistakable that the issue of hierarchy overwhelmingly dominates
+the literature on global history. Decades before the 1990s media preoccupation with the
+6 Janet Abu-Lughod, The world system in the thirteenth century , Washington, DC: American Historical
+Association, 1993, pp. 18–23.
+7 Jerry H. Bentley and Herbert F. Ziegler, Traditions and encounters , 3rd edn, Boston, MA: McGraw-Hill,
+2006; first published, 2000, p. xxvii.
+8 Patrick Manning, Navigating world history , New York: Palgrave Macmillan, 2003, p. 3; emphasis added.
+For a contrary view, see Arif Dirlik, ‘Confounding metaphors’, in Benedikt Stuchtey and Eckhardt Fuchs,
+eds., Writing world history, 1800–2000 , Oxford: Oxford University Press, 2003, fn 1, p. 91, and p. 96.
+9 Inikori, ‘Africa in world history’; O’Rourke and Williamson, Globalization and history .
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 65
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 4 ---
+phenomenon of interdependence in our contemporary world attracted the attention of scho-
+lars, the reality of poor nations and rich nations was already a major focus of scholarly
+investigation. The debate centered on two broad questions: whether the rich nations became
+rich largely because of independent internal factors in those nations or largely because of
+external ones; and whether the poor nations remained poor largely because of independent
+internal factors or largely because of external ones. 10 While elements of integration are
+apparent in dependency scholarship that emphasizes external factors in underdevelopment,
+the analysis is not explicitly conducted in the context of integration processes. On the other
+hand, scholarship focused on independent internal factors in the history of rich and poor
+nations is totally unconcerned with integration. The study of hierarchy in global history,
+which has flourished since the late 1990s, flows directly from this earlier scholarship. The
+important study by Pomeranz, The great divergence , has contributed to the rapid expansion
+of that literature. And the new literature shares elements of the old. For the most part, the
+process of integration is not made explicit. In particular, it is not made clear whether inte-
+gration and hierarchy are both products of the same globalization process or some elements
+of hierarchy already existed before the globalization process that produced the current
+global village.
+11 Implicit in the greater part of the literature, however, is the idea that the
+hierarchical structure of the current global order has been produced by the same process
+that created the integrated global village. This is true of Braudel’s study of civilization
+and capitalism, especially the third volume. 12 More explicitly focused on this point is
+Wallerstein’s World system. However, world system studies focus almost exclusively on inte-
+gration between developed and underdeveloped economies and little on overall integration. 13
+To comprehend subsequent arguments concerning western Africa’s contribution to the
+globalization process, it is pertinent to link the neglected issue of the global integration pro-
+cess to the current debate on the dating of the historical process which created the current
+global order. How far back can we trace the history of that process? While some scholars,
+notably Frank and Gills, have argued that our current world order has been evolving
+continuously for about 5,000 years, the majority believe that there have been successions
+of globalization processes, with clear discontinuities, and that the one that produced the cur-
+rent order dates from no earlier than the sixteenth century. Within the latter camp, some
+scholars argue for further discontinuities within the post-1500 globalization process,
+10 To avoid a lengthy discussion of this earlier literature, the work of Jones and dependency scholarship may
+be taken as representative. E. L. Jones, The European miracle , Cambridge: Cambridge University Press,
+1981; 2nd edn, 1987. Dependency scholarship is usually traced to Baran and Frank: Paul A. Baran, The
+political economy of growth , New York: Monthly Review Press, 1957; Andre Gunder Frank, Capitalism
+and underdevelopment in Latin America , New York: Monthly Review Press, 1967. For a critical survey of
+the dependency literature, see Robert A. Packenham, The dependency movement , Cambridge, MA:
+Harvard University Press, 1992.
+11 Jack Goody, The East in the West , Cambridge: Cambridge University Press, 1996; Andre Gunder Frank,
+ReOrient: global economy in the Asian age , Berkeley: University of California Press, 1998; David S.
+Landes, The wealth and poverty of nations , New York: W. W. Norton, 1998; Kenneth Pomeranz, The
+great divergence , Princeton, NJ: Princeton University Press, 2000; Gale Stokes, ‘The fates of human
+societies: a review of recent macrohistories’, American Historical Review , 106, 2, 2001, pp. 508–25.
+12 Fernand Braudel, Civilization and capitalism , 3 vols., New York: Harper & Row, 1982–1984. Of the three
+volumes the most relevant to the issues under consideration is volume three, The perspective of the world .
+13 Immanuel Wallerstein, The modern world system , 3 vols., New York: Academic Press, 1974–1989.
+66 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 5 ---
+making the cuts at various points; for most, however, these sub-divisions are not central to
+their arguments and need not be made very exactly. 14
+Wallerstein, on the other hand, attempts to bring to the debate precision in the use of
+terms. He distinguishes between trading networks and economic systems. Before 1500
+CE, Wallerstein argues, multiple historical systems coexisted. Though linked together by a
+trading network these multiple systems did not form one single economic system, because,
+Wallerstein stresses, the trading network was not based at any point in time during the
+period ‘on an axial division of labor involving integrated production processes ’. For
+Wallerstein, a single world economic system did not exist ‘until the nineteenth century’. 15
+This is also the position of William McNeill, who argues that long-distance trading in ancient
+times was not large enough ‘to affect ancient societies in more than superficial ways’. 16
+That difficulties in dating the modern globalization process arise largely from imprecise
+use of terms (as Wallerstein just hinted) is highlighted by the recent O’Rourke and Williamson–
+Flynn and Giraldez exchange on the subject. In 2002, O’Rourke and Williamson published
+two articles on two related subjects: one shows the rapid growth of world trade in the five
+centuries following the explorations by Columbus and da Gama and identifies the factors
+which explain the ‘trade boom’; based on the evidence, the other asks and answers the ques-
+tion ‘[w]hen did globalization begin?’. 17 The first article concludes that because there is no
+evidence showing a decline in barriers to trade before the 1820s, the booms of the preceding
+three centuries were caused by booms in demand and supply. On the other hand, the trade
+booms of the nineteenth and twentieth centuries were caused by declining trade barriers. 18
+The second article analyses the evidence and concludes: ‘Globalization did not begin 5,000
+years ago, or even 500 years ago. It began in the early nineteenth century.’ 19
+Simultaneous with O’Rourke and Williamson’s articles, Flynn and Giraldez published a
+paper on silver flows and globalization. 20 They demonstrate the dominant role of China’s
+demand in the history of silver production in Spanish America and Japan. The boom in
+China’s demand for silver, following the mid-fifteenth-century Chinese conversion from paper
+to silver currency, raised the value of silver in re lation to gold in Asia considerably above that
+in Europe in 1540–1640. Asian and European bimetallic ratios converged in the mid-seventeenth
+14 Andre Gunder Frank and Barry K. Gills, ‘Rejoinder and conclusions’, in Andre Gunder Frank and Barry K.
+Gills (eds.), The World System: Five hundred years or five thousand?, London: Routledge, 1993, p. 297;
+Janet Abu-Lughod, ‘Discontinuities and Persistence,’ in Frank and Gills (eds.), The World System, pp. 278–
+91; Janet L. Abu-Lughod, Before European hegemony , Oxford: Oxford University Press, 1989; Bentley
+and Ziegler, Traditions and encounters , pp. vii–xix, xxxi; C. A. Bayly, ‘‘‘Archaic’’ and ‘‘modern’’
+globalization in the Eurasian and African arena, ca. 1750–1850’, in Hopkins, ed., Globalization, p. 47; A.
+G. Hopkins, ‘Globalization – an agenda for historians’, in Hopkins, ed., Globalization, pp. 1–11.
+15 Immanuel Wallerstein, ‘World system versus world-systems: a critique’, in Frank and Gills, eds., The world
+system, pp. 294–5; emphasis added.
+16 William H. McNeill, ‘Foreword’, in Frank and Gills, eds., The world system , p. xi.
+17 Kevin H. O’Rourke and Jeffrey G. Williamson, ‘After Columbus: explaining Europe’s overseas trade
+boom, 1500–1800’, Journal of Economic History , 62, 2, 2002, pp. 417–56; ‘When did globalisation
+begin?’, European Review of Economic History , 6, 2002, pp. 23–50.
+18 O’Rourke and Williamson, ‘After Columbus’, pp. 428–30.
+19 O’Rourke and Williamson, ‘When did globalisation begin?’, p. 47.
+20 Dennis O. Flynn and Arturo Giraldez, ‘Cycles of silver: global economic unity through the mid-eighteenth
+century’, Journal of World History , 13, 2, 2002, pp. 391–427.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 67
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 6 ---
+century after a century of massive import of silver and export of gold by China. Then
+increased Chinese demand for silver, provoked by the demographic impact of imported
+American food crops, led to another round of massive imports of Spanish American silver,
+gave rise to another divergence of bimetallic ratios in Asia and Europe, and stimulated the
+eighteenth-century boom in Mexican silver production. A new convergence in Asian and
+European bimetallic ratios emerged again after1750. Based on this evidence, Flynn and Giraldez
+contend ‘that a highly integrated global economy has existed since the sixteenth century’.21
+On the surface these two arguments would appear to be diametrically opposed. Thus,
+Flynn and Giraldez took issue with the conclusion of O’Rourke and Williamson and the latter
+responded.22 On closer examination, however, we find that the two sets of articles are not
+talking about the same thing: An integrated global economy would appear to mean different
+things in them. For O’Rourke and Williamson an integrated global economy entails a global
+division of labour in the production of goods and services (similar to what Wallerstein charac-
+terizes as ‘an axial division of labor involving integrated production processes’). 23 For Flynn
+and Giraldez, on the other hand, an integrated global economy entails the establishment of
+‘complex trade connections at a global level’. Hence, they ‘chose 1571 ... as the specific
+year during which global trade was born’. 24 ‘We propose that globalization began when the
+Old World became directly connected with the Americas in 1571 via Manila ... ’.25 For Flynn
+and Giraldez, therefore, global trade linkages by themselves constitute globalization; it does
+not matter whether or not such trade connections establish a global division of labour. They
+make no distinction between a trading system and an economic system.
+While the two sets of articles differ fundamentally in their conceptions of globalization,
+they share a common problem in failing to deal with the long-run historical process that
+produced the highly integrated global economy celebrated by the media in the 1990s.
+O’Rourke and Williamson define globalization in a manner consistent with that phenom-
+enon: ‘the integration of markets across space’ (Wallerstein’s notion of ‘an axial division
+of labor involving integrated production processes’ worldwide is similarly consistent). But
+by focusing exclusively on determining whether or not ‘the integration of markets across
+space’ had been effected at given moments they focus only on the final outcome without
+showing the causal process with its details and the factors that propelled it forward. Conse-
+quent on that, a major issue overlooked by O’Rourke and Williamson is the development of
+the domestic markets in the national or even regional economies that were later integrated
+to constitute the integrated global economy. How did the predominantly subsistence econo-
+mies of the world in 1492 and 1498 become predominantly market-based economies? What
+role did the trade booms of the three centuries preceding the 1820s play in that transformation
+process? Where can we locate the initial epicentre(s) of the process and what were the early
+21 Flynn and Giraldez, ‘Cycles of silver’, p. 392.
+22 Dennis O. Flynn and Arturo Giraldez, ‘Path dependence, time lags and the birth of globalization: a critique
+of O’Rourke and Williamson’, European Review of Economic History , 8, 2004, pp. 81–108; Kevin H.
+O’Rourke and Jeffrey G. Williamson, ‘Once more: when did globalisation begin?’, European Review of
+Economic History , 8, 2004, pp. 109–17.
+23 O’Rourke and Williamson, ‘When did globalisation begin?’, pp. 26–8.
+24 Flynn and Giraldez, ‘Cycles of silver’, pp. 392–3.
+25 Flynn and Giraldez, ‘Path dependence’, pp. 82–3.
+68 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 7 ---
+critical factors? The development of regional markets and the geographical spread of the
+market economy need to occur before the kind of global trade impact articulated by
+O’Rourke and Williamson can take place.
+In contrast to O’Rourke and Williamson, the data presented by Flynn and Giraldez fit
+better a process narrative than their preferred argument. The characteristics of the global trade
+in silver and gold they present support the point that an integrated global economy did not
+exist in the sixteenth- to eighteenth-century period, if by integrated global economy we under-
+stand ‘an axial division of labor involving integrated production processes’ worldwide. First,
+the large disparity between gold to silver ratios in western Europe and China for a whole
+century (1540–1640) is a strong indication of considerable barriers to trade between them,
+even in products of very high value to bulk ratio like silver and gold. Second, the fact that
+periodic price convergence was limited to silver and gold suggests that the Europe–Asia trade
+of the sixteenth- to eighteenth-century period did not stimulate the development of division of
+labour in the commodity production process between Europe and Asia during the period.
+But silver and gold production in the Americas contributed significantly in the transfor-
+mation of the predominantly subsistence economies of pre-Columbian America to market
+economies over time. Their massive imports into Europe and Asia had similar effects.
+(We say more on this later.) Again, the impact of imported American food plants in China
+demonstrated by Flynn and Giraldez is no proof of the existence of division of labour
+between China and the Americas in the eighteenth century. But it is a critical development
+in the long-run historical process leading to the ultimate integration of commodity markets,
+because it stimulated the development of markets and the geographical spread of the market
+economy in China. Thus, the establishment of global trade connections in the sixteenth
+century was the beginning of the globalization process, not the end result, globalization.
+26
+While this view that flows from the literature is significant for the subject of this article,
+for subsequent arguments it is still important to know how the process started. Some analysts
+imply that the prior development of capitalism in Europe was the engine that propelled the
+process from 1500. Thus, the sub-title of the first volume of Wallerstein’s three-volume
+world-system study is Capitalist agriculture and the origins of the European world-economy
+in the sixteenth century .27 But was there a capitalist economy in any country in Europe in
+1500? Applying the measurable definition of capitalism accepted by both Marx and Weber,
+we find that wage labour was not the dominant form of the labour process in any country in
+Europe in 1500. 28 In both agriculture and manufacturing independent producers owning
+their means of production (especially land) remained predominant. 29 The additional
+26 Arthur Lewis had argued for a much later date, the last quarter of the nineteenth century: W. Arthur Lewis,
+The evolution of the international economic order , Princeton, NJ: Princeton University Press, 1978.
+The argument was part of the inward-looking explanations that characterized the scholarship of the
+1950–1980 historiographical epoch: Joseph E. Inikori, Africans and the Industrial Revolution in England:
+a study in international trade and economic development , Cambridge: Cambridge University Press, 2002,
+pp. 89–155. Few historians share that view today.
+27 Immanuel Wallerstein, The modern world-system I , New York: Academic Press, 1974.
+28 For a discussion of the literature on the confusing conceptions of capitalism as a social system, see Joseph
+E. Inikori, Slavery and the rise of capitalism: the 1993 Elsa Goveia Memorial Lecture , Mona, Jamaica:
+Department of History, University of the West Indies, 1993, pp. 2–9.
+29 Ibid., pp. 9–13.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 69
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 8 ---
+elements suggested by Wallerstein are redundant. 30 It is pertinent to note that the develop-
+ment of capitalism in western Europe was a product of the globalization process that began
+in 1500. Gunder Frank, who once argued that capitalist Europe carried capitalism to the rest
+of the world in the sixteenth century, later conceded that capitalism was not established in
+Europe before the growth of mechanized, factory industry in the nineteenth century. 31
+Just as capitalist economies did not emerge before the nineteenth century, there was also no
+capitalist world economy before that time. It is misleading to talk of a capitalist world econ-
+omy of the sixteenth century. 32 Abu-Lughod’s 1250–1350 system was a trading system, not
+an economic system; the Indian Ocean system was a trading system, not an economic system;33
+the Atlantic basin had a trading system from the sixteenth century, but did not have a single
+economic system, the Atlantic economy, until the nineteenth century. Long-distance trading
+in all regions of the world remained too small to have any significant widespread effects on
+societies before the expansion of Atlantic commerce between the mid-seventeenth and mid-
+nineteenth century.34 The rest of the article attempts to show that the Atlantic basin was the
+geographical location of the early development of the modern global economy, the Atlantic
+economy, and that the labour of African peoples was a critical factor.
+The evolution of an integrated economy
+in the Atlantic basin
+Before the mid-fifteenth century, there was no direct connection between the economies and
+societies in the Atlantic basin (western Europe, western Africa, and the Americas). Western
+Europe and western Africa were part of the so-called Afro-Eurasian trading system(s), but
+trade between them was mediated by North African and Middle Eastern merchants. In all
+three sub-regions of the Atlantic pre-capitalist forms of socioeconomic organization pre-
+vailed and subsistence production remained dominant. Even in England, one of the most
+commercialized economies of western Europe in early modern times, the market sector of
+the economy may have contributed less than one-half of the GDP in the first half of the
+fifteenth century. 35 What we had in the Atlantic basin in the centuries preceding the
+30 Wallerstein, ‘World system versus world-systems’, pp. 292–3.
+31 Frank, ReOrient, p. xix.
+32 Wallerstein, ‘World system versus world-systems’, p. 295; McNeill, ‘Foreword’, p. xi.
+33 Philippe Beaujard, ‘The Indian Ocean in Eurasian and African world-systems before the sixteenth century’,
+Journal of World History , 16, 4, 2005, p. 2.
+34 Inikori, Africans and the Industrial Revolution ; Douglass C. North, The economic growth of the United
+States, 1790–1860 , New York: W.W. Norton, 1966; first published, Prentice Hall, 1961; Pomeranz, The
+great divergence .
+35 The commercializing process in medieval England peaked in 1300 when the country’s population reached
+its highest point (6 million) before the eighteenth century. Yet, Bruce Campbell’s evidence suggests the
+market sector may have contributed less than one-third of England’s GDP in 1300. Given the catastrophic
+population decline between 1300 and 1450, and the collapse of international trade centred in the
+Mediterranean during the period, it is unlikely that the market sector in England contributed as much as
+one-half of the GDP during the latter period, let alone all of Western Europe taken together. Bruce M. S.
+Campbell, ‘Measuring the commercialisation of seigneurial agriculture c. 1300’, in Richard H. Britnell and
+Bruce M. S. Campbell, eds., A commercialising economy: England 1086–c. 1300 , Manchester: Manchester
+University Press, 1995, pp. 174–93.
+70 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 9 ---
+fifteenth-century Portuguese and Spanish explorations were several regionally based globa-
+lization processes in the Americas, western Africa, and western Europe. But by the
+mid-nineteenth century there was an integrated economy in the Atlantic basin, the Atlantic
+economy, with an Atlantic market that integrated the domestic markets of the national
+economies of the region. How did this happen and what factors were central to the
+process? This is the main issue for the rest of the article. We begin the narrative with the
+pre-European contact regionally based process in Africa.
+The globalization process in pre-contact Africa exhibits in the extreme the general
+patterns of the process worldwide from ancient times – aborted processes, new beginnings,
+followed by further ruptures and redirections. About five thousand years ago the current
+Sahara region and the Nile valley were the centres of the globalization process in Africa.
+36
+The ancient processes were ruptured by the long-term climatic change that turned the
+Sahara into an immense desert. This major climatic and ecological change gave rise to a
+new process with the dispersal of the green Saharan
+37 population north and south, which
+precipitated further population movements and the creation of ethnic and linguistic groups
+with a mixture of cultural elements.
+The post-green Sahara globalization process in Africa reached a high point in the first
+half of the second millennium CE. Favourable ecological conditions and advantageous
+geographical location in relation to the trading centres in the Mediterranean world and to
+important resources in the southern Sahara, such as copper and salt, made the Niger bend
+an early centre of population concentration, complex socio-political development, com-
+merce, and manufacturing. Hence, the first centralized states in western Africa evolved in
+the region – ancient Ghana, Mali, and Songhay. From the mid-thirteenth to the late six-
+teenth century, a large proportion of western Africa’s total population was concentrated
+in the territories of these empires. Mahmud Kati, a fourteenth-century Arab visitor to
+Mali, counted 400 towns in the empire, with 100,000 people in the capital city of Niani.
+Before the Moroccan invasion of 1591 resulted in the collapse of the Songhay empire, the
+three Niger bend cities of Jenne, Timbuktu, and Gao had total populations estimated at
+30,000–40,000, 80,000, and 100,000, respectively.
+38 The eastern stretch of the West
+African savanna in modern Northern Nigeria and the Chad basin, where the early state
+of Kanem-Borno emerged during the same period, was linked to the developments in the
+36 Christopher Ehret, Sudanic civilization , Washington, DC: American Historical Association, 2003; Basil
+Davidson, Africa in history: themes and outlines , revised edition, New York: Macmillan, 1991. The
+argument advanced in the article is that the globalization process was regionally based (de-centred)
+initially. Several processes competed over time, with ruptures and redirections, the most successful of
+which, the Atlantic-based process, expanded over time to constitute the modern global system. This is
+consistent with the view expressed recently by Ralph Austen in his critique of the literature: Ralph A.
+Austen, ‘Africa and globalization: colonialism, decolonization and the postcolonial malaise’, Journal of
+Global History , 1, 2006, p. 403.
+37 The term green Sahara describes the wet phase of the Sahara before the increasing dryness that turned it
+into a desert.
+38 D. T. Niane, ‘Mali and the second Mandingo expansion’, in D. T. Niane, ed., General history of Africa ,
+Volume 4, London, Berkeley, Paris: Heinemann, University of California Press, Unesco, 1984, p. 156;
+John O. Hunwick, Timbuktu and the Songhay Empire , Leiden, Boston, Koln: Brill, 1999, pp. xxiv–xxv;
+S. M. Cissoko, ‘The Songhay from the 12th to the 16th century’, in Niane, ed., General history of Africa ,
+vol. 4, p. 206; Roderick J. McIntosh, Ancient Middle Niger: urbanism and the self-organizing landscape ,
+Cambridge: Cambridge University Press, 2005; The peoples of the Middle Niger , Oxford: Blackwell, 1998.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 71
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 10 ---
+Niger bend that constituted the epicentre of the globalization process in western Africa
+at this time.
+The coastal societies of West Africa and their hinterlands were connected to the centres
+of commercial and socio-political development in the interior savannah by networks of
+long-distance trade. Differing population densities and natural resource endowments
+encouraged a gradual development of inter-regional specialization and trade between the
+interior savannah and the forest region to the south and Atlantic coast. The growth of entre-
+pot trade in gold, copper, and salt increased the volume of trade between the two regions.
+Gold was produced in the forest and coastal region and the final purchasers at the time
+were largely in western Europe; a chain of merchants, of whom Niger bend traders were
+an important part, mediated between the producers and the final purchasers. The same
+thing was true of copper and salt produced in the southern Sahara, but reached consumers
+in the forest and coastal region through Niger bend merchants. As the centralized states of
+the interior savannah became increasingly Muslim, kola nuts from the forest region became
+a major commodity in the trade between the two regions. The evidence suggests that by the
+mid-fifteenth century the globalization process in West Africa, centred in the Niger bend,
+had made some progress, with inter-connected trading networks served by a variety of cur-
+rencies (including gold, cowries, small copper rods and other metals, some produced
+locally); the commercializing process and the growth and geographical spread of the market
+economy were marching on.
+39
+The Portuguese arrived on the West African coast in the 1440s. The main motivation for
+the exploration had been direct seaborne access to West Africa’s gold that had hitherto
+reached western Europe through North African and Middle Eastern traders, as mentioned
+earlier. It is thus no surprise that for over two hundred years, from the 1440s to the mid-
+seventeenth century, the trade in gold dominated European commercial enterprise in West
+Africa.40 Adding other African products, such as red pepper from the Benin kingdom, hides
+and skins from Senegambia, copper from the Kongo kingdom, ivory, and redwood, western
+Africa’s Atlantic trade was overwhelmingly dominated by products derived from the region’s
+natural resources for two centuries, even though the trade included the export of some
+captives to southern Europe and islands off the African coast from the very beginning. 41
+39 Joseph E. Inikori, ‘Transatlantic slaving and market development in the Atlantic world: West Africa,
+1450–1850’, in David Eltis and Stanley L. Engerman, eds., The Cambridge world history of slavery,
+volume 3: AD 1420–AD 1804 , Cambridge: Cambridge University Press, in press; Ivor Wilks, ‘A medieval
+trade-route from the Niger to the Gulf of Guinea’, Journal of African History , 3, 2, 1962, pp. 337–8;
+Marion Johnson, ‘The cowrie currencies of West Africa’, Parts I & II, Journal of African History , 11, 1 and
+3, 1970; Robert Smith, ‘The canoe in West African history’, Journal of African History , 11, 4, 1970; E. J.
+Alagoa, ‘Long-distance trade and states in the Niger Delta’, Journal of African History , 11, 3, 1970, pp.
+319–29; A. E. Afigbo, ‘Pre-colonial trade links between Southeastern Nigeria and the Benue Valley’,
+Journal of African Studies , 4, 2, 1977, pp. 119–39; A. J. H. Latham, ‘Currency, credit and capitalism on
+the Cross River in the pre-colonial era’, Journal of African History , 12, 4, 1971, pp. 599–605; David
+Northrup, ‘The growth of trade among the Igbo before 1800’, Journal of African History , 13, 2, 1972;
+David Northrup, Trade without rulers: pre-colonial economic development in Southeastern Nigeria ,
+Oxford: Clarendon Press, 1978; A. G. Hopkins, An economic history of West Africa , Harlow: Longman,
+1973, pp. 51–75.
+40 John W. Blake, West Africa: quest for God and gold, 1454–1578 , London: Curzon Press, 1977.
+41 Joseph E. Inikori, ‘The struggle against the transatlantic slave trade: the role of the State’, in Sylviane A.
+Diouf, ed., Fighting the slave trade: West African strategies , Athens, OH: Ohio University Press, 2003,
+pp. 170–98.
+72 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 11 ---
+Although the growth of Atlantic commerce began a process redirecting West Africa’s
+globalization away from the centres of commerce and manufacturing in the interior savan-
+nah to the Atlantic, there is clear evidence in West Africa (but not in West-Central Africa)
+that the first two hundred years of the trade, with its concentration on commodities pro-
+duced by African entrepreneurs, further reinforced the preceding inter-regional trade expan-
+sion, the commercializing process, and the growth and geographical spread of the market
+economy.42 At this point commodity production in West Africa remained an important
+part of the growing production of commodities for Atlantic commerce that followed the
+Portuguese and Spanish explorations of the late fifteenth century.
+The globalization process in the Atlantic basin entered a new phase with the expansion
+of plantation agriculture in Brazil and the Caribbean, and the almost total destruction of the
+indigenous population of the Americas. Table 1 shows the annual average value of Atlantic
+commerce and the annual percentage growth rate, 1501–1850. Fueled by bullion produc-
+tion (silver in particular) in Spanish America and sugar in Brazil, 43 Atlantic commerce
+grew quickly from a low level in the sixteenth and seventeenth centuries. From the mid-
+seventeenth to the mid-nineteenth century, plantation production of commodities for
+Atlantic commerce in the Americas expanded phenomenally, first in the Caribbean and later
+in mainland British America. 44
+The expansion of mining and plantation agriculture in the Americas was the central
+force that propelled the globalization process in the Atlantic basin from 1500 to 1850.
+New World mining and plantation agriculture were the largest and most specialized com-
+modity-producing sectors of the Atlantic economies during the period. The plantations, par-
+ticularly the sugar plantation complex that combined agriculture and agro-industry in one
+operation, employed millions of workers full time to produce commodities that must be
+sold across the Atlantic. The degree of specialization was so great that the mining and plan-
+tation economies created extensive market opportunities for other producers across the
+Atlantic to engage in production for market exchange and gradually move out of subsistence
+production. The details of the process are pertinent to our argument.
+As hinted earlier, bullion dominated commodity production for Atlantic commerce in the
+Americas in the sixteenth century. This limited the volume of Atlantic commerce during the
+period. Estimates put the volume of bullion shipped from the Americas to Europe at an annual
+average of 40 tons in 1501–25, 105 tons in 1526–50, and 205 tons in the last two quarters of
+the century. The value of Atlantic commerce in the sixteenth century was also small – an
+annual average of £3.2 million (sterling) in 1501–50, and £9.5 million in 1551–1600.
+45
+42 Inikori, ‘Transatlantic slaving’; Ray A. Kea, Settlement, trade, and polities in the seventeenth-century Gold
+Coast, Baltimore: Johns Hopkins University Press, 1982; Robin Law, ‘Trade and politics behind the Slave
+Coast: the lagoon traffic and the rise of Lagos, 1500–1800’, Journal of African History , 24, 3, 1983,
+pp. 321–48. West-Central Africa, where Portuguese export of captives to Brazil and islands off the African
+coast had a devastating impact as early as the seventeenth century, was an exception; see Anne Hilton, The
+kingdom of Kongo , Oxford: Clarendon Press, 1985; Jan Vansina and T. Obenga, ‘The Kongo kingdom
+and its neighbours’, in Ogot, ed., General history of Africa , vol. 5; Joseph C. Miller, Way of death ,
+Madison: University of Wisconsin Press, 1988.
+43 For the statistical details, see Inikori, Africans and the Industrial Revolution , pp. 169–88 and Appendix
+4.2, p. 488.
+44 For the statistical details, see ibid., p. 169, Table 4.2, p. 176, Table 4.4, p. 181.
+45 Inikori, Africans and the Industrial Revolution , Table 4.8, p. 202, Appendix 4.1, p. 487.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 73
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 12 ---
+Both in volume and in value, it is fair to say that Atlantic commerce in the sixteenth century
+was too small to constitute the basis for the development of specialization and division of
+labour among the sub-regions of the Atlantic basin. Those who claim the existence of a world
+economy in the sixteenth century must take the quantitative evidence into account.
+Yet, the sixteenth-century bullion production and trade played an important role in the
+long-run globalization process in the Atlantic basin by facilitating the growth and geogra-
+phical spread of the market economy in several of the sub-regions. Peter Bakewell’s terse
+expression captures the impact on the economies of Spanish America: ‘The conquest,
+exploration, settlement and exploitation of Spanish America were all spurred on by the pro-
+spect of mining; and mining determined to a remarkable degree the internal economic
+arrangement of the colonies.’ 46 The major silver mines were located in barren lands far
+removed from populated agricultural areas. As their population grew and they became large
+urban centres, the needs of the mines and those of the people in the cities created large mar-
+kets for mining inputs, food, manufactures, and services in regions hitherto dominated by
+subsistence production. This provided a powerful impetus for the growth of market produc-
+tion and the diminution of the subsistence sector over time. The first of these large mining
+centres was Potosi in the viceroyalty of Peru. Founded shortly after the mines were discov-
+ered there in 1545, Potosi had 120,000 people in 1580 and 160,000 in 1650. Burkholder
+and Johnson point out that ‘the size and economic influence’ of Potosi ‘were unparalleled
+in the Americas and perhaps equal to those of contemporary London’. 47 The needs of Potosi
+were provided by a regional economy that stretched from the Argentine pampa through the
+Table 1. Annual average value of Atlantic commerce (exports þ re-exports þ imports þ services)
+and annual percentage growth rate, 1501–1850.
+Period Annual average (£000) Mean annual growth rate (%)
+1501–50 3,241
+1551–1600 9,485 1501/50–1551/1600 2.17
+1601–50 15,795 1551/1600–1601/50 1.03
+1651–70 20,084 1601/50–1651/70 1.21
+1711–60 35,638 1651/70–1711/60 0.64
+1761–80 57,696 1711/60–1761/80 2.44
+1781–1800 105,546 1761/80–1781/1800 3.07
+1848–1850 231,046 1781/1800–1848/50 1.58
+Sources & Notes : Computed from Inikori, Africans and the Industrial Revolution , Table 4.8, p. 202. The
+growth rates are computed between the last years of the periods; for example, the annual average for 1501–50
+is assigned to 1550, and that for 1551–1600 to 1600, and the compound rate is computed between those two
+years. The values stated in the table are virtually limited to the import and export trade between the West
+European powers and the Americas and western Africa. The large amount of trade between the West
+European powers that in reality was part of Atlantic commerce is not included. Also almost entirely left out is
+the huge intra-American trade between the main regions of the Americas.
+46 Peter Bakewell, ‘Mining in colonial Spanish America’, in Leslie Bethell, ed., Cambridge history of Latin
+America, vol. 2, Cambridge: Cambridge University Press, 1984, p. 150.
+47 Mark A. Burkholder and Lyman L. Johnson, Colonial Latin America , 5th edn, Oxford: Oxford University
+Press, 2004, p. 171.
+74 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 13 ---
+central valleys of Chile to coastal Peru and Ecuador, creating a chain of multiplier effects. 48
+Mining stimulated a similar commercializing process in the viceroyalty of New Spain in the
+sixteenth and seventeenth centuries. 49
+In western Europe Spanish American bullion was a major factor in the commercializing
+process and the development of domestic markets in the sixteenth and seventeenth centuries.
+Because the credit economy and paper currencies were yet to be established in western
+Europe at the time, silver coinage was the main circulating medium. 50 Spanish government
+policies encouraged a rapid movement of the Spanish American bullion from Spain to the
+major commercial and manufacturing centres in France, Holland, Germany, and England.
+Two important developments followed. Manufactured exports from these centres to Spain
+in exchange for the bullion stimulated the growth of intra-European trade and the develop-
+ment of manufacturing in favoured countries. The other development was a phenomenal
+increase in the quantity of money in circulation which contributed greatly to the
+sixteenth-century price revolution in western Europe.
+51 Both developments contributed to
+the growth and geographical spread of the market economy and the development of domes-
+tic markets in western Europe during the period. What is more, the export of Spanish Amer-
+ican silver to Asia made possible the import of Asian products, especially textiles, tea, and
+porcelains, which contributed to revolutionize consumption habits and pull subsistence pro-
+ducers into market production in the long run.
+Although Spanish American bullion was important in the globalization process in the
+Atlantic basin as we have shown, it was the growth and geographical spread of plantation
+production of commodities in the Americas during the period 1650–1850 that ultimately
+gave rise to the Atlantic economy. The plantation impact was first felt in Brazil, where pro-
+duction started in the sixteenth century. The success of commodity production for export –
+sugar, gold, coffee, cotton, tobacco, etc. – pushed the frontier of settlement continuously
+from the coast into the interior as forced and free migration increased the population fast.
+This is shown in Table 2. The growing needs of the export producers for inputs, food, cloth-
+ing, and services stimulated commercial production of a variety of goods and services, par-
+ticularly foodstuffs. The commercialization of food production was so advanced in the
+nineteenth century that large-scale producers employed enslaved Africans.
+52 The growing
+inter-regional division of labour expanded the domestic market and created incentives for
+the investment of capital in internal transportation improvement, of which the railways
+48 Ibid., pp. 171–3.
+49 Louisa S. Hoberman, Mexico’s merchant elite, 1590–1660: silver, state, and society , Durham, NC and
+London: Duke University Press, 1991.
+50 Murdo J. Macleod, ‘Spain and America: the Atlantic trade, 1492–1720’, in Leslie Bethell, ed., Cambridge
+history of Latin America , vol. 1, Cambridge: Cambridge University Press, 1984, p. 366.
+51 Mauricio Drelichman, ‘All that glitters: precious metals, rent seeking and the decline of Spain’, European
+Review of Economic History , 9, 3, 2005, pp. 313–36; E. J. Hamilton, ‘American treasure and the rise of
+capitalism’, Economica, 9, 1929, pp. 338–57; J. D. Gould, ‘The price revolution reconsidered’, Economic
+History Review , 2nd series, 17, 1964, pp. 249–66; Inikori, Africans and the Industrial Revolution ,
+pp. 203–6.
+52 Francisco Vidal Luna and Herbert S. Klein, ‘African slavery in the production of subsistence crops: the case
+of Sao Paulo in the nineteenth century’, Paper presented at the Conference on Factor Endowments, Labor
+and Economic Growth in the Americas, Rochester, 8 June 2001.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 75
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 14 ---
+were the most important. By 1913, Brazil had 24,737 kms of railways operated by fifteen
+private companies, 53 linking remote areas to domestic and overseas markets.
+The Caribbean, with its highly specialized plantation economy, became the centre of
+gravity in the globalization process in the Atlantic basin from 1650 to 1800. In 1768–72,
+the British Caribbean contributed 55.7% of the total value of commodities produced in Brit-
+ish America for Atlantic commerce; in 1804–06, it was 60.5%. 54 The available evidence
+indicates that the entire Caribbean contributed about one-half of the total value of commod-
+ities produced in the Americas (including bullion) for Atlantic commerce in the second half
+of the eighteenth century. 55
+The high degree of specialization of the Caribbean plantation economy provided impor-
+tant markets for producers across the Atlantic, especially mainland British America that
+produced foodstuffs and shipping services for the British and non-British Caribbean. New
+England and the mid-Atlantic region were the main beneficiaries. Unable to engage in plan-
+tation agriculture because of unfavourable climate and land, both regions had remained
+trapped in subsistence agriculture. The comparative per capita income of the free population
+in the British American colonies in c. 1774 reflects this: New England, £38.2; mid-Atlantic,
+£45.8; southern mainland, £92.7; West Indies, £1,200.00. It is no surprise that in the eight-
+eenth century, New England was not attractive to European immigrants; a total of 28,000
+had migrated to the region in 1630–80, but from 1680 to 1780 it suffered a net loss of
+31,000.
+56
+Caribbean demand for shipping and other mercantile services was the first market
+opportunity New England had to exploit commercially its natural resource endowment of
+deep harbours and forests with abundant trees suitable for building wooden sailing-ships.
+Table 2. Population growth and settlement in Brazil, 1600–1900.
+Year Area settled (sq. km) Population (000) Density (per sq. km)
+1600 25,000 100 3.9
+1650 – 170 –
+1700 110,170 350 3.2
+1750 – 1,500 –
+1800 324,000 3,300 10.2
+1850 – 7,234 –
+1900 988,700 17,984 18.2
+Source: Compiled from Mircea Buescu, Historia economica do Brasil: pesquisas e analises , Rio de Janeiro:
+Apec, 1970, pp. 168, 200, 242.
+53 Victor Bulmer-Thomas, The economic history of Latin America since independence , 2nd edn, Cambridge:
+Cambridge University Press, 2003, Table 4.4, p. 105.
+54 Inikori, Africans and the Industrial Revolution , Table 4.2, p. 176.
+55 Ibid., p. 169, Table 4.4, p. 181.
+56 Stanley L. Engerman and Kenneth L. Sokoloff, ‘Factor endowments, institutions, and differential paths of
+growth among New World economies’, in Stephen Haber, ed., How Latin America fell behind , Stanford:
+Stanford University Press, 1997, Table 10.3, p. 266.
+76 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 15 ---
+The family-sized farms of the mid-Atlantic, on the other hand, took advantage of the
+Caribbean food market to move into commercial production, away from subsistence. The
+trade figures for 1768–72 indicate the initial importance of the Caribbean to the commercia-
+lizing process in the two regions. In these years, 18% of New England’s commodity exports
+and 23% of that of the mid-Atlantic went to Great Britain and Ireland, while 64% and
+44%, respectively, went to the Caribbean. What is even more important, particularly for
+New England, their export of shipping and other services (estimated at £820,000 yearly dur-
+ing the period) went almost entirely to the Caribbean as they were unable to compete with
+their counterparts in Britain in trans-Atlantic routes to Europe and the United Kingdom. 57
+The subsequent expansion of plantation production of commodities (tobacco, rice,
+sugar, indigo, and, in particular, cotton) in the southern region of the United States in
+1790–1850 accelerated the pace of the globalization process in the Atlantic basin. The
+three-year average annual value (f.o.b.) of plantation commodities produced for Atlantic
+commerce in the British Caribbean and southern United States taken together grew from
+approximately £13.4 million in 1794–96 to £21.6 million in 1814–16, and £43.3 million
+in 1854–56.58 The phenomenal expansion of cotton production in the southern USA added
+a much larger intra-American market for food and services to the older Caribbean market,
+which stimulated the commercial production of food in the western region of the United
+States. At every point in the expansion of cotton production for export new opportunities
+for commercial production of food opened up in the west, inviting migration from within
+and from Europe. 59 This is reflected in Table 3.
+As the northeastern region (New England and the mid-Atlantic) expanded its production
+of services to serve the growing markets in the south and west, to which it soon added
+import-substitution industrialization, its specialization also gave rise to an additional
+regional market for western foodstuffs. This tripartite inter-regional division of labour con-
+siderably increased the size of the domestic market which grew rapidly, partly as a result of
+large-scale immigration. Like the case of Brazil shown earlier, but even more extensive,
+inter-regional specialization and the rapid growth of the domestic market created transpor-
+tation bottlenecks that provided incentives for the investment of capital in internal transpor-
+tation improvement. First, an extensive network of canals was constructed; then the
+railways followed. In 1830, the first year of operation, there were only 23 miles of railways;
+this grew to 3,535 in 1841, 10,982 in 1851, and 208,152 in 1890.
+60 The resulting decline in
+transportation cost completed the process of establishing an integrated national economy in
+the United States, with a large domestic market closely tied to the Atlantic market.
+The growth of Atlantic commerce in 1650–1850, spurred on by the expansion of planta-
+tion production of commodities in the Americas, helped to integrate the economies of
+western Europe and those of the Americas into one economic system. In the first instance,
+57 Gary M. Walton and James F. Shepherd, The economic rise of early America , Cambridge: Cambridge
+University Press, 1979, pp. 80, 90–4, 99–101, Table 22, p. 196. The authors suggest that the Caribbean
+food market provided the initial stimulus for commercial rice production in South Carolina (p. 44).
+58 Inikori, Africans and the Industrial Revolution , Table 4.2, p. 176.
+59 North, Economic growth , pp. 12–13.
+60 Alfred D. Chandler, Jr, The railroads, the nation’s first big business , New York: Harcourt, Brace & World,
+1965, Table 1, p. 13.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 77
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 16 ---
+the European imperial powers (Portugal, Spain, England, France) established what may be
+called appropriately colonial common markets with their American colonies. Within each
+of the four colonial common markets goods and factors moved freely, subject to the restric-
+tions imposed by the imperial power. 61 Ultimately, all four were linked through four power-
+ful economic and political forces: (1) demand for the American plantation products in
+European countries without American colonies created lucrative re-export markets for the
+merchants of the colonial powers; (2) unequal military power among the colonial powers
+led to treaties that resulted in a de facto integration of the British-led and Portuguese-led
+common markets; Britain and Spain had somewhat similar arrangements; (3) the general
+dependence of Spain and Portugal on imported manufactures for their domestic markets
+and for re-export to their American colonies linked the supplying European economies to
+the Spanish and Portuguese American economies; (4) finally, and particularly important,
+the extensive trade linkages between British America and the other American economies,
+in which the former (mainland British America in particular) acted, for all practical
+purposes, as a powerful middleman on behalf of Britain, effectively integrated the British
+colonial common market with the other three.
+62
+The enlargement of the British American colonial territories over time by military
+successes, their cumulative dominance of plantation production of commodities for Atlantic
+commerce in 1650–1850, and the integration of the British colonial common market with
+the other three meant that the English economy secured a disproportionately large share
+of the rapidly expanding Atlantic commerce of the period. This is why the growth of
+Atlantic markets for English manufactures, in comparison with other West European econo-
+mies of the time, was the most important of the several factors that contributed to the rise of
+England as the first industrial nation in the world in the mid-nineteenth century. The
+regional character of the Industrial Revolution offers some confirmation of the point. Vir-
+tually all the major technological innovations, which carried the industrialization process
+Table 3. Cotton export and regional distribution of US population, 1820–1850.
+Year Cotton Export ($000) % Total Export Population
+South (000) West (000) Northeast (000) U.S.A. (000)
+1820 22,308.7 32.0 2,918.2 1,845.9 4,836.7 9,600.8
+1830 29,674.9 41.4 3,774.4 2,980.3 6,066.2 12,820.9
+1840 63,870.3 51.6 4,749.9 4,960.6 7,309.2 17,019.6
+1850 71,984.6 49.9 6,271.2 7,494.6 9,301.4 23,067.3
+Source & Notes : Compiled and computed from North, Economic growth of the United States , Appendix I
+Table A-VIII, p. 233, Appendix II, Table L-IX, p. 257. California gold production and export expanded from
+the late 1840s; in 1850 total production was $41,273,106, of which $27,676,346 (or 67.1%) was exported
+(Ibid., Table H-IX, p. 255). This explains the decline in the percentage contribution of cotton exports in 1850.
+61 This is the justification for the use of the term, colonial common market; members did not have equal
+rights. For legal privileges secured by shipbuilders in British America, see Inikori, Africans and the
+Industrial Revolution , pp. 277–8, fn. 19, p. 278.
+62 Ibid., pp. 210–14.
+78 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 17 ---
+to its ultimate success, occurred in three initially backward regions, Lancashire, the West
+Riding of Yorkshire, and the West Midlands – the first two in particular – induced by their
+operation in Atlantic markets where they sold most of their output. 63
+In the end the Industrial Revolution was powerfully instrumental in the final integration
+of the economies of the Atlantic basin into one economic system, the Atlantic economy. Its
+factory organization and mechanized manufacturing brought down the cost of production;
+the application of its technology to transportation overseas (the steam and steel ship) and
+over land (the railways in particular) slashed transportation costs; and its telegraph and
+other communication innovations reduced the cost of information in transacting business
+over long distances. The consequence was the effective establishment of division of labour
+between industrial and non-industrial economies in the Atlantic basin in the nineteenth cen-
+tury. The new technologies of the Industrial Revolution, as they deepened further and
+spread to other Atlantic economies, also became the basis for the extension of the Atlantic
+economic system to Asia, the Middle East, and Central and Eastern Europe to constitute the
+integrated global economy of 1914 described by O’Rourke and Williamson.
+64
+Africa’s long-run contribution and the cost
+Now, what was the role of Africa in the globalization process outlined thus far? The most
+important measure is to be found in the contribution of African labour to plantation pro-
+duction of commodities in the Americas in the critical period 1650–1850. The demography
+of the large-scale export commodity producing regions of the Americas demonstrates unam-
+biguously that Africans and their descendants overwhelmingly dominated the labour force
+of the plantations. For all practical purposes, Brazil was an extension of Africa during the
+period in question. In 1798, 61.2% of Brazil’s 3.3 million people were of African descent.
+Even with the large immigration of Europeans in the nineteenth century, 58% of Brazil’s
+9.9 million people in 1872 were of African descent. Because of their forced specialization
+in large-scale commodity production for export, the African population was concentrated
+in regions dominated by such production. The proportion of Africans in the population of
+the sugar-producing regions of Pernambuco and Bahia in 1798 was 68.2% and 78.6%,
+respectively; that of the gold-producing regions of Minas Gerais and Mato Grosso was
+74.6% and 80.4%, respectively. In 1872, 64% of Pernambuco’s 841,539 people were
+63 Inikori, Africans and the Industrial Revolution ; Stephen Broadberry and Bishnupriya Gupta, ‘Wages,
+induced innovation and the great divergence: Lancashire, India and shifting competitive advantage in
+cotton textiles, 1700–1850’, Paper presented at the XIV International Economic History Congress,
+Helsinki, Finland, 21–25 August 2006. The market-based explanation has also been developed for the case
+of the early industrialization in the United States by the research of Sokoloff: Zorina Khan and Kenneth
+Sokoloff, ‘‘‘Schemes of Practical Utility’’: entrepreneurship and innovation among ‘‘great inventors’’ in the
+United States, 1790–1865’, Journal of Economic History , 53, 2, 1993, pp. 289–307, among others. For an
+opposing view, see Joel Mokyr, The lever of riches: technological creativity and economic progress ,
+Oxford: Oxford University Press, 1990.
+64 O’Rourke and Williamson, Globalization, p. 2. The details of this development are beyond the scope of
+this article.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 79
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 18 ---
+Africans; 72.3% of Bahia’s 1.4 million; 57.6% of Minas Gerais’s 2.0 million; 43.5% of Sao
+Paulo’s 837,354 (the coffee plantations region). 65 It is important to note that the non-
+African population in the export commodity-producing regions of Brazil were employed
+almost entirely in activities induced by the multiplier effects of export production and in
+non-market production in some cases. It is, therefore, reasonable to say that the labour force
+directly involved in large-scale commodity production for export in Brazil during the period
+was almost entirely African.
+The same thing is true of the Caribbean and the southern region of mainland British
+America, as Table 4 shows. On the eve of the plantation take-off in 1650, people of
+European origin made up three-quarters of the British Caribbean population and about
+98% of that of southern mainland British America. As large-scale plantation production
+grew, the demography of these regions was transformed. The differing percentages of
+Africans in the population of the two regions are due largely to the amount of agricultural
+land available outside the plantation complex. In the Caribbean almost the entire land was
+devoted, in one form or another, to the plantations, leaving no space for small-scale subsis-
+tence European cultivators. In the mainland south, on the other hand, there was much land,
+though of poorer quality, outside the plantation system which allowed the presence of a
+large population of poor Europeans engaged largely in subsistence production. One scholar
+put it thus: ‘In every census count from 1810 to 1860, about forty-five percent of the popu-
+lation in the lower South were [enslaved Africans]. A large proportion of the white popula-
+tion – about two-thirds in 1860 – did not own slaves ... the bulk of the nonslaveholding
+whites were only marginally concerned with production for the market.’
+66 In reality, there-
+fore, plantation commodity production was dominated to about the same degree by
+Africans in both regions.
+Africans and their descendants similarly dominated plantation production of commod-
+ities in the French, Spanish, and Dutch Caribbean during the same period, and the composi-
+tion of their population bears it out. In 1681, Africans were 34.8% of the population of
+St Domingue (modern Haiti), the main French Caribbean producer; they were 94.3% in
+Table 4. Africans in the population of British America, 1650–1850 (percentage).
+Year British Caribbean Southern Mainland British America
+1650 25.4 2.4
+1700 77.7 13.8
+1750 89.4 40.5
+1800 92.8 35.3
+1850 95.9 37.1
+Source: Computed from Inikori, Africans and the Industrial Revolution , Table 4.6.A, p. 194.
+65 Inikori, Africans and the Industrial Revolution , Table 4.5.A, p. 189, Table 4.5.B, p. 190.
+66 Morton Rothstein, ‘The antebellum South as a dual economy: a tentative hypothesis’, in Eugene D.
+Genovese, ed., The slave economies: volume II, slavery in the international economy , New York: John
+Wiley, 1973, pp. 160–1.
+80 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 19 ---
+1791. The comparable figures for Cuba are 43.8% in 1774, and 55.8% in 1827. 67 Cuba
+shared some common elements with southern mainland British America. Like the latter,
+Cuba had a relatively large amount of land outside the plantation complex, which permitted
+the presence of a large population of small-scale European cultivators of subsistence crops.
+Again, it should be noted, therefore, that the large population of Europeans notwithstand-
+ing, plantation production of commodities for export in Cuba was dominated by Africans
+as they did in the rest of the Caribbean at the time.
+One area of commodity production for Atlantic commerce in the Americas not domin-
+ated by Africans was silver mining in Spanish America. Here, the coerced labour of Native
+Americans was dominant. Even so, it is estimated that the labour of Africans and their
+descendants contributed no less than 25% of the total output of silver in Spanish America
+in the sixteenth and seventeenth centuries.
+68 What is more, gold production in Spanish
+America during the period 1500–1800 was dominated by Africans. 69
+Why was the labour of enslaved Africans so important in large-scale commodity produc-
+tion for Atlantic commerce during the period under consideration? The main reason was the
+abundance of land. As we have seen (Table 2), population density in the settled area of
+Brazil was 3.9 per square km in 1600; when the population more than tripled in 1700, den-
+sity in the settled area fell to 3.2, which shows the abundance of land waiting for settlers.
+When the population grew from 3.3 million in 1800 to 18.0 million in 1900, the settled
+area expanded from 324,000 square kms to 988,700 square kms, giving a density of 18.2.
+It was this general abundance of land that made it impossible to produce on a scale con-
+siderably beyond the scope of family labour in the Americas at this time, because easy access
+to land meant that few were willing to offer their labour for a wage without coercion. Adam
+Smith had disparaged slave labour for its inefficiency. 70 Coming from the authority of
+Smith, this has encouraged some to underrate the contribution of slavery, especially African
+slavery in the Americas, to the development of the global economy. However, Smith’s claim
+about slave labour contradicts his opening argument concerning the virtue of gang organi-
+zation of labour, 71 as pointed out by the editor of the 1835 edition of Wealth of Nations ,
+Edward Gibbon Wakefield, who demonstrated that wherever easy access to land prevailed
+gang organization of free labour for staple production was not possible; only coerced labour
+would allow gang organization under such conditions. Wakefield concluded that since those
+conditions existed in the plantation zone of the Americas, Smith’s generalization was not
+valid there.
+72
+Combining Smith’s principle concerning the virtue of gang labour with Wakefield’s con-
+ceptual clarity about the importance of coerced labour under conditions of unlimited supply
+67 David Watts, The West Indies , Cambridge: Cambridge University Press, 1987, Table 7.9, p. 320, Table
+7.10, p. 321.
+68 Inikori, Africans and the Industrial Revolution , p. 185.
+69 Ibid., pp. 184–5, fn. 84 and fn. 85, p. 185; Harry E. Cross, ‘South American bullion production and
+export, 1550–1750’, in J. F. Richards, ed., Precious metals in the later medieval and early modern
+worlds, Durham: Carolina Academic Press, 1983, pp. 410–11.
+70 Adam Smith, The wealth of nations , edited by Edwin Cannan, New York: Modern Library, 1994, p. 92.
+71 Ibid., p. 3.
+72 Seymour Drescher, The mighty experiment , Oxford: Oxford University Press, 2002, pp. 56–8.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 81
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 20 ---
+of land provides a powerful insight for our understanding of the real contribution of coerced
+African labour to the growth of Atlantic commerce presented earlier in the article. It made
+possible large-scale organization of staple production in the Americas. This scale of pro-
+duction, together with the below-subsistence cost of their labour – the enslaved Africans
+bore part of their subsistence cost by stretching themselves to work their provision plots in
+their free time – brought down considerably the cost of staple production over time. Thus,
+a pound of sugar that had exchanged ‘for more than its weight in precious metals in late
+medieval Europe’ 73 was sold for one shilling and three pence (1s 3d) in England in the
+1630s; the price fell further to seven pence (7d) in the 1680s, even with an increase in the
+import duties. The prices of other American plantation commodities, such as tobacco,
+followed a similar trend, a development ‘which introduced the middle classes and the poor
+to novel habits of consumption’ and opened up ‘vast new sources of demand’ in Europe.
+74
+The ramifying effects of these developments in western Europe – pulling subsistence pro-
+ducers into production for the market in order to sustain the new consumption habits, David
+Hume’s import effect
+75 (the so-called ‘industrious revolution’ 76), growth and geographical
+spread of the market economy – combined with the unusually fast growth of incomes in
+the Americas (particularly mainland British America) to propel the expansion of Atlantic
+commerce and globalization in the Atlantic basin from the mid-seventeenth to the mid-
+nineteenth century.
+While making this critical contribution to the growth of Atlantic commerce, the econo-
+mies of western Africa fell behind in the commercializing process that was central to globa-
+lization in the Atlantic basin during the period. Two quantitative measurements help to
+confirm the general impression that comes from the qualitative evidence: changing com-
+modity composition of imports and long-run movement of domestic prices. Data on the lat-
+ter are still being collected and are yet to be fully processed. The discussion here is,
+therefore, limited to the former.
+A large body of statistical evidence shows important long-term changes in the commod-
+ity composition of imports into the sub-regions of western Africa that match the expansion
+of their export of captives over time. Because of space constraint, we present a summary
+discussion of the evidence pertaining to the Gold Coast (modern southern Ghana), the Bight
+of Benin (modern Togo, Republic of Benin, and southwest Nigeria), and the Bight of Biafra
+(southeastern Nigeria and coastal Cameroon). The Gold Coast began trading with
+Europeans from the second half of the fifteenth century, while the Bights of Benin and
+Biafra did so in a significant way from the mid-seventeenth. In all three sub-regions the
+character of the imports in the early decades of the trade differed considerably from that
+of the later decades when they had become major exporters of captives to the Americas.
+73 Richard Drayton, ‘The collaboration of labor: slaves, empires, and globalizations in the Atlantic World, ca.
+1600–1850’, in Hopkins, ed., Globalization, p. 101.
+74 Ralph Davis, ‘English foreign trade, 1660–1700’, Economic History Review , 2nd series, VI, 1954,
+pp. 80–82.
+75 Inikori, Africans and the Industrial Revolution , p. 126.
+76 Jan DeVries, ‘The industrious revolution and the Industrial Revolution’, Journal of Economic History , 54,
+2, 1994, pp. 249–70.
+82 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 21 ---
+The earliest quantifiable record of imports into the Gold Coast, published by John Vogt,
+covers 1529–31.77 Analysis of the gold value of the imports for the period shows the follow-
+ing: metal hardware (mainly brass), 50%; cloth (mostly ‘unfinished finely-woven cotton
+cloth’), 25%; slaves (brought by the Portuguese from other parts of western Africa), 19%;
+beads, 3%; others, 3%. Vogt notes that ‘the majority of metal goods were bought by
+Africans to be melted and recast into objects of local designs’. 78 Additional evidence for
+the early decades comes from Johnson who reports ‘large imports of cowries [into the
+Gold Coast] in the sixteenth century’. 79 In the Bight of Benin, the imports for the early
+decades were dominated by commodity currency (cowries). Data for the very early decades
+are currently lacking. Collected and processed evidence shows that in 1681 cowries were
+59.2% of the total value of the imports, 52.4% in 1684, and 38.6% in 1690–92.
+80 Com-
+modity currency (mainly small copper rods weighing about one pound each) also dominated
+the imports of the early decades of European trade in the Bight of Biafra – 67.6% in 1661;
+64.9% in 1684; 35.7% in 1693. 81 Another important feature of the imports into the Bight
+of Biafra in the early decades is the relatively large share of intermediate goods (mainly iron
+bars): 9.4% in 1661; 21.5% in 1684; 25.5% in 1693.
+As these regions became large-scale exporters of captives and very little else, the compo-
+sition of the imports changed radically. In 1791, commodity currency was 2.9% of imports
+into the Bight of Biafra; intermediate goods, 2.8%. Whereas very few firearms and textiles
+were imported into the Bight of Biafra in the early decades, in the second half of the eight-
+eenth century they dominated the imports – firearms were 27% of the imports in 1791; tex-
+tiles, 46.6%.
+82 The combined nineteenth-century data for the Bights of Benin and Biafra
+show the following shares in 1828–30: cowries, 0.1%; all metals (copper bars, iron rods,
+but excluding guns), 5.3%; firearms, 32.8%; textiles, 26.8%; alcohol, 14.4%. 83 On the
+Gold Coast, the most important change was the disappearance of labour import as the
+region was transformed from a major exporter of gold to a major exporter of captives
+from the mid-seventeenth century. Its import of commodity currency also declined until
+after its export of commodities expanded again and its captive exports diminished almost
+to zero following British abolition and effective naval policing of the Gold Coast: the
+quantity of cowrie imports (three-year annual average) grew from 25.4 tons in 1827–29
+to 304.4 tons in 1845–47.
+84 Another major change during the captive export era is the
+growth of imports of firearms and finished consumer manufactures.
+Now, what do these long-run changes in the composition of imports tell us about the
+commercializing process and globalization in western Africa during our period? As
+77 John Vogt, ‘Portuguese gold trade: an account ledger from Elmina, 1529–1531’, Transactions of the
+Historical Society of Ghana , 14, 1, 1973, pp. 93–103.
+78 Ibid., pp. 93–4.
+79 Johnson, ‘Cowrie currencies’, Part 2, p. 333.
+80 Inikori, ‘Transatlantic slaving’, Table 1.
+81 Ibid., Table 2.
+82 Ibid., Table 2.
+83 Ibid., Table 3.
+84 Ibid.
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 83
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 22 ---
+mentioned earlier, the product trade in the early decades of European commercial enterprise
+in western Africa further reinforced the pre-European ongoing development and geographi-
+cal spread of the market economy in West Africa. On the Gold Coast, the multiplier effects
+of export production created conditions which encouraged Asante merchants to invest prof-
+its made from the gold trade in large-scale forest clearing to create farmlands. This was the
+occasion for the labour import shown in the records. 85 In the pre-European inter-regional
+division of labour that was evolving in West Africa, the Gold Coast had exported mainly
+gold and kola nuts in exchange for textiles and other manufactures from the Niger bend
+and other parts of the interior savannah (particularly Hausaland in Northern Nigeria).
+The transformation of the Gold Coast into a major exporter of captives to the Americas
+retarded the developing inter-regional specialization and the growing commercialization
+of agriculture. Increasingly the export captives were brought from the interior with which
+the Gold Coast had traded gold and kola nuts for manufactures. Because the captives
+were forcefully taken from the interior populations (like stolen goods), no market exchange
+of goods for other goods took place between the victim interior populations and the captors,
+in the first instance. On the other hand, the coastal societies and their immediate hinter-
+lands, which provided the chain of middlemen through whom the European traders pro-
+cured the captives exported, now got their consumer manufactures from the European
+traders in exchange for the captives, instead of the interior suppliers. Adding the high cost
+of transaction resulting from the wars and general insecurity engendered by the violent pro-
+curement of captives for export, the result was the growth of enclave economies in the
+coastal societies and their immediate hinterlands. These developments were shared in some-
+what differing ways by the Bights of Benin and Biafra and they are mirrored by the changes
+in the composition of imports.
+The disappearance of labour from the Gold Coast imports mirrors the termination of
+Asante merchants’ investment of profits from trade in commercial agriculture;
+86 the violent
+procurement of captives exported in exchange for consumer manufactures and declining
+population87 did not produce multiplier effects that induced the investment of profits
+from trade in production for the market. The decline of currency imports is a reflection of
+the general decline in the growth of the market economy and inter-regional trade. The cur-
+rencies imported were used only in local exchanges; European–African exchanges were by
+barter. Increases in currency import were, therefore, a measure of growing internal trade
+requiring corresponding growth in the quantity of money in circulation, while a decline in
+imports corresponded to contraction of market activity. On the other hand, the growth of
+firearms import in the records mirrors the endemic state of warfare associated with the trade
+in captives. Again, all this was shared in somewhat differing ways by the Bights of Benin and
+Biafra. And what the trade figures tell us is consistent with what we know of the generally
+low level of market development and the dominance of subsistence production in western
+85 Ivor Wilks, ‘Land, labour, capital and the forest kingdom of Asante’, in J. Friedman and M. J. Rowlands,
+eds., The evolution of social systems , London: Duckworth, 1977; Forests of gold: essays on the Akan and
+the kingdom of Asante , Athens, OH: Ohio University Press, 1993, pp. 1–90.
+86 Ivor Wilks, Asante in the nineteenth century , Cambridge: Cambridge University Press, 1975; Kea,
+Settlement.
+87 Patrick Manning, Slavery and African life , Cambridge: Cambridge University Press, 1990.
+84 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 23 ---
+Africa in the mid-nineteenth century, relative to the economies of the Americas that had
+been far behind in market development in the late fifteenth century. With the vast majority
+of the people engaged largely in non-market production, western Africa’s economies were
+not a significant part of the integrated commodity production processes in the Atlantic basin
+when the Atlantic slave trade ended in the mid-nineteenth century.
+Conclusion
+The rapid growth of global history since the 1990s has carried with it a considerable ambi-
+guity concerning what constitutes globalization as a historical process. This makes it diffi-
+cult to demonstrate with sufficient clarity the contribution of Africa to the process and
+the cost the continent’s economies paid for that contribution. Viewed from the standpoint
+of the phenomenon popularized as globalization by the media in the 1990s, it is clear
+enough that the central issue to address in globalization, particularly the economic aspect
+that is the focus of this article, is the long-run historical processes which produced our cur-
+rent ‘global village’, with its defining elements of integration and hierarchy. We have argued
+that integration is not just a matter of trade connections, but trade linkages that involve
+integrated commodity-production processes across the globe, with far-reaching effects on
+the material living standards of the vast majority of people worldwide. By extension, we
+have argued that trade linkages with such global effects could not exist so long as the major-
+ity of people in the world produced largely for their own immediate consumption and not
+for market exchange. An important part of the globalization process, therefore, entailed
+the evolution of domestic markets and the movement of people out of subsistence produc-
+tion into production for the market. This conceptual thrust of our analysis enables us to
+reject several arguments in the literature: arguments that trace the historical development
+of our current global order to five thousand years ago or more; arguments that equate the
+existence of trade connections in themselves with the establishment of an integrated global
+economy; arguments based on the prior development of capitalism in Europe as the initial
+engine that drove the globalization process from the sixteenth century (there was no capital-
+ist economy in Europe in 1500); arguments that internally generated industrial revolutions
+in Europe precipitated the globalization process in the last quarter of the nineteenth century
+– all these arguments make it difficult to assess Africa’s contribution. We have had to
+demonstrate their conceptual and factual weakness in order to proceed with the main issue
+addressed in the article.
+The article has argued fundamentally that though there were earlier processes none pro-
+duced an integrated global economy; they were all aborted for various reasons. The one
+which produced the current global order started in the sixteenth century in the Atlantic
+basin and gave rise to an integrated economy in that region in the nineteenth century, the
+Atlantic economy, which became the nucleus of the subsequent global economy, as it
+expanded in the course of the nineteenth century to incorporate rival systems, especially
+the Indian Ocean trading system, to establish a single global economy before the outbreak
+of the First World War. The details of the latter issue are beyond the scope of this article.
+We have shown that the forced labour of Africans employed in plantation production of
+commodities for Atlantic commerce between the mid-seventeenth and mid-nineteenth
+AFRICA AND THE GLOBALIZATION PROCESS j
+j 85
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press
+--- Page 24 ---
+century was central to the development of the Atlantic economy. But, at the same time, the
+character of the Atlantic slave trade that provided that labour retarded the development of
+market economies in western Africa and kept the region’s economies largely out of the inte-
+grated commodity production processes of the Atlantic economy until the abolition of that
+trade in the mid-nineteenth century.
+The article has focused consciously on process analysis. It has drawn attention to the
+neglect of the long-run process of integration in the literature. While the issue of hierarchy
+and its attendant consequences that have dominated the literature remain critically impor-
+tant, we must not lose sight of the process of integration that gave rise to the current ‘global
+village’. The article takes the position that globalization as a historical process was region-
+ally based for several millennia, with manifestations in increasingly enlarged socio-political
+interactions and trading networks. These were to be found in all major regions of the world
+at different points in time. The process did not progress linearly in any region. There were
+ruptures and redirections. The process that started in the Atlantic basin in the sixteenth cen-
+tury was regional initially, like all others. It was its unrivalled success that made it the
+nucleus of the modern global system. This is an important point to note as the global history
+debate continues.
+Joseph Inikori is Professor of History at the University of Rochester .
+86 j
+j J. E. INIKORI
+https://doi.org/10.1017/S1740022807002045 Published online by Cambridge University Press

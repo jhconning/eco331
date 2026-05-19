@@ -1,0 +1,4 @@
+requests
+markdown
+html2text
+frontmatter

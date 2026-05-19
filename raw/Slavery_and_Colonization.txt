@@ -1,0 +1,4611 @@
+
+--- Page 1 ---
+NBER WORKING PAPER SERIES
+THE ECONOMIC GEOGRAPHY OF AMERICAN SLAVERY
+Treb Allen
+Winston Chen
+Suresh Naidu
+Working Paper 34356
+http://www.nber.org/papers/w34356
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+October 2025
+We have no disclosures to report. The views expressed herein are those of the authors and do not 
+necessarily reflect the views of the National Bureau of Economic Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been 
+peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies 
+official NBER publications.
+© 2025 by Treb Allen, Winston Chen, and Suresh Naidu. All rights reserved. Short sections of 
+text, not to exceed two paragraphs, may be quoted without explicit permission provided that full 
+credit, including © notice, is given to the source.
+--- Page 2 ---
+The Economic Geography of American Slavery 
+Treb Allen, Winston Chen, and Suresh Naidu 
+NBER Working Paper No. 34356
+October 2025
+JEL No. J47, N51, O17, R1
+ABSTRACT
+What would the antebellum American economy have looked like without slavery? Using new 
+micro-data on 
+the U.S. economy in 1860, we document that where free and enslaved workers live 
+and how much they earn correlates strongly—but differently—with geographic proxies for 
+agricultural productivity, disease, and ease of slave escape. To explain these patterns, we build a 
+quantitative spatial model of slavery, where slaveholders coerce enslaved workers into supplying 
+more labor, capture the proceeds of their labor, and assign them to sectors and occupations that 
+maximize owner profits rather than worker welfare. Combining theory and data, we then quantify 
+how dismantling the institution of slavery affected the spatial economy. We find that the economic 
+impacts of emancipation are substantial, generating  welfare gains for the enslaved of roughly 
+1,200%, while reducing welfare of free workers by 0.7% and eliminating slaveholder 
+profit. Aggregate GDP rises by 9.1%, with a contraction in agricultural  productivity 
+counteracted by an expansion in manufacturing and services driven by an exodus of formerly  
+enslaved workers out of agriculture and into the U.S. North.
+Treb Allen
+Dartmouth College 
+Department of Economics 
+and NBER
+treb@dartmouth.edu
+Winston Chen
+Yale University 
+winston.chen@yale.edu
+Suresh Naidu
+Columbia University
+and NBER
+sn2430@columbia.edu
+--- Page 3 ---
+1 Introduction
+American racial slavery legally enforced restrictions on Black labor and life. Scholars have
+long debated whether enslaved labor fundamentally altered the antebellum U.S. economy,
+broadly focusing on three key characteristics of the institution: (1) slaveholders coerced en-
+slaved workers to work harder than they would have otherwise chosen (Fogel and Engerman,
+1974; Ransom and Sutch, 1977); (2) slaveholders captured the proceeds of enslaved work-
+ers’ labor (David and Temin, 1974; Darity and Mullen, 2020); and (3) slaveholders assigned
+enslaved workers to locations and sectors that they may not have otherwise chosen (Fleisig,
+1976; Wright, 2006). Given the size of the institution—a full third of the U.S. Southern
+population was enslaved—these restrictions not only had large direct impacts on enslaved
+labor but also likely had large indirect impacts on prices, wages, and the allocations of free
+labor. Quantifying the economic impacts of slavery then requires a comprehensive analysis
+of the economy as a whole, incorporating the key margins of labor supply controlled by
+slaveowners as well as the myriad ways in which free and enslaved labor interacts across
+sectors and space.
+In this paper, we undertake a general equilibrium analysis quantifying how slavery shaped
+the spatial economy of the antebellum U.S. We first build a rich database of the antebellum
+U.S. economy to document that where enslaved and free people lived and how much value
+their labor generated correlates strongly—but in different ways—with geographic factors. To
+explain these patterns, we then develop a model of slavery that incorporates the three aspects
+of slavery highlighted by previous scholars—coercion, markdowns, and misallocation—into
+a many-location, many-sector general equilibrium model of the U.S. economy. The model is
+built on the assumption that—were it not for the institution of slavery—free and enslaved
+workers would act identically and the economy would be efficient, providing a natural bench-
+mark for the effect of property rights in other people’s labor. Combining theory and data, we
+then quantify the impacts of slavery. We find that complete emancipation has large effects
+on the U.S. economy, inducing an expansion of manufacturing (26.5%) and services (21.0%)
+and a contraction of agriculture (-5.4%). The welfare of formerly enslaved workers increases
+by almost 1,200%, whereas free worker welfare declines 0.7% and slaveholders’ profits are
+erased. Finally, we show that the counterfactual changes in labor allocations from emancipa-
+tion are strongly correlated with observed patterns of White and Black reallocations across
+all sectors following the Civil War, although the comparison offers suggestive evidence of
+substantial migration frictions for recently emancipated Black workers.
+We first assemble a comprehensive dataset of the spatial and sectoral distribution of eco-
+nomic activity in the U.S. in the year 1860. Combining the 100% count U.S. free census
+2
+--- Page 4 ---
+(Ruggles et al., 2024, 2025) with the newly digitized 100% count U.S. slave census (Hacker
+et al., 2025), we calculate the number of free and enslaved workers employed in each sec-
+tor (agriculture, manufacturing, and services) in every U.S. county. This same linking also
+provides a proxy for slave prices at the county-sector level using the observed slave-holders’
+personal property per enslaved person, which we show correlates as expected with the de-
+mographic composition of the enslaved persons owned. To measure economic output, we
+use three additional datasets: the Census Social Statistics (compiled by Robert Margo, Paul
+Rhode and John Clegg), the Agricultural and Manufacturing Censuses (Haines et al., 2010;
+Hornbeck and Rotemberg, 2024), and the U.S. Army Fort quartermaster records (Margo,
+2009; Margo and Villaflor, 1987). Combining the first two datasets allows us to construct
+measures of the wages of workers (including incomes of farmers) in each sector in each U.S.
+county, which we show correlates strongly with the spatial variation in literacy of (free)
+workers employed in these sector. The quartermaster records allow us to obtain new esti-
+mates of the differential compensation paid to enslaved workers, augmenting a longstanding
+approach of comparing within-occupation slave hire rates with free worker wages (Lindert
+and Williamson, 2012; Engerman, 1973) by controlling for detailed occupation, year, and
+fort fixed effects.
+We proceed by documenting three stylized facts. First, we show that free and enslaved
+workers are differentially allocated across space. While both free and enslaved workers tend
+to live in more productive locations (as proxied by agro-climatic cotton suitability), free
+workers are more likely to live in higher amenity locations (as proxied by lower malarial
+agro-climatic suitability), whereas enslaved workers are less likely live in such locations.
+Similarly, free workers sort into locations with less coercion (as proxied by the distance to
+the northern border), whereas enslaved workers are sorted into locations with more coercion.
+Second, we show that similar patterns exist across sectors within locations: for example, free
+workers are less likely to be employed in agriculture in areas with greater malaria, whereas
+enslaved workers are more likely to be employed in agriculture in such areas. Third, we show
+that the spatial patterns of wages and slave prices also exhibit distinct geographic patterns.
+For example, free worker wages are lower in locations with higher amenities, whereas slave
+prices are higher in such locations.
+Next, we develop a new micro-founded spatial model of slavery. The premise of the
+model is straightforward: unlike free workers who choose where to live, what to do, and how
+hard to work in order to maximize their own welfare, enslaved workers are not afforded such
+choice. Instead, slaveholders assign them a location and job and coerce their effort in order
+to maximize profits. The model not only offers explanations for the stylized facts, it also
+highlights three distinct margins through which slavery reduces the welfare of the enslaved:
+3
+--- Page 5 ---
+first, enslaved workers are coerced to provide greater labor supply than they would have
+themselves chosen; second, slaveholders capture the proceeds of the enslaved labor, optimally
+marking-down enslaved workers’ compensation in order to maximize their own profits; third,
+slaveholders assign the enslaved to locations and occupations that have lower amenities and
+a higher capacities for coercion than they would have chosen on their own. We derive partial
+equilibrium expressions for the welfare costs of each of these margins as functions of model
+parameters and the underlying geography.
+In general equilibrium, however, the sectoral and geographic reallocation of newly eman-
+cipated workers will alter the prices for the outputs of different places and induce reallocation
+of the already free population, which can have complex effects on both the welfare of the
+newly emancipated as well as the already free. For example, if enslaved workers are (as we
+find) disproportionately located in remote, disease-ridden locations, then emancipation will
+result in them leaving such locations. But this will drive down wages in more attractive
+locations and drive up wages in those sectors and locations where the recently emancipated
+depart, causing the free population to reallocate as well. The incidence of these wage and
+price changes will be propagated throughout the economy (depending on e.g. the trade costs
+between slave-intensive areas and other population centers). As another example, enslaved
+workers will be disproportionately located in agriculture far from free states (to deter fugi-
+tives as in Allen (2015)) in order to more easily coerce enslaved labor. With emancipation,
+those workers will be free to move to more productive manufacturing or agricultural sectors
+in locations closer to the North. The incidence of the resulting wage and price changes will
+again be propagated throughout the economy. Quantifying these complex effects is the task
+we set our model to.
+In order to do so, we begin by estimating three model parameters that the model high-
+lights are crucial for the welfare implications of slavery: the intensive labor supply elasticity
+within sector, the extensive labor supply elasticity across sectors, and the extensive labor
+supply elasticity across locations. The intensive labor supply within sector determines the
+optimal markdown, which we estimate using the U.S. Army forts data, comparing the pay-
+ments made to free and enslaved workers for doing the same task at the same U.S. Army
+fort. The quartermaster reports have payments made to slave owners, and we present evi-
+dence that these payments are net of subsistence expenses directly borne by the fort, so the
+18% penalty we estimate for hired slave workers reflects slave owners appropriating 82% of
+the marginal product. This implies an intensive labor supply elasticity of 0.22, well within
+the range of contemporary estimates and consistent with historical estimates of enslaved
+worker subsistence baskets. To estimate the extensive labor supply elasticities across sectors
+and locations, we compare the relative wages and slave prices within a county-sector to the
+4
+--- Page 6 ---
+relative free and enslaved labor shares, instrumenting relative shares with amenity proxies,
+as suggested by the model. The resulting extensive supply elasticities—3.3 across locations
+and 2.5 across sectors—are comparable to those estimated in other settings.
+Given these parameters, we then use the detailed spatial data on labor allocations and
+output to “invert” the model to recover the underlying productivities, amenities, and degree
+of coercion of each location-sector. We show that these recovered productivities, amenities,
+and coercion parameters correlate well with the proxies we employed in the stylized facts. We
+then simulate a series of counterfactuals that dismantle the institution of slavery to estimate
+the welfare and spatial economic impacts for both free and enslaved workers. Unsurprisingly,
+we find that removing the institution of slavery leads to substantial welfare gains for enslaved
+workers. In equivalent variation terms, slaveowners would have to pay an enslaved worker
+1,192% more to get voluntary consent to the allocation of labor induced under slavery. As
+we cannot account for level shifts in utility that differ between all free and all enslaved, e.g.
+physical protection from violence and abuse or psychic costs and benefits of standing and
+status, these welfare gains ought to be seen as a lower bound. Each of the three sources of
+misallocation play an important role: allowing enslaved individuals to choose their own labor
+supply while remaining in slavery (i.e. removing coercion) yields a welfare gain equivalent
+to a 361% increase in wages; allowing enslaved workers to retain all of their earnings yields
+a welfare gain equivalent to a further 81% wage increase; and allowing enslaved workers
+to choose any occupation in any location in the U.S. (so that they act identically to free
+workers) leads to a welfare gain equivalent to a 55% wage increase. Conversely, emancipation
+causes the welfare of free workers to decline by 0.7%, as the reallocation of the formerly
+enslaved drives down equilibrium wages in more attractive locations and sectors. These
+results highlight that even restricting the accounting of slavery to neoclassical labor supply
+margins and omitting many plausible economic externalities and non-pecuniary dimensions
+of racial domination and servitude still yields very large welfare impacts.1
+Emancipation also has large general equilibrium impacts on the economy. The movement
+of formerly enslaved workers out of agriculture causes services and manufacturing sectors to
+expand: for example, manufacturing output increases by 29% in the North, 19% in the
+South, and 27% overall. Agriculture expands in the U.S. North by 24%, but contracts in the
+U.S. South by 29%, for a modest decline of 5.4% overall. All told, aggregate GDP rises by
+1While we are not directly engaged with the large literature on reparations (Darity and Mullen, 2020), one
+philosophical and legal perspective on reparations relies on computing counterfactual economic welfare to
+measure historical harm (Nozick, 1974; Posner and Vermeule, 2003). We view our estimates of compensation
+for unpaid labor in the spirit of Dr. Martin Luther King’s claim “No amount of gold could provide an
+adequate compensation for the exploitation and humiliation of the Negro down through the centuries. Not
+all the wealth in this affluent society could pay the bill. Yet a price can be placed on unpaid wages.” (King Jr,
+2000).
+5
+--- Page 7 ---
+9.1%, with the reallocation of labor toward higher amenity locations offset by a combination
+of this structural transformation and the ability of the formerly enslaved to move to the
+(more productive) U.S. North.
+Finally, we compare our quantitative predictions of the effects of emancipation to the
+actual experience in the U.S. South after the Civil War. We show that the patterns of
+labor reallocations in the theory—of both Black and White populations across both sectors
+and locations—closely matches what occurred in reality. The one exception to this is for
+the change in the total Black population across locations, where we only find a positive
+correlation after conditioning on the initial antebellum Black population, suggesting that the
+post Civil War experience of Black workers may have entailed substantial additional mobility
+constraints not captured by our model, for example due to social networks, family ties, Black
+Codes, or ongoing racial violence, attenuating the potential gains from emancipation.
+The primary contribution of our paper is to construct and estimate a model of the an-
+tebellum U.S. economy to quantify the impacts of the institution of slavery. In doing so,
+our paper contributes to several strands of literature. Most directly, our paper builds on
+the vast literature examining the economics of slavery, a recent survey of which can be
+found in Wright (2022). Hornbeck and Logan (2023) calculate welfare gains from eman-
+cipation, analogizing slavery to an externality imposed on the enslaved. They employ a
+Hulten (1978)-type intuition: starting from a competitive slave economy with no other dis-
+tortions, marginal economic benefit from emancipating an enslaved worker is equal to the
+difference between what slave owners pay for enslaved labor and the costs borne by those
+workers. They then calculate bounds on the missing “compensating differential” using both
+value of statistical life estimates as well as data on wages for gang-labor after emancipation.
+Our model incorporates this idea into a general equilibrium micro-founded model of slavery,
+where slaveholders optimally choose employment and compensation for enslaved workers,
+constrained by a coerced labor supply curve. Ultimately, our estimated welfare gains to
+enslaved workers from emancipation fall near the center of the range of estimates they re-
+port. In a simple, partial equilibrium description, Naidu (2020) suggests that free labor is
+monopsonistically competitive, with idiosyncratic tastes for employers, while the enslaved
+labor market is closer to perfect competition, implying less allocative inefficiency in the slave
+labor market. Bleakley and Rhode (2022) analyze discontinuities at the Mason-Dixon line.
+They present evidence that slavery itself was a disamenity for free workers, with the slave
+side of the border characterized by low land values, high free wages, and few free whites.
+These recent papers contribute to a large economics literature on slavery going back to Con-
+rad and Meyer (1958), and we review the relevant work alongside stylized facts in the next
+section. Relative to these papers, our approach brings new data and uses recent advances in
+6
+--- Page 8 ---
+quantitative spatial general equilibrium modeling to analyze multiple facets of the institution
+of slavery while accounting for the substantial general equilibrium effects the institution had
+on the economy.2
+Our approach is motivated by the difficulty in forming a convincing counterfactual for
+the slave economy. Virtually all of the economics literature on American slavery has implic-
+itly or explicitly specified counterfactuals. Beginning with Alexis De Tocqueville comparing
+agriculture on the left and right banks of the Ohio River, scholars have examined the spa-
+tial discontinuities between slave and free states in the hopes of recovering a counterfactual
+in the absence of slavery. However, such local spatial comparisons are intrinsically limited
+in their ability to recover the general equilibrium effects of emancipating the third of the
+Southern U.S. population that was enslaved. A natural aggregate counterfactual also exists
+in the pre/post Civil War comparison. But emancipation after 1860 is confounded by both
+the destruction of the Civil War (Feigenbaum et al., 2022) as well as the rapid imposition
+of both military Reconstruction (Frieden et al., 2024) and incipient Jim Crow (Althoff and
+Reichardt, 2024). Constructing a plausible counterfactual to the antebellum economy re-
+quires detailed modeling of the ways in which enslaved and free workers interacted with the
+economic geography of comparative advantage in the antebellum US South.
+Methodologically, our paper builds on a recent literature on spatial general equilibrium
+models, and their application to economic history. Studying the 20th century Black migra-
+tion, both Takahashi (2022) and Yang (2024) build quantitative spatial models to quantify
+the contribution of the Great Migration of African-Americans to economic growth. Heblich
+et al. (2022) use a quantitative trade model to study the contribution of the slave trade to
+industrialization in England, emphasizing the role of frictional capital markets. Donaldson
+and Hornbeck (2016) study the effects of the 19th century US railroad through the lens
+of a spatial equilibrium model, while Allen and Donaldson (2020) study multiple equilibria
+in a quantitative dynamic spatial model of the United States back to 1790. A theoretical
+contribution of our paper to this literature is to integrate a static spatial general equilibrium
+model with the key insight of coercive labor markets highlighted by Acemoglu and Wolitzky
+(2011). The study of coercion in labor markets has also received considerable attention,
+with recent papers including Bobonis and Morrow (2014); Naidu and Yuchtman (2013);
+2A large empirical literature studies long-term persistence of U.S. slavery along multiple dimensions. Ager
+et al.(2021) studypersistent effectsof emancipation on slave owners, finding thatslaveowner descendants had
+largely converged to non-slaveowner wealth levels by 1900. Althoff and Reichardt (2024) look at individual
+intergenerational persistence of slavery, and find that much of the persistent legacy of slavery (compared
+to African Americans emancipated before the civil war) can be explained by differential exposure to more
+intensive Jim Crow laws in the deep South. Nunn (2007), building on Sokoloff and Engerman (2000), shows
+persistent effects of slavery on contemporary economic outcomes in both the U.S. and the New World more
+broadly.
+7
+--- Page 9 ---
+Dippel et al. (2020); Saleh (2024); Helper et al. (2025); Miller et al. (2025), but none have
+considered spatial heterogeneity in coercion, nor its integration with a quantitative spatial
+equilibrium model. A paper that is comparable in terms of estimating short-run impacts
+of eliminating coerced labor is Markevich and Zhuravskaya (2018), who study the effects
+of serf emancipation in Russia. They find, in a partial equilibrium calculation, that both
+agricultural and manufacturing productivity increase in areas differentially affected by the
+elimination of serfdom. Finally, we build on the recent literature quantifying misallocation
+in labor markets with general equilibrium models of heterogeneous workers, beginning with
+Hsieh et al. (2019).
+The remainder of the paper is organized as follows. We begin by presenting the data and
+three stylized facts. In Section 3, we present a spatial model of slavery, which we then use
+to derive analytical expression for the welfare gains from emancipation in Section 4. Section
+5 then estimates the key model parameters and quantifies the impacts of emancipation.
+Section 6 concludes.
+2 Data and Stylized Facts
+We motivate our model by documenting a series of stylized facts about the U.S. slave econ-
+omy.
+2.1 Data
+We begin by describing the data sources we use to document these facts.
+Free and enslaved worker counts by county×sector: For free persons, we use
+the 100% Count 1860 Free Census (Ruggles et al., 2024, 2025). For individuals age 16-50
+who report being in the labor force, we use their reported occupation to assign them to
+one of three occupational categories (constructed by IPUMS), which we refer to as sectors:
+agriculture, professional and personal services (“services”), and manufacturing, mechanical,
+and mining industries (“manufacturing”) in each county in the U.S.
+For enslaved workers, we use the 100% Count 1860 Slave (schedule 2) Census compiled
+by Hacker et al. (2025), who link the enslaved persons to their slaveholders in the Free
+Census using a machine learning algorithm based on name and location matching, achiev-
+ing over 80 percent match rates (although by construction neglecting matches to absentee
+slaveholders). Despite being the most comprehensive data on enslaved workers available, the
+slave schedules have many missing entries (e.g. fugitives are underreported), and leave many
+8
+--- Page 10 ---
+details unreported, notably their occupations.3 Our approach, while admittedly imperfect,
+is to follow Lockley (2014) and assign all enslaved workers age 16-50 to the sector of their
+(co-located) slaveholder. Of the 1.94 million enslaved workers, this procedure yields 1.60
+million employed in agriculture, 77,000 employed in manufacturing, and 259,000 employed
+in services. In Appendix A.3, we show our aggregate figures are quite close to estimates in
+the literature, particularly recent estimates by Rhode (2024), as well as offering additional
+validation tests on this assumption.
+Wages by county×sector: We use four sources to construct measures of economic
+activity: (1) the 1860 Census County Level Social Statistics, digitized by Robert Margo,
+Paul Rhode and John Clegg, for wages of free workers by occupation and county;4 (2) the
+industry-level manufacturing census data compiled by Hornbeck and Rotemberg (2024); (3)
+the 1860 county-level agricultural and manufacturing censuses compiled by Michael Haines;
+and (4) the 100% count 1860 free census.
+We combine these data sources to estimate the agricultural, services, and manufacturing
+wages in each county as follows. For agricultural wages, we take a weighted average of
+the observed agricultural wages without board from the Social Statistics data and 5% of
+the real property value for farmers for agricultural wages to get farmer incomes from the
+100% count free census, where the weight is the share landless among farmers observed in
+the free census. For manufacturing wages, we use the observed wages in the industry-level
+manufacturing census data, excluding construction and other non-manufacturing industries.
+For services, we take the average of the domestic worker and carpenter wages from the Social
+Statistics data.
+To interpolate wages for sector-locations which are not observed, we predict wage data by
+projecting (log) observed wages at observed county×sector level on (log) free and enslaved
+worker counts, (log) land area, state fixed effects, and (log) agricultural and manufactur-
+ing output. As verification for this procedure, Appendix Figures B.9 and B.10 show that
+the resulting county×sector wages correlate strongly and positively with the observed spa-
+tial variation in literacy rates and per capita wealth observed in the 100% Free Census,
+conditional on state fixed effects.
+Payments made to free and enslaved workers for the same jobs:We use the
+U.S. Army Fort quartermaster records (Margo, 2009) to observe payments made to both
+free and enslaved workers for the same jobs. Slaves were rented for employment in a variety
+of occupations on U.S. army forts prior to 1865, doing many tasks alongside free labor.
+3AlineofliteratureinAfrican-Americanhistoryandcriticalarchivalstudieshaslookedatwhattraditional
+archival sources on slavery, particularly slave censuses, exclude (Hartman, 1997; Fuentes, 2016).
+4We thank the authors for sharing these with us.
+9
+--- Page 11 ---
+The historical evidence suggests that the recorded payments from the military are rental
+payments made to the slave owner. The virtue of the fort data is that it is all from the
+same organization, and allows us to control for occupation, thus comparing wage rates to
+enslaved and free workers doing the same job in the same fort. While unrepresentative of
+the whole slave economy, the quartermaster reports enable detailed controls for unobserved
+heterogeneity, and we discuss them more fully below and in Appendix A.4.
+Slave prices by county×sector: Finally, we construct a new proxy of slave prices
+that vary at the county×sector level. To do so, we use the linked 100% free and slave
+censuses to calculate the slave-holder value of personal estate per enslaved person. Because
+the personal estate captures the value of all non real-estate assets of a slaveholder (not
+just the value of their slaveholdings), it does not allow us to identify the level of slave
+prices. As a result, we only use the measure as a proxy for slave prices in the stylized
+facts and estimation that follows (where fixed effects can absorb this missing intercept)
+and do not use them directly in the quantitative exercise. However, Appendix Table B.1
+reassuringly shows that the proxy correlates as expected with the demographic composition
+of slaveholders’ slaveholdings, e.g. slave prices are lower for slaveholders with more elderly or
+younger enslaved persons and that there is a slight premium for prime-age female enslaved
+persons over prime-age male enslaved persons. Further, Appendix Table B.4 shows, in the
+Parker-Gallman sample of linked farm-slave schedules for cotton plantations, that additional
+measures of personal property for farmers, such as farm equipment and livestock, are much
+more weakly correlated with personal property per slave, and do not alter the demographic
+coefficients.
+Geography: We construct proxies of the productivity, amenity, and degree of coercion of
+slaveholders over enslaved based on the innate geography of each county in the U.S. South.
+For a measure of productivity, we consider the (low fertilizer, no irrigation) agroclimatic
+cotton suitability of each county as measured by the FAO-GAEZ database (see Fischer
+et al. (2021)). Cotton was one of the most important cash crops in the U.S. South; as
+panel (a) of Appendix Figure B.1 highlights, there existed substantial spatial heterogeneity
+across the U.S. South in how suitable the climate was for production.5 For a measure of
+5Recent papers have argued that the FAO-GAEZ measures are poor proxies for historical crop yields
+(Rhode, 2024) and rife with measurement error (Araujo and Possebom, 2025). In Appendix Table B.2 we
+present a regression table showing that in our sample and specification, all three of an indicator for any
+cotton production, the log of cotton yield per county acre (among counties that produce cotton), and the
+inverse hyperbolic sine of cotton per county acre are strongly and significantly correlated with our cotton
+suitability measure in our baseline specification as well as a specification including quadratic latitude and
+longitude controls. We have also confirmed that our stylized facts remain robust whether other proxies are
+used, such as cotton over wheat (as in Masera and Rosenberg (2021)) or indices of plantation crop (sugar,
+cotton, tobacco, and rice) suitability, with results available on request.
+10
+--- Page 12 ---
+the (dis)amenity of a location, we consider the climatic suitability for malaria as measured
+by Kiszewski et al. (2004). Locations with higher incidence of malaria resulted in greater
+mortality rates, and Esposito (2022) has previously shown that enslaved persons with greater
+resistance to malaria garnered higher prices; panel (b) of Appendix Figure B.1 shows that
+warmer and lower elevation areas of the U.S. South were more suitable to malaria. Finally,
+to proxy for the degree of coercion a slaveholder has over enslaved workers, we construct
+a measure of the distance to the North, as depicted in panel (c) of Appendix Figure B.1.
+It was more difficult for enslaved workers to escape from locations further away from the
+North, reducing their outside option (see Allen (2015)).
+Given the substantial spatial correlation in our proxies evident in Appendix Figure B.1,
+thereexiststhepossibilitythatthereareunobservablevariablescorrelatedwithourmeasures.
+While our goal is to only provide suggestive evidence of the existence of inefficiencies in the
+allocations of enslaved workers rather than causal relationships, to attenuate the concerns
+of spurious correlations in the stylized facts that follow we include state fixed effects and
+condition each variable on the other two. Appendix Figure B.2 depicts the resulting residual
+variation that we use in our empirical exercises below, which exhibits less obvious spatial
+correlations.
+To validate that our county-specific geographic proxies for productivity, disamenities
+(malaria suitability), and coercion (distance to freedom) make sense, we check that they
+are correlated with direct measures of economic activity, health, and ease of slave escape.
+Panel (a) of Appendix Figure B.3 shows that agricultural revenue and cotton output is
+indeed differentially higher in high cotton-suitability counties. Panel (b) shows that malaria
+intensity is negatively correlated with the share of old people among free persons. Owing
+to either differential mortality or out-migration, elderly individuals are significantly under-
+represented in high malaria areas, as would be expected. Panel (b) also uses the individual
+mortality census schedules to show that the slave mortality level from malaria, relative to
+free, is higher in high malaria areas. Panel (c) shows the share of enslaved workers reported
+as fugitives, as well as the reward in fugitive ads relative to the value of the worker, are
+both declining in the distance to the North. All of these correlations are conditional on
+state fixed effects and the other two geographic proxies and all are statistically significant at
+conventional levels, lending credence to their use in the stylized facts that follow.
+2.2 Stylized Facts
+We now present three stylized facts. The first two focus on quantities, documenting different
+patterns of allocations for free and enslaved worker across locations and sectors, respectively.
+11
+--- Page 13 ---
+The third focuses on prices, documenting different patterns of wages for free workers and
+slave values for enslaved workers. In the following section, we will show how each of these
+stylized facts can be explained by the theory. In Appendix Table B.3 we show the robustness
+of these facts to controls for flexible polynomials of latitude and longitude, in addition to
+the state fixed effects and controls we include in this section.
+2.2.1 Stylized Fact #1: Enslaved and free workers sort differently across loca-
+tions
+We begin by showing that the fact that free workers chose where to live whereas enslaved
+workers were assigned a location resulted in significant differences in their respective alloca-
+tions across space.
+Stylized Fact #1(a): Free workers sort into higher productivity locations, en-
+slaved workers are sorted even more so into higher productivity locations.Panel
+(a) of Figure 1 documents that the population density of both free and enslaved workers was
+increasing with the productivity of a location, as measured by the geographic proxy of cotton
+suitability (conditional on state fixed effects and the other two geographic proxies). However,
+the slope of enslaved population density is steeper, showing that enslaved labor is much more
+responsive, at least in the cross-section, to agricultural productivity. Columns (1) and (2) of
+Table 1 confirm that the difference in elasticities between the free and enslaved populations
+is highly statistically significant.
+Stylized Fact #1(b): Free workers sort into higher amenity locations, enslaved
+workers are sorted intolower amenity locations. Panel (b) of Figure 1 documents
+that the population density of free workers is declining in the malaria suitability of an area,
+whereas the population density of enslaved workers is increasing in the malaria suitability of
+an area. As Esposito (2022) argues, disease-intensive locations were difficult and unpleasant
+for free workers to reside in, so instead enslaved workers were allocated to these locations.
+Again, columns (1) and (2) of Table 1 confirm that these differential responses to our proxy
+for the (dis)amenity of a location for the free and enslaved populations is highly statistically
+significant.
+Stylized Fact #1(c): Free workers sort into locations with less coercion, enslaved
+workers are sorted into places withmore coercion. Panel (c) of Figure 1 documents
+that while the population density of free workers is declining with the distance to the North,
+the population density of enslaved workers is increasing with the distance to the North.
+12
+--- Page 14 ---
+This is consistent with coercion of slaveholders over the enslaved being easier at further
+distances, as escape is more difficult. As coercion does not directly impact free labor, the
+fact that free labor is declining with distance to the north suggests the possibility that free
+and enslaved workers may be substitutes. Again, columns (1) and (2) of Table 1 confirm
+that these differences are highly statistically significant.
+2.2.2 Stylized Fact #2: Enslaved and free workers sort differently across sectors
+within location
+We now consider the allocation of free and enslaved workers across sectors within a location,
+asking how the fraction of free and enslaved workers employed in agriculture (instead of
+services or manufacturing) in a location varies with our geographic proxies. Columns (3) and
+(4)ofTable1undertakeasimilaranalysisasStylizedFact#1, butratherthancomparingthe
+free and enslaved population densities at the county level, they examine the sectoral choice of
+free and enslaved workers by regressing a dummy variable equal to one if a worker is employed
+in agriculture on county level geographic proxies and their interactions with the status (free
+or enslaved) of the individual. This procedure allows us to show similar differential sorting
+patterns between free and enslaved workers across sectors within a location.
+Stylized Fact #2(a): There is no correlation between cotton suitability and agri-
+cultural employment share for either enslaved or free workers.Columns (3) and
+(4) of Table 1 show that there is no relationship between the cotton suitability of a location
+and the fraction of workers employed in agriculture for either the free or enslaved popula-
+tion. The estimated coefficients are small and, while precisely estimated, are statistically
+indistinguishable from zero.
+Stylized Fact #2(b): Free workers sort out of agriculture in high malaria ar-
+eas, whereas enslaved workers are sortedinto agriculture in high malaria areas.
+Columns (3) and (4) of Table 1 report that while the number of free workers employed
+in agriculture is decreasing in a location’s malaria suitability, there is an overall positive
+relationship between malaria suitability and the fraction of enslaved workers employed in
+agriculture, with the interaction term being highly statistically significant. This is con-
+sistent with agricultural work being especially unpleasant in locations with high malarial
+incidence, causing free workers to choose to avoid such work and enslaved workers being
+forced into such work.
+13
+--- Page 15 ---
+Stylized Fact #2(c): Both free and enslaved workers are more likely to be em-
+ployed in agriculture the greater the distance to freedom, but this is especially
+true for enslaved workers. Columns (3) and (4) of Table 1 show that the fraction of
+workers employed in agriculture is increasing in the distance to freedom for both free and
+enslaved workers, but this impact is larger for enslaved workers.
+2.2.3 StylizedFact#3: Wagesoffreeworkersandthepricesofenslavedworkers
+differed with each other and across space.
+We now examine how wages of free workers and prices of enslaved workers vary across
+locations.
+Stylized Fact #3(a): Both free workers’ wages and the price of enslaved workers
+are higher in locations with higher productivities. Panel (a) of Figure 2 shows
+that both free workers’ wages and enslaved workers’ prices are higher in locations with
+better cotton suitability with approximately equal slopes. The first row of Table 2 shows
+that this positive relationship is statistically significant for both free and enslaved workers
+with equal (and statistically indistinguishable) slopes. The observed positive relationship is
+unsurprising, as wages increase with labor productivity.
+Stylized Fact #3(b): free workers’ wages arelower in locations with better
+amenities, whereas the price of enslaved workers arehigher in locations with
+better amenities. Consistent with free workers’ wages offering compensating differentials
+forpooramenities, panel(b)ofFigure2showsthatfreeworkers’wagesarehigherinlocations
+with greater malaria suitability. Again, column (1) of Table 2 shows this positive relationship
+is highly statistically significant. Enslaved workers’ prices show theopposite relationship,
+with slave prices falling with malaria suitability. Columns (2) and (3) of Table 2 show
+that both relationships and their difference are statistically significant. We will provide an
+explanation of why we observe this opposite relationship for free wagers and enslaved prices
+with malaria below.
+Stylized Fact #3(c): free workers’ wages arelower in locations with greater
+coercion, whereas the price of enslaved workers is (slightly)higher in locations
+with greater coercion. Finally, panel (c) of Figure 2 shows that free workers’ wages
+are slightly declining with the distance to the North, whereas enslaved workers’ prices are
+slightly increasing. Column (3) of Table 2, however, shows that the difference in slopes is
+not statistically significant at conventional levels (p = 0.235).
+14
+--- Page 16 ---
+3 A Spatial Model of the Slave Economy
+We now present a spatial equilibrium model of slavery that matches the stylized patterns
+of labor allocation and pricing documented in the previous section. The model allows us to
+disentangle how the coercion, market power, and misallocation inherent to the institution of
+slavery shaped the American antebellum economy. Further, our model allows us to calculate
+how emancipation would impact the sectoral and spatial composition of the U.S. economy
+and the welfare of free and enslaved workers.
+3.1 Setup
+We begin with a quantitative economic geography model as in Allen and Arkolakis (2014),
+extended to include multiple sectors (as in Costinot et al. (2012)), heterogeneous produc-
+tivities (as in Bryan and Morten (2019)), and endogenous labor supply (as in Allen et al.
+(2020)). As is standard, there is a free labor population that chooses its labor supply, loca-
+tion, and sector to maximize its own welfare. More novel is the inclusion of enslaved workers,
+whose labor supply iscoerced, the proceeds of their labor is appropriated by slaveholders and
+who areassigned to locations and sectors to maximize the profits of slaveholders rather than
+the welfare of the enslaved workers. Otherwise, we assume that free and enslaved workers
+are identical, i.e. they share the same preferences and distributions and productivity, which
+implies they would act identically but for the presence of the institution of slavery.
+Formally, consider a world withN≡{0, 1,...,N}locations andO≡{1,...,O}sectors,
+whereNN is the set of counties in the U.S. North,NS is the set of counties in the U.S. South,
+NUS≡NN∩NS, and location0 represents the rest of the world (ROW), with which U.S.
+locations are able to trade. Locations are characterized by a sector specific productivityAio,
+a sector-specific amenityUio, and a “coercion” parametercio, which captures the efficiency
+of coercing enslaved labor (and will be discussed below). As is standard, each location-
+pair is endowed with (iceberg) trade costτij ≥1. The geography of the world is the set
+{Aio,uio,cio,τij}i,j∈N,o∈O.
+Each location produces a differentiated variety in each sector. Final consumption follows
+a nested constant elasticity of substitution (CES) structure in which location-specific vari-
+eties (discounted by trade costs) are first aggregated to the sector level with sector-specific
+elasticity of substitutionσo > 0 and then across sectors with elasticity of substitutionρ>0.
+Workers, indexed byω, receive an idiosyncratic location-sector productivity shock given by
+εio (ω) =εi (ω)εo (ω), whereεi (ω) and εo (ω) follow independent Frechet distributions with
+shape parametersθand η, respectively.
+15
+--- Page 17 ---
+3.2 The Allocation of Free Labor
+Free laborers choose their labor supply, location (within the U.S.), and sector, accounting
+for consumption, amenities, and idiosyncratic shocks. The opportunity cost of work (either
+leisure or home production) is a constant elasticity function such that the overall utility for
+free workers in location-sectorio is given by:
+Wio (ω,l) = wiouio
+Pi
+Aioεio(ω)l−ϕ
+1 +ϕl
+1+ϕ
+ϕ, (1)
+where σ >1 is the elasticity of substitution across aggregate location goods,ϕ >0 is the
+labor supply elasticity, and the CES aggregate price indexPi =
+(∑
+o∈OP 1−ρ
+io
+) 1
+1−ρ
+is a function
+of sector-level price indicesPio =
+(∑
+j∈Nτ1−σo
+ji p1−σo
+jo
+) 1
+1−σo, which are functions of trade costs
+τji and location-sector pricespjo.
+Given their choice of location and occupation, free workers choose their labor supplyl,
+yielding:
+lio(ω) =
+(wiouio
+Pi
+Aioεio(ω)
+)ϕ
+, (2)
+i.e. free workers choose to work more the greater their marginal utility of labor. This in turn
+implies that the free laborer’s indirect utility from choosing locationi and occupationo is:
+Wio(ω) =
+(
+1
+1 +ϕ
+) (uio
+Pi
+wioAioεio (ω)
+)1+ϕ
+. (3)
+Free-workers thus choose a location and occupation to maximizeWio. Given the assumed
+distribution of their idiosyncratic productivities, the occupational shares within a location
+are given by:
+πio,f|i = (wioAiouio)η
+∑
+o′∈O(wio′Aio′uio′)η, (4)
+i.e. free workers sort into occupations within location that have higher wages, productivities,
+and amenities.
+Using the nested structure of the location-specific occupation utility, the expected utility
+of a free worker who chooses to reside in locationi is given by:
+Πi,f =
+(
+1
+1 +ϕ
+)
+Γ
+(
+η−1−ϕ
+η
+)( ∑
+o∈O
+(
+uio
+Pi
+wioAio
+)η
+) 1+ϕ
+η
+, (5)
+which in turn implies that the share of free workers who choose to reside in locationi is
+16
+--- Page 18 ---
+given by:
+πi,f = Πθ
+i,f∑
+i′∈NUS Πθ
+i′,f
+. (6)
+3.3 The Allocation of Enslaved Labor
+As with free workers, we assume enslaved workers get utility from consumption and disutility
+fromprovidinglaborwiththesameutilityfunctiongiveninequation (1). 6 However, thereare
+three important differences in their labor allocations. First, the quantity of labor supplied by
+enslaved workers is chosen by the slaveholder, who behaves as a perfect monopsonist able to
+extract all surplus from the enslaved. Second, the labor supply of enslaved workers is coerced
+by slaveholders, following Acemoglu and Wolitzky (2011), distorting the labor-supply curve
+faced by a monopsonistic owner away from that preferred by the enslaved. Finally, the
+enslaved worker is misallocated, as the slaveholder chooses an enslaved worker’s sector and
+location (within the U.S. South) to maximize his own profits rather than the welfare of the
+enslaved.
+Formally, suppose a slaveholder chooses an enslaved person’s locationi, occupation o,
+labor supplyl and a remunerationwio,s (which in reality was largely paid in the form of in-
+kind subsistence and housing) to maximize their own profits, i.e. the product of the effective
+labor and the difference between the market wage and the enslaved remuneration:
+max
+i,o,l,wio,s
+(
+wio−wio,s
+)
+Aioεio,s (ω)l, (7)
+subject to a participation constraint:
+wio,suio
+Pi
+Aioεio,s (ω)l−ϕ
+1 +ϕ
+l
+1+ϕ
+ϕ
+cio
+≥0, (8)
+where we refer tocio≥0 as thecoercion parameter.
+Equation (8) deserves some discussion. The necessity of some sort of participation con-
+straint is clear: absent such a constraint, the solution to the slaveholder’s problem is un-
+bounded, with the enslaved worker forced to provide an infinite amount of labor with no
+remuneration. The particular functional form of constraint (8) has the intuition that the
+coercion parameter cio captures the “productivity” of the slaveholder in extracting labor
+from the enslaved relative to the disutility incurred by the enslaved person in providing that
+labor.
+6This abstracts from coercion of enslaved persons in terms of consumption, e.g. being forced to consume
+lower quality food, clothing, and shelter. See Rockman (2024) for a recent historical account.
+17
+--- Page 19 ---
+The constraint of equation (8) can also be micro-founded as follows. Suppose enslaved
+persons can choose to either remain in slavery or they can attempt to escape, which if
+successful earns them a (positive) outside option but if unsuccessful incurs punishment.
+Then an enslaved person will choose to remain in slavery if:
+Vslavery
+io,s ≥Pr (escape)io,sVfree
+io,s −(1−Pr (escape)io,s)cio, (9)
+where Vslavery
+io,s is the value of remaining in slavery,Pr (escape)io,s is the probability of a
+successful escape,Vfree
+io,s is the value of freedom, andcio is the exogenous cost of punishment.7
+Substituting in the utility function given in equation (1), constraint (9) can be written as
+in equation (8), wherecio = 1−(Pr (escape)io,sνio,s−(1−Pr (escape)io,s)ψio,s), i.e. cio is
+increasing with the (proportional) cost of a failed escape attemptψio,s≡ ciowio,suio
+Pi
+Aioεio,s(ω)l,
+decreasing in the (proportional) value of freedomνio,s≡
+Vfree
+io,s
+wio,suio
+Pi
+Aioεio,s(ω)l, and decreasing in
+the probability of escapePr (escape)io,s.
+Inthisenvironment, theslaveholderensurestheparticipationconstraintbindsandchooses
+an enslaved labor supply of:
+lio,s =
+(uio
+Pi
+wio (Aiocio)εio (ω)
+)ϕ
+. (10)
+The slaveholder’s maximization problem also yields a choice of enslaved remuneration that
+is a constant markdown from the market wage:
+wio,s = ϕ
+1 +ϕwio, (11)
+capturing a constant fraction1/ (1 +ϕ) of the value of the enslaved workers’ output.
+When the coercion parameter is equal to the markdown, i.e. cio = ϕ/(1 +ϕ), then
+the framework is isomorphic to one in which the slaveholder acts as a monopsonist yet the
+enslaved worker chooses their own labor supply, i.e. the slaveholder is not able to coerce
+additional labor supply from the enslaved. However, whencio >ϕ/(1 +ϕ), the slaveholder
+is able to compel additional labor supply from the enslaved at a given wage over and above
+what the enslaved would have chosen to supply. Whencio = 1, equations (2) and (10) are
+equal, implying that enslaved workers are coerced to supply the same amount of labor as
+free workers (even though they only receive a fraction of the earnings from their produce).
+7Acemoglu and Wolitzky (2011) allow the degree of coercion to be a costly choice of the individual
+enslaver, but in the U.S. South the bulk of slave patrolling and repression was provided by state and local
+government (Hadden, 2001), so we take it as a fixed county-sector characteristic.
+18
+--- Page 20 ---
+Finally, whencio > 1, the slaveholder coerces more labor from the enslaved than what free
+workers would choose to supply, highlighting that—in terms of the labor supply but not in
+terms of enslaved welfare—the coercion parameter is isomorphic to a productivity differential
+(or subsidy) for enslaved labor, relative to free labor in the same occupation and location.
+This oversupply of labor drives the utility of the enslaved worker downward, reflecting the
+cost of coercion.
+The payoff to the slaveholder for assigning an enslaved workerωto (i,o ) after optimally
+choosing their labor supply and imposing the markdown is:
+Wsh
+io =
+(
+wio−ws
+)
+Aioεio(ω)lio,s = 1
+1 +ϕ(wioAioεio (ω))1+ϕ
+(uio
+Pi
+cio
+)ϕ
+,
+which then yields the following enslaved occupational share in each locationi:
+πio,s|i =
+(
+u
+ϕ
+1+ϕ
+io ciowioAio
+)η
+∑
+o′∈O
+(
+u
+ϕ
+1+ϕ
+io′c
+ϕ
+1+ϕ
+io′,swio′Aio′
+)η. (12)
+Comparing equation (12) to the equivalent expression (4) for free workers highlights how
+enslaved and free workers are differentially allocated across sectors within location, a point
+we return to in the following subsection.
+Aggregating across occupations, the expected profits of a slaveholder who allocates an
+enslaved worker to locationi is:
+Πi,sh = Γ
+(
+η−1−ϕ
+η
+)
+1
+1+ϕ
+
+
+∑
+o∈O
+
+
+(
+uio
+Pi
+)−1
+1+ϕ
+  
+Misallocation
+cio
+Coercion
+(
+uio
+Pi
+wioAio
+)
+
+
+η
+
+1+ϕ
+η
+. (13)
+The highlighted terms in equation (13) show how expected slaveholder profitsΠi,sh differs
+from the expected welfare of free workersΠi,f given in equation (5). The misallocation term
+shows that enslaved workers are employed in sectors and locations with lower amenities than
+free workers, because slaveholders only internalize the disamenities of places of living or con-
+tent of work of the enslaved inasmuch as they affect the enslaved’s participation constraint.
+Finally, the coercion term captures the additional labor supply that slaveholders elicit from
+enslaved workers.
+Given the expected profits of slaveholders, we can finally calculate the allocation of
+19
+--- Page 21 ---
+enslaved labor across Southern locationsi∈NS as:
+πi,s = Πθ
+i,sh∑
+i′∈NS Πθ
+i′,sh
+. (14)
+Comparing equation (14) to its free workers analog (6) highlights the differential sorting
+across locations for free and enslaved workers, as we will shortly see.
+3.4 Explaining the Stylized Facts
+We now show how the framework above offers a straightforward explanation of the Stylized
+Facts presented in Section 2.2. For expositional purposes, we tackle the Stylized Facts a bit
+out of order.
+3.4.1 Explaining Stylized Fact #2
+Comparing equation (12) to the equivalent expression (4) for free workers highlights how
+enslaved and free workers are differentially allocated across sectors within location. Dividing
+the enslaved occupation shareπio,s|i from equation (12) by the free occupation shareπio,f|i
+from equation (4) yields:
+πio,s|i
+πio,f|i
+=
+(
+u
+−1
+1+ϕ
+io cio
+)η
+/
+∑
+o′
+πio′,f
+(
+u
+−1
+1+ϕ
+io′c
+ϕ
+1+ϕ
+io′
+)η
+(15)
+Equation (15) shows that enslaved workers are allocated relative more to occupations with
+low amenities—i.e. Stylized Fact #2(b)—and greater coercion—i.e. Stylized Fact #2(c).
+Conditional on amenities and coercion, however, both free and enslaved labor is equally
+responsive to the productivity of an occupation, i.e. Stylized Fact #2(a).
+3.4.2 Explaining Stylized Fact #1
+In a similar spirit, we can compare equation (14) governing the allocation of enslaved workers
+across locations to its free workers analog in equation (6) to highlight the differential sorting
+across locations for free and enslaved workers. Taking ratios yields:
+πi,s
+πi,f
+=
+(∑
+o∈Oπio,f|i
+(
+uio
+Pi
+)−1
+1+ϕη
+cio
+)(1+ϕ)θ
+η
+∑
+i′∈NSπi′,f
+(
+∑
+o∈Oπi′o,f|i′
+(ui′o
+Pi′
+)−1
+1+ϕη
+c
+ϕ
+1+ϕη
+i′o
+) (1+ϕ)θ
+η
+. (16)
+20
+--- Page 22 ---
+Equation (16) says that there will be a relatively higher concentration of enslaved workers
+in locations with lower amenities, i.e. Stylized Fact #1(b), and higher degrees of coercion,
+i.e. Stylized Fact #1(c). In the model, as in the data, both free and enslaved workers shares
+are increasing in the productivity of a location, although recall from Stylized Fact #1(a)
+that there is empirical evidence that enslaved workers were more responsive to differences
+in cotton suitability. This is consistent with the model if the production of cotton is more
+susceptible to coercion (e.g. through the gang labor method of production), even conditional
+on the distance to the North.
+3.4.3 Explaining Stylized Fact #3
+To explain the third stylized fact, we first need to distinguish between the wage per efficiency
+unit in the model (and denoted bywio) with the wage per worker observed in the data (which
+we will denote by˜wio). Similarly, we can define the observed slave price˜pio,s as the profits
+earned by the slave-holder per enslaved worker employed in locationi and sectoro. We can
+write the ratio of the observed slave price and the wage per worker as follows:
+˜pio,s
+˜wio
+= 1
+1 +ϕcio
+(
+πio,s|i
+πio,f|i
+)−1+ϕ
+η
+(
+πi,s
+πi,f
+)−1
+θ
+. (17)
+Equation (17) serves two purposes. First, it explains Stylized Fact #3. Both observed
+slave prices and wages are increasing in the productivity of a location-sector in the same
+way, so that their ratio is uncorrelated with productivities, i.e. Stylized Fact #3(a). Their
+ratio is also increasing with the degree of coercion in a location, as the greater potential
+for coercion increases the output per enslaved worker disproportionately, i.e. Stylized Fact
+#3(c). Finally, from Stylized Facts #1 and #2, we know that sectors and locations with
+higher amenities will have relatively more free workers and relatively fewer enslaved workers;
+through endogenous sorting, this implies that locations with higher amenities have higher
+slave prices relative to observed wages, since enslaved workers in these locations will have
+greaterunobservedproductivities. Or, equivalently, locationswithworseamenities(e.g. high
+malaria) will have lower slave prices relative to observed wages, i.e. Stylized Fact #3(c). The
+second purpose of equation (17) is that it offers a way of estimating the across-occupation
+and across-location supply elasticities, a point we will return to in Section 5.1 below.
+3.5 Equilibrium
+We now close the model with standard general equilibrium conditions. First, demand yields
+a typical gravity equation for the value of goods being sent fromi∈Nto j∈N:
+21
+--- Page 23 ---
+Xijo =τ1−σo
+ij ×
+(
+pjo
+Pjo
+)1−σo
+×
+(
+Pjo
+Pj
+)1−ρ
+×Ej,
+where total expenditureEj in location j∈Nis equal to total income paid to free labor,
+enslaved labor, and slave holders, scaled proportionally to account for the aggregate U.S.
+trade imbalance, i.e.:
+Ejξ−1 =
+∑
+o∈O
+wjoLjo,f + ϕ
+1 +ϕ
+∑
+o∈O
+wjoLjo,s +λj
+1
+1 +ϕ
+∑
+i∈N
+∑
+o∈O
+wioLio,s, (18)
+where ξ≡
+YUS +
+∑
+o∈OTo
+YUS
+, YUS is the aggregate U.S. income, andTo is the difference between
+total U.S. imports and total U.S. exports in sectoro (i.e. the sector trade deficit). Here, we
+assume that total slaveholder profits are redistributed lump sump to each destination with
+shares λj, which we set equal to the fraction of enslaved workers residing in that location.
+Wecanthenformallydefineanequilibrium: Foranygeography {Aio,cio,uio}o∈O
+i∈N,{τij}(i,j)∈N×N,
+slaveholder profit shares{λi}i∈N, trade deficits{To}o∈O, aggregate labor endowments¯Lf and
+¯Ls, and model parameters{σ,ρ,θ,η,ϕ}, equilibrium is a set of prices{pio,Pio,Pi,wio}o∈O
+i∈N
+and labor allocations
+{
+πio,s|i,πio,f|i,πi,s,πi,f
+}o∈O
+i∈N
+such that:
+1. Payments to labor are equal to total sales:
+pioqio =
+∑
+j∈N
+(τij)1−σo
+×
+(
+pio
+Pjo
+)1−σo
+×
+(
+Pjo
+Pj
+)1−ρ
+×Ej;
+2. Expenditure is equal to total purchases:
+P 1−σo
+io =
+∑
+j∈N
+τ1−σo
+ji p1−σo
+jo ; P 1−ρ
+i =
+∑
+o∈O
+P 1−ρ
+io ;
+3. Wages are equal to the marginal product:
+wio =pio; and
+4. Labor allocations satisfy equations (4) and (6) for free labor and equations (12) and
+(14) for enslaved labor.
+4 Calculating the Welfare Gains from Emancipation
+We now derive expressions for the welfare gains from emancipation in our model. We employ
+an equivalent variation welfare metric, where we ask how much more would an individual
+22
+--- Page 24 ---
+have to be paid to be indifferent between remaining in the current equilibrium and moving
+to a counterfactual equilibrium. Equivalent variation allows us to express welfare under
+different institutional counterfactuals in a comparable money-metric. An important caveat
+is that we cannot account for any disamenity stemming from enslaved status itself, beyond
+the excess labor supply, lower consumption, and worse spatial amenities. For example,
+we cannot measure the “dishonor” experienced by the enslaved (Patterson, 1982), nor the
+manifold psychic and physical tortures that accompanied slavery apart from those directly
+related to the labor supplied. We also cannot account for the non-pecuniary benefits or
+costs whites, even non-slaveholders, may have obtained from the institution of slavery and
+associated racial domination (Chelwa et al., 2022). We view these estimates as computing a
+lower bound, narrowly focusing on purely neoclassical labor supply margins.
+4.1 The Partial Equilibrium Gains
+We begin by considering the partial equilibrium welfare gains from moving from slavery to
+emancipation, i.e. we hold constant prices and wages. It immediately follows that there are
+no changes to the welfare of free workers in this partial equilibrium exercise. We proceed by
+incrementally removing each component of the institution of slavery.
+4.1.1 Removing Coercion
+We begin by considering a counterfactual where slaveholders are no longer able to coerce
+enslaved workers to work harder but the institution of slavery otherwise remains unchanged.
+In this case, enslaved workers can now choose their labor supply, but slaveholders continue to
+act as monopsonists and decide the location and occupation of the enslaved. It is straightfor-
+ward to show that the optimal mark-down for slaveholders remains the same, but enslaved
+workers willchoosetoreducetheirlabor supplybelowthelaborsupply chosenbyfreeworkers
+to account for this mark-up, resulting in an equilibrium that is as if the coercion parameter
+was equal to the markdown, i.e.cio =ϕ/(1 +ϕ).
+What is the equivalent variation? The welfare of an individual remaining in slavery in
+location-sector (i,o ) with labor allocation dictated by the slaveholder with coercioncio but
+earning a scalar multipleλof the equilibrium remuneration is:
+Wio,s (λ,ε) =λwio,suio
+Pi
+Ai,oεio,s (ω)l−ϕ
+1 +ϕl
+1+ϕ
+ϕ (19)
+Substituting in the labor allocation chosen by the slaveholder given in equation (10) and the
+23
+--- Page 25 ---
+equilibrium remuneration in equation (11) yields:
+Wio,s (λ,ε) = ϕ
+1 +ϕ
+(uio
+Pi
+wio (Aiocio)εio (ω)
+)1+ϕ
+(cio)ϕ(λ−cio), (20)
+so that an enslaved worker is indifferent between slavery with coercion but with greater
+remuneration and slavery without coercion if:
+λEV
+1 =cio + 1
+1 +ϕ
+(
+ϕ/(1 +ϕ)
+cio
+)ϕ
+. (21)
+Intuitively, the greater the degree of coercion, the greater the welfare benefits of removing
+that coercion and allowing the enslaved worker to freely choose their own labor supply. The
+welfare cost of coercion is the difference between the cost of labor faced by slave owners
+and that borne by the enslaved.8 The welfare cost of forced labor without compensation
+is determined by the intensive labor supply elasticityϕ. A low elasticity of labor supply
+implies the curvature of the utility function around the optimum is steep, so that large
+amounts of compensation are required to offset involuntary labor supply, whereas a high
+elasticity implies only small amounts of compensation are required.
+4.1.2 Removing the Slaveholder
+Let us proceed by calculating the additional welfare gains from removing the slaveholder. In
+this counterfactual, enslaved workers will no longer be charged a mark-down on their wages
+and their labor supply will correspondingly increase to be the same as a free worker. This
+leads to welfare gains that are equivalent to simply not being charged the mark-down:
+λEV
+2 = 1 +ϕ
+ϕ, (22)
+i.e. the greater the markdown, the larger the welfare gains for the enslaved from recapturing
+the proceeds of their own labor.
+4.1.3 Freedom of Movement
+Finally, letuscalculatetheadditionalwelfaregainsfortheenslavedworkerfrombeingableto
+choose their own occupation and location, leveraging the Frechet distribution of productivity
+heterogeneity in our model. To facilitate this calculation, we develop an intuitive closed-form
+expression that provides a welfare metric for misallocation in models with Frechet-distributed
+8This is the dimension of slavery focused on in Hornbeck and Logan (2023) that generates their aggregate
+inefficiency in partial equilibrium.
+24
+--- Page 26 ---
+productivity, extending the setup in Hsieh et al. (2019), which we summarize in the following
+proposition:
+Proposition 1. Consider two variations of a discrete choice setting over choicesc∈ C
+with payoffsxcycεc, whereεc is distributed Frechet with shape parameterθ >1.In the first
+variation, agents choosec∗≡arg maxc∈Cxcycεc. In the second variation, agents are assigned
+to c∗∗≡arg maxc∈Cxcεc. Then the ratio of expected payoffs between the two variations can
+be written as:
+E [xc∗yc∗εc∗]
+E [xc∗∗yc∗∗εc∗∗] =
+(∑
+c∈Cπcyθ
+c
+)1
+θ
+∑
+c∈Cπcyc
+,
+whereπc≡xθ
+c/ ∑
+c′∈Cxθ
+c′is the probability of being assignedc∈Cin Variation 2.
+Proof. See Appendix A.1.
+By the generalized mean inequality, this ratio will be weakly greater than one with
+equality if and only ifyc =y for allc∈C. This is intuitive: agents will have higher expected
+payoffs if they get to choose their option based on the entirety of their payoffs than if they are
+assigned an option based on only a portion of their payoffs. Moreover, it is straightforward to
+show that gains from being able to choose relative to being assigned an option are larger the
+greater theθ(i.e. the less the idiosyncratic productivities matter), the greater the variance
+ofyc (i.e. the greater the heterogeneity of payoffs not accounted for across different choices),
+and the smaller the covariance betweenπc andyc (i.e. if the assigned options tend to be less
+attractive).
+In our context, we can think ofxc as the wage of an enslaved worker (which both the
+enslaved and the slaveholder care about) andyc as the amenity of an enslaved worker (which
+only the enslaved cares about). By applying Proposition A.1, we can calculate the additional
+welfare gains from allowing an enslaved worker to choose their location and sector:
+(
+λEV
+3
+)1+ϕ
+=
+
+ ∑
+i∈NS
+πi,s
+( ∑
+o∈O
+πio,s|i
+(uio
+Pi
+) η
+1+ϕ
+) 1+ϕ
+ηθ
+
+1
+θ
+/
+∑
+i∈NS
+πi,s
+( ∑
+o∈O
+πio,s|i
+(uio
+Pi
+))
+. (23)
+All else equal, enslaved workers will have larger welfare gains from being able to choose where
+they live and what they do if: (a) their labor supply elasticities (i.e.η
+1+ϕand θ) are larger;
+(b) if the variation in real amenities
+{
+uio
+Pi
+}
+is larger across occupations and locations; and (c)
+if the locations and occupations they are assigned to under slavery tend to have lower real
+amenities.
+25
+--- Page 27 ---
+4.2 A general expression
+Equations (21), (22), and (23) offer insight into the size of the welfare gains from sequentially
+removing each component of slavery, although they do so in a partial equilibrium setting in
+which we hold prices and wages fixed.
+We can also calculate the welfare effects of emancipation incorporating general equilib-
+rium adjustments to emancipation. To do so, we again consider an equivalent variation
+metric, although we now set it behind the “veil of ignorance”, where we calculate the scalar
+increase in incomeλin all sectors and locations that would make the expected utility of
+enslaved workers under slavery equal to the expected utility in the counterfactual. The
+equivalent variation approach to welfare allows us to summarize the welfare effects of the
+complex changes in prices and allocations induced by emancipation in general equilibrium.
+Formally, suppose that a counterfactual delivers expected utility˜U to enslaved workers.
+The equivalent variation λEV is then implicitly defined as the solution to the following
+equation:
+˜U =ϕ×ps×
+∑
+i∈NS
+πi,s
+( ∑
+o∈O
+πio,s
+((uio
+Pi
+) (
+λEV−cio
+)))
+, (24)
+where ps is the slaveholder’s annual profits per enslaved worker (i.e. the appropriately
+discounted slave price).
+A similar calculation for free workers turns out to more straightforward: the equivalent
+variation is the ratio of the expected utility under the counterfactual to the expected utility
+in the baseline to the power of1/ (1 +ϕ) (to account for the endogenous labor supply).
+Because allocations of enslaved workers across occupations
+(
+πio,s|i
+)
+and locations(πi,s)are
+readily observed, equations (21), (22), (23), and (24) highlight that it is straightforward to
+estimate the welfare gains from emancipation given knowledge of model elasticities{η,ϕ,θ},
+location fundamentals{cio,uio}, and the price indices{Pi}. We now discuss how to estimate
+and identify these parameters.
+5 Quantifying the Welfare and Economic Impacts of
+Emancipation
+We now turn to quantifying the welfare and economic impacts of emancipation. We begin
+by discussing how we estimate and identify the key model parameters from the data. We
+then present the impacts of emancipation on the distribution of people and economic activ-
+ity across sectors and space, followed by presenting the welfare impacts. We conclude by
+comparing the counterfactual emancipation results of the theory to the observed reallocation
+26
+--- Page 28 ---
+of free and formerly enslaved populations across locations and sectors.
+5.1 Estimation of model elasticities
+We now discuss estimation and identification of the model parameters. There are five model
+elasticities: the intensive labor supply elasticity ϕ, the across-sector and across-location
+extensive supply elasticitiesηandθ, and the across-sector and across-location demand elas-
+ticities ρand σ. We estimate the first three and calibrate the remaining two.
+5.1.1 Estimationoftheintensivelaborsupplyelasticity ϕfromenslavedmilitary
+hires
+Equation (11) shows that the markdown that enslaved workers earn relative to free workers
+per efficiency unit is solely a function of the intensive labor supply elasticityϕ. As a result,
+if one can observe the remuneration of free and enslaved workers who are both providing the
+same efficiency units of labor to the same job in the same place at the same time, the observed
+markdown would allow the estimation ofϕ. This is the strategy we pursue. Slave hiring
+was commonplace in the antebellum South (Martin, 2009), and provides a useful context to
+isolate some dimensions of the master-slave relationship. Employers of hired slaves had less
+ability to use coercion individually, as they would be liable for potential harm, and hired
+slaves were employed in a variety of occupations, many working side-by-side with free workers
+(Rockman, 2009). Thus comparisons of payments made by the same employer to owners of
+hired slaves vs free workers doing the same job are informative about the markdown, and
+hence the labor supply elasticityϕ.
+Thus, to estimateϕ, we use the U.S. forts data first digitized by Margo and Villaflor
+(1987). As we detail in Appendix A.4, slaves were used extensively on U.S. Army forts,9 in
+a diverse range of occupations (we observe 64 different occupations). Because the military
+could not own or recruit slaves directly, enslaved workers were almost always rented. The
+data report the wages paid to free workers and the payments made to slave owners for
+enslaved workers working on the fort. Slave owners could be both local slave owners as well
+as army officers that owned slaves that they rented to the military, but the latter would
+overwhelmingly be domestic servants (Hamdani, 2022). While the forts data offers only a
+select sample of locations (there are 38 forts) and occupations (e.g. very few forts hired
+9In 1842, Congress asks the Secretary of the Army to report on the use of enslaved workers in the military.
+J.C. Spencer, the Secretary of War responds with “The recruiting regulations authorize only free white male
+persons to be enlisted in the army; and there are no blacks or colored persons serving as soldiers; but neither
+regulation nor usage excludes them as mechanics, laborers, or servants, in any branches of service where
+such force is required” (27th Congress, 2nd day, Doc. No. 282, August 5, 1842).
+27
+--- Page 29 ---
+workers in the agricultural sector), it offers a unique setting where one can observe the
+payments to free and enslaved workers doing the same thing at the same time and in the
+same place.
+Table 3 reports a regression of the log payments made to a worker in the U.S. forts
+data on a dummy variable equal to one if that worker is enslaved. One possible concern is
+that even within a given occupation in a given fort, enslaved and free workers may differ in
+unobserved ways in their productivities. The model above implies that a sufficient statistic
+for this sorting is the share of free or enslaved workers employed by the fort that are working
+in an occupation. Regardless of the set of fixed effects included or if we control for this
+share of workers, we document a stable, consistent, and statistically significant discount for
+payments made to enslaved workers relative to free workers. In our preferred specification
+including year-month and occupation-fort fixed effects and controlling for occupation shares,
+we estimate that slaveholders are paid 18.1% less for work done by enslaved workers than
+free workers for doing the same job at the same fort at the same time.
+Our interpretation of this differential payment to owners of hired out slaves and free
+workers is that payments to free workers include money for subsistence, while the payments
+to enslaved owners are net of the (in-kind) payments to the enslaved. The slave rentals
+are much more frequently monthly rentals rather than daily, relative to free workers in the
+same forts, and the enslaved workers were likely living on the forts and eating military
+rations. Indeed, Appendix Table A.4 shows that once we restrict attention to the sample of
+contracts where rations are given to both free and enslaved workers, the payment penalty
+for enslaved workers shrinks to zero once the number of rations per month are included.
+The lower payments to owners are because the forts deduct the costs of room and board for
+the payments made to slave owners. This interpretation is the view given by Mark Smith’s
+study of army slavery at Key West, where he writes:
+“In addition to the monthly wages, slaveholders also benefited financially because
+slave hiring relieved them of much of the cost of support. It appears that slave
+owners assumed responsibility only for clothing their leased bondsmen. The
+engineers took care of the rest. The wage of twenty dollars per month that Lt.
+Wright paid the owners for his first slave laborers represented only part of the
+slaveholders’compensation. Wrightalsohadtoprovidefood, shelter, andmedical
+treatment to the slaves he leased, and this seems to have been the case at both
+forts for most of the period, although except sometimes medical services were
+dropped from the bargain. The major exception to these policies came at Fort
+Taylor when Maj. William H. Chase was the superintending engineer from late
+1854 through 1855. Chase, who had extraordinarily large appropriations during
+28
+--- Page 30 ---
+histenure, repeatedlyattemptedtohiremoreslavesfortheFortTaylorworkforce.
+In his efforts to supplement his labor force, Chase offered slaveholders up to $1.50
+per day for their bondsmen, but he insisted that "The masters furnish food,
+clothes, medical attendance &c." Chase could find no additional slave laborers
+for these terms.” (Smith, 2008, pg. 511)
+Put another way, enslaved persons only enjoyed (in kind) payments equal to18.1% of their
+labor. How plausible is this number as a markdown? Perhaps the most famous hired
+enslaved worker was Frederick Douglass (Douglass, 1845(1994), employed as a caulker in
+the Maryland shipyards, but living with his owner. Douglass also recalls bargaining for his
+share of the wages earned, with his owner Hugh Auld sometimes denying him all the wage,
+recalling he was paid “a dollar and fifty cents per day. I contracted for it, worked for it,
+earned it, collected it; it was paid to me, and it was _rightfully_ my own; and yet, upon
+every returning Saturday night, this money—my own hard earnings, every cent of it—was
+demanded of me, and taken from me by Master Hugh.” (Douglass, 1845(1994, pg. 85), and
+“He would, however, when I made him six dollars, sometimes give me six cents, to encourage
+me” (pg. 88). This would imply that Douglass was getting very close to 0, while Douglass,
+by his own account, was earning as much as nine dollars a week in 1838. However, these
+wages were also covering the value of room and board, which Douglass estimates at “two
+dollars and a half per week” (pg. 89), implying he was retaining 28% of his income, very
+close to what is implied by our regression.10
+In Appendix A.4, we discuss other estimates of the markdown and compare them to ours.
+Many estimates have relied on the comparison between slave hiring rates and free worker
+wages for the same occupation to infer markdown. But previous researchers have not been
+able to look at free and enslaved workers doing the same job in the same organization at the
+same time, the way the army fort data does.
+From equation (11), our markdown estimates imply an intensive labor supply elasticity
+ofϕ= 0.221 ( ϕ
+1+ϕ= 0.181). This estimated labor supply elasticity is broadly similar to other
+estimates from the literature (e.g. Chetty et al. (2011) estimates an intensive (micro) labor
+supply elasticity of0.3); for robustness, in what follows we will also assess the sensitivity of
+our counterfactual results to alternative values.
+10Other quotes from Douglass’ account of this period give upper bounds. For example, when Douglass
+renegotiates his contract so that he can pay a fixed price to his owner and keep the residual income, Auld
+accepts 3 dollars a week, with Douglass keeping all the rest of his income, which covered “my regular expenses
+about six dollars per week” and allowed some savings. These numbers imply Douglass is keeping at least
+66% of his income, which would imply a much largerϕ= 2, but since he has stronger incentives to work this
+division of surplus is likely not typical of hired slaves. These fixed-payment contracts were very rare among
+slave hires (Martin, 2009).
+29
+--- Page 31 ---
+5.1.2 Estimation of the across-sector supply elasticity ηand across-location
+supply elasticityθ
+We estimate the across-sector (within location) supply elasticityηand the across location
+supply elasticity θsimultaneously by comparing the variation in relative slave prices to
+wages equation with relative free and enslaved labor shares across sectors and locations
+using equation 17, which we write here in log form:
+ln ˜pio,s
+˜wio
+=−1 +ϕ
+η ln
+(
+πio,s|i
+πio,f|i
+)
+−1
+θln
+(
+πi,s
+πi,f
+)
++ϕlncio + ln 1
+1 +ϕ. (25)
+Equation 25 says that, apart from coercion, the only spatial variation in differences between
+payments to enslaved and free persons employed in the same sector in the same location
+arise from differences in their unobserved productivities, which are reflected in their respec-
+tive labor shares. Intuitively, if we observe a large fraction of enslaved people but only a
+small fraction of free persons engaged in agriculture in a given location, the average free per-
+son should have higher unobservable productivity in agriculture than the average enslaved
+person, which should be reflected in lower observed slave prices relative to free wages.
+Column (1) of Table B.1 reports a simple OLS regression of equation 25, where we include
+the (log) distance to the North as a proxy for coercion. As predicted, the coefficients on
+both the within-location and across-location shares are negative and the ratio is increasing
+with the distance to the North. Column (2) also includes county fixed effects, which has the
+added advantage of only identifying the within-location supply elasticityηusing variation
+across sectors within a location.
+However, because the residual includes other (unobserved) components of coercion and
+these components of coercion will affect the relative shares of free and enslaved persons (see
+equations 15 and 16), an OLS coefficient will bias the coefficients on both relative shares
+terms upward toward zero, biasing the estimated elasticities upward. Fortunately, however,
+our model offers a solution: any proxy for amenities that is uncorrelated with coercion is
+an appropriate instrument: from equations 15 and 16, the amenities of a location-sector are
+correlated with relative shares (i.e. they are relevant) and from equation 17, they do not
+directly affect the ratio of prices to observed wages (i.e. they are excludable).
+As a result, we proceed by instrumenting for the relative shares with malarial suitability
+(and its interaction with dummy variables for each of the sectors), controlling for our proxy
+for coercion. Column (3) shows that this set of instruments, unfortunately, is not strong
+enough to offer sufficient variation to estimate both the within-location supply elasticityη
+and across-location supply elasticityθsimultaneously, so we instead proceed in two steps.
+First, we estimate the within-location supply elasticityηby including county fixed effects
+30
+--- Page 32 ---
+and instrumenting for sector shares with malarial suitability interacted with sector dummy
+variables. County fixed-effects will absorb all other sources of county-level coercion, like the
+local variation in slave patrols documented in Hadden (2001), increasing the plausibility of
+our conditional exogeneity assumption. Column (4) shows that the inclusion of county fixed
+effects improves the power of the first stage (albeit still with a first-stage F-statistic of only
+6), resulting in an estimated within-location supply elasticity ofη= 2.453. Next, we take
+the value ofηas given and estimate the across-location supply elasticityθusing malarial
+suitability of a county as an instrument. Column (5) reports the results: we have a strong
+first stage, yielding an across-location supply elasticity ofθ= 3.258. These supply elasticities
+are similar in magnitude to other estimated elasticities in the literature (albeit in different
+settings); although given remaining concerns about a weak instrument, in what follows, we
+will also assess the sensitivity of our counterfactual results to alternative values.11
+5.1.3 Calibrationoftheacross-sectordemandelasticity ρandtheacross-location
+demand elasticitiesσo.
+We calibrate the demand elasticities to values from the literature. We set the across-sector
+demand elasticity toρ= 0.89, following the estimate in Herrendorf et al. (2013) for homoth-
+etic CES demand. For within-sector, across-location demand elasticities, we need three sep-
+arate values for agriculture, manufacturing, and services. For agriculture, we setσag = 9.22
+following Donaldson and Hornbeck (2016). This is our preferred estimate given our shared
+setting (the United States in the 19th century), but it is also very close to the estimate
+from Caliendo and Parro (2015) of 9.11. For manufacturing, we setσmfg = 4.05 following
+Hornbeck and Rotemberg (2024),12 which also shares our setting and is similar to the median
+manufacturing elasticity found in Caliendo and Parro (2015) of 4.965. Finally, for services,
+we setσserv = 5.98 following Gervais and Jensen (2019), which is also similar to estimates
+from Blank et al. (2022) as well as Ahmad and Schreiber (2024).
+11For example, Monte et al. (2018) estimate an across-location labor supply elasticity of4.4 in contempo-
+rary U.S., Tombe and Zhu (2019) estimate an across-location labor supply elasticity of2.5 in contemporary
+China, and Morten and Oliveira (2024) estimate an across-location labor supply elasticity of3.4 in 20th
+century Brazil, and Burstein et al. (2019) estimate a across-sector labor supply elasticity of1.8 in the 20th
+century U.S.
+12The Hornbeck and Rotemberg (2024) estimate is from a model that combines trade in manufacturing and
+agriculture. However, the focus of the paper and model is on manufacturing - for instance, the input price
+wedges for agriculture are assumed to be the same as those estimated for manufacturing, and the production
+function elasticities are at the county level for manufacturing but at the national level for agriculture.
+31
+--- Page 33 ---
+5.2 Estimation of geographic variables
+Given model elasticities, it remains to estimate the U.S. geography. We calibrate bilateral
+trade costsτij and then “invert” the model to recover the location-sector specific productiv-
+ities Aio, amenitiesuio, and coercion parameterscio.
+5.2.1 Calibration of Trade Costs and International Trade
+We calibrate the bilateral trade costsτij between all U.S. counties to the values given by
+Donaldson and Hornbeck (2016) for the year 1860. For international trade, the only addi-
+tional data required is trade costs and aggregate trade levels between the U.S. and ROW
+in each traded sector. Given observed trade costs, we maintain balanced trade with trans-
+fers equivalent to the observed trade imbalance. For trade costs between U.S. counties and
+the ROW, we assume international trade is shipped through New York City to Liverpool,
+where the additional cost of international trade is calculated using the pound sterling cost of
+shipping cotton to Liverpool reported by the New York Chamber of Commerce (Chamber of
+Commerce, 1861), converting to 1860 dollars following Officer (2025).13 Lastly, we convert
+the calculated cost to a bilateral trade cost between U.S. counties and ROW using the same
+procedure as Donaldson and Hornbeck (2016). Aggregate trade levels in 1860 for agriculture
+and manufacturing are sourced from the New York Times (1862), while services trade is
+calculated from shares and statistics in Officer (2021).
+5.2.2 Estimation of Unobserved Location-Sector Characteristics
+We follow the standard procedure in the quantitative spatial literature to “invert” the ob-
+served labor shares and wages to recover the unobserved location-sector characteristics (see
+e.g. Allen and Arkolakis (2014)). One difficulty that arises in this approach is that we do
+not directly observe the division of output between free and enslaved persons. To overcome
+this difficulty, we use the fact that in equilibrium the expected profits to the slaveholder
+from the enslaved will be equalized across sectors and locations.14
+What is the expected (annual) profits to the slaveholder of an enslaved person? In what
+follows, we it to be $276 per year, which corresponds to the midpoint between the estimate
+calculated from discounting enslaved profits using the gross return in Lindert and Williamson
+(2012) ($192) and the estimate calculated based on measures of enslaved subsistence con-
+13In 1860, New York City was the largest port in the U.S. and third largest in the world behind Liverpool
+and London. Roughly two-thirds of all U.S. imports ($234 million of $362 million) and one-third of all U.S.
+exports ($121 million of $373 million) transited via New York City (Chamber of Commerce, 1861).
+14While in principle it would be possible to use our proxy for slave prices to estimate the output of enslaved
+persons, because this proxy also includes other slaveholder assets, it would overstate enslaved output.
+32
+--- Page 34 ---
+sumption ($360). A value of $276 per year in turn implies an average remuneration of
+enslaved persons of $61 (ϕ×276) per year. We discuss the sources and motivation for the
+calculation of these two numbers, as well as additional evidence in Appendix A.4.
+The following Proposition shows that given model elasticities, trade costs, and interna-
+tional trade, there exists a unique (to-scale within sector) set of productivities, amenities,
+and coercion parameters such that the model equilibrium given these location-sector char-
+acteristics is exactly equal to the observed data on labor allocations, wages, and slave price
+for locations within the U.S.,NUS:15
+Proposition 2. Given model elasticities{η,θ,ρ,σ,ϕ}, trade costs{τij}i,j∈N, slaveholder
+profit shares{λi}i∈N,slave priceps, and international imports and exports
+{
+MROW
+o ,X ROW
+o
+}
+o∈O
+,
+there exists a geography{Aio,cio,uio}o∈O
+i∈NUS such that the model equilibrium is equal to the
+observed (per person) wages{˜wio}o∈O
+i∈NUS and labor allocations
+{
+πio,s|i,πio,f|i,πi,s,πi,f
+}o∈O
+i∈NUS.
+The geography is unique (up-to-scale) within sector.
+Proof. See Appendix A.2.
+Intuitively, the wages and free workers’ choices of occupations allow us to identify the rel-
+ative amenities: if a free worker works in a location-occupation with low wages, the amenity
+value of that location-occupation must be relatively high. Conversely, since enslaved workers
+are allocated to maximize profits for slaveholders, their labor allocation (again conditional
+on adjusted wages) identifies the relative coercion parameters. Given amenities and coer-
+cion parameters, productivities can then be recovered using market clearing conditions. In
+Appendix A.2, we also offer an iterative algorithm that in practice efficiently inverts the
+model.
+Appendix Figure B.4 depicts the resulting spatial distribution of estimated productivi-
+ties, amenities, and coercion for the agricultural sector across the U.S. South. The so-called
+“Cotton Belt” along the Mississippi and through central Alabama is estimated to have high
+productivities, low amenities, and high degrees of coercion. Counties in West Virginia and
+Kentucky, in contrast, tended to have lower agricultural productivity, but higher amenities
+and lower degrees of coercion. Appendix Figure B.5 compares the model estimated spatial
+distribution in agricultural productivities, amenities, and coercion to the geographic proxies
+of cotton suitability, malaria suitability, and distance to North we used in the Stylized Facts
+15The inversion is unique to-scale within sector because of the possibility that across-sector demand is
+complementary, i.e. we allowρ≤1. Whenσo >ρ>1 for allo∈O, the inversion is unique (to-scale) across
+sectors as well. See Allen et al. (2024) Appendix A.5 for more discussion.
+33
+--- Page 35 ---
+presented in Section 2.2. Reassuringly, the estimated location fundamentals are strongly cor-
+related with their corresponding geographic proxy in the expected direction, even conditional
+on state fixed effects and the other two geographic proxies.
+5.3 Aggregate Impacts of Emancipation
+Given the estimated model elasticities and geography, we calculate a series of counterfactuals
+that incrementally dismantle the institution of slavery. As in Section 4, we first remove
+coercion, allowing enslaved persons to choose their own intensive labor supply. We then
+remove slaveholders, allowing enslaved persons to receive the entirety of the proceeds from
+their own labor. Finally, we remove the mis-allocation, allowing enslaved persons to choose
+both their sector and location. For this last step, we consider two variants: in the first,
+enslaved persons must remain in the U.S. South; in the second, they may reside anywhere in
+the United States. In this latter version, enslaved persons and free persons behave identically.
+All counterfactuals include all general equilibrium impacts on prices, wages, and allocations
+across all U.S. counties.
+We begin by reporting the aggregate impacts of emancipation. We report the welfare
+impacts in equivalent variation, as discussed in Section 4.2. Economic impacts are measured
+in dollars per person per year. Table 5 presents the results.
+The first row presents our slavery baseline where the model is calibrated to exactly match
+the observed data. The second row presents what would occur if there were no coercion.
+Recall from equation (21) in Section 4.1.1 that this welfare gain arises from enslaved workers
+being able to reduce their labor supply. This leads to a welfare gain equivalent to a 361%
+increase in enslaved remuneration from the baseline scenario, i.e. an increase from $61 to
+$281 a year. The magnitude implies that the average enslaved person is coerced into offering
+approximately twice as much labor than they would have otherwise, which accords well with
+historical evidence on how Black labor supply adjusted after slavery ended.16 This decline
+in slave labor causes a reduction in agricultural output of 5.3% and a decline in overall GDP
+of 0.9%.17
+16It is important to emphasize that we estimate that enslaved persons are coerced into offering twice
+as much labor as they would have chosengiven their remuneration under slavery . If we instead compare
+slavery to the labor supply chosen without slave-holders imposing a mark-down, we find enslaved persons
+are coerced into providing37% more labor than they would have chosen. In comparison, Ransom and Sutch
+(1977) estimates that prime age working men in agriculture reduce their hours by 12% after emancipation,
+although Goldin (1973) notes that this figure underestimates the decline in labor supply for the family as a
+whole.
+17The smaller decline in aggregate GDP is because we estimate coercion parameters less than the mark-
+down in the non-agricultural sectors in many locations. Intuitively, coercion is difficult in non-agricultural
+sectors like manufacturing and services (as evinced by the low share of enslaved workers in these sectors
+despite high observed wages), so that the enslaved supply less labor in that sector than they would if they
+34
+--- Page 36 ---
+The third row presents what would occur if there were no coercion and enslaved persons
+were able to retain all the fruits of their labor. Recall from equation (22) in Section 4.1.2
+that this welfare gain arises from transferring all slaveholders’ profits to the enslaved persons.
+The gains from receiving the value of all of one’s labors (or equivalently, removing the mark-
+down) is large, equal to a 731% increase in wages in the baseline case, or an additional 81%
+increase over and above removing coercion on its own. Overall output increases by 6.5%
+relative to baseline, as enslaved persons choose to increase their labor supply once their
+wages are no longer marked down.
+The fourth row presents what would occur if enslaved persons were free but confined
+to remain in the U.S. South. Recall from equation (23) in Section 4.1.3 that this welfare
+gain arises from enslaved persons being able to reallocate away from low-amenity / high-
+coercion location-sectors toward high-amenity location-sectors. The overall gains relative to
+the baseline case are equivalent to a 889% increase in wages, or an additional 19% increase
+over and above removing coercion and slave-holders. This welfare gain is substantial because,
+as noted in Stylized Fact 1(b) and 2(b), enslaved persons were allocated to low amenity
+location-sectors; indeed, we find a negative correlation of−0.54 between (log) enslaved labor
+shares and (log) amenities across all Southern location-sectors in 1860. But because enslaved
+persons now get to choose their location and occupation to maximize welfare rather than
+being forced to maximize profits, aggregate GDP falls by 2.9%.
+Finally, the fifth row presents what would occur if enslaved persons were free and could
+choose to reside anywhere in the U.S. In this case, all persons in the model act identically.
+All told, the gains are equivalent to an 1192% increase in baseline wages, a further 55%
+increase over removing coercion and monopsony on their own. In dollar terms, these welfare
+gains are equal to an increase from $61 to $788 in annual remuneration—well above the per
+capita GDP at the time. As noted in the Section 4, these welfare costs are lower bounds on
+the true costs of slavery, as they abstract from any direct disutility of being enslaved that
+is invariant to labor supply. Because the U.S. North is estimated to be more attractive in
+both its amenities and productivities than the U.S. South, the welfare gains from being able
+to move anywhere in the U.S. are substantially larger than the gains from just reallocating
+within the U.S. South. Moreover, the ability of the formerly enslaved to move to the more
+productive North enables emancipation to increase U.S. per capita GDP by 9.1% relative
+to the baseline. On the other hand, free person welfare declines by 0.7%, as increased
+competition from the formerly enslaved drives down the wages in more attractive locations
+could freely choose. The difficulty of coercing enslaved workers in manufacturing is confirmed in a number of
+case studies of slave manufacturing (Dew, 1995), as well as monographs like Bateman and Weiss (2002) and
+Starobin (1968). James H. Hammond, one of the leading slaveowners in South Carolina, wrote “Whenever
+a slave is made a mechanic he is more than half-freed” (Andrews, 2019, Chapter 2).
+35
+--- Page 37 ---
+and sectors.
+How do these aggregate welfare effects compare to the estimates of others? Seagrave
+(1971) examines the wage rate of gang-laborers post emancipation to estimate that the
+gang labor system requires paying workers approximately 150% more than enslaved persons
+were compensated. Building on this estimate, Fogel and Engerman (1974) calculate the
+pecuniary and non-pecuniary incidence of the gang-labor system on the enslaved, and argue
+that slaves got roughly 5 dollars of additional compensation but bore 75 dollars of non-
+pecuniary costs, which corresponds to an equivalent variation welfare gains of removing
+the gang labor system of 115%. These estimates correspond to roughly one-third of our
+estimated equivalent variation welfare gains from removing all forms of coercion, suggesting
+that gang labor was an important (but not comprehensive) component of coercion. Hornbeck
+and Logan (2023) focus on the uncompensated externality and the aggregate welfare growth,
+and estimate increases in welfare relative to Southern GDP of between 11% and 358%. In
+comparison, our estimated welfare gains for enslaved persons from emancipation is equal to
+an increase of 241% in Southern GDP, well within their range.
+5.4 Impacts of Emancipation across Sectors and Locations
+The aggregate impacts, however, mask substantial heterogeneity in the impacts of emancipa-
+tion across sectors and locations. For brevity, we will focus on the counterfactual of complete
+emancipation. Figure 3 depicts the change in allocation for both enslaved persons (panel a)
+and free persons (panel b). As is evident, emancipation would result in a massive change
+in the spatial distribution of labor allocation. More than two-thirds—69%—of formerly en-
+slaved persons move to the North, but even of those who remain in the South, at least 22%
+change their location, moving out of high-productivity, high-coercion, low-amenity locations
+like those in the Cotton Belt toward high-amenity, lower-productivity locations like those in
+Kentucky and West Virginia. This, in turn, would raise equilibrium wages in the areas they
+are departing, inducing free persons to move in. While substantial, the free person response
+is an order of magnitude smaller, requiring only 2.4% of the free population to move.
+Figure 4 shows that the sectoral impacts of emancipation were also large. The share of
+enslaved persons engaged in agriculture falls nearly everywhere from an average of 83% to
+39%. While the overall increase in free labor in agriculture is negligible, there are especially
+notable increases in the share of free persons engaged in agriculture in locations with high
+agricultural productivity like in the Cotton Belt where enslaved persons have fled.
+What are the economic impacts of these substantial changes in labor allocations? Figure
+5 depicts the changes in the value output in each sector in all U.S. counties. The large
+36
+--- Page 38 ---
+scale exit of enslaved persons from high-productivity, low-amenity locations in the South
+combined with the large scale move of enslaved persons into manufacturing and services
+results in declines in agricultural output in these locations and corresponding increases in
+the output in services and manufacturing. All sectors expand in the U.S. North: Northern
+agricultural output increases by 24%, manufacturing increases by 29%, and services increase
+by 28%. The South experiences similar growth in manufacturing (19%) and services (8.8%)
+but substantial declines in agriculture (-29%). All told, total U.S. agricultural output falls by
+5.4%, whereas the services and manufacturing sectors expand by 21%, and 27%, respectively.
+Hence, the counterfactual results suggest that slavery played an important role in slowing
+structural transformation in the U.S.
+Appendix Figures B.6, B.7, and B.8 show how the quantitative impacts of emancipation
+varywithalternativevaluesofthesupplyelasticities ϕ,θ, andη. Asisevident, themagnitude
+of the economic impacts are of similar magnitudes, the welfare impacts on free persons
+remain modest, and the welfare impacts for enslaved persons remain large for all reasonable
+parameter values.
+5.5 Comparing Counterfactual Emancipation to Actual Emanci-
+pation
+The previous section highlighted the substantial reallocation of both free and enslaved pop-
+ulations across both sectors and locations after emancipation. Did this reallocation actually
+occur after the U.S. Civil War? To answer this question, we compare the predicted changes
+in population from complete emancipation to the actual population changes across locations
+and sectors for Black and White populations using the 1870 complete count Census.18
+For both Black and White workers, we compare the (log) observed change in populations
+and sectoral labor shares with the (log) observed changes across all Southern counties. Figure
+6 presents the results. As is evident, the predicted changes in both (across-location) changes
+in population shares and (within-location) changes in sectoral shares are positively and
+strongly correlated with the observed changes between 1860 and 1870, with one exception: a
+strong positive correlation for changes in Black population shares only exists after controlling
+for the initial (1860) Black county population. This provides suggestive evidence that the
+formerly enslaved’s actual post-Civil War experience including substantially more migration
+frictions across locations than the costless reallocation assumed by the model.
+18In particular, we compare the ratio of the Black population in 1870 to the enslaved population in 1860
+and the White population in 1870 to the free population (both White and Black) in 1860. Given the relatively
+small number of free Black workers in the U.S. South in 1860 (55,000 of 1.6 million free workers), here we
+refer to the latter group as “White” workers.
+37
+--- Page 39 ---
+6 Conclusion
+We view our model as a first attempt to quantify how the institution of slavery shaped the
+antebellum economy in the United States. We have built a rich model of the allocation
+of free and enslaved workers across many locations and sectors based on the premise that,
+unlike free workers, enslaved workers do not get to choose how much they work, what sector
+they are working in, or where to live and work. Using the observed allocations of free
+and enslaved workers across sectors and space, together with new data on wages and slave
+prices, we estimate the key parameters of the model. We then use the model to simulate
+emancipation as restoring a competitive labor market for the enslaved, accounting for the
+general equilibrium response, and quantitatively recover the welfare gains to emancipation
+and the impacts on the spatial economy across a variety of emancipation scenarios.
+The main takeaways are two-fold. First—and perhaps unsurprisingly—the welfare of
+the enslaved was enormously reduced by slavery, with emancipation generated an equivalent
+variation welfare gain of 1,192%. These welfare losses arise from three sources, all of which
+are quantitatively important: enslaved persons are coerced into providing much more labor
+than they would have otherwise chosen (361%), a substantial fraction of the proceeds of
+enslaved persons’ labor is captured by slaveowners (81%), and enslaved persons are allocated
+to locations and sectors that they otherwise would not have chosen (55%). We re-emphasize
+that these welfare costs of slavery are undoubtedly lower bounds, as they abstract from any
+direct disutility from being enslaved that does not depend on labor supply choices.
+Second, we find that slavery had large impacts on the spatial and sectoral composition of
+the aggregate U.S. economy: emancipation led to large expansions of the services (21%) and
+manufacturing (27%), and a substantial movement of agricultural production into the U.S.
+North (where agricultural output increased by 24%) and away from the U.S. South (where
+agricultural output fell by 29%). These findings suggest that the institution of slavery not
+only slowed structural transformation and inhibited economic growth in the U.S., but also
+led to spatially inefficient patterns of production.
+To highlight the role that slavery played in shaping the antebellum economy, our ex-
+ercise is built on two assumptions: (1) (but for the institution of slavery), the economy
+would be efficient; and (2) (but for the institution of slavery), all workers would behave
+identically. While we think these assumptions offer a reasonable quantitative benchmark
+for evaluating the institution of slavery, they also necessarily omit a number of key dimen-
+sions of both American slavery and the larger American economy. For example, the first
+assumption abstracts from economic externalities like increasing returns to scale in manu-
+facturing or urban agglomerations (Bateman and Weiss, 2002) and labor market frictions
+38
+--- Page 40 ---
+such as monopsony power due to heterogeneous worker preferences (see e.g. Berger et al.
+(2022); Méndez and Van Patten (2022)), whereas the second assumption abstracts from hu-
+man capital accumulation (Sacerdote, 2005). Other margins that our analysis abstracts from
+include intermediate input market and production network linkages (Bailey, 1990), aggre-
+gate demand externalities on northern manufacturing(Rockman, 2024), effects on innovation
+(Connell, 2024), international capital flows from slaveholdings (Heblich et al., 2022), inequal-
+ity in landholdings (Jaynes, 1995; Miller, 2020), political economy considerations (Masera
+and Rosenberg, 2021), and credit markets (González et al., 2017). We leave exploration of
+these important economic forces for future work.
+Finally, our results suggest that the observed allocation of workers in 1870 reflects more
+than emancipation itself. Our model predicts that enslaved workers would have been more
+mobile across locations than we see in the data. As discussed in the introduction, actual
+emancipation came alongside an extremely destructive war, a military occupation, and polit-
+ical attempts to restore something close to the slave system. Perhaps these forces, or others
+we have omitted from the analysis, can rationalize the persistence of slavery and its effects
+well into the present. Again, we think exploring these empirical facts through the lens of
+models like the one we have constructed could be a fruitful direction for future research.
+39
+--- Page 41 ---
+References
+Acemoglu, Daron and Alexander Wolitzky (2011) “The economics of labor coercion,”Econo-
+metrica, 79 (2), 555–600.
+Ager, Philipp, Leah Boustan, and Katherine Eriksson (2021) “The Intergenerational Effects
+of a Large Wealth Shock: White Southerners after the Civil War,”American Economic
+Review, 111 (11), 3767–3794.
+Ahmad, Saad and Samantha Schreiber (2024) “Estimating Elasticities for Tradable Services
+in Policy Simulations,” technical report.
+Allen, Treb (2015) “The promise of freedom: Fertility decisions and the escape from slavery,”
+Review of Economics and Statistics, 97 (2), 472–484.
+Allen, Treb and Costas Arkolakis (2014) “Trade and the Topography of the Spatial Econ-
+omy,”The Quarterly Journal of Economics, 129 (3), 1085–1140.
+Allen, Treb, Costas Arkolakis, and Xiangliang Li (2024) “On the equilibrium properties of
+spatial models,”American Economic Review: Insights, 6 (4), 472–489.
+Allen, Treb, Costas Arkolakis, and Yuta Takahashi (2020) “Universal gravity,”Journal of
+Political Economy, 128 (2), 393–433.
+Allen, Treb and Dave Donaldson (2020) “Persistence and path dependence in the spatial
+economy,” technical report, National Bureau of Economic Research.
+Althoff, Lukas and Hugo Reichardt (2024) “Jim Crow and Black economic progress after
+slavery,”The Quarterly Journal of Economics, 139 (4), 2279–2330.
+Andrews, William L. (2019) “Work, Status, and Social Mobility,” inSlavery and Class in
+the American South: A Generation of Slave Narrative Testimony, 1840-1865, Oxford
+University Press, 10.1093/oso/9780190908386.003.0003.
+Araujo, Rafael and Vitor Possebom (2025) “Potato potahto in the FAO-GAEZ produc-
+tivity measures? Nonclassical measurement error with multiple proxies,”arXiv preprint
+arXiv:2502.12141.
+Bailey, Ronald (1990) “The slave (ry) trade and the development of capitalism in the United
+States: The textile industry in New England,”Social Science History, 14 (3), 373–414.
+Bateman, Fred and Thomas Weiss (2002)A deplorable scarcity: the failure of industrializa-
+tion in the slave economy, UNC Press Books.
+Berger, David, Kyle Herkenhoff, and Simon Mongey (2022) “Labor market power,”American
+Economic Review, 112 (4), 1147–1193.
+Blank, Sven, Peter H. Egger, Valeria Merlo, and Wamser Georg (2022) “A structural quan-
+titative analysis of services trade de-liberalization,”Journal of International Economics,
+137.
+40
+--- Page 42 ---
+Bleakley, Hoyt and Paul Rhode (2022) “The Economic Effects of American Slavery, Redux:
+Tests at the Border,” Working Paper.
+Bobonis, Gustavo J and Peter M Morrow (2014) “Labor coercion and the accumulation of
+human capital,”Journal of Development Economics, 108, 32–53.
+Bryan, Gharad and Melanie Morten (2019) “The aggregate productivity effects of internal
+migration: Evidence from Indonesia,”Journal of Political Economy, 127 (5), 2229–2268.
+Burstein, Ariel, Eduardo Morales, and Jonathan Vogel (2019) “Changes in between-group in-
+equality: computers, occupations, and international trade,”American Economic Journal:
+Macroeconomics, 11 (2), 348–400.
+Caliendo, Lorenzo and Fernando Parro (2015) “Estimates of the Trade and Welfare Effects
+of NAFTA,”The Review of Economic Studies, 82 (1), 1–44.
+Chelwa, Grieve, Darrick Hamilton, and James Stewart (2022) “Stratification economics:
+Core constructs and policy implications,”Journal of Economic Literature, 60 (2), 377–
+399.
+Chetty, Raj, Adam Guren, Day Manoli, and Andrea Weber (2011) “Are micro and macro
+labor supply elasticities consistent? A review of evidence on the intensive and extensive
+margins,”American Economic Review, 101 (3), 471–475.
+Chamber of Commerce, New York (1861) “Third Annual Report of the Chamber of Com-
+merce of the State of New York, For the Year 1860-’61,” technical report, New York,
+https://babel.hathitrust.org/cgi/pt?id=uc1.b3010080&seq=9.
+Connell, Paul (2024) “A’New View’of America’s Original Sin: Induced Innovation and Slav-
+ery in the Antebellum United States,”Available at SSRN 4877471.
+Conrad, Alfred H. and John R. Meyer (1958) “The Economics of Slavery in the Ante Bellum
+South,”Journal of Political Economy, 66 (2), 95–130.
+Costinot, Arnaud, Dave Donaldson, and Ivana Komunjer (2012) “What goods do countries
+trade? A quantitative exploration of Ricardo’s ideas,”The Review of economic studies, 79
+(2), 581–608.
+Darity, William A. and Kirsten A. Mullen (2020)From Here to Equality: Reparations for
+Black Americans in the Twenty-First Century, University of North Carolina Press.
+David, Paul A. and Peter Temin (1974) “Slavery: The Progressive Institution?”Journal of
+Economic History, 34 (3), 739–783.
+Dew, Charles B (1995)Bond of iron: Master and slave at Buffalo Forge, WW Norton &
+Company.
+Dippel, Christian, Avner Greif, and Daniel Trefler (2020) “Outside options, coercion, and
+wages: Removing the sugar coating,”The Economic Journal, 130 (630), 1678–1714.
+41
+--- Page 43 ---
+Donaldson, Dave and Richard Hornbeck (2016) “Railroads and American Economic Growth:
+A "Market Access" Approach,”Quarterly Journal of Economics, 131 (2), 799–858.
+Douglass, Frederick (1845(1994))Frederick Douglass Autobiographies : Narrative of the Life
+of Frederick Douglass, an American Slave ; My Bondage and My Freedom ; Life and Times
+of Frederick Douglass, Library of America.
+Engerman, Stanley L (1973) “Some considerations relating to property rights in man,”The
+Journal of Economic History, 33 (1), 43–65.
+Esposito, Elena (2022) “The side effects of immunity: Malaria and African slavery in the
+United States,”American Economic Journal: Applied Economics, 14 (3), 290–328.
+Feigenbaum, James, James Lee, and Filippo Mezzanotti (2022) “Capital destruction and eco-
+nomic growth: The effects of Sherman’s March, 1850–1920,”American Economic Journal:
+Applied Economics, 14 (4), 301–342.
+Fischer, Günther, Freddy O Nachtergaele, H Van Velthuizen, F Chiozza, G Francheschini,
+M Henry, D Muchoney, and S Tramberend (2021) “Global agro-ecological zones (gaez
+v4)-model documentation.”
+Fleisig, Heywood (1976) “Slavery, the Supply of Agricultural Labor, and the Industri-
+alization of the South,” The Journal of Economic History , 36, 572–597, 10.1017/
+S0022050700099496.
+Fogel, Robert W. and Stanley L. Engerman (1974)Time on the Cross. The Economics of
+American Negro Slavery, Little Brown & Co.
+Frieden, Jeffry, Richard S Grossman, and Daniel Lowery (2024) “Was Freedom Road a Dead
+End? Political and Socio-Economic Effects of Reconstruction in the American South,”
+technical report, CESifo Working Paper.
+Fuentes, Marisa J (2016)Dispossessed lives: Enslaved women, violence, and the archive,
+University of Pennsylvania Press.
+Gervais, Antione and J. Bradford Jensen (2019) “The tradability of services: Geographic
+concentration and trade costs,”Journal of International Economics, 118, 331–350.
+Goldin, Claudia (1973) “The Economics of Emancipation,”Journal of Economic History, 33
+(1), 66–85.
+González, Felipe, Guillermo Marshall, and Suresh Naidu (2017) “Start-up Nation? Slave
+Wealth and Entrepreneurship in Civil War Maryland,”Journal of Economic History, 77
+(2), 373–405.
+Hacker, J David, Lap Huynh, Matt A Nelson, and Matthew Sobek (2025) “IPUMS full
+count datasets of enslaved persons and slaveholders in the United States in 1850 and
+1860,”Historical Methods: A Journal of Quantitative and Interdisciplinary History, 1–12.
+42
+--- Page 44 ---
+Hadden, S.E. (2001)Slave Patrols: Law and Violence in Virginia and the Carolinas, Harvard
+historical studies: Harvard University Press,https://books.google.co.uk/books?id=
+WC7andkrJNcC.
+Haines, Michael R, Inter university Consortium for Political, Social Research et al. (2010)
+“Historical, demographic, economic, and social data: The United States, 1790-2002.”
+Hamdani, Yoav (2022) The Slaveholding Army: Enslaved Servitude in the United States
+Military, 1797–1861, Columbia University.
+Hartman, Saidiya (1997)Scenes of Subjection: Terror, Slavery, and Self-Making in Nine-
+teenth Century America, Oxford University Press.
+Heblich, Stephan, Stephen J Redding, and Hans-Joachim Voth (2022) “Slavery and the
+British industrial revolution.”
+Helper, Susan, Suresh Naidu, Adam Reich, and Aaron Sojourner (2025) “Coercion and
+Monopsony in Modern American Manufacturing: Evidence from Alabama Prison Labor,”
+technical report, Working Paper.
+Herrendorf, Berthold, Richard Rogerson, and Akos Valentinyi (2013) “Two Perspectives on
+Preferences and Structural Transformation,”American Economic Review, 103 (7), 2752–
+2789.
+Hornbeck, Richard and Trevon Logan (2023) “One Giant Leap: Emancipation and Aggregate
+Economic Gains,” technical report, National Bureau of Economic Research.
+Hornbeck, Richard and Martin Rotemberg (2024) “Growth Off the Rails: Aggregate Produc-
+tivityGrowthinDistortedEconomies,” Journal of Political Economy, 132(11), 3547–3602.
+Hsieh, Chang-Tai, Erik Hurst, Charles I. Jones, and Peter J. Klenow (2019) “The Allocation
+of Talent and U.S. Economic Growth,”Econometrica, 87 (5), 1439–1474.
+Hulten, Charles R (1978) “Growth accounting with intermediate inputs,”The Review of
+Economic Studies, 45 (3), 511–518.
+Jaynes, Gerald David (1995) “Branches without roots: Genesis of the black working class in
+the American South, 1862-1882,”OUP Catalogue.
+King Jr, Martin Luther (2000)Why we can’t wait, Penguin.
+Kiszewski, Anthony, AndrewMellinger, AndrewSpielman, PiaMalaney, SoniaEhrlichSachs,
+and Jeffrey Sachs (2004) “A global index representing the stability of malaria transmis-
+sion,”The American journal of tropical medicine and hygiene, 70 (5), 486–498.
+Lindert, Peter H. and Jeffrey G. Williamson (2012) “American Incomes 1774–1860,” NBER
+Working Paper.
+Lindert, Peter H and Jeffrey G Williamson (2016) “Unequal gains: American growth and
+inequality since 1700.”
+43
+--- Page 45 ---
+Lockley, Timothy(2014)“SlaveholdersandslavesinSavannah’s1860census,”Urban History,
+41 (4), 647–663.
+Margo, RobertA(2009) Wages and labor markets in the United States, 1820-1860, University
+of Chicago Press.
+Margo, Robert A and Georgia C Villaflor (1987) “The growth of wages in antebellum Amer-
+ica: new evidence,”The Journal of Economic History, 47 (4), 873–895.
+Markevich, Andrei and Ekaterina Zhuravskaya (2018) “The Economic Effects of the Abo-
+lition of Serfdom: Evidence from the Russian Empire,”American Economic Review, 108
+(4–5), 1074–1117.
+Martin, Jonathan D (2009)Divided mastery: Slave hiring in the American South, Harvard
+University Press.
+Masera, Federico and Michele Rosenberg (2021) “Slavocracy: Economic elite and the support
+for slavery,”Available at SSRN 4009954.
+Méndez, Esteban and Diana Van Patten (2022) “Multinationals, monopsony, and local de-
+velopment: Evidence from the united fruit company,”Econometrica, 90 (6), 2685–2721.
+Miller, Grant, Debashish Biswas, Aprajit Mahajan et al. (2025) “Productivity Gains and
+Work Conditions in Coercive Labor Markets: Experimental Evidence from the Bangladesh
+Brick Sector,” technical report.
+Miller, Melinda C (2020) ““The righteous and reasonable ambition to become a landholder”:
+land and racial inequality in the postbellum South,”Review of Economics and Statistics,
+102 (2), 381–394.
+Monte, Ferdinando, Stephen J Redding, and Esteban Rossi-Hansberg (2018) “Commuting,
+migration, andlocalemploymentelasticities,”American Economic Review, 108(12), 3855–
+3890.
+Morten, Melanie and Jaqueline Oliveira (2024) “The effects of roads on trade and migration:
+Evidence from a planned capital city,”American Economic Journal: Applied Economics,
+16 (2), 389–421.
+Naidu, Suresh (2020) “American Slavery and Labour Market Power,”Economic History of
+Developing Regions, 35 (1), 3–22.
+Naidu, Suresh and Noam Yuchtman (2013) “Coercive contract enforcement: law and the
+labor market in nineteenth century industrial Britain,”American Economic Review, 103
+(1), 107–144.
+Nozick, Robert (1974)Anarchy, state, and utopia, John Wiley & Sons.
+Nunn, Nathan (2007) “Slavery, inequality, and economic development in the Americas: An
+examination of the Engerman-Sokoloff hypothesis.”
+44
+--- Page 46 ---
+Officer, Lawrence H. (2021)A New Balance of Payments for the United States, 1790–1919,
+Palgrave Macmillan.
+(2025) “Exchange Rates Between the United States Dollar and Forty-one Curren-
+cies,”http://www.measuringworth.com/exchangeglobal/.
+Patterson, Orlando (1982)Slavery and Social Death: A Comparative Study, Harvard Uni-
+versity Press.
+Posner, Eric A and Adrian Vermeule (2003) “Reparations for slavery and other historical
+injustices,”Colum. L. Rev.103, 689.
+Ransom, Roger L. and Richard Sutch (1977)One Kind of Freedom: The Economic Conse-
+quences of Emancipation, Cambridge University Press.
+Rhode, Paul (2024) “How suitable are FAO-GAEZ crop suitability indices for historical
+analysis?”.
+Rhode, Paul W (2024) “What fraction of antebellum US national product did the enslaved
+produce?”Explorations in Economic History, 91, 101552.
+Rockman, Seth (2009) Scraping by: wage labor, slavery, and survival in early Baltimore,
+JHU Press.
+(2024) “Plantation Goods: A Material History of American Slavery,” inPlantation
+Goods, University of Chicago Press.
+Ruggles, Steven, Sarah Flood, Matthew Sobek et al. (2025) “IPUMS USA: Version 16.0
+[dataset],” Minneapolis, MN: IPUMS,10.18128/D010.V16.0.
+Ruggles, Steven, Matt A. Nelson, Matthew Sobek, Catherine A. Fitch, Ronald Goeken,
+J. David Hacker, Evan Roberts, and J. Robert Warren (2024) “IPUMS Ancestry Full
+Count Data: Version 4.0 [dataset],” Minneapolis, MN: IPUMS,10.18128/D014.V4.0.
+Sacerdote, Bruce (2005) “Slavery and the intergenerational transmission of human capital,”
+Review of Economics and Statistics, 87 (2), 217–234.
+Saleh, Mohamed (2024) “Trade, slavery, and state coercion of labor: Egypt during the first
+globalization era,”The Journal of Economic History, 84 (4), 1107–1141.
+Seagrave, C. E. (1971)The Southern Negro Agricultural Worker: 1850–1870, Ph.D. disser-
+tation, Stanford University.
+Smith, Mark A (2008) “Engineering slavery: The US army corps of engineers and slavery at
+key west,”The Florida Historical Quarterly, 86 (4), 498–526.
+Sokoloff, Kenneth L and Stanley L Engerman (2000) “History lessons: institutions, factor en-
+dowments, and paths of development in the new world,”Journal of Economic perspectives,
+14 (3), 217–232.
+45
+--- Page 47 ---
+Starobin, Robert S (1968)Industrial slavery in the Old South, 1790-1861: a study in political
+economy, University of California, Berkeley.
+Takahashi, Motoaki (2022) “The Aggregate Effects of the Great Black Migration,”Available
+at SSRN 4283347.
+Times, New York (1862) “Foreign Commerce of the United States, as Affected by Civil War,”
+Published on 28 February.
+Tombe, Trevor and Xiaodong Zhu (2019) “Trade, migration, and productivity: A quantita-
+tive analysis of China,”American Economic Review, 109 (5), 1843–1872.
+Vedder, Richard K (1975) “The slave exploitation (expropriation) rate,”Explorations in
+Economic History, 12 (4), 453.
+Weiss, Thomas (1999) “Estimates of White and Nonwhite Gainful Workers in the United
+States by Age Group, Race, and Sex Decennial Census Years, 1800-1900,”Historical
+Methods: A Journal of Quantitative and Interdisciplinary History, 32 (1), 21–36.
+Wright, G. (2006)Slavery and American economic development, Walter Lynwood Fleming
+lectures in southern history: Louisiana State University Press, http://books.google.
+com/books?id=k_ZJrhZ2coEC.
+Wright, Gavin (2022) “Slavery and the rise of the nineteenth-century American economy,”
+Journal of Economic Perspectives, 36 (2), 123–148.
+Yang, Dongkyu (2024)Time to Accumulate: The Great Migration and the Rise of the Amer-
+ican South, Department of Economics, University of Colorado Boulder.
+46
+--- Page 48 ---
+Figure 1: Free and Enslaved Sorting across Locations
+(a) Cotton suitability
+-1.5-1-.50.5(log) Population density050100150200Plantation suitabilityEnslavedFree (b) Malaria suitability
+-1.5-1-.50.5(log) Population density.04.06.08.1Malaria suitabilityEnslavedFree
+-1.5-1-.50.5(log) Population density44.555.56Log distance NorthEnslavedFree
+(c) Distance to North
+Notes: These figures are binned scatterplots showing how the density of free and enslaved
+workers varies across counties by geographic characteristics. An observation is a county.
+Cotton suitability is the predicted cotton yield given agro-climatic conditions in absence
+of irrigation and fertilizer. Malaria suitability is the malaria ecology index developed by
+Kiszewski et al. (2004). Log distance north is the Vincenty centroid distance from each
+county to the U.S.
+North. All plots control for state fixed-effects and the other two geographic variables.
+47
+--- Page 49 ---
+Figure 2: Free and Enslaved Payments across Locations
+(a) Cotton suitability
+5.25.45.65.866.2(log) Wage / Annualized Slave Price50100150200Plantation suitabilityEnslavedFree (b) Malaria suitability
+5.25.45.65.866.2(log) Wage / Annualized Slave Price.06.07.08.09.1.11Malaria suitabilityEnslavedFree
+5.25.45.65.866.2(log) Wage / Annualized Slave Price4.555.56(log) Distance NorthEnslavedFree
+(c) Log distance to North
+Notes: These figures are binned scatter plots showing how free worker wages and enslaved
+prices vary across counties by geographic characteristics. An observation is a county-sector.
+Observationsareweightedbythetotalnumberofenslavedpersonsinacounty-sector. Cotton
+suitability is the predicted cotton yield given agro-climatic conditions in absence of irrigation
+and fertilizer. Malaria suitability is the malaria ecology index developed by Kiszewski et al.
+(2004). Log distance north is the Vincenty centroid distance from each county to the U.S.
+North. All plots control for state-sector fixed-effects and the other two geographic variables.
+48
+--- Page 50 ---
+Figure 3: The impact of emancipation on the distribution of Black and White labor across
+space
+(a) Change in Black population
+ (b) Change in White population
+Notes: This figure depicts the counterfactual change in the distribution of enslaved and
+free labor across counties in the U.S. South as a result of a complete emancipation. Values
+reported are the log of the population ratios.
+49
+--- Page 51 ---
+Figure 4: The impact of emancipation on the distribution of Black and White labor across
+sectors
+(a) Black, Agriculture
+ (b) Black, Services
+ (c) Black, Manufacturing
+(d) White, Agriculture
+ (e) White, Services
+ (f) White, Manufacturing
+Notes: This figure depicts the counterfactual change in the fraction of enslaved and free
+labor employed in each sector across counties in the U.S. South as a result of complete
+emancipation. Values reported are the log ratio.
+50
+--- Page 52 ---
+Figure 5: The impact of emancipation on economic output
+(a) Agriculture
+(b) Services
+(c) Manufacturing
+Notes: This figure depicts the counterfactual change in the value of agricultural and man-
+ufacturing output across all U.S. counties as a result of a complete emancipation. Values
+reported are the log ratio.
+51
+--- Page 53 ---
+Figure 6: How well does the model predict changes in labor allocations after the U.S. Civil
+War?
+(a) Black, Total
+-1-.8-.6-.4-.2(log) Observed Change-3-2-1012(log) Predicted ChangeNo controlsControlling for initial population (b) Black, Agriculture
+-.2-.10.1.2.3(log) Observed Change-1.5-1-.50.5(log) Predicted ChangeNo controlsControlling for initial population (c) Black, Services
+-1.5-1-.50(log) Observed Change-.50.511.52(log) Predicted ChangeNo controlsControlling for initial population (d) Black, Manufacturing
+-1012(log) Observed Change01234(log) Predicted ChangeNo controlsControlling for initial population
+(e) White, Total
+-.20.2.4.6(log) Observed Change-.10.1.2.3.4(log) Predicted ChangeNo controlsControlling for initial population (f) White, Agriculture
+0.2.4.6(log) Observed Change-.050.05.1.15(log) Predicted ChangeNo controlsControlling for initial population (g) White, Services
+-.8-.6-.4-.20(log) Observed Change-.2-.10.1(log) Predicted ChangeNo controlsControlling for initial population (h) White, Manufacturing
+-1-.8-.6-.4-.2(log) Observed Change-.2-.10.1.2(log) Predicted ChangeNo controlsControlling for initial population
+Notes: This figure presents binned scatter plots comparing the model predicted change in
+allocations of formerly enslaved black population (panels (a)-(d)) and free white population
+(panels (e)-(h)) from a complete emancipation relative to the actual changes observed be-
+tween 1860 and 1870 for all Southern counties. Panels (a) and (e) report the change in the
+total population in each county; the remaining panels report the change in the share of the
+population employed in each sector. All bin-scatters include state fixed effects; each panel
+also shows bin-scatters that control for the initial (log) 1860 enslaved or free population.
+Values reported are log ratios.
+52
+--- Page 54 ---
+Table 1: Enslaved and free persons sort differenctly
+Across locations Across sectors
+(1) (2) (3) (4)
+Plantation suitability 0.005*** -0.000
+(0.001) (0.000)
+Cotton * Enslaved 0.013*** 0.013*** 0.001*** 0.001***
+(0.001) (0.001) (0.000) (0.000)
+Malaria suitability -8.014*** -3.607***
+(1.793) (0.945)
+Malaria * Enslaved 17.147*** 17.085*** 1.403 0.088
+(2.920) (2.914) (1.065) (0.419)
+Log distance to North -0.315*** 0.090**
+(0.049) (0.038)
+Log distance to North * Enslaved 0.701*** 0.691*** -0.076** -0.006
+(0.091) (0.091) (0.036) (0.018)
+State-Type FE Yes Yes Yes Yes
+County FE No Yes No Yes
+R-squared 0.482 0.858 0.041 0.153
+Number of counties 973 970 990 990
+Number of observations 1943 1940 3441367 3441367
+Notes: Ordinary least squares. In columns 1 and 2, the dependent variable is the number
+of free or enslaved workers aged 15-50 per hectare and a unit of observation is a county
+in the U.S. South x type of person (free or enslaved). In columns 3 and 4, the dependent
+variable is a dummy variable equal to one if a worker aged 15-50 is engaged in agriculture
+and each observation is an individual worker residing in the U.S. South. Cotton suitability
+is the predicted cotton yield given agro-climatic conditions in absence of irrigation and
+fertilizer. Malaria suitability is the malaria ecology index developed by Kiszewski et al.
+(2004). Log distance north is the Vincenty centroid distance from each county to the U.S.
+North. Standard errors clustered at the county level reported in parentheses. Stars indicate
+statistical significance: * p<.10 ** p<.05 *** p<.01.
+53
+--- Page 55 ---
+Table 2: Free wages and slave prices correlate with geography
+Free wages Slave prices Slave prices / free wages
+(1) (2) (3)
+Cotton suitability 0.001*** 0.001* -0.001
+(0.000) (0.001) (0.001)
+Malaria suitability 3.843*** -5.148*** -8.800***
+(0.487) (0.839) (1.036)
+Log Distance North -0.048*** 0.006 -0.016
+(0.014) (0.030) (0.030)
+State-Sector FE Yes Yes Yes
+R-squared 0.422 0.303 0.430
+Number of counties 964 955 964
+Number of observations 2685 2555 2685
+Notes: Ordinary least squares. Each observation is a county-sector. In column 1, the
+dependent variable is the (log) free wage; in column 2 the dependent variable is the (log)
+slave price; and in column 3 the dependent variable is the (log) ratio of the slave price to the
+free wage. Cotton suitability is the predicted cotton yield given agro-climatic conditions in
+absence of irrigation and fertilizer. Malaria suitability is the malaria ecology index developed
+by Kiszewski et al. (2004). Log distance north is the Vincenty centroid distance from
+each county to the U.S. North. Observations in column 1 are weighted by the number
+of free workers. Observatiosn in columns 2 and 3 are weighted by the number of enslaved
+workers. Standard errors clustered at the county level reported in parentheses. Stars indicate
+statistical significance: * p<.10 ** p<.05 *** p<.01.
+54
+--- Page 56 ---
+Table 3: Estimating the enslaved mark-down using U.S. Forts Data
+(1) (2) (3) (4) (5)
+Enslaved -0.249*** -0.241*** -0.229*** -0.194*** -0.181***
+(0.040) (0.044) (0.048) (0.049) (0.053)
+Log share of workers -0.025*** -0.020*
+in fort in occupation (0.008) (0.011)
+Implied labor 0.331*** 0.318*** 0.297*** 0.240*** 0.221***
+supply elasticity (ϕ) (0.072) (0.076) (0.080) (0.075) (0.079)
+State FE Yes Yes Yes Yes Yes
+Year X Month FE Yes Yes Yes Yes Yes
+Occupation FE Yes Yes Yes Yes Yes
+Fort FE No Yes Yes Yes Yes
+Occupation X Fort FE No No No Yes Yes
+R-squared 0.685 0.713 0.713 0.808 0.808
+Number of forts 40 37 37 37 37
+Number of workers 14909 14906 14906 14871 14871
+Notes: Ordinary least squares. The dependent variable is the (log) wage. Each observation
+is a worker contract; observations weighted by number of workers on a contract. Standard
+errors clustered at the fort reported in parentheses. Stars indicate statistical significance: *
+p<.10 ** p<.05 *** p<.01.
+55
+--- Page 57 ---
+Table 4: Estimating elasticities using local slave price to wage ratios
+OLS IV
+(1) (2) (3) (4) (5)
+Log ratio of enslaved to free within location occupation shares -0.164*** -0.081*** 0.511 -0.498**
+(0.032) (0.021) (0.376) (0.229)
+Log ratio of enslaved to free across location shares -0.195*** -0.455*** -0.307***
+(0.015) (0.066) (0.036)
+Log distance to North 0.078*** 0.293*** 0.181***
+(0.029) (0.076) (0.044)
+Implied across location elasticity (θ) 5.126*** 2.196*** 3.258***
+(0.392) (0.319) (0.381)
+Implied within location elasticity (η) 7.461*** 15.120*** -2.390 2.453**
+(1.471) (3.873) (1.760) (1.126)
+Occupation FE Yes Yes Yes Yes Yes
+State FE Yes Yes Yes Yes Yes
+County FE No Yes No Yes No
+R-squared 0.454 0.843
+1st-stage SW F-stat: Within location shares 3.344 5.994
+1st-stage SW F-stat: Across location shares 4.182 65.376
+Observations 2560 2430 2560 2430 2560
+Notes: The dependent variable is the (log) ratio of slave price to wages. Each observation is an occupation-county in the U.S. South in the
+year 1860. Columns 1 and 2 are ordinary least squares. In column 3, the within- and across-location relative shares are instrumented with
+the Malaria suitability of a county interacted with each occupation, where malaria suitability is the malaria ecology index developed by
+Kiszewski et al. (2004). In column 4, the within-location relative shares are instrumented with the malaria suitability interacted with each
+location. In column 5, we fix the impliedηat its estimated value from column 5 and only estimateθby intrumenting the across-location
+shares with malaria suitability. Log of distance to north calculated using Vincenty distance between county centroids. Implied within
+location elasticityηcalculated assuming labor supply elasticityϕ= 0.221. Observations are weighted by the number of free and enslaved
+workers. Standard errors clustered at the county level are the reported in parentheses. Stars indicate statistical significance: * p<.10 **
+p<.05 *** p<.01.
+56
+--- Page 58 ---
+Table 5: Welfare and economic impacts of emancipation
+Welfare impacts Economic impacts
+(1) (2) (3) (4) (5) (6) (7)
+Enslaved persons Free persons Slaveholders Agric. Manuf. Services Total GDP
+Slavery 1.000 1.000 1.000 $143.98 $60.74 $86.84 $291.55
+No coercion 4.607 1.002 0.976 $136.39 $62.97 $89.51 $288.88
+No slaveholders 8.316 1.004 0.000 $151.27 $65.20 $93.97 $310.44
+Emancipation (South only) 9.891 1.002 0.000 $132.12 $70.82 $98.47 $301.40
+Emancipation 12.923 0.993 0.000 $136.24 $76.85 $105.04 $318.12
+Notes: This table reports the aggregate welfare and economic impacts of removing the institution of slavery. Welfare is
+equivalent variation; economic impacts are measured in dollars per capita per year. No coercion means that enslaved
+people can choose their own labor supply, No slaveholders means that enslaved people also receive the proceeds of their
+labor, emancipation (South only) means that enslaved people can also choose their occupation and location but must
+remain in the U.S. south, and emancipation means they can choose occupations and locations in the U.S. North as well,
+i.e. they act as free persons.
+57
+--- Page 59 ---
+A Appendix
+A.1 Proof of Proposition 1
+We begin by restating the proposition:
+Proposition. Consider two variations of a discrete choice setting over choicesc∈Cwith
+payoffsxcycεc, whereεc is distributed Frechet with shape parameterθ >1.In the first vari-
+ation, agents choosec∗≡arg maxc∈Cxcycεc. In the second variation, agents are assigned
+to c∗∗≡arg maxc∈Cxcεc. Then ratio of expected payoffs between the two variations can be
+written as:
+E [xc∗yc∗εc∗]
+E [xc∗∗yc∗∗εc∗∗] =
+(∑
+c∈Cπcyθ
+c
+)1
+θ
+∑
+c∈Cπcyc
+,
+whereπc≡xθ
+c/
+∑
+c′∈Cxθ
+c′is the probability of being assignedc∈Cin Variation 2.
+Proof. The first variation is standard and yields the following expression for expected payoffs:
+E
+[
+xc∗yc∗εc∗|c∗≡arg max
+c∈C
+xcycεc
+]
+= Γ
+(
+θ−1
+θ
+) (∑
+c∈C
+(xcyc)θ
+) 1
+θ
+. (26)
+The second variation is novel. We would like to calculate:
+E
+[
+xc∗∗yc∗∗εc∗∗|c∗∗≡arg max
+c∈C
+xcεc
+]
+Definezc≡xcεc and calculate the CDF ofzc:
+Gc (x)≡Pr{xcεc≤x} ⇐⇒
+Gc (x) = Pr
+{
+εc≤x
+xc
+}
+⇐⇒
+Gc (x) = exp
+(
+−
+(x
+xc
+)−θ)
+⇐⇒
+Gc (x) = exp
+(
+−(xc)θ(x)−θ)
+.
+Now we characterize the distribution ofyczc giving the assignment:
+58
+--- Page 60 ---
+Hc (x)≡Pr
+{
+yczc≤x|zc≥max
+c′̸=c
+zc′
+}
+⇐⇒
+Hc (x)≡1
+πc
+∫ x/yc
+0
+Pr
+{
+max
+c′̸=c
+zc′≤z
+}
+dGc (z) ⇐⇒
+Hc (x)≡1
+πc
+∫ x/yc
+0
+
+ ∏
+c′̸=c
+Gc′(z)
+
+dGc (z) ⇐⇒
+Hc (x)≡1
+πc
+∫ x/yc
+0
+
+ ∏
+c′̸=c
+exp
+(
+−(xc′)θ(z)−θ)
+
+ ∂
+∂z
+(
+exp
+(
+−(xc)θ(z)−θ))
+⇐⇒
+Hc (x)≡1
+πc
+×θ×xθ
+c×
+∫ x/yc
+0
+
+ ∏
+c′̸=c
+exp
+(
+−(xc′)θ(z)−θ)
+
+
+(
+exp
+(
+−(xc)θ(z)−θ))
+z−θ−1dz ⇐⇒
+Hc (x)≡1
+πc
+×θ×xθ
+c×
+∫ x/yc
+0
+(∏
+c′
+exp
+(
+−(xc′)θ(z)−θ))
+z−θ−1dz ⇐⇒
+Hc (x)≡1
+πc
+×θ×xθ
+c×
+∫ x/yc
+0
+(
+exp
+(
+−
+(∑
+c′
+(xc′)θ
+)
+(z)−θ
+))
+z−θ−1dz ⇐⇒
+Hc (x)≡1
+πc
+× xθ
+c
+∑
+c′(xc)θ×
+(
+exp
+(
+−
+(∑
+c′
+(xc′)θ
+)
+(z)−θ
+))
+|x/yc
+0 dz ⇐⇒
+Hc (x)≡1
+πc
+× xθ
+c
+∑
+c′(xc)θ×
+(
+1−exp
+(
+−
+(∑
+c′
+(xc′)θ
+)
+(z)−θ
+))
+⇐⇒
+Hc (x)≡
+(
+xθ
+c
+∑
+c′(xc)θ
+)−1
+× xθ
+c
+∑
+c′(xc)θ×
+(
+1−exp
+(
+−
+(∑
+c′
+(xc′)θ
+)
+yθ
+c (x)−θ
+))
+⇐⇒
+Hc (x)≡
+(
+1−exp
+(
+−Φyθ
+c (x)−θ))
+where Φ≡∑
+c′(xc′)θ.
+Finally, we calculate the expected utility times conditional on being assigned locationc:
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+=
+∫ ∞
+0
+xdHc (x) ⇐⇒
+=
+∫ ∞
+0
+x ∂
+∂x
+((
+1−exp
+(
+−Φyθ
+c (x)−θ)))
+dx ⇐⇒
+=θΦyθ
+c
+∫ ∞
+0
+x exp
+(
+−Φyθ
+c (x)−θ)
+(x)−θ−1dx ⇐⇒
+=θΦyθ
+c
+∫ ∞
+0
+exp
+(
+−Φyθ
+c (x)−θ)
+(x)−θdx ⇐⇒
+59
+--- Page 61 ---
+Definey≡Φyθ
+c (x)−θso that:
+dy =−θΦyθ
+cx−θ−1dx ⇐⇒
+dy
+−θΦyθ
+cx−θ−1 =dx
+and:
+y≡Φyθ
+c (x)−θ⇐⇒
+x =y−1
+θΦ
+1
+θyc
+with this change of variables we have:
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+=θΦyθ
+c
+∫ ∞
+0
+exp
+(
+−Φyθ
+c (x)−θ)
+(x)−θdx ⇐⇒
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+=θΦyθ
+c
+∫ ∞
+0
+exp (−y) (x)−θ
+(
+dy
+−θΦyθ
+cx−θ−1
+)
+⇐⇒
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+=
+∫ ∞
+0
+exp (−y)xdy ⇐⇒
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+=
+∫ ∞
+0
+exp (−y)
+(
+y−1
+θΦ
+1
+θyc
+)
+dy ⇐⇒
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+= Φ
+1
+θyc
+(∫ ∞
+0
+exp (−y)
+(
+y−1
+θ
+)
+dy
+)
+⇐⇒
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+= Φ
+1
+θycΓ
+(
+θ−1
+θ
+)
+since Γ (t)≡
+∫∞
+0 exp (−y) (yt−1)dy and t−1 = −1
+θ ⇐⇒t = θ−1
+θ. So to summarize,
+conditional on choosingc, the expected utility is:
+E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+≡Γ
+(
+θ−1
+θ
+) (∑
+c′
+(xc′)θ
+) 1
+θ
+yc
+Note that thexc in choicec does not show up in the expression: this is because the expected
+xc is equalized across all locations.
+This greatly simplifies things. Since the above is the payoffs conditional on being al-
+located toc, we can then look at the unconditional expectation, using the law of iterated
+60
+--- Page 62 ---
+expectations:
+E
+[
+xc∗∗yc∗∗εc∗∗|c∗∗≡arg max
+c∈C
+xcεc
+]
+=
+∑
+c
+Pr
+{
+zc≥max
+c′̸=c
+zc′
+}
+×E
+{
+yczc|zc≥max
+c′̸=c
+zc′
+}
+⇐⇒
+=
+∑
+c
+(
+xθ
+c∑
+c′xc′
+)
+×Γ
+(
+θ−1
+θ
+) (∑
+c′
+(xc′)θ
+) 1
+θ
+yc ⇐⇒
+= Γ
+(
+θ−1
+θ
+)
+×
+(∑
+c′
+(xc′)θ
+) 1
+θ
+×
+∑
+c
+(
+xθ
+c∑
+c′xc′
+)
+yc ⇐⇒
+= Γ
+(
+θ−1
+θ
+)
+×
+(∑
+c′
+(xc′)θ
+) 1
+θ
+×
+∑
+c
+πcyc (27)
+where πc = xθ
+c∑
+c′xc′
+is equal to the share allocated toc∈C. Combining equations (A.1) and
+(27) yields:
+E [xc∗yc∗εc∗]
+E [xc∗∗yc∗∗εc∗∗] =
+Γ
+(
+θ−1
+θ
+) (∑
+c∈C(xcyc)θ)1
+θ
+Γ
+(
+θ−1
+θ
+)
+×
+(∑
+c′(xc′)θ)1
+θ
+×∑
+cπcyc
+⇐⇒
+E [xc∗yc∗εc∗]
+E [xc∗∗yc∗∗εc∗∗] =
+(∑
+c∈C
+(
+xθ
+c∑
+c′(xc′)θ
+)
+(yc)θ
+)1
+θ
+∑
+cπcyc
+⇐⇒
+E [xc∗yc∗εc∗]
+E [xc∗∗yc∗∗εc∗∗] =
+(∑
+c∈Cπcyθ
+c
+)1
+θ
+∑
+c∈Cπcyc
+,
+where recallπc = xθ
+c∑
+c′xc′
+, as required.
+A.2 Proof of Proposition 2 and Algorithm
+In this section we provide proof of Proposition 2 and the iterative algorithm we use to invert
+the model.
+A.2.1 Algorithm
+We begin by restating the proposition:
+Proposition. Given model elasticities{η,θ,ρ,σ,ϕ}, trade costs{τij}i,j∈N, slaveholder profit
+shares{λi}i∈N, slave priceps, and international imports and exports
+{
+MROW
+o ,X ROW
+o
+}
+o∈O
+,
+there exists a geography{Aio,cio,uio}o∈O
+i∈NUS such that the model equilibrium is equal to the
+61
+--- Page 63 ---
+observed (per person) wages{˜wio}o∈O
+i∈NUS and labor allocations
+{
+πio,s|i,πio,f|i,πi,s,πi,f
+}o∈O
+i∈NUS.
+The geography is unique (up-to-scale) within sector.
+Proof. It will be useful for us to define the labor supply-adjusted wage (from now on known
+as the “adjusted wage”),w′
+io, as a function of˜wio:
+w′
+io≡wioAio×
+(uio
+Pi
+wioAio
+)ϕ
+=
+(
+Γ
+(
+θ−1
+θ
+)
+Γ
+(
+η−ϕ
+η
+))−1
+˜wio×
+(
+πio,f|i
+)ϕ+1
+η
+×(πi,f)
+1
+θ (28)
+Note thatw′
+io is a function of parameters and known data.
+We can split the proof into two parts: within location and across location identification.
+Only the across location component requires the conditions listed in the proposition. First,
+we summarize the steps for identification within location:
+1. Given parameters{ϕ,η}and the adjusted wages{w′
+io}, the relative within-location
+amenities{˜ u}are identified.
+2. Given parameters{ϕ,η,θ}, the adjusted wages{w′
+io}, and enslaved person occupa-
+tion and location shares
+{
+πio,s|i,πi,s
+}
+, the location-occupation coercion parameters{c}are
+identified.
+Relative within-location productivities are identified jointly with the across-location pro-
+ductivities in the second part of the proof.
+Relative within-location amenities
+First, we can rewrite the adjusted wage equation (28) to recover the compensation per
+unit of labor:
+wioAio = (w′
+io)
+1
+1+ϕ
+(Pi
+uio
+) ϕ
+1+ϕ
+. (29)
+Then, we can substitute this expression into the within-location free occupation share ex-
+pression to solve for the location-occupation amenities:
+62
+--- Page 64 ---
+πio,f|i =
+(
+uio
+Pi
+wioAio
+)η
+∑
+o′
+(uio′
+Pi
+wio′Aio′
+)η⇐⇒
+uio =
+
+
+Pi
+(w′
+io)
+1
+1+ϕ
+(
+Pi
+uio
+) ϕ
+1+ϕ
+
+×
+(
+πio,f|i
+)1
+η
+×
+
+∑
+o′
+
+uio′
+Pi
+(w′
+io′)
+1
+1+ϕ
+(Pi
+uio′
+) ϕ
+1+ϕ
+
+
+η
+
+1
+η
+⇐⇒
+uio =
+
+
+
+
+P
+1
+1+ϕ
+i
+(w′
+io)
+1
+1+ϕ
+
+×
+(
+πio,f|i
+)1
+η
+×
+(∑
+o′
+((uio′
+Pi
+) 1
+1+ϕ
+(w′
+io′)
+1
+1+ϕ
+)η) 1
+η
+
+
+1+ϕ
+The relative amenities in locationi are then
+˜uio
+∑
+o′˜uio′
+=
+(w′
+io)−1×
+(
+πio,f|i
+)1+ϕ
+η
+∑
+o′(w′
+io′)−1×
+(
+πio′,f|i
+)1+ϕ
+η
+. (30)
+Coercion parameters
+Similarly to amenities, we can substitute equation (29) into the within-location enslaved
+occupation share to solve for the coercion parameters:
+πio,s|i =
+(
+u
+ϕ
+1+ϕ
+io ciowioAio
+)η
+∑
+o′
+(
+u
+ϕ
+1+ϕ
+io′ciowio′Aio′
+)η⇐⇒
+(
+πio,s|i
+)1
+η
+=
+u
+ϕ
+1+ϕ
+io cio (w′
+io)
+1
+1+ϕ
+(
+Pi
+uio
+) ϕ
+1+ϕ
+(
+∑
+o′
+(
+u
+ϕ
+1+ϕ
+io′c
+ϕ
+1+ϕ
+io′,s (w′
+io′)
+1
+1+ϕ
+(
+Pi
+uio′
+) ϕ
+1+ϕ
+)η) 1
+η
+⇐⇒
+(
+πio,s|i
+)1
+η
+= cio (w′
+io)
+1
+1+ϕ
+(
+∑
+o′
+(
+c
+ϕ
+1+ϕ
+io′,s (w′
+io′)
+1
+1+ϕ
+)η) 1
+η
+,
+which gives us
+cio.=
+
+
+(
+πio,s|i
+)1
+η
+×(w′
+io)−1
+1+ϕ×
+(∑
+o′
+(
+(cio′,s)
+ϕ
+1+ϕ(w′
+io′)
+1
+1+ϕ
+)η) 1
+η
+
+
+1+ϕ
+ϕ
+. (31)
+63
+--- Page 65 ---
+As an intermediate step, note that we can rewrite the expected slaveowner utility equation
+as
+
+
+(
+πi,s×∑
+i′Πθ
+i′,s
+)1
+θ
+Γ
+(
+η−1−ϕ
+η
+) (
+1
+1+ϕ
+)
+
+
+1
+1+ϕ
+=
+(∑
+o′
+(
+(cio′,s)
+ϕ
+1+ϕ(w′
+io′)
+1
+1+ϕ
+)η) 1
+η
+. (32)
+Note the right hand side is the same expression as in equation (31). Moreover, we can express
+the term ∑
+i′Πθ
+i′,s as a function of the average national price of an enslaved worker:
+∑
+i′
+Πθ
+i′,s =
+
+ ps
+Γ
+(
+θ−1
+θ
+)
+
+
+θ
+. (33)
+Finally, substituting equations (33) and (32) into equation (31) gives us
+cio =
+(
+πio,s|i
+)1+ϕ
+ηϕ
+×(πi,s)
+ϕ
+θ×
+(
+πio,f|i
+)−1
+η
+×(πi,f)−ϕ
+θ×( ˜wio)−ϕ×
+
+ Γ
+(
+η−ϕ
+η
+)
+×ps
+Γ
+(
+η−1−ϕ
+η
+) (
+1
+1+ϕ
+)
+
+
+ϕ
+, (34)
+which gives us the coercion parameters in terms of parameters and known data. Lastly, we
+solve for the location-sector production for free and enslaved workers. First, note that the
+location-level labor efficiency units are functions of parameters, observed population shares,
+and aggregate populations:
+Li,f = (πi,f)
+θ−1
+θ×Γ
+(
+θ−1
+θ
+)
+×¯F,
+Li,s = (πi,s)
+θ−1
+θ×Γ
+(
+θ−1
+θ
+)
+×¯S.
+Next, we can substitute adjusted wages into the expression for location-occupation free and
+enslaved output using equation (29):
+Yio,f = Γ
+(
+η−ϕ
+η
+)
+w′
+io
+(
+πio,f|i
+)η−ϕ−1
+η
+Li,f, (35)
+Yio,s = Γ
+(
+η−ϕ
+η
+)
+w′
+io (cio)ϕ(
+πio,s|i
+)η−ϕ−1
+η
+Li,s. (36)
+Total production for each location-sector is the sum of these two terms.
+64
+--- Page 66 ---
+Across location identification
+We now summarize the steps for identification across locations:
+1. Given parameters{ϕ,η,θ}, the adjusted wages{w′
+io}, identified within-location char-
+acteristics{˜ u, c}, and free and enslaved populations and shares{Lpersons,π}, the relative
+across-location amenities relative to price indices
+{
+U
+P
+}
+can be expressed in terms of param-
+eters, identified characteristics, and observed data.
+2. Given parameters {ϕ,η,ρ,σ}, the adjusted wages{w′
+io}, identified within-location
+characteristics{˜ u, c}, free and enslaved populations and shares {Lpersons,π}, and trade
+costs τ, the relative across-location price indices{P}can be expressed as a function of
+relative location-level productivities and the across-location amenities relative to price in-
+dices,
+{
+A, U
+P
+}
+.
+3. Given parameters {ϕ,η,ρ,σ}, the adjusted wages{w′
+io}, identified within-location
+characteristics{˜ u, c}, free and enslaved populations and shares{Lpersons,π}, and trade costs
+τ, the relative productivities{A}can be expressed as a function of other relative productiv-
+ities{A}and the across-location amenities relative to price indices
+{
+U
+P
+}
+. This system has
+a unique (up to scale) solution if one exists and the condition listed in the Proposition is
+satisfied. This also implies a unique (up to scale) solution for{P}.
+Relative across-location amenities
+Using the expression for free person location shares,πi,f =
+Πθ
+i,f∑
+i′Πθ
+i′,f
+, we can solve for
+across-location amenities:
+65
+--- Page 67 ---
+πi,f =
+Πθ
+i,f∑
+i′Πθ
+i′,f
+⇐⇒
+πi,f =
+(((∑
+o
+(uio
+Pi
+wioAio
+)η)1
+η
+)1+ϕ
+)θ
+∑
+i′
+(((∑
+o
+(
+ui′o
+Pi′wi′oAi′o
+)η)1
+η
+)1+ϕ
+)θ⇐⇒
+πi,f =
+(Ui
+Pi
+)θ(1+ϕ) (∑
+o (˜uiowioAio)η)θ(1+ϕ)
+η
+∑
+i′
+(
+Ui′
+Pi′
+)θ(1+ϕ) (∑
+o (˜ui′owi′oAi′o)η)θ(1+ϕ)
+η
+⇐⇒
+Ui =Pi×
+(
+πi,f
+) 1
+θ(1+ϕ)×
+[ ∑
+o
+(˜uiowioAio)η
+]−1
+η
+×
+
+∑
+i′
+(Ui′
+Pi′
+)θ(1+θ)
+(∑
+o
+(˜ui′owi′oAi′o)η
+)θ(1+ϕ)
+η
+
+
+1
+θ(1+ϕ)
+⇐⇒
+Ui =Pi×
+(
+πi,f
+) 1
+θ(1+ϕ)×
+[ ∑
+o
+(
+˜uio×
+(
+w′
+io
+) 1
+1+ϕ
+(Pi
+uio
+) ϕ
+1+ϕ
+)η]−1
+η
+×
+
+∑
+i′
+(Ui′
+Pi′
+)θ(1+ϕ)
+(∑
+o
+(
+˜ui′owi′oAi′o,f
+)η
+)θ(1+ϕ)
+η
+
+
+1
+θ(1+ϕ)
+⇐⇒
+Ui =Pi×
+(
+πi,f
+)1
+θ×
+[ ∑
+o
+(
+˜uiow′
+io
+)η
+1+ϕ
+]−1+ϕ
+η
+×
+
+∑
+i′
+((Ui′
+Pi′
+)θ(1+θ) ∑
+o
+(˜ui′owi′oAi′o)η
+)θ(1+ϕ)
+η
+
+
+1
+θ
+.
+Then, the relative across-location amenities can be written as
+Ui
+∑
+i′Ui
+=
+Pi×(πi,f)
+1
+θ×
+[∑
+o (˜uiow′
+io)
+η
+1+ϕ
+]−1+ϕ
+η
+∑
+i′Pi′×(πi′,f)
+1
+θ×
+[∑
+o (˜ui′ow′
+i′o)
+η
+1+ϕ
+]−1+ϕ
+η
+. (37)
+Similarly, the across-location amenities relative to price indices can be written as
+Ui
+Pi
+∑
+i′
+(Ui′
+Pi′
+) =
+(πi,f)
+1
+θ×
+[∑
+o (˜uiow′
+io)
+η
+1+ϕ
+]−1+ϕ
+η
+∑
+i′(πi′,f)
+1
+θ×
+[∑
+o (˜ui′ow′
+i′o)
+η
+1+ϕ
+]−1+ϕ
+η
+. (38)
+In this case, the right hand side is exclusively a function of parameters, identified character-
+istics, and observed data. Thus,U
+P is identified to scale.
+Relative price indices
+First, we can rewrite the sectoro output in locationi as
+66
+--- Page 68 ---
+qio =Lio,f +Lio,s ⇐⇒
+qio = Γ
+(
+η−ϕ
+η
+)
+Γ
+(
+θ−1
+θ
+)
+(Aio)1+ϕ
+(
+uio
+Pi
+[
+w′
+io (Aio)−1−ϕ
+(
+uio
+Pi
+)−ϕ
+] 1
+1+ϕ
+)ϕ[(
+πio,f|i
+)η−ϕ
+η
+(
+πi,f
+)θ−1
+θ ¯F + (cio)ϕ
+(
+πio,s|i
+)η−ϕ
+η
+(
+πi,s
+)θ−1
+θ ¯S
+]
+⇐⇒
+qio =Aio
+(
+Ui
+Pi
+) ϕ
+1+ϕ
+×Γ
+(
+η−ϕ
+η
+)
+Γ
+(
+θ−1
+θ
+)(
+˜uiow′
+io
+)ϕ
+1+ϕ
+[(
+πio,f|i
+)η−ϕ
+η
+(
+πi,f
+)θ−1
+θ ¯F + (cio)ϕ
+(
+πio,s|i
+)η−ϕ
+η
+(
+πi,s
+)θ−1
+θ ¯S
+]
+⇐⇒
+qio =Aio
+(
+Ui
+Pi
+) ϕ
+1+ϕ
+×˜qio (39)
+where
+˜qio = Γ
+(
+η−ϕ
+η
+)
+Γ
+(
+θ−1
+θ
+)
+(˜uiow′
+io)
+ϕ
+1+ϕ
+[ (
+πio,f|i
+)η−ϕ
+η
+(πi,f)
+θ−1
+θ ¯F + (cio)ϕ(
+πio,s|i
+)η−ϕ
+η
+(πi,s)
+θ−1
+θ ¯S
+]
+.
+˜qio is a function of parameters, identified within-location characteristics, and observed data.
+Using equation (39), we can write prices as
+pio = Yio
+qio
+=Yio
+
+Aio
+(Ui
+Pi
+) ϕ
+1+ϕ
+×˜qio
+
+
+−1
+(40)
+Then, we can rewrite the sectoral price indices as
+Pio =
+
+∑
+j
+τ1−σo
+ji p1−σo
+jo
+
+
+1
+1−σo
+⇐⇒
+Pio =
+
+∑
+j
+τ1−σo
+ji (Yjo)1−σo
+(qjo)σo−1
+
+
+1
+1−σo
+⇐⇒
+Pio =
+
+
+∑
+j
+τ1−σo
+ji (Yjo)1−σo
+
+Ajo
+(
+Uj
+Pj
+) ϕ
+1+ϕ
+×˜qjo
+
+
+σo−1
+
+1
+1−σo
+(41)
+Recall the consumption price index takes the form
+Pi =
+( ∑
+o∈O
+P 1−ρ
+io
+) 1
+1−ρ
+(42)
+67
+--- Page 69 ---
+Price indices are thus expressed as a function of{A}, parameters, data, and previously
+identified terms.
+Relative across-location productivities
+For exposition, we first show the identification of productivities without international
+trade. We can substitute equation (39) into the market clearing condition to writeA as a
+system of fixed point equations:
+Yio =
+∑
+j
+τ1−σo
+ij (pio)1−σo
+∑
+kτ1−σo
+kj (pko)1−σo×
+(
+Pjo
+Pj
+)1−ρ
+×Ej ⇐⇒
+Yio =
+∑
+j
+τ1−σo
+ij
+(
+Yio
+qio
+)1−σo
+∑
+kτ1−σo
+kj
+(
+Yko
+qko
+)1−σo×
+(
+Pjo
+Pj
+)1−ρ
+×Ej ⇐⇒
+Yio =
+∑
+j
+τ1−σo
+ij (Yio)1−σo
+(
+Aio
+(
+Ui
+Pi
+) ϕ
+1+ϕ
+×˜qio
+)σo−1
+(Pjo)1−σo ×
+(
+Pjo
+Pj
+)1−ρ
+×Ej ⇐⇒
+(Aio)1−σo
+= 1
+Yio
+∑
+j
+τ1−σo
+ij (Yio)1−σo
+((
+Ui
+Pi
+) ϕ
+1+ϕ
+×˜qio
+)σo−1
+(Pjo)1−σo ×
+(
+Pjo
+Pj
+)1−ρ
+×Ej. (43)
+Let us define xio ≡(Aio)1−σo
+and yio ≡(Pio)1−σo
+such that we can write the system of
+equations
+xio = 1
+Yio
+∑
+j
+τ1−σo
+ij (Yio)1−σo
+((
+Ui
+Pi
+) ϕ
+1+ϕ
+×˜qio
+)σo−1
+yjo
+×
+(
+Pjo
+Pj
+)1−ρ
+×Ej
+yio =
+∑
+j
+τ1−σo
+ji (Yjo)1−σo
+
+
+(
+Uj
+Pj
+) ϕ
+1+ϕ
+×˜qjo
+
+
+σo−1
+(xjo)−1.
+Note that Uj
+Pj
+was previously identified, so we can treat it as a constant. Let us define this
+system of equations asFo (xo, yo), where the system is defined for a given sectoro and set of
+sectoral expenditure shares
+{(Pjo
+Pj
+)1−ρ}
+j∈N
+. We now use the strategy of Allen et al. (2024)
+to show thatFo (Ao, Po) has a unique (up to scale) fixed point solution. For a given system,
+let us define the elasticityϵijh,jh′(vj)≡∂logfijh(vj)
+∂logvjh′, whereh∈{x,y}andvjx =xjo,vjy =yjo.
+Suppose there is some2×2 matrix Z such that|ϵijh,jh′(vj)|< Zhh′; then, ifρ(Z)≤1, there
+68
+--- Page 70 ---
+exists a unique (up to scale) solution.
+Webeginbycalculatingtheelasticities. First, notethat ∂logfijx(vj)
+∂logvjx
+= 0and ∂logfijy(vj)
+∂logvjy
+= 0
+for allx and y. Then, we have
+∂logfijx (vj)
+∂logvjy
+=−∂
+∂logyjo
+(logyjo) =−1,
+and
+∂logfijy (vj)
+∂logvjx
+=−∂
+∂logxjo
+(logxjo) =−1.
+Then we can define
+Z≡
+
+0 1
+1 0
+
+,
+which satisfies the condition that|ϵijh,jh′(vj)|≤Zhh′and has spectral radius 1. Therefore,
+there exists a unique (up-to-scale) fixed point for the system.
+The last step is to show how we identify prices in the ROW with aggregate trade data.
+Note that we can sum across the market clearing conditions for exports from the ROW to
+write (denoting the ROW location asr)
+∑
+j̸=r
+Xrjo =
+∑
+j̸=r
+τ1−σo
+ij (Yio)1−σo
+(
+Aio
+(
+Ui
+Pi
+) ϕ
+1+ϕ
+×˜qio
+)σo−1
+(Pjo)1−σo ×
+(
+Pjo
+Pj
+)1−ρ
+×Ej ⇐⇒
+(Aio)1−σo
+= 1
+∑
+j̸=rXrjo
+∑
+j̸=r
+(
+τrj
+Pjo
+)1−σo
+×
+(
+Pjo
+Pj
+)1−ρ
+×Ej.
+∑
+j̸=rXrjo is the aggregate exports from the ROW to the US, which we observe in the
+data. Note this equation is nearly identical to Equation (43). As before, we can set up
+a system of fixed point equations for a particular sectoro and set of sectoral expenditure
+shares
+{(Pjo
+Pj
+)1−ρ}
+j∈N
+. Then, proving solution uniqueness through the Allen et al. (2024)
+conditions proceeds identically, with the exception that the data term∑
+j̸=rXrjo substitutes
+for the previously identifiedYio.
+Since our solution is unique up to scale, we can choose an arbitrary normalization for
+two out of three characteristics within and across location respectively. Within location, we
+normalize a and u to have mean one for each location. Across location, we normalizeA and
+U to have mean one. To justify this, we show that this is equivalent to a normalization of
+69
+--- Page 71 ---
+P and U
+P, which we identified in relative terms:
+Lemma 3.Any scaling ofA and U that is consistent with model equilibrium can be repre-
+sented by a model consistent scaling ofP and U
+P.
+Proof. Note that equations (38) and (43) are unaffected by the scaling of any variables, so
+it suffices to consider equation (41). Suppose we have some scalecA for A andcU for U. We
+can then write
+Pio =
+
+
+∑
+j
+τ1−σo
+ji (Yjo)1−σo
+
+cAAjo
+(
+cUUj
+Pj
+) ϕ
+1+ϕ
+×˜qjo
+
+
+σo−1
+
+1
+1−σo
+⇐⇒
+1
+cA
+Pio =
+
+
+∑
+j
+τ1−σo
+ji (Yjo)1−σo
+
+Ajo
+(
+cU
+Uj
+Pj
+) ϕ
+1+ϕ
+×˜qjo
+
+
+σo−1
+
+1
+1−σo
+Thus, an equivalent and consistent scaling can be generated by scalingP by 1
+cA
+and U
+P
+bycU.
+A.2.2 Algorithm
+The algorithm is provided below:
+1. For each location:
+(a) Use the elasticities, observed wages, and free worker occupation shares to calculate
+relative amenities with that location using Equation (30).
+(b) Use the elasticities, observed wages and enslaved worker occupation shares to
+calculate relative coercion parameters within a location and scale across locations
+with the national enslaved price using Equation (34).
+(c) Use the elasticities, observed wages, occupation shares, and coercion parameters
+to calculate free and enslaved output in each sector using Equations (35) and (36).
+(d) Use the elasticities, parameters, output, and slaveholder profit shares to calculate
+total expenditures in each location using Equation (18).
+2. Then, we begin with some initial state forAio,uio,pijo for alli,j,o :
+(a) Use the elasticities and current prices to calculate the current sectoral and con-
+sumption price indices using Equations (41) and (42).
+70
+--- Page 72 ---
+(b) Use the elasticities, output, current productivities, current amenities, and current
+price indices to update the prices using Equation (40).
+(c) Usetheelasticities, locationshares, relativewithin-locationamenities, andcurrent
+price indices to calculate the relative amenities across locations using Equation
+(37).
+(d) Use the elasticities, trade costs, output, quantities, expenditures, current prices,
+and current price indices to update the productivities using Equation (43).
+(e) We then iterate over steps 2(a) through 2(d) until the solution converges.
+A.3 Validating Slave Allocations and Prices
+IPUMS at the University of Minnesota has kept a 5% micro sample of slave schedules since
+2004 (Menard et al. 2004), but in 2024 the complete enumeration of the slave schedules
+was completed. As Hacker et al write “Where the original IPUMS sample of the 1860
+slave census contained records for 195,027 enslaved persons, for example, the full count
+dataset includes individual-level information on 3,936,602 slaves.” Of these enslaved people,
+1,937,259 are between the ages of 15 and 50, which we classify workers comparable to the
+free population.19
+The slaveholder listed on the 1860 enumeration schedule is ““The person in whose charge,
+or on whose plantation the slave is to be found to be employed may return all slaves in his
+charge (although they may be owned by other persons) provided they are not returned by
+their proper owner. The name of the bona fide owner should be returned as proprietor, and
+the name of the person having them in charge as employer.” IPUMS has also coded the slave-
+holding type as “owner, business/institution, employer, overseer/manager, trustee/guardian,
+and estate”. The IPUMS linking of 1860 population schedules to the slave schedules relied
+on name similarity, restricted to population schedules with personal property greater than
+100$, and blocking on either county or state. See Hacker et al. for more details.
+Assignment of Enslaved Sectors: We use this data to document patterns of slave-
+owner employment. Recall that we use the IPUMS 1880 occupation code assigned to the
+primary slaveholder linked to the slaveholding. Slaveholders, however, may be doing occu-
+pations quite different from the enslaved on the holding, for example if the slaveholder is an
+absentee plantation holder, say working as a lawyer or doctor in central Charleston while
+the plantation is on the outskirts, or a small merchant hiring out a set of enslaved workers
+19Hacker et al. (2025)caution that the transcription quality is not as high as the IPUMS population
+censuses, as they are done based on Ancestry transcriptions which are lower quality, e.g. often fail to
+disambiguate slaveowholdings.
+71
+--- Page 73 ---
+for additional income. While geographic blocking for matches will restrict the degree of
+absentee ownership, it will not completely eliminate it. Further, IPUMS records multiple
+slaveholders for some holdings, along with slaveholding type, but there are many missing
+values, and the original records are not consistent enough to rule out considerable ambiguity
+in this measure. This is true even in the least ambiguous and most common case, when
+the slaveholder is a slaveowner engaged in agriculture. Even in this case, much of the rural
+handicrafts, construction, and service work on the plantations would have been done by the
+enslaved, and we would assign this work to agricultural sector. However, given the absence
+of any other geographically disaggregate measures of slave industrial allocation, we view our
+method as defensible. At the aggregate level, for example, our imputation yields reasonable
+quantities. Of the 1.94 million enslaved workers, our procedure assigned 1.60 million to be
+employed in agriculture (83%), 77,000 to be employed in manufacturing (4%), and 259,000
+to be employed in services (13%). This accords well with prior estimates; for example, Rhode
+(2024) assigns one domestic servant slave to each slaveholding household, and then assigns
+the balance of non-agricultural enslaved from Weiss (1999) to the secondary sector, which
+yields roughly 10% share in services and 6% in manufacturing. Based on historical evidence,
+Starobin (1968) estimates that 200,000 enslaved workers were employed in industry, while
+our method yields less than half that. Rhode (2024) , for example, along with Bateman and
+Weiss (2002), both argue that Starobin’s estimates are likely too high, and wind up with
+numbers closer to ours.
+Appendix Table B.6 shows the 20 most common detailed (1880 IPUMS) assigned slave
+occupations in our sample, along with the average size of the slaveholding and the number
+of enslaved workers. Unsurprisingly, agricultural occupations dominate. The next most
+common are a variety of service occupations, followed by manufacturing.
+Appendix Table B.7 shows a regression table, restricted to the sample of enslaved workers
+with matched occupations, with correlates of enslaved employed by slaveholders in service
+and manufacturing, relative to agriculture, controlling for county fixed effects. Enslaved
+workersinmanufacturingandservicesaremorelikelytobeinacity, onsmallerslaveholdings,
+more likely to be held by a non-owner (an employer, hirer,estate or corporation), relative to
+agricultural slaves. Manufacturing enslaved workers are much more likely to be hired out
+(slaveowner is employer or hirer) than either agriculture or services. This is consistent with
+the large qualitative literature(Dew, 1995) suggesting that many enslaved workers that were
+in manufacturing were hired or rented, relative to owned. For example, Starobin (1968)
+estimates that as many as 20% of industrial slaves were hired out.
+Further, the table shows some of the selection and incentives differences between en-
+slaved workers across sectors. Enslaved workers in services were significantly more likely
+72
+--- Page 74 ---
+to be women, while there is no difference between manufacturing and agriculture in gender
+composition. Female slaveowners, however, are significantly less likely to own slaves in ei-
+ther non-agricultural sector, and particularly manufacturing. Perhaps surprisingly , within
+county there is no difference in fugitive rates across sectors, consistent with our identifica-
+tion strategy with county-fixed effects. For manumissions, however, enslaved workers in the
+service sector are significantly more likely to be manumitted, relative to either agriculture
+or manufacturing.
+Constructing local slave prices: As a proxy for county-sector slave profitability,
+we use personal property values of slave owners divided by the number of slaves in the
+slaveholding, adjusted for demographic composition. The average slave price implied by
+the regression is very close to the average from 1860. Further, the demographic coefficients
+on slave prices are close to those from slave price data, with lower prices for children and
+elderly slaves, and little difference between prime-age male and female slaves, as has been
+well-documented in a literature on slave prices beginning with Conrad and Meyer (1958).
+We can further check these numbers by using the Gallman and Parker sample of cotton
+farmers to assess the contribution of non-slave wealth to personal property. The Gallman
+and Parker sample includes slaveholding demographic characteristics, but is also linked to
+the agricultural schedules, so we can directly test for the contribution of farm equipment and
+livestock to personal property, and test if controlling for these variables affects the coefficients
+on the demographic characteristics. Table B.4 shows results from this regression. As can
+be seen from the table, adding controls for livestock and farm equipment does not alter the
+demographic coefficients, and indeed have small coefficients themselves, lending credence to
+the assumption that the bulk of slaveowner personal property was indeed the value of their
+enslaved workers.
+Estimating annual slave profits: In the model, the slave price is the expected profits
+earned by slaveholders per enslaved person,ps = Γ
+(
+θ−1
+θ
+) (∑
+i Πθ
+i,sh
+)1
+θ
+. We pursue two alter-
+native ways of estimatingps. First, we use observed slave prices. Because the model is static,
+it does not capture the present discounted value of the entire future flow of profits, so we
+take the observed slave price and divide by the appropriate discount rate. The median slave
+price of prime age working men across all sector-locations in our data is $1,747. Lindert and
+Williamson report a 5% net rate of return and a 6% depreciation rate for enslaved workers,
+suggesting that the appropriate discount rate is 11%, which implies a expected annual profit
+earned by slaveholders per enslaved person of $192.
+Second, we estimate the expected profits earned by slaveholders per enslaved person
+by appropriately scaling enslaved consumption by the inverse of the intensive labor supply
+elasticity ϕ. Lindert and Williamson estimate a median value of slave consumption of$79;
+73
+--- Page 75 ---
+given our estimate ofϕ= 0.22 this implies thatps = $360. We take the midpoint of these
+two numbers as our main estimate of the flow value of enslaved labor.
+A.4 Validating Markdown Estimates
+Wage-setting and Slave rentals on U.S. Army Forts:Slaves were used extensively on
+U.S. Army forts, but as the military could not own slaves directly, enslaved workers were
+almost always rented. As forts were often located in remote and rural areas, securing free
+labor for construction and transportation jobs that could not be filled by enlisted troops was
+difficult, and so the U.S. army would rent enslaved workers from local slave owners, generally
+for month-long terms. Sometimes those owners were army officers themselves, as Hamdani
+(2022) shows using a database of reimbursements for slave costs made to slaveowning army
+officers. Indeed, use of enslaved labor on forts was pervasive enough so that slave owners
+would purchase slaves solely for rental to nearby military forts, rather than any production.
+Direct evidence from Army forts (rather than Navy yards) is rarer, but what historical
+evidence is available suggests that the labor conditions are comparable.
+The set of occupations enslaved workers were put to was also very diverse. There was
+little agricultural activity, let alone commercial plantation crop production, on military and
+navybases. Whilethemostcommonoccupationwassimplelaborer, moreskilledoccupations
+like carpenters and bricklayers, as well as even more skilled occupations like blacksmith are
+all filled by enslaved workers in the U.S. army quartermaster reports.
+There is also historical evidence that there was little difference in working conditions or
+skill between enslaved and free workers doing the same job. Other autobiographies from
+military slaves include George Teomoh and Michael Shiner, both of whom got their freedom
+from navy yards, and also provide first-hand evidence of the comparable nature of work
+between free and enslaved workers. Shiner, for example, was manumitted by his owner while
+employed at the Washington Navy Yard, but continued to voluntarily work there throughout
+his career. For example, when President Buren shortens the workday for workers in the
+Washington Navy yards, he does not distinguish between free and enslaved workers, Shiner
+writes in his diary:” By the federal government should Work the ten hour Sistom from six
+to six i think and May the lord Bless Mr. Van Buran“. Naval Commodore Isaac Hull writes
+to Congress about the skill and productivity of enslaved workers “The competent mechanics
+have long known them and I have no cause to complain on the contrary I consider them the
+hardest working men in the yard and as they understand their work they can do much more
+work in a day than new hands could and I should suppose it would require many weeks if
+not months to get a gang of hands for the Anchor Shop to do the work that is now done."
+74
+--- Page 76 ---
+Evidence that the observed penalty for enslaved workers is the markdown
+We are interpreting the rental rate paid by the army forts as the amount paid to owners,
+not including the amount paid to the enslaved, as is common in the literature estimating
+retained earnings of enslaved workers (Lindert and Williamson, 2012). Margo and Villaflor
+write (pg 34): “Unskilled slaves received lower wages than their free counterparts, but the
+differences were statistically significant only at South Central forts. Slave artisans, however,
+received significantly lower wages than free artisans. The source of this differential is unclear.
+Although the lower wage is consistent with a lower average skill level, the army may have
+customarily furnished tools to slave artisans, or the costs of supervising slaves may have been
+higher.” A penalty in slave rental rates relative to wages is consistent with the monopsony
+interpretation of the slave owner: the U.S. army directly provided slaves their consumption,
+and the remainder is what goes to the owners, while free workers get wages in addition to
+theirconsumption. Putdifferently, thedailymarginalproductforslavehiresandfreeworkers
+doing the same job is the same, but free workers keep the whole product (as a combination of
+rations and money wages), while enslaved workers get rations and their owners get the money
+payments. Consistent with this interpretation, we can check in the fort data whether there
+are markdowns in situations where free workers also get rations. As Table B.5 shows, once
+we control for rations in this sample (where free workers get higher rations than enslaved
+workers), the markdown for enslaved workers disappears.
+Comparison to other estimates of the markdown
+Estimatesofthegapbetweenenslavedmarginalproductandwageshavebeenconstructed
+and used by other researchers, albeit to our knowledge none have attempted the narrow
+within-occupation, within-organization comparison enabled by the army fort quartermaster
+reports. For example, Lindert and Williamson (2016) find estimates of enslaved retention
+of earnings between 29.1% and 59.3%, by comparing state-level free agricultural wages with
+hire rates, under a similar assumption as ours that the hire rates don’t include costs of
+subsistence. Other estimates rely on estimates of enslaved worker consumption bundles
+compared to estimates of slave earnings or marginal products. Fogel and Engerman (1974),
+using a consumption basket worth $42.99, report a “discounted” markdown of 88-90%, with
+slaves retaining the vast bulk of their production over the lifecycle, but David and Temin
+(1974) emphasize that the correct estimate should be the undiscounted markdown of 49%,
+and emphasize that even this is too low and that the enslaved consumption basket was worth
+much less. Vedder (1975) estimates production functions to get enslaved marginal products,
+using $30.00 as the estimate of enslaved consumption, and gets markdowns of 33-40% in
+1860.
+75
+--- Page 77 ---
+B Appendix Figures and Tables
+Figure B.1: Spatial Distribution of Geographic Proxies
+(a) Cotton suitability
+ (b) Malaria suitability
+(c) Distance to North
+Notes: This figure shows the spatial variation in cotton suitability, malaria suitability, and
+distance to the North across counties in the U.S. South.
+76
+--- Page 78 ---
+Figure B.2: Spatial Distribution of Geographic Proxies (Residualized)
+(a) Cotton suitability
+ (b) Malaria suitability
+(c) Log distance to North
+Notes: This figure shows the residual spatial variation in cotton suitability, malaria suit-
+ability, and distance to the North across counties in the U.S. South that will be used in
+the stylized facts that follow after conditioning on state fixed effects and the other two geo-
+graphic variables.
+77
+--- Page 79 ---
+Figure B.3: Geographic Proxies Predict Output, Mortality, and Runaways
+	MPH
+BHSJDVMUVSBMPVUQVUWBMVF$PUUPOTVJUBCJMJUZ
+	MPH
+DPUUPOPVUQVU$PUUPOTVJUBCJMJUZ
+(a)Agriculturaloutputvalueandcottonoutputarebothincreasingwithcottonsuitability
+	MPH
+ZSPMETZSPMET.BMBSJBTVJUBCJMJUZ
+4MBWF'SFF.BMBSJB.PSUBMJUZ3BUJP.BMBSJBTVJUBCJMJUZ
+(b) The share of old persons is decreasing with malaria suitability, while slave deaths,
+relative to free deaths, due to malaria increase with malaria suitability.
+TIBSFGVHJUJWF-PHEJTUBODF/PSUI
+-PH	3FXBSE7BMVF
+JO'VHJUJWF"ET	
+-PHEJTUBODF/PSUI
+(c) The share of fugitive slaves, as well as the cost of recapturing runaways, is decreasing
+with distance to the North
+Notes: These bin-scatters across counties in the U.S. South show that cotton suitability
+is correlated with agricultural productivity (panel a), malaria suitability is correlated with
+share of elderly free people (panel b), and distance to the North is correlated with share
+of enslaved workers that are reported as runaways (panel c). Each of these of binscatters
+controls for state fixed effects and the other two geographic variables.
+78
+--- Page 80 ---
+Figure B.4: Estimated location fundamentals for agriculture
+(a) Agricultural productivity
+ (b) Agricultural amenity
+(c) Agricultural coercion
+Notes: This figure shows the spatial variation of estimated agricultural productivities(Aio),
+amenities (uio), and coercion(cio,s) across counties in the U.S. South.
+79
+--- Page 81 ---
+Figure B.5: Comparing estimated location fundamentals for agriculture to corresponding
+geographic proxies
+(a) Agricultural productivity
+.4.5.6.7.8.9(log) Ag. productivity050100150200Cotton suitability (b) Agricultural amenity
+-1.6-1.5-1.4-1.3-1.2(log) Ag. amenity.04.06.08.1Malaria suitability
+(c) Agricultural coercion
+-3-2-101(log) Coercion44.555.56(Log) Distance North
+Notes: This figure presents binscatters of the estimated the agricultural productivities(Aio),
+amenities (uio), and coercion (cio,s) on their corresponding geographic proxies used in the
+Stylized Facts above, conditional on the other two geographic proxies and state fixed effects.
+80
+--- Page 82 ---
+Figure B.6: Robustness of counterfactual results to alternative values ofϕ
+(a) Welfare impact of emancipa-
+tion: Blacks
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1Labor supply elasticity within location-sector (?)
+0
+50
+100
+150
+(b) Welfare impact of emancipa-
+tion: Whites
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1Labor supply elasticity within location-sector (?)
+0.9905
+0.991
+0.9915
+0.992
+0.9925
+0.993
+0.9935
+0.994
+0.9945
+0.995
+(c) Economic impact of emanci-
+pation: Total GDP
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1Labor supply elasticity within location-sector (?)
+317.85
+317.9
+317.95
+318
+318.05
+318.1
+318.15
+318.2
+318.25
+(d) Economic impact of emanci-
+pation: Agriculture
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1Labor supply elasticity within location-sector (?)
+136
+136.1
+136.2
+136.3
+136.4
+136.5
+136.6
+(e) Economic impact of emanci-
+pation: Services
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1Labor supply elasticity within location-sector (?)
+104.75
+104.8
+104.85
+104.9
+104.95
+105
+105.05
+105.1
+105.15
+(f) Economic impact of emanci-
+pation: Manufacturing
+0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1Labor supply elasticity within location-sector (?)
+76.55
+76.6
+76.65
+76.7
+76.75
+76.8
+76.85
+76.9
+76.95
+77
+Notes: This figure shows the aggregate welfare and economic impacts of complete emanci-
+pation for a wide variety of alternative values ofϕ, holding all other parameters constant.
+Economic output is measured in dollars per capita. The stars indicate the estimated value.
+81
+--- Page 83 ---
+Figure B.7: Robustness of counterfactual results to alternative values ofθ
+(a) Welfare impact of emancipa-
+tion: Blacks
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity across locations (3)
+10
+15
+20
+25
+30
+35
+40
+45
+50
+(b) Welfare impact of emancipa-
+tion: Whites
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity across locations (3)
+0.992
+0.9925
+0.993
+0.9935
+0.994
+0.9945
+(c) Economic impact of emanci-
+pation: Total GDP
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity across locations (3)
+316.5
+317
+317.5
+318
+318.5
+319
+319.5
+320
+320.5
+(d) Economic impact of emanci-
+pation: Agriculture
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity across locations (3)
+135
+135.5
+136
+136.5
+137
+137.5
+138
+(e) Economic impact of emanci-
+pation: Services
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity across locations (3)
+104.8
+104.9
+105
+105.1
+105.2
+105.3
+105.4
+(f) Economic impact of emanci-
+pation: Manufacturing
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity across locations (3)
+76.75
+76.8
+76.85
+76.9
+76.95
+77
+Notes: This figure shows the aggregate welfare and economic impacts of complete emanci-
+pation for a wide variety of alternative values ofθ, holding all other parameters constant.
+Economic output is measured in dollars per capita. The stars indicate the estimated value.
+82
+--- Page 84 ---
+Figure B.8: Robustness of counterfactual results to alternative values ofη
+(a) Welfare impact of emancipa-
+tion: Blacks
+2 2.5 3 3.5 4 4.5 5 5.5 6Supply elasticity of substitution across sectors (2)
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+(b) Welfare impact of emancipa-
+tion: Whites
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity within location across sectors (2)
+0.989
+0.99
+0.991
+0.992
+0.993
+0.994
+0.995
+0.996
+(c) Economic impact of emanci-
+pation: Total GDP
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity within location across sectors (2)
+318
+318.05
+318.1
+318.15
+318.2
+318.25
+318.3
+318.35
+(d) Economic impact of emanci-
+pation: Agriculture
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity within location across sectors (2)
+136
+136.2
+136.4
+136.6
+136.8
+137
+137.2
+(e) Economic impact of emanci-
+pation: Services
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity within location across sectors (2)
+104.5
+104.6
+104.7
+104.8
+104.9
+105
+105.1
+105.2
+105.3
+(f) Economic impact of emanci-
+pation: Manufacturing
+2 2.5 3 3.5 4 4.5 5 5.5 6Labor supply elasticity within location across sectors (2)
+76.65
+76.7
+76.75
+76.8
+76.85
+76.9
+76.95
+77
+77.05
+Notes: This figure shows the aggregate welfare and economic impacts of complete emanci-
+pation for a wide variety of alternative values ofη, holding all other parameters constant.
+Economic output is measured in dollars per capita. The stars indicate the estimated value.
+83
+--- Page 85 ---
+Figure B.9: Verifying County-Sector Wages: Literacy Rates
+(a) Agriculture
+5.65.75.85.966.1Log wage.5.6.7.8.91Literacy rate (b) Services
+5.45.455.55.55Log wage.4.6.81Literacy rate
+(c) Manufacturing
+5.585.65.625.645.66Log wage.6.7.8.91Literacy rate
+Notes: This figure shows the binscatter relationship across locations between the average
+literacy rate of free persons employed in a given sector in a given county and the wages in
+that sector×county, conditional on state fixed effects.
+84
+--- Page 86 ---
+Figure B.10: Verifying County-Sector Wages: Per-capita Wealth
+(a) Agriculture
+5.45.65.866.26.4Log wage678910Log per capita wealth (b) Services
+5.45.455.55.555.6Log wage456789Log per capita wealth
+(c) Manufacturing
+5.555.65.655.7Log wage56789Log per capita wealth
+Notes: This figure shows the binscatter relationship across locations between the average
+per capita wealth of free persons employed in a given sector in a given county and the wages
+in that sector×county, conditional on state fixed effects.
+85
+--- Page 87 ---
+Table B.1: Slave prices
+(1) (2) (3) (4)
+Cotton suitability 0.001** 0.001** 0.001**
+(0.000) (0.000) (0.001)
+Malaria suitability -3.014*** -3.274*** -3.397***
+(0.822) (0.795) (0.778)
+Log distance to North -0.001 -0.003 0.011
+(0.028) (0.028) (0.028)
+Slaveholdings share: Boys (<15) -0.537*** -0.478*** -0.609***
+(0.031) (0.032) (0.019)
+Slaveholdings share: Girls (<15) -0.404*** -0.353*** -0.479***
+(0.033) (0.033) (0.022)
+Slaveholdings share: Adult women (15-50) 0.044 0.089*** 0.026
+(0.031) (0.033) (0.022)
+Slaveholdings share: Elderly men (>50) -0.474*** -0.437*** -0.460***
+(0.051) (0.053) (0.033)
+Slaveholdings share: Elderly women (>50) -0.478*** -0.370*** -0.485***
+(0.042) (0.047) (0.034)
+Log slaveholder real estate value 0.073***
+(0.011)
+Slaveholder occupation FE Yes Yes Yes Yes
+State FE Yes Yes Yes Yes
+County FE No No No Yes
+R-squared 0.127 0.134 0.116 0.259
+Observations 3059679 3059679 2829138 3059679
+Clusters 1082 1082 1082 1082
+Notes: Ordinary least squares. The dependent variable is the (log) value of personal property
+of the slave holder per enslaved person owned. Each observation is an enslaved person
+in the U.S. South in the year 1860. When controlling for the demographic composition
+of the slaveholder’s slave holdings, the omitted category is adult men, age 15-50. Cotton
+suitabilityisthepredictedcottonyieldgivenagro-climaticconditionsinabsenceofirrigration
+and fertilizer. Malaria suitability is the malaria ecology index developed by Kiszewski et al.
+(2004). LogofdistancetonorthcalculatedusingVincentydistancebetweencountycentroids.
+Standard errors two-way clustered at slaveholder and the county level are the reported in
+parentheses. Stars indicate statistical significance: * p<.10 ** p<.05 *** p<.01.
+86
+--- Page 88 ---
+Table B.2: Cotton productivity and crop suitability
+Measures of Cotton Production
+(1) (2) (3) (4) (5) (6)
+Cotton suitability 0.002*** 0.007** 0.002*** 0.003*** 0.007 0.011*
+(0.000) (0.003) (0.001) (0.001) (0.005) (0.006)
+Log distance North 0.078*** -1.305*** -0.101*** 0.031 -0.480*** 0.124
+(0.016) (0.373) (0.035) (0.064) (0.185) (0.268)
+Malaria suitability 2.947*** 41.757*** 10.987*** 14.910*** 41.373*** 58.606***
+(0.551) (6.604) (1.797) (1.897) (8.547) (11.420)
+Cotton y Any Log IHS IHS Level Level
+State FE Yes Yes Yes Yes Yes Yes
+Lat–Lng. Poly No No No Yes No Yes
+R-squared 0.527 0.414 0.559 0.597 0.331 0.357
+Number of observations 973 580 970 970 970 970
+Notes: Ordinary least squares. Each observation is a county. In column 1, the dependent
+variable is an indicator for any cotton grown in the county; in column 2 the dependent
+variable is the log of cotton yield per acre; in columns 3 and 4 the dependent variable is the
+inverse hyperbolic sine of the cotton yield per acre; and in columns 5 and 6 the dependent
+variable is the level of cotton yield. Cotton suitability is the predicted cotton yield given
+agro-climatic conditions in the absence of irrigation and fertilizer. Malaria suitability is
+the malaria ecology index developed by Kiszewski et al. (2004). Log distance north is the
+Vincenty centroid distance from each county to the U.S. North. The Lat–Lng polynomial
+indicates controls for a quadratic function of latitude and longitude. Robust standard errors
+reported in parentheses. Stars indicate statistical significance: * p<.10 ** p<.05 *** p<.01.
+87
+--- Page 89 ---
+Table B.3: Robustness of Stylized F acts to Geographic Controls
+Log Worker Density Sh. Farmer Log (Slave Price/Free Wage)
+(1) (2) (3)
+Malaria Suitability 0.096 -2.883*** -9.755***
+(2.015) (0.847) (1.787)
+Malaria * Enslaved 17.164*** 1.065
+(2.927) (0.764)
+Cotton Suitability 0.004*** -0.000 0.001
+(0.001) (0.000) (0.001)
+Cotton * Enslaved 0.013*** 0.001***
+(0.001) (0.000)
+Log Distance North -0.092 0.096** 0.073
+(0.081) (0.042) (0.049)
+Log Distance North * Enslaved 0.704*** -0.027
+(0.091) (0.029)
+State-Slave FE Yes Yes No
+County FE No No No
+State-Sector FE No No Yes
+Lat-Lng. Poly Yes Yes Yes
+R-squared 0.530 0.050 0.448
+Number of counties 973 990 955
+Number of observations 1943 3441367 2555
+Notes: Ordinary least squares. Each observation is a county-sector. In column 1, the
+dependent variable is the (log) free wage; in column 2 the dependent variable is the (log)
+slave price; and in column 3 the dependent variable is the (log) ratio of the slave price to
+the free wage. Cotton suitability is the predicted cotton yield given agro-climatic conditions
+in absence of irrigration and fertilizer. Malaria suitability is the malaria ecology index
+developed by Kiszewski et al. (2004). Log distance north is the Vincenty centroid distance
+from each county to the U.S. North. The Lat-Long polynomial indicates controls for a
+quadratic function of latitude and longitude. Observations in column 1 are weighted by
+the number of free workers. Observations in columns 2 and 3 are weighted by the number
+of enslaved workers. Standard errors clustered at the county level reported in parentheses.
+Stars indicate statistical significance: * p<.10 ** p<.05 *** p<.01.
+88
+--- Page 90 ---
+Table B.4: Slave prices in Gallman-Parker Sample
+(1) (2) (3) (4)
+Slaveholdings share: Boys (<15) -0.616*** -0.597*** -0.605*** -0.585***
+(0.090) (0.103) (0.086) (0.105)
+Slaveholdings share: Girls (<15) -0.395*** -0.386*** -0.379*** -0.358***
+(0.103) (0.096) (0.112) (0.095)
+Slaveholdings share: Adult women (15-50) -0.047 -0.014 -0.026 0.022
+(0.093) (0.094) (0.082) (0.096)
+Slaveholdings share: Elderly men (>50) -0.400* -0.425*** -0.432* -0.441***
+(0.212) (0.163) (0.207) (0.163)
+Slaveholdings share: Elderly women (>50) -0.471*** -0.375** -0.446*** -0.355**
+(0.123) (0.174) (0.132) (0.174)
+Log slaveholder livestock value 0.072** 0.080***
+(0.030) (0.025)
+Log slaveholder equipment value -0.044 -0.018
+(0.026) (0.021)
+Slaveholder occupation FE Yes Yes Yes Yes
+State FE Yes No Yes No
+County FE No yes No yes
+R-squared 0.092 0.313 0.096 0.323
+Observations 2558 2403 2509 2357
+Clusters 11 316 11 315
+Notes: Ordinary least squares. The dependent variable is the (log) value of personal property
+of the slave holder per enslaved person owned. Each observation is an enslaved person
+in the U.S. South in the year 1860. When controlling for the demographic composition
+of the slaveholder’s slave holdings, the omitted category is adult men, age 15-50. Cotton
+suitabilityisthepredictedcottonyieldgivenagro-climaticconditionsinabsenceofirrigration
+and fertilizer. Malaria suitability is the malaria ecology index developed by Kiszewski et al.
+(2004). LogofdistancetonorthcalculatedusingVincentydistancebetweencountycentroids.
+Standard errors two-way clustered at slaveholder and the county level are the reported in
+parentheses. Stars indicate statistical significance: * p<.10 ** p<.05 *** p<.01.
+89
+--- Page 91 ---
+Table B.5: Markdown of enslaved wages, controlling for rations
+(1) (2) (3)
+Enslaved -0.103 -0.124*** 0.000***
+(0.070) (0.000) (0.000)
+Rations 0.342***
+(0.002)
+State FE Yes Yes Yes
+Year X Month FE Yes Yes Yes
+Occupation FE Yes Yes Yes
+Fort FE Yes Yes Yes
+Sample Monthly Monthy w/Rat. Monthy w/Rat.
+R-squared 0.711 0.911 0.976
+Number of forts 33 7 7
+Number of workers 7576 332 332
+Notes: Ordinary least squares. The dependent variable is the (log) wage. Each observation
+is a worker contract; observations weighted by number of workers on a contract. Column 2 is
+restricted to observations where rations are equal to 1 or 2 per month, and column 3 controls
+for the number of rations in the contract. Standard errors clustered at the fort reported in
+parentheses. Stars indicate statistical significance: * p<.10 ** p<.05 *** p<.01.
+90
+--- Page 92 ---
+Table B.6: Top Slaveholder Occupations by Number of Enslaved Workers
+.
+Slaveholder occ. Manuf. share Serv, share Agr. share Avg. slaves held
+Farmers and planters 0.00 0.00 1.00 39.81 1058636
+Physicians and surgeons 0.00 1.00 0.00 28.25 42783
+Traders and dealers (NS) 0.00 1.00 0.00 19.00 35321
+Lawyers 0.00 1.00 0.00 31.15 20192
+Officials, industry NS 1.00 0.00 0.00 62.31 14177
+Clergy 0.00 1.00 0.00 25.10 9996
+Domestic servants 0.00 1.00 0.00 15.50 4161
+Carpenters and joiners 1.00 0.00 0.00 15.37 4105
+Officials of government 0.00 1.00 0.00 14.82 3597
+Teachers and scientific persons 0.00 1.00 0.00 10.82 3412
+Hotel keepers 0.00 1.00 0.00 11.87 2488
+Traders and dealers in groceries 0.00 1.00 0.00 12.24 2378
+Clerks in stores 0.00 1.00 0.00 10.35 2303
+Blacksmiths 1.00 0.00 0.00 9.45 2211
+Farm and plantation overseers 0.00 0.00 1.00 42.00 2158
+Officials and employees of trade/trans. (NS) 0.00 1.00 0.00 52.08 2112
+Plasterers 1.00 0.00 0.00 60.97 1992
+Millers 1.00 0.00 0.00 12.72 1973
+Traders and dealers in cigars and tobacco 0.00 1.00 0.00 31.66 1804
+Agricultural laborers 0.00 0.00 1.00 21.49 1788
+Notes: Each row is a slaveholder occupation.Count of enslaved is the number of individual enslaved-person observations linked to
+holders in that occupation. Manufacturing/Services/Farmer share are means of the corresponding indicator at the enslaved-person
+level within the occupation (interpret as shares).Avg. slaves held is the average slave holding size for slaveholders in the occupation.
+91
+--- Page 93 ---
+Table B.7: Correlates of Enslaved Workers’ Occupations
+(1) (2) (3) (4) (5) (6) (7) (8)
+Urban log(size) Non-Owner Hired Female Fem. SH Fug. Manu.
+Manufacturing 0.066*** -0.522*** 0.011*** 0.068*** 0.005 -0.044*** 0.000 0.001
+(0.004) (0.031) (0.003) (0.005) (0.003) (0.002) (0.002) (0.003)
+Services 0.086*** -0.428*** 0.010*** 0.014*** 0.040*** -0.034*** 0.003 -0.007***
+(0.002) (0.013) (0.002) (0.001) (0.002) (0.002) (0.003) (0.002)
+Mean of dep. var. in agriculture 0.005 3.069 0.970 0.009 0.497 0.079 0.003 0.012
+R-squared 0.433 0.271 0.190 0.145 0.004 0.029 0.004 0.036
+Observations 1260139 1260139 1260139 1260139 1260139 1260139 1260139 1260139
+Notes: Entries are coefficients with robust standard errors in parentheses. Each column is a
+separate regression with county fixed effects.Mean of dep. var.is computed among enslaved
+workers in agriculture within the estimation sample of each regression. Standard errors
+clustered at the county level reported in parentheses. Stars indicate statistical significance:
+* p<.10 ** p<.05 *** p<.01. Stars indicate statistical significance: * p<.10 ** p<.05 ***
+p<.01.
+92

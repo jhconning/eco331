@@ -1,0 +1,1937 @@
+
+--- Page 1 ---
+NBER WORKING PAPER SERIES
+SLAVERY AND THE BRITISH INDUSTRIAL REVOLUTION
+Stephan Heblich
+Stephen J. Redding
+Hans-Joachim Voth
+Working Paper 30451
+http://www.nber.org/papers/w30451
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+September 2022
+The views expressed are those of the authors and should not be attributed to any institutions to 
+which the authors are affiliated. We would like to thank Leah Boustan, Patrick Francois, Nathan 
+Nunn, Elias Papaiannou, Raoul Sanchez de la Sierra, and Noam Yuchtman as well as seminar 
+audiences at CEPR, Dartmouth, LACEA, NBER Summer Institute, Princeton, RIDGE, UBC 
+Vancouver and Zurich for helpful feedback. Ellora Derenoncourt generously shared data and 
+helpful comments. We are grateful  to the UK data archive for use of the “Integrated Census 
+Microdata (I-CEM) Names and Addresses 1851-1911,” Study 7856. We also thank Bruce 
+Campbell for kindly sharing the Lay Subsidy data.  Devin Bissky Dziadyk, James Godlonton, 
+Stephanie Hu, Eugenia Menaguale, Haneul Jung, Lindsay Li, Joseph Sassoon, Maximilian 
+Schwarz, Ewan Rawcliffe, Luca Vitale and Nan Xiang provided excellent  research assistance. 
+Responsibility for any errors and omissions lies with the authors alone. Heblich acknowledges the 
+support of the ORA Grant ES/V013602/1 (MAPHIS). The views expressed herein  are those of 
+the authors and do not necessarily reflect the views of the National Bureau of Economic  
+Research.
+NBER working papers are circulated for discussion and comment purposes. They have not been 
+peer-reviewed or been subject to the review by the NBER Board of Directors that accompanies 
+official 
+NBER publications.
+© 2022 by Stephan Heblich, Stephen J. Redding, and Hans-Joachim Voth. All rights reserved. 
+Short
+ sections of text, not to exceed two paragraphs, may be quoted without explicit permission 
+provided that full credit, including © notice, is given to the source.
+--- Page 2 ---
+Slavery and the British Industrial Revolution
+Stephan Heblich, Stephen J. Redding, and Hans-Joachim Voth
+NBER Working Paper No. 30451
+September 2022
+JEL No. F60,J15,N63
+ABSTRACT
+Did overseas slave-holding by Britons accelerate the Industrial Revolution? We provide theory 
+and evidence on the contribution of slave wealth to Britain’s growth prior to 1835. We compare 
+areas of
+ Britain with high and low exposure to the colonial plantation economy, using granular 
+data on  wealth from compensation records. Before the major expansion of slave holding from the 
+1640s onwards, both types of area exhibited similar levels of economic activity. However, by the 
+1830s, slavery wealth is strongly correlated with economic development – slave-holding areas are 
+less agricultural, closer to cotton mills, and have higher property wealth. We rationalize these 
+findings using a dynamic spatial  model, where slavery investment raises the return to capital 
+accumulation, expanding production in capital-intensive sectors. To establish causality, we use 
+arguably exogenous variation in slave mortality  on the passage from Africa to the Indies, driven 
+by weather shocks. We show that weather shocks influenced the continued involvement of 
+ancestors in the slave trade; weather-induced slave mortality  of slave-trading ancestors in each 
+area is strongly predictive of slaveholding in 1833. Quantifying  our model using the observed 
+data, we find that Britain would have been substantially poorer and more agricultural in the 
+absence of overseas slave wealth. Overall, our findings are consistent with the view that slavery 
+wealth accelerated Britain’s industrial revolution.
+Stephan Heblich
+Munk School of Global Affairs and Public Policy
+University of Toronto  
+1 Devonshire Place
+Toronto, ON M5S 3K7
+and NBER
+stephan.heblich@utoronto.ca
+Stephen J. Redding
+Department of Economics &
+School of Public and International Affairs 
+Princeton University
+Princeton, NJ 08544
+and CEPR
+and also NBER
+reddings@princeton.edu
+Hans-Joachim Voth 
+Department of Economics 
+U of Zurich 
+Schoeneberggasse 1 
+CH-8001, Zurich 
+Switzerland 
+joachimvoth@gmail.com
+--- Page 3 ---
+1 Introduction
+Europeans enslaved millions on the African continent during their colonization of the Ameri-
+cas, consigning the survivors of transatlantic voyages to forced labor on sugar, tobacco, cotton
+and coﬀee plantations in the Caribbean and North and South America. In the process, Euro-
+peans accumulated wealth, either from the slave trade itself, plantation production, or the
+wider triangular trade between Europe, Africa, and the Americas. To what extent did this
+wealth contribute to the growth and economic development of modern Europe?
+We provide new theory and evidence on this question for Britain’s Industrial Revolution.
+We use granular data on the location of slaveholders within Britain collected under the terms
+of the 1833 Abolition of Slavery Act. We combine these data on the spatial distribution of
+slavery wealth with rich geographic information on economic activity in Britain before and
+after its entry into transatlantic slavery in the 1560s. To identify causal eﬀects, we develop
+an instrument for slavery wealth exploiting exogenous variation in slave mortality during the
+middle passage, from Africa to the Americas: Where poor weather conditions led to longer
+voyages, there were fewer survivors. By linking slave-traders to the locations of their an-
+cestors, we show that higher mortality on voyages spelled lower slavery wealth in 1833. We
+show that areas with exogenously more slavery wealth grow faster, experience more struc-
+tural change, develop more mills and factories, and adopt more steam engines. We rationalize
+these /f_indings using a dynamic spatial model, in which slavery wealth stimulates domestic
+capital accumulation, and hence expands production in capital-intensive sectors.
+A growing literature has documented slavery’s adverse eﬀects on African economic de-
+velopment: African countries exposed to the slave trade are still markedly poorer today, with
+lower levels of interpersonal trust (Nunn and Wantchekon 2011, Nunn 2008). While statues
+commemorating slave traders and slaveholders continue to adorn European cities, and en-
+dowed hospitals and libraries perpetuate their names, slavery’s economic consequences in
+today’s developed countries are not well understood. The idea that slavery and the trade in
+enslaved human beings jump-started the Industrial Revolution is not new: EricWilliams (1944)
+famously argued that Britain accumulated vast wealth from the triangular trade – and that it
+re-invested this wealth in the leading sectors of the Industrial Revolution.1 Indeed, no country
+had greater involvement in the transatlantic slave trade than Britain, and it also industrialized
+/f_irst. At the same time, quantitative economic historians have questioned the idea that the
+slave trade boosted economic development in Europe, and in industrializing Britain in partic-
+ular. Pro/f_its from the slave trade were no higher than in other lines of business, the argument
+1Relatedly, historians of global capitalism (Wallerstein 2004,Frank 2011) have emphasized that Atlantic slav-
+ery was crucial for economic development after 1500.
+2
+--- Page 4 ---
+goes; absolute levels of pro/f_it from the slave trade were small relative to the size of the British
+economy (Engerman 1972, Eltis and Engerman 2000).
+We make a number of contributions to this debate. First, we emphasizeslaveholding in ad-
+dition to slave trading. The purchase and sale of human beings was only one part of the slave
+economy. Much of the wealth accumulated from slavery was derived from colonial sugar,
+tobacco, cotton and coﬀee plantations. Participation in the slave trade often facilitated a tran-
+sition to plantation ownership. Indeed, Solow (1993) argues that the pro/f_its from slaveholding
+were an order of magnitude greater than direct pro/f_its from the slave trade itself.2 To measure
+this wealth from slaveholding, we use a distinctive feature of our empirical setting: Britain,
+through the Abolition of Slavery Act in 1833, provided compensation payments to existing
+slaveholders. These compensation payments were substantial, equal to£20 million in current
+prices, which was around 40 percent of the government’s budget and 5 percent of gross do-
+mestic product (GDP), with the resulting debt not paid oﬀ until 2015. We use individual-level
+data on these compensation payments to more than 25,000 slaveholders, as compiled by his-
+torians over more than a decade in the Legacies of British Slavery database (Hall et al. 2014).
+This allows us to directly measure slavery wealth for each slaveholder in terms of the total
+number of enslaved persons and their assessed value.
+Second, much of the existing debate about the Williams hypothesis has occurred at the
+level of the economy as a whole. Since many factors change over time at the aggregate level,
+this creates challenges for identi/f_ication and measurement. In contrast, we exploit geographi-
+cal variation in slavery participation across locations within Britain, which enables us to con-
+trol for these other aggregate time-varying factors. We combine our measure of slaveholder
+wealth from the claims for compensation with detailed information on population, employ-
+ment structure and property values across locations within Britain.
+Third, a key challenge in the existing debate about the Williams hypothesis is that slavery
+wealth is endogenous. To address this concern, we /f_irst use our spatially-disaggregated data
+on economic activity before the rise of the slave economy, using property values in Britain
+dating back to 1086. We use these data to check for balancedness and diﬀerences in pre-
+trends between locations that subsequently have high or low slavery wealth. We also develop
+a new instrumental variables estimation strategy based on the fact that many slave traders
+eventually became slaveholders, investing their wealth in West Indian plantations. In the age
+of sail, the idiosyncrasies of wind and weather heavily in/f_luenced the duration of transatlantic
+voyages. Crowded and inhumane conditions on slave voyages led to high rates of mortality
+2According to conventional estimates, pro/f_its from slavetrading amounted to around 0.5 percent of GDP.
+In contrast, Solow (1993) estimates that pro/f_its fromslaveholding were around 5 percent of GDP, or roughly 80
+percent of total domestic investment.
+3
+--- Page 5 ---
+during the middle passage. A primary determinant of mortality for the enslaved was voyage
+duration (Eltis 1984). As voyage times increased because of unfavorable winds, water began to
+run out, and infectious diseases spread, raising mortality among the enslaved. High mortality
+reduced slave traders’ pro/f_its, making their continued involvement in the trade less likely.
+Hence, inclement weather shocks both directly reduced wealth, and also induced exit from
+the slave trade, thereby reducing slaveholder wealth in 1833 (at the time of abolition). We
+therefore instrument 1833 slavery wealth using a voyage outcome measure inversely related
+to middle-passage mortality.
+Fourth, we develop a dynamic spatial model to evaluate the aggregate and distributional
+consequences of slaveholding. The model highlights three mechanisms through which slavery
+wealth aﬀects economic development. First, for a given capital stock, greater access to colonial
+slavery investments makes domestic investments less attractive through a standard substitu-
+tion eﬀect, thereby decreasing the domestic capital stock. Second, greater access to colonial
+slavery investments raises the productivity of the investment technology, which stimulates
+capital accumulation and increases the steady-state domestic capital stock. Third, slavery in-
+vestments are more collateralizefable than other investments, which alleviates collateral con-
+straints, and again stimulates domestic capital accumulation. 3 We show that the net eﬀect of
+these three forces is that locations with greater access to colonial slavery investments exhibit
+faster capital accumulation along the transition path to steady-state and a higher steady-state
+domestic capital stock. In the presence of /f_inancial frictions, this increased capital is dispro-
+portionately invested locally, which in turn stimulates local economic growth, and structural
+transformation towards capital-intensive manufacturing.
+We use our voyage outcome instrument to identify the eﬀect of exogenous variation in
+slavery wealth on local economic development. In our /f_irst-stage regression, we /f_ind that
+a one standard deviation increase in this voyage outcome instrument (reduction in middle-
+passage mortality) implies a 0.16 standard deviation increase in slaveholder wealth in 1833.
+In our second-stage regression, we /f_ind that a one standard deviation increase in slaveholder
+wealth translates into a 0.52 standard deviation increase in property values, a 0.61 standard
+deviation increase in agricultural employment, a 0.87 standard deviation increase in manufac-
+turing employment, a 0.79 standard deviation increase in the average number of cotton mills
+in 1839, and a 1.78 standard deviation increase in the number of steam engines.
+Combining our model and rich geographic data, we /f_ind substantial aggregate and distri-
+butional consequences of access to slavery investments. At the aggregate level, we /f_ind an
+3Of the twelve rules governing slavery in the West Indies in (Stephen 1824), rule X states “The slave may be
+mortgaged, demised, and settled for any particular Estate or estates, in possession, remainder, or reversion. ” The
+Legacies of British Slavery Database contains many examples of enslaved persons used as collateral.
+4
+--- Page 6 ---
+increase in national income of 3.5 percent, which is sizeable relative to conventional estimates
+of the welfare gains from international trade, such as the upper bound of 9 percent for 19th-
+century Japan in Bernhofen and Brown (2005). Capitalists were the largest bene/f_iciaries with
+an increase in their aggregate income of 11 percent, both because of the direct income from
+slavery capital invested in colonial plantations, and because of the induced increase in steady-
+state domestic manufacturing capital. Landowners experience small aggregate income losses
+of just under 1 percent, because of the reallocation of labor away from agriculture. Expected
+worker welfare rises by 3 percent, because of the substantial wage increases in slavehold-
+ing locations, and the positive probability of living in those locations. At the disaggregated
+level, we /f_ind that access to slavery investments played an important role in shaping the ge-
+ography of the industrial revolution, consistent with our causal estimates using variation in
+middle-passage mortality. The locations with the greatest levels of participation in slavery
+investment experience increases in total income of more than 40 percent, with population in-
+creasing by 6.5 percent, capitalists’ income rising by more than 100 percent, and landlords’
+income declining by just over 7 percent.
+The remainder of the paper is structured as follows. Section2 reviews the related literature.
+Section 3 discusses the historical background. Section4 introduces our data. Section5 provides
+motivating evidence on patterns of slaveholding and economic activity within Britain over
+time. Section 6 develops the theoretical model that guides our empirical analysis. Section 7
+reports our main empirical results. Section 8 summarizes our conclusions.
+2 Related Literature
+There is a large literature examining links between slavery and the Industrial Revolution in
+Britain after 1750. The idea that riches derived from slavery accelerated economic develop-
+ment is almost as old as capitalism itself – and so are the counterarguments. Adam Smith
+considered slavery and the colonial system economically ineﬃcient. On the other hand, in
+1788, when the British parliament debated the possible abolition of slavery, merchants in-
+volved in the trade argued that “the eﬀects of this trade to Great Britain are bene/f_icial to an
+in/f_inite Extent ... [and] ... were this [trade to be] abolished, it would [cause] very great Detri-
+ment to our Manufacturers.... ” (Eltis and Engerman 2000). Karl Marx Marx (1867), in “Das
+Kapital, ” famously opined that “the veiled slavery of the wage-workers in Europe needed, for
+its pedestal, slavery pure and simple in the new world... ” In 1944, EricWilliams (1944) argued
+“Britain was accumulating great wealth from the triangular trade. . . . that trade
+inevitably [increased] ... the productive power of the country... the investment
+of pro/f_its from the triangular trade in British industry ... supplied ... the huge
+5
+--- Page 7 ---
+outlay for the construction of vast plants to meet the needs of the new productive
+process... ”
+Williams’ hypothesis stimulated a large body of academic research on links between the
+triangular trade and industrial development in Britain. Historians of the ‘world system of cap-
+italism’ in the vein of Immanuel Wallerstein and Gunder Frank have argued that economic
+development in the European ‘core’ cannot be separated from exploitation and political sup-
+pression in the periphery (Frank 1967, Wallerstein 2004), emphasizing the importance of cap-
+ital accumulation. Using data on slave-trading voyages from British and European ports over
+time, Derenoncourt (2019) estimates the contribution of the slave trade to city population
+growth.4 Findlay (1990), for example, argues “slavery was an integral part of a complex ...
+system of trade in goods and factors within which the Industrial Revolution ... emerged... [but
+there is] no causal arrow from slavery to British industrialization. " Price and Whatley (2020)
+estimate the /f_inancial impact of the South Sea Company’s monopoly on the trade of enslaved
+Africans to Spanish America (the Asiento de Negros), as granted by the British Parliament.
+While some studies focus on the pro/f_its from the slave trade, other historical research empha-
+sizes the contribution of the wealth derived from colonial slavery plantations Darity (1990).5
+Solow (1993) emphasizes that pro/f_its from slave trading and slave holding were large compared
+with domestic investments in Britain.6
+Critical assessments focus on the limited pro/f_itability of the slave trade. Some historians
+have argued that planters in the West Indies barely covered their cost and that pro/f_itability
+declined from the 1750s onwards (Ragatz 1928), but this notion has been disputed (Drescher
+2010). Thomas and Bean calculated that Britain did not pro/f_it from slave plantations produc-
+ing colonial produce (Thomas and Bean 1974). Similarly, Eltis and Engerman (2000) examine
+aggregate eﬀects of the slave trade and conclude their analysis by saying, “African slavery ...
+did not ... cause the British Industrial Revolution ... . "
+Therefore, with a few exceptions, slavery has mainly been viewed as little more than a
+sideshow in the transformation of Britain’s economy. However, there remains a scarcity of
+4Related research by Acemoglu and co−authors emphasizes that, in North−Western Europe, Atlantic trade
+led to better institutions by strengthening the hand of merchants (Acemoglu et al. 2005). However, these authors
+do not emphasize that much of this trade derived from the traﬃcking of enslaved Africans.
+5Using data from Maryland in the United States,González et al.(2017) provide empirical evidence that slavery
+wealth was an important source of collateral used to /f_inance U.S. entrepreneurship. For the United States as a
+whole, Francis (2021) emphasizes the role played by the tariﬀ revenue derived by the Federal Government from
+the imports that were made possible by the export of the cotton produced by slave plantations.
+6While not all scholars agree, there is substantial evidence that slavery did not accelerate development in
+the U.S. (Bleakley and Rhode 2021, Wright 2006). A key diﬀerence is that slavery occurred domestically in the
+U.S., which implies that three forces were at work: slavery’s eﬀect on capital returns, the local labor market, and
+institutions and culture. Britain’s exposure to slavery was fundamentally diﬀerent, with nationals investing in
+overseas slave plantations and the slave trade, but without any substantive domestic slavery.
+6
+--- Page 8 ---
+quantitative, well−identi/f_ied evidence on the contribution of slavery towards Britain’s Indus-
+trial Revolution, combining aggregate and cross-sectional evidence.
+Our research is also related to the wider literature on structural transformation and eco-
+nomic development, including Matsuyama (1992), Caselli and Coleman (2001), Lucas (2002),
+Ngai and Pissarides (2007), Uy et al. (2012), Herrendorf et al. (2012), Bustos et al. (2016), Gollin
+et al. (2016), Caprettini and Voth (2020) and Fajgelbaum and Redding (2022). We contribute to
+research on the geography of the British Industrial Revolution (Crafts and Wolf 2014), and to
+work on the role of /f_inancial development in economic growth generally, as well as during the
+British Industrial Revolution in particular, including Gerschenkron (1962), Guiso et al. (2004),
+Moll (2014), Itskhoki and Moll (2019), and Heblich and Trew (2019). Our main contribution
+relative to this research is to provide theory and evidence on the role of slavery wealth in
+in/f_luencing structural transformation and regional economic development.
+3 Historical Background
+Britain’s involvement in the slave trade dates back to the 1560s and expanded substantially
+after 1640. In 1660, the Royal African Company was granted a monopoly over English trade
+with the West Coast of Africa, including the slave trade. However, following the Glorious
+Revolution of 1688 and the accession of William III, this monopoly was broken up; subsequent
+slave voyages were /f_inanced and organized by individual ship owners.
+By the 1700s, the ‘triangular trade’ from Europe-Africa-Americas was the mainstay of the
+British West Coast ports of Bristol and Liverpool. This trade involved the export of manufac-
+turing goods, including textiles, from Britain to the West Coast of Africa; the transportation of
+enslaved persons from the West Coast of Africa to the Americas; and the export of plantation
+products such as sugar, tobacco, coﬀee and cotton from the Americas to Britain.
+Figure 1 shows the annual number of enslaved persons transported across the Atlantic by
+ships from British ports (solid line) and ships from all nations (dashed line). From 1701-1807,
+British ships are estimated to have have carried over 2.5 million enslaved persons, more than
+one third of the over 6 million total transported during this period.7 The British slave trade was
+concentrated in three British ports: Liverpool (49 percent); London (29 percent); and Bristol
+(21 percent); with all other ports accounting for only 1 percent of trade.
+The wealth accumulated from the slave trade and slaveholding was far from evenly dis-
+tributed within Britain. James Penny, who was heavily involved in the slave trade, predicted
+instant ruin from its abolition for the British towns most involved in it: “[s]hould this trade be
+abolished, it would not only aﬀect the Commercial Interest . . . of the County of Lancaster, and
+7The total number of enslaved persons embarked, including years after 1807, was 10.6 million (Eltis 1984).
+7
+--- Page 9 ---
+Figure 1: Slave Trade - Annual Total of Enslaved Persons Shipped, British vs ROW
+Note: Annual total number of enslaved persons transported across the Atlantic ocean using ships from British
+ports and ships from all nations.
+more particularly the Town of Liverpool, whose fall, . . . would be as rapid as its Rise has been
+astounding. ” (Eltis and Engerman 2000).
+At the individual level, the sums involved were large. The Grade I-listed Harewood House
+is one of England’s /f_inest country houses, and is still owned by the Lascelles family, who
+amassed substantial wealth through slavery. In 1833, the Second Earl of Harewood received
+£26, 307 in slavery compensation payments for 1,277 enslaved persons, which equals £19
+million adjusted for in/f_lation, or£128 million when expressed as the same share of GDP.8
+Over time, reports of barbaric conditions on slave ships led to a campaign for the abolition
+of the slave trade.9 In response to this growing campaign, the Abolition of the Slave Trade Act
+was passed in 1807, which prohibited the slave trade (but not slavery) in the British Empire.
+Some abolitionists hoped that slavery would be unsustainable without the slave trade, but
+further legislation was delayed by the Revolutionary Wars. Eventually, the Slavery Abolition
+Act of 1833 was passed, making the ownership of enslaved persons illegal within the British
+Empire (Taylor 2020).
+Under the terms of the 1833 Act, the British government spent£20 million to compensate
+slaveholders, equivalent to 40 percent of government revenue or 5 percent of GDP (Barro
+8The grandfather of the Earl of Harewood was Edwin Lascelles, born in Barbados without a title in 1712. A
+relative, Alan Lascelles, is The Queen’s private secretary in Net/f_lix’s series The Crown.
+9Black African writers played an important role in making these barbaric conditions more widely known,
+including Equiano (1789). For further discussion of the abolitionist campaigns, see Taylor (2020) .
+8
+--- Page 10 ---
+1987). Additionally, formerly-enslaved persons were forced to work without remuneration for
+up to six years under an “apprenticeship” system. Slaveholders were required under the 1833
+Act to register claims for the number of enslaved persons held, which were systematically
+collected and processed by a Slave Compensation Committee. Separate schedules were drawn
+up for each colony that speci/f_ied a compensation rate per slave that depended on age and
+occupation.10 Compensation was paid to slaveholders from 1835 onwards.
+4 Data
+We construct a new spatially-disaggregated dataset on slaveholding and economic activity
+in England and Wales. 11 We combine seven main data sources: (i) Individual-level data on
+slaveholding based on compensation claims paid under the 1833 Abolition of Slavery Act; (ii)
+Individual slave-trading voyages from British ports; (iii) Population and employment struc-
+ture; (iv) Property valuations; (v) Location of cotton mills; (vi) Family linkages; (vii) Steam
+engines.12
+Slaveholding We use data from the Legacies of British Slavery Database to measure the
+geographical distribution of slavery wealth within Britain at the time of the abolition of slavery
+in 1833. Starting with the records of the Slave Compensation Committee, this database was
+constructed over more than a decade by the Centre for the Study of the Legacies of British
+Slavery at University College London. The data include detailed information on compensation
+claims, the identity of the awardees, the legitimacy of their claims, and the ownership records
+of awardees. We use a digital version of these data, which includes information on 53,000
+individuals connected to slavery, of whom 25,000 were awarded compensation for 425,000
+enslaved persons. In Section G.1 of the online appendix, we provide an example of the entry
+from this database for the Second Earl of Harewood. We observe name, date of birth and
+death, biographical information including family history, address, the name and location of
+each colonial plantation, and the compensation awarded and number of enslaved persons for
+each plantation. We /f_ind a tight and approximately log linear relationship across slaveholders
+between the value of slavery compensation paid and the number of enslaved persons claimed.13
+We use the number of enslaved persons claimed for compensation purposes as our baseline
+measure of slaveholding in our regression analysis.
+10See Figure G.3 in Online Appendix G.1 for an example of such a compensation schedule.
+11We focus on England and Wales, because the population census is reported separately for these two countries;
+our historical property valuation data is unavailable for Scotland; and the Act of Union with Scotland occurs later
+in 1707 after the start of slave trading from the British Isles.
+12See Online Appendix G for further details about the data sources and de/f_initions.
+13See Figure G.4 in Online Appendix G.1 for a binscatter of this relationship.
+9
+--- Page 11 ---
+Slave voyages We use the slave voyages dataset constructed by Herbert Klein and collabo-
+rators.14 This database contains information on 36,000 slave voyages, with a total of over 10
+million enslaved persons shipped across the Atlantic from 1526 onward. Of these, 10,785 voy-
+ages were conducted by British owners, involving the transportation of 2.9 million enslaved
+persons from 1562 to the Abolition of the Slave Trade in 1807. For each voyage, we know the
+names of (up to) eight owners; the port of origin; the ports visited on the African coast; and
+the /f_inal destination. For a subset of voyages, we also observe the duration of the voyage, and
+the number of enslaved embarked and disembarked. We use this information to compute a
+voyage mortality rate, which we use to construct one of our instruments for slaveholding.
+Population and Employment Structure We obtain data on parish population from 1801-
+1831 from the population census (see Wrigley 2011). We supplement these population census
+data with information from the History database of the Global Environment (Hyde) for years
+before 1801 (see Klein Goldewijk et al. 2017). Data on employment structure by parish in 1831
+are provided by Southall et al. (2004). We distinguish employment in agriculture, as well as in
+manufacturing.
+Cotton Mills We construct two sets of data on the location of cotton mills within England
+and Wales. First, we digitized data on the number of cotton mills in each parish for the year
+1839, as reported in House of Commons (1839). This parliamentary report summarizes the
+results of factory inspections under the Factory Act and contains the most comprehensive data
+on industrial establishments in Britain before the start of the Census of Production during the
+20th century. Second, we digitized data on the location of 212 British cotton mills that were
+erected in the early decades of the industrial revolution from 1768-88 from Colquhoun, as
+revised and extended by Chapman (1981).
+Property Valuations We use a number of diﬀerent sources of data on property valuations
+for each parish. For the year 1086, we construct the value of land, buildings and equipment
+for each parish from the Domesday Book, using the digitized data for each manor in PASE
+(2010). For the year 1334, we use the value of personal property (excluding land and buildings)
+for each parish from the Lay subsidies, as compiled by Glasscock (1974) and Campbell and
+Bartley (2006). For the year 1798, we digitized the data on the land tax quotas for each parish,
+as reported in House of Commons (1844). These land tax quotas were originally speci/f_ied in
+1690, and were subject to gradual amendment over time (Ginter 1992). In 1798, these land tax
+quotas were made unalterable by law; they remained unchanged until abolished in 1963. For
+the years 1815, 1843 and 1881, we digitized rateable values for each parish, which correspond
+14Available online at www.slavevoyages.org.
+10
+--- Page 12 ---
+to the market value of the annual /f_low of rent for the use of land and buildings. With a few
+minor exceptions, these rateable values include all categories of land and property, and were
+used to raise revenue for local public goods.
+Family Linkages We link the location of slaveholders in 1833 to that of slave traders’ an-
+cestors. We use the fact that many individuals involved in the slave trade either returned to
+their ancestral home areas, or continued to have family there (who would inherit, or bene/f_it
+from their relative’s expertise). We begin by using the Slave Voyages database (see above) to
+identify individuals involved in the slave trade. We next use two diﬀerent approaches to link
+these slave traders to the locations of slaveholders in 1833. Our /f_irst approach uses genealog-
+ical information. For each slave trader, we /f_ind the largest family tree containing this person
+from Ancestry.com. From this family tree, we extract the universe of the slave trader’s
+parents, grandparents, and great-grandparents (as far as these are available), and locate them
+geographically based on birth address (or death address if birth address is unavailable). Our
+second approach uses the geographical distribution of surnames in Britain (e.g.,Cheshire and
+Longley 2011). We assign slave traders to locations probabilistically, based on the likelihood
+of observing their surname in a location in the individual-level 1851 population census. We
+use these two diﬀerent approaches to construct our two instruments for slavery wealth, as
+discussed below.
+Steam Engines We use the British Newspaper Archive to collect data on the location of
+steam engines. We search for second-hand sales, advertisements, and job ads that contain ref-
+erences to steam engines from 520 local newspapers in England and Wales. Over the period
+1755–1850, we obtain around 20,000 references to steam engines, which we assign geograph-
+ically based on the location of publication of the newspaper.
+Data Structure To overcome changes in the boundaries of administrative units such as
+parishes over time, we construct a hexagonal spatial grid over England and Wales, consist-
+ing of 849 cells (“regions”). 15 Each grid cell covers an area of 200 square kilometers and the
+distance from the centroid to the vertex measures around 9 km. Since the dominant mode of
+commuting during our sample period was walking, 9 km is a reasonable maximum distance
+over which it would be possible to walk to work. A further advantage of this grid cell struc-
+ture is that it is straightforward to examine the robustness of our results to alternative sizes
+of grid cells, as discussed below. We assign our data to grid cells either based on exact geolo-
+cated addresses (e.g., for slaveholder addresses) or the latitude and longitude coordinates of
+15We choose hexagons (rather than squares or triangles) because of their advantages for partitions of geo-
+graphical space, as discussed for example in Carr and Pickle (2010).
+11
+--- Page 13 ---
+the centroids of parishes (e.g., for our population census data). With around 10,000 parishes
+in England Wales, each parish is small relative to the area of our 849 grid cells.
+5 Motivating Evidence
+We begin by providing some motivating evidence on patterns of slaveholding and economic
+activity in England and Wales. In Subsection 5.1, we examine cross-section patterns at the time
+of the Abolition of Slavery in 1833. In Subsection 5.2, we use our historical data on property
+values to the examine the evolution of this relationship over time.
+5.1 Economic Activity and Slaveholding in the 1830s
+In Figure 2a, we show the spatial distribution of slaveholder compensation in 1833 in England
+and Wales. To provide as /f_ine a level of spatial resolution as possible, we display slavery wealth
+in this /f_igure at the parish level. The size of the blue circles is proportional to the amount
+of slavery compensation awarded in current price 1833 pounds sterling. We /f_ind the largest
+concentrations in the areas surrounding the three ports most heavily involved in the slave
+trade and the products of the slave economy (in particular, sugar, tobacco, coﬀee and cotton):
+Liverpool in the North-West, Bristol in the South-West, and London in the South-East. But
+slaveholding extends throughout much of England and Wales, particularly in coastal regions,
+and in the main population centers.
+In Figure 2b, we show the manufacturing employment share in each of our hexagonal
+regions in 1831. By that time, the manufacturing employment share for England and Wales
+as a whole was approximately 42%, and we see the emergence of industrial agglomerations in
+the North. However, agriculture still employs approximately 27% of the population and there
+is substantial heterogeneity in agricultural specialization across regions, with agriculture still
+accounting for more than 60% percent of employment in some counties. 16 Comparing the
+two /f_igures, manufacturing employment shares and slaveholder compensation are positively
+correlated.
+In Figure 3, we provide further evidence on the correlation between structural transfor-
+mation and slaveholding using three diﬀerent indicators: the agricultural employment share
+in 1831 (left panel), the number of cotton mills in 1839 (middle panel), and the industry em-
+ployment share in 1831 (right panel). We show the /f_itted values and 95 percent con/f_idence
+intervals from local polynomial regressions of all three measures on the number of enslaved
+16See Figure B.1 in Online Appendix B for a corresponding map of agricultural employment shares. To derive
+the 1831 /f_igure, we linearly interpolate theBroadberry et al. (2010) employment shares for 1801 and 1851. Along
+similar lines, Crafts (1985) reports a share of male employment in industry later, in 1840, of 47.3%.
+12
+--- Page 14 ---
+Figure 2: Slaveholding and Structural Transformation in the 1830s
+(a) Slaveholder Compensation in 1833
+ (b) Manufacturing Employment Share in 1831
+Note: Left panel : Slaveholder compensation in each parish in 1833 pounds sterling; size of blue circles propor-
+tional to the total value of slaveholder compensation in each region. The largest three slave trading ports by
+enslaved persons embarked are labelled. Right panel : Manufacturing employment share in each region in the
+1831 census; darker blue colors correspond to higher values; lighter green colors correspond to lower values.
+persons claimed in 1833. We /f_ind that areas with greater slaveholding have lower agricultural
+employment shares, more cotton mills, and higher manufacturing employment shares.
+5.2 Economic Activity and Slaveholding over Time
+We next use our long historical time-series on property valuations to examine the timing
+of the emergence of this relationship. We estimate non-parametric regressions of property
+valuations per land area in each year on the number of enslaved persons claimed in 1833. We
+control for other potential determinants of property valuations, such as geographical location,
+using the Frisch-Waugh-Lovell Theorem. In particular, we regress both property valuations
+and slaveholding on controls for latitude, longitude, and population, generate the residuals,
+and then estimate our non-parametric regressions using these residuals. We /f_ind a similar
+pattern of results in robustness tests without these controls.
+13
+--- Page 15 ---
+Figure 3: Structural Transformation and Slaveholding in the 1830s
+Note: In all three panels, horizontal axis shows total number of enslaved in each hexagon in 1833; vertical axes
+show agricultural employment share in 1831 (left panel), number of cotton mills in 1839 (middle panel), and
+manufacturing employment share in 1831 (right panel); dark line shows /f_itted values from local polynomial
+regression; gray shading shows 95 percent con/f_idence intervals. Slave claims and the number of cotton mills are
+inverse hyperbolic sine transformed.
+Figure 4: Property Valuations by Year and Number of enslaved persons Claimed in 1833
+Note: Local polynomial regressions; vertical axis is residual from regressing the inverse hyperbolic sine (IHS) of
+property valuation on the parish centroid’s latitude, longitude and population in each grid cell; horizontal axis
+is residual from regressing the inverse hyperbolic sine (IHS) of 1833 slavery compensation on the same control
+variables; gray shading shows 95 percent con/f_idence intervals for 1881; see Section4 above and Section G of the
+Online Appendix for further details about the property valuation data for each year.
+14
+--- Page 16 ---
+In Figure 4, we show the estimated gradient between the inverse hyperbolic sines of each of
+our measures of property valuation per land area and the number of enslaved persons claimed
+in 1833. The residual property valuation and slaveholding variables both have mean zero.
+For 1086 (solid medium black line), we /f_ind a relatively /f_lat relationship with only a slight
+upward slope. For 1334, we again observe a /f_lat relationship, with essentially no gradient.
+Therefore, we /f_ind no evidence of a relationship between levels of economic activity and future
+slaveholding before Britain’s large-scale involvement in slavery from the 1640s onwards.
+In contrast, using our 1798 property valuation data, which are based on amended 1690
+land tax quotas, we begin to observe a positive upward-sloping relationship. By 1843, this
+positive slope steepens further, particularly at higher levels of slaveholding. By 1881, there is a
+further steepening of this positive slope, which is again greater at higher levels of slaveholding.
+Hence, following Britain’s large-scale participation in slave trading and slaveholding from the
+1640s onwards, we start to observe a positive relationship between economic activity and our
+measure of slaveholding.
+Taken together, these empirical /f_indings are suggestive of a relationship between slavery
+wealth and economic development. In the next section, we develop a theoretical model to
+understand the potential mechanisms for such an empirical relationship. In the following sec-
+tion, we introduce our identi/f_ication strategy to estimate causal eﬀects, and use our theoretical
+model to quantify the aggregate and distributional consequences of slavery investments.
+6 Theoretical Model
+To guide our empirical analysis, we develop a simple theoretical model of economic devel-
+opment and structural transformation. 17 We augment a conventional speci/f_ic-factors model
+to incorporate labor mobility, endogenous capital accumulation, and slavery investments in
+an overseas colony. Slavery and domestic investments are assumed to be imperfect substi-
+tutes for one another. Investments are subject to /f_inancial frictions, such that most domestic
+investments occur locally. Access to slavery investments raises the rate of return to capital
+accumulation, which increases the steady-state capital stock, and hence leads to an expansion
+in the local capital-intensive manufacturing sector.
+6.1 Model Setup
+We consider a set of small open economies: many domestic locations indexed by i,n ∈
+{1,...,N } and a colonial plantation N. Time is discrete and indexed byt.
+17For a more detailed exposition of the model and the derivation of all theoretical results in this section of the
+paper, see Online Appendix C.
+15
+--- Page 17 ---
+The world economy includes four types of agents: workers, capitalists, landlords and en-
+slaved persons. Workers, capitalists and landlords are located in the domestic economy. En-
+slaved persons work in the colonial plantation. There are three sectors of economic activity:
+agriculture and manufacturing (produced in the domestic economy) and plantation products
+(produced in the colony). Agriculture is produced with labor and land. Manufacturing is pro-
+duced with labor and capital. Workers are mobile between the two domestic sectors. But
+land and capital are speci/f_ic factors that can only be used in agriculture and manufacturing
+respectively. Enslaved persons and capital produce plantation goods.18
+Workers are endowed with one unit of labor that is supplied inelastically. They are geo-
+graphically mobile across locations within the domestic economy, but geographically immo-
+bile between the domestic economy and the colonial plantation. Landlords in each domestic
+location are geographically immobile and own local land (mn).
+Capitalists are geographically immobile and own local capital (knt). Each period, they al-
+locate capital to either local manufacturing or to plantation production. They also make a
+dynamic consumption-investment decision. They can either invest their assets (a nt) in capi-
+tal (knt) or a consumption bond that pays a constant rate of return ρ. Investments in capital
+are subject to collateral constraints, such that capitalists can only invest a multiple of their
+current assets: knt≤ λnant. If they invest in capital, they observe idiosyncratic productivity
+draws for the number of eﬀective units of capital for use in domestic manufacturing and the
+colonial plantation. These idiosyncratic productivity draws give rise to a downward-sloping
+Keynesian marginal eﬃciency of capital schedule for each location. They also imply an asset
+demand system in which the elasticity of substitution between domestic and colonial invest-
+ments is determined by the dispersion of these idiosyncratic productivity draws. Capitalists
+face /f_inancial frictions, such thatφnit≥ 1 units of capital must be invested from locationn in
+order for one unit to be available for production in locationi∈{n, N}.19
+6.2 Preferences and Endowments
+The indirect utility function for a workerϑ in locationn at timet (unt(ϑ)) depends on the wage
+(wL
+nt), the consumption goods price index (p nt), amenities that are common across workers
+(Bnt), and an idiosyncratic amenity draw (b nt(ϑ)) that captures all the idiosyncratic reasons
+18For simplicity, we abstract from land use in plantation products and capital use in agriculture, although both
+can be introduced. What matters is that plantation products and domestic manufacturing both use capital, and
+domestic manufacturing is more capital-intensive than domestic agriculture.
+19In our baseline speci/f_ication, we capture the local nature of investment by assuming for simplicity that
+capitalists can only invest in their own location or the colonial plantation. In Online Appendix F, we develop
+an extension, in which capitalists can invest in any domestic location subject to /f_inancial frictions that increase
+with distance, which gives rise to a gravity equation in bilateral investment /f_lows.
+16
+--- Page 18 ---
+why an individual worker can choose to live in a particular location:
+unt(ϑ) = lnBnt + lnwL
+nt− lnpnt +κ lnbnt(ϑ), (1)
+where the parameterκ regulates the heterogeneity in idiosyncratic amenities. The consump-
+tion goods price index (pnt) depends on the price of agriculture (pA
+nt), the price of manufactur-
+ing (pM
+nt) and the price of plantation products (pS
+nt):
+pnt =
+[(
+pA
+nt/βA
+t
+)1−σ
++
+(
+pM
+nt/βM
+t
+)1−σ
++
+(
+pS
+nt/βS
+t
+)1−σ] 1
+1−σ
+, (2)
+where (βA
+t ,βM
+t ,βS
+t ) are taste parameters that control the relative weight of the three goods
+in utility; we assume inelastic demand between the three sectors (0 < σ < 1), as in the
+macroeconomics literature on structural transformation.
+Each location is connected to world markets through iceberg trade costs that can diﬀer
+across sectors (τA
+it ≥ 1,τM
+it ≥ 1,τS
+it≥ 1) and faces exogenous prices for each good on world
+markets (pAW
+t ,pMW
+t ,pSW
+t ).20 Therefore, no-arbitrage implies that the local prices of the three
+goods (pA
+nt,pM
+nt,pS
+nt), and hence the local consumption price index (p nt), are pinned down by
+these iceberg trade costs and exogenous world market prices.
+6.3 Technology
+Each good is produced under conditions of perfect competition using constant returns to scale
+Cobb-Douglas technologies. Cost minimization and zero pro/f_its imply that price equals unit
+costs if a good is produced:
+pA
+it = 1
+zA
+it
+(qit)αA (
+wL
+it
+)1−αA
+, i ∈{ 1,...,N }. (3)
+pM
+it = 1
+zM
+it
+(rit)αM (
+wL
+it
+)1−αM
+, i ∈{ 1,...,N }. (4)
+pS
+Nt = 1
+zS
+Nt
+(rNt)αS (
+wS
+Nt
+)1−αS
+, (5)
+wherezj
+it denotes productivity for sectorj∈{A,M,S};qit is the domestic agricultural land
+rent;rit is the domestic rental rate per eﬀective unit of capital;rNt is the exogenous rental rate
+per eﬀective unit of capital in the colonial plantation; wS
+Nt is the exogenous shadow cost of
+enslaved labor in the colonial plantation; and 0<α A,αM,αS < 1.
+The equilibrium wage (wL
+it) is determined by the equality of labor’s value marginal prod-
+uct in agriculture and manufacturing for each domestic location where both these goods are
+20While our baseline speci/f_ication assumes for simplicity that locations are small open economies that face
+exogenous world market prices, we can also allow for an endogenous terms of trade.
+17
+--- Page 19 ---
+produced. Given prices (p A
+i , pM
+i ), productivity (z A
+i , zM
+i ), land supply (mi), capital allocated
+to domestic manufacturing (kM
+it ) and total employment (ℓit) for a given location i, the model
+behaves as in the conventional speci/f_ic-factors model. In contrast to this conventional frame-
+work, both the capital allocated to domestic manufacturing kM
+it ) and total employment (ℓ it)
+are endogenous, and the capital stock (kit) is determined by consumption-saving decisions.
+6.4 Labor Market Clearing
+After observing her idiosyncratic amenity draws (bn(ϑ)), each worker chooses her preferred
+domestic location. We make the conventional assumption that idiosyncratic amenities are
+drawn from an extreme value distribution: F (b) = exp (− exp (−b−
+γ)), where γ is the
+Euler-Mascheroni constant. Using this assumption, the share of workers who choose to live
+in locationn depends on relative amenity-adjusted real wages, and takes the logit form:
+µnt = ℓnt
+ℓt
+=
+(
+BntwL
+nt/pnt
+)1/κ
+∑N
+k=1 (BktwL
+kt/pkt)
+1/κ, (6)
+where ¯ℓt is total domestic employment, such that labor market clearing implies∑
+i∈Nℓit = ¯ℓt.
+Worker expected utility taking into account the idiosyncratic productivity draws is:
+Ut =κ log
+[ N∑
+k=1
+(
+BktwL
+kt/pkt
+)1/κ
+]
+, (7)
+Intuitively, expected utility increases in amenities (Bnt) and wages (wL
+nt), and decreases in the
+consumption price index (pnt).
+6.5 Capital Allocation Within Periods
+At the beginning of periodt, the capitalists in locationn inherit an existing stock of capitalknt,
+and decide where to allocate this existing capital, and how much to consume and invest. Once
+these decisions have been made, production and consumption occur. At the end of period t,
+new capital is created from the investment decisions made at the beginning of the period, and
+the depreciation of existing capital occurs. In the remainder of this subsection, we characterize
+capital allocation decisions at the beginning of periodt. In the next subsection, we characterize
+optimal consumption-investment decisions.
+We assume that capital can be allocated either locally (k nnt) or to the colonial plantation
+(knNt).21 The productivity of capital in each of these uses is subject to idiosyncratic productiv-
+21In Online Appendix F, we develop our theoretical extension to allow capitalists to invest in all domestic
+locations, subject to /f_inancial frictions that generate a gravity equation for investment. Using data from the
+Legacies of British Slavery database, we /f_ind that capital investments indeed decline sharply with distance, with
+more than 50 percent of investment occurring within 100 km, as shown in Online Appendix B.5.
+18
+--- Page 20 ---
+ity draws (ϵnnt,ϵnNt) for eﬀective units of capital, as in Liu et al. (2022). These idiosyncratic
+productivity draws correspond to Keynesian marginal eﬃciency of capital shocks, and give
+rise to imperfect substitutability between domestic and colonial investments. 22 The return to
+a capitalist from locationn of investing a unit of capital in destinationi (vnit) depends on the
+rental rate per eﬀective unit (r it), the number of eﬀective units (ϵ nit) and /f_inancial frictions
+(φnit): vnit = ϵnitrit/φnit. We assume that these idiosyncratic productivity shocks (ϵ nit) are
+drawn independently from a Fréchet distribution: F (ϵ) = e−ϵ−θ
+. The shape parameter θ >1
+controls the dispersion of these shocks. We normalize the scale parameter to one, because it
+enters the model isomorphically to /f_inancial frictions (φnit).
+Using the properties of this Fréchet distribution, the shares of capital allocated to each
+location depend on relative rental rates (rit) and /f_inancial frictions (φnit):
+ξnit = knit
+knt
+= (rit/φnit)θ
+∑
+m∈{n,N} (rmt/φnmt)θ, i ∈{n, N}. (8)
+Both local domestic manufacturing and the colonial plantation face an upward-sloping
+supply function for capital, such that each must oﬀer a higher rental rate (rit) in order to attract
+a larger share of capital (ξ nit). If some domestic locations n have better information about
+slavery investments, for example through ancestral links to the slave trade, this is re/f_lected
+in lower /f_inancial frictions for colonial investment (lowerφnNt), and hence a higher share of
+capital invested in the colony N (higherξnNt).
+Capital market clearing implies that the capital employed local manufacturing (kM
+nt ) equals
+the capital allocated locally (knnt). Similarly, the capital employed in the colonial plantation
+(kS
+Nt) equals the capital allocated there from all domestic locationsn∈N:
+kM
+nt =knnt =ξnntknt, k S
+Nt =
+N∑
+n=1
+knNt =
+N∑
+n=1
+ξnNtknt, (9)
+whereξnnt +ξnNt = 1. As an investment location i attracts a larger share of capital from an
+ownership locationn (ξnit), it attracts units of capital with lower realizations for idiosyncratic
+productivity, and hence moves further down its marginal eﬃciency of capital schedule, reduc-
+ing the average productivity of capital. Therefore, we can write the capital market clearing
+condition (9) in productivity-adjusted terms as:
+˜kM
+nt =γξ
+− 1
+θ
+nntknnt =γξ
+θ−1
+θ
+nntknt,
+˜kS
+Nt =
+∑
+n∈N
+γξ
+− 1
+θ
+nNtknNt =
+∑
+n∈N
+γξ
+θ−1
+θ
+nNtknt,
+22This imperfect substitutability is consistent with slavery investments being concentrated in cane sugar, to-
+bacco, cotton and coﬀee, none of which could be eﬃciently produced domestically at the time. It is also in line
+with the theoretical and empirical literature on asset demand systems following Koijen and Yogo (2019).
+19
+--- Page 21 ---
+where we use the tilde above the capital stock to denote the productivity-adjustment;γξ
+− 1
+θ
+nit is
+the average productivity of capital;γ≡ Γ
+(θ−1
+θ
+)
+; and Γ (·) denotes the Gamma function.
+Again using the properties of the Fréchet distribution, the expected return to capital taking
+into account the idiosyncratic productivity draws is equalized across locations:
+vnt =vnnt =vnNt =γ
+
+ ∑
+m∈{n,N}
+(rmt/φnmt)θ
+
+
+1
+θ
+. (10)
+Intuitively, if locationi has better investment characteristics in the form of a higher rental
+rate (rit) or lower /f_inancial frictions (φnit), it attracts investments with lower idiosyncratic
+realizations for productivity, which reduces the capital productivity of capital through a com-
+position eﬀect. With a Fréchet distribution for capital productivity, this composition eﬀect ex-
+actly oﬀsets the impact of the better investment characteristics, such that the expected return
+to capital is equalized across locations. Therefore, the rental rate for capital can diﬀer between
+local manufacturing and the colonial plantation (rnt̸= rNt), but the expected return to capi-
+tal taking into account the idiosyncratic productivity draws is equalized (vnnt = vnNt = vnt).
+Total capitalist income is linear in the existing capital stock:Vnt =vntknt.
+A key implication of this speci/f_ication is that capital market integration acts like an im-
+provement in the productivity of the investment technology. To illustrate this point, note that
+the expected return to capital (vnt) in equation (10) can be re-written in terms of the domestic
+investment share (ξnnt) using equation (8):
+vnt = γ (rnt/φnnt)
+(ξnnt)
+1
+θ
+. (11)
+In steady-state, the expected return to capital (vnt) is pinned down by no-arbitrage with the rate
+of return on the consumption bond (v∗
+n−δpn =ρ).23 Other things equal, a locationn with bet-
+ter access to slavery investments (lower colonial /f_inancial frictionsφnNt) has a lower domestic
+investment share (lowerξnnt) on the right-hand side of equation (11), which requires a lower
+rental rate (rnt) for the equation to hold. Intuitively, obtaining access to slavery investments
+acts like an improvement in investment productivity, because capitalists obtain another set of
+draws for idiosyncratic productivity for the colonial plantation, which increases the average
+productivity of the investments that they choose to undertake in equilibrium. This increased
+average productivity of investment raises the rate of return to capital accumulation, which
+leads to a higher steady-state capital stock, and hence a lower steady-state rental rate.
+23A similar result holds in the absence of the consumption bond, in which case the steady-state expected return
+to capital is exogenously determined by parameters and the consumption price index:v∗
+n =pn(1−β(1−δ))/β.
+20
+--- Page 22 ---
+6.6 Capital Allocation Across Periods
+Capitalists choose consumption and investment to maximize intertemporal utility subject to
+their budget constraint:
+max
+{cnt,ant+1}
+{
+Uk
+nt =
+∞∑
+t=0
+βt lnck
+nt
+}
+, (12)
+subject topntck
+nt +pnt (ant+1−ant) =Rntant,
+whereRnt is the gross return to assets:Rnt = max{vnt−δpnt,ρ}.
+Given the linearity of capitalists’ income in the existing stock of assets, equilibrium invest-
+ments are characterized by a corner solution. If the expected return to capital net of depreci-
+ation (vnt−δpnt) exceeds the return from the consumption bond (ρ), capitalists invest all in
+capital up to the collateral constraint (λn): knt = λnant· 1{(vnt−δpnt)>ρ}. We assume that col-
+lateral constraints do not bind in steady-state. Therefore, the expected return to capital equals
+the return from the consumption bond in steady-state:vnt−δpnt =ρ.
+Given our assumption of logarithmic utility, capitalists’ optimal consumption-saving de-
+cisions are characterized by a constant saving rate, as in Moll (2014):
+ant+1 =β (Rnt/pnt + 1)ant. (13)
+Therefore, although the saving rate is here endogenous, capital accumulation takes a sim-
+ilar form as in the conventional Solow-Swan model. There exists a steady-state capital-labor
+ratio in each location. If the initial capital stock in a location diﬀers from this steady-state
+value, consumption smoothing implies that capitalists gradually accumulate or decumulate
+capital along the transition path towards this steady-state.
+6.7 Slavery and Industrialization
+Given time-invariant values of the exogenous variables, we show in PropositionC.1 in Online
+Appendix C.11 that there exists a unique steady-state equilibrium of the model. We now use
+the model to characterize the aggregate impact and distributional consequences of greater
+access to slavery investments. In particular, we undertake a comparative static in which we
+reduce colonial /f_inancial frictions (φnN) from prohibitive values for all locations (such that
+ξnn = 1 for all n) to /f_inite values for some locationsn (such that ξnn < 1 for some n, as
+observed in our data). We hold constant world prices (pAW ,pMW ,pSW ) and other exogenous
+fundamentals. Therefore, this comparative static captures the pure impact of greater access
+to slavery investments through capital accumulation. We show that the domestic investment
+share (ξnn) is a suﬃcient statistic for the impact of colonial /f_inancial frictions (φnN) on steady-
+state economic activity, as summarized in the following proposition.
+21
+--- Page 23 ---
+Proposition 1. (Slavery and Industrialization) Other things equal, in steady-state equilib-
+rium, locations with better access to slavery investments (lower φnN and hence lowerξ∗
+nn) have (i)
+lower agricultural employment (ℓ A∗
+n ); (ii) higher manufacturing employment (ℓ M∗
+n ); (iii) higher
+total population (ℓ∗
+n); (iv) a lower rental rate for capital (r ∗
+n); (v) higher wages (w L∗
+n ) and worker
+real income (wL∗
+n /pn); (vi) lower price of agricultural land (q∗
+n); (vii) higher productivity-adjusted
+and unadjusted stocks of capital (˜k∗
+n,k∗
+n); (viii) higher productivity-adjusted and unadjusted stocks
+of capital in domestic manufacturing ( ˜kM∗
+n , kM∗
+n ); (ix) higher capitalist real income (v ∗
+nk∗
+n/pn);
+(x) lower landlord real income (q∗
+nmn/pn).
+Proof. See Section C.12 of the online appendix.
+The proposition re/f_lects the net eﬀect of counteracting forces. On the one hand, for a given
+stock of capital (kn), the fall in colonial /f_inancial frictions (φnN) reduces the capital allocated
+to local manufacturing (lower knn) through a conventional substitution eﬀect. On the other
+hand, the fall in colonial /f_inancial frictions (φnN) acts like an improvement in the productivity
+of the investment technology, which increases the return to capital accumulation, and raises
+the steady-state capital stock (k∗
+n). The proposition establishes that the second eﬀect domi-
+nates the /f_irst in steady-state, such that the fall in colonial /f_inancial frictions (φnN) increases
+the steady-state allocation of capital to local manufacturing (higher k∗
+nn). In the new steady-
+state, the expected return to capital (v∗
+n) is again equal to the unchanged rate of return on the
+consumption bond (ρ), but the increase in the steady-state capital stock leads to a fall in the
+steady-state rental rate (r∗
+n).
+The remaining parts of the proposition follow from the speci/f_ic-factors structure of pro-
+duction and population mobility. Given constant prices and zero-pro/f_its in manufacturing, a
+lower steady-state rental rate (r∗
+n) raises the steady-state wage (w∗
+n). Given constant prices and
+zero-pro/f_its in agriculture, a higher steady-state wage (w∗
+n) reduces the steady-state price of
+land (q∗
+n). Additionally, higher wages imply higher worker real income (w ∗
+n/pn) for constant
+goods prices, which increases steady-state population (ℓ∗
+n). A higher steady-state allocation of
+capital to local manufacturing (k∗
+nn) raises labor’s value marginal product in manufacturing,
+which together with the increase in steady-state population (ℓ∗
+n) implies higher manufactur-
+ing employment (ℓM∗
+n ). Finally, given constant prices and a /f_ixed supply of land, the higher
+steady-state wage (w∗
+n) implies lower agricultural employment (ℓA∗
+n ).
+Therefore, we /f_ind that improved access to slavery investments both changes the structure
+of economic activity within locations (stimulating industrialization and structural transfor-
+mation away from agriculture) and also changes the spatial distribution of economic activity
+across locations (raising population density in locations with better access to slavery invest-
+ments and reducing population density elsewhere). Since the reduction in /f_inancial frictions
+22
+--- Page 24 ---
+with the colonial plantation acts like an improvement in investment productivity, aggregate
+real income across all locations and factors of production (capitalists, workers and landowners)
+increases. But there are distributional consequences across the diﬀerent factors of production.
+Given an unchanged supply of land (mn) and constant goods prices (pn), the fall in the price
+of agricultural land (qn) in locations with better access to slavery investments reduces the real
+income of landowners (q∗
+nmn/pn). Additionally, given an unchanged expected return to capi-
+tal (v∗
+n) and constant goods prices (pn), the increase in the capital stock (kn) in locations with
+better access to slavery investments raises the real income of capitalists (v∗
+nk∗
+n/pn).
+Finally, we focus for brevity here on steady-state impacts, where collateral constraints do
+not bind. However, if slavery wealth is more collateralizable than other wealth, better access
+to slavery investments also can relax collateral constraints (higherλn), and hence raise capital
+accumulation along the transition path to steady-state.
+7 Main Empirical Results
+A key prediction of our theoretical framework is that improved access to slavery investments
+stimulates local capital accumulation and induces an expansion of the capital-intensive man-
+ufacturing sector. We now provide empirical evidence in support of this prediction using
+exogenous variation in access to slavery investments (and hence slaveholder wealth in 1833)
+from the middle-passage mortality experienced by slave-trading ancestors. In Section 7.1, we
+introduce our identi/f_ication strategy, explain the construction of our instrument, and provide
+some empirical evidence in support of our causal argument. In Section7.2, we report our main
+instrumental variables estimation results for a range of economic outcomes. In Section7.3, we
+summarize a range of robustness checks that probe our main /f_indings. Finally, in Section7.4,
+we use our theoretical model to quantify the aggregate and distributional consequences of
+access to slavery investments.
+7.1 Identi/f_ication Strategy
+Our identi/f_ication strategy uses the well-known link between slave trading and slaveholding.
+Many families started out slave trading, and through the resulting connections to the slave
+economy, transitioned into slaveholding (as discussed in Hall et al. 2014). Therefore, we de-
+velop an instrument for slaveholder wealth in a location in 1833 based on the middle-passage
+mortality that aﬀected the investment of slave-traders hailing from the same location.
+We assign slave traders to the locations of slaveholders in 1833 in two ways. First, we use
+genealogical information from family trees to link slaveholder locations to slave traders’ areas
+of ancestral origin. Second, we use the geographical concentration of surnames in Britain to
+23
+--- Page 25 ---
+probabilistically assign slave traders to locations, and then connect them to slaveholders living
+in each location in 1833.
+In our baseline speci/f_ication, we use middle-passage mortality to construct our baseline
+voyage-outcome measure. Since middle-passage mortality is only available for a subset of
+slave voyages, we also report robustness tests in which we use only variation in the number
+of ancestors of slave traders (for which we do not require mortality data), or in which we use
+the number of slave voyages as an alternative indirect measure of voyage outcomes. We now
+discuss in further the construction of our instrument and the causal logic underlying it.
+Middle-Passage Mortality The key ideas underlying our identi/f_ication strategy are out-
+lined in Figure 5. First, starting from the top-left, idiosyncratic wind conditions had a substan-
+tial eﬀect on voyage duration across the Atlantic. Second, voyage duration was an important
+determinant of slave mortality during the middle-passage under crowded, insanitary and in-
+humane conditions on slave ships. As sailing times increased, water ran out and infectious dis-
+eases spread, leading to sharp increases in middle-passage mortality. Third, moving further to
+the right, higher middle-passage mortality reduced the pro/f_itability of slave-trading voyages.
+Fourth, moving downwards, this reduction in voyage pro/f_itability from adverse wind con-
+ditions discouraged (or made impossible) future participation of slave traders in subsequent
+slave voyages, given the substantial upfront costs involved. Fifth, moving further downwards,
+lower involvement in the slave trade reduced the likelihood of traders making the transition
+to slaveholding as plantation owners, and the wealth they could use to do so. In sum, since
+bad weather shocks both directly lowered trader wealth, and induced exit from the slave trade,
+they reduced slaveholder wealth in 1833 at the time of abolition.
+Causal Mechanism We now provide evidence in support of the steps in this causal chain.
+Wind speed and direction were the main determinants of ship speed and voyage times in the
+age of sail (Pascali 2017). Both /f_luctuated with atmospheric conditions. Around the equator, a
+lack of surface winds can becalm sailing ships for weeks, which is why sailors refer to them as
+dolldrums. This is re/f_lected in analyses of ship log books, where slave-trading voyages from
+West Africa to the West Indies took between 25-60 days, as discussed inHaines et al.(2001) and
+Cohn and Jensen (1982). When voyages took longer than expected, and drinking water ran
+out, the horrendous conditions aboard for enslaved persons led to sharp increases in mortality,
+as documented in Kiple and Higgins (1989).
+24
+--- Page 26 ---
+Figure 5: Identi/f_ication Strategy
+(Wind) Sailing time Enslaved mortality (Voyage pro/f_its)
+Slav
+e-trade involvement
+Slav
+e-holding in 1833
+Economic outcomes, post-1833
+estimated
+r
+educed form
+Note:
+Solid arrows are causal relationships; dashed arrows are estimated relationships; variables in parentheses
+are unobserved; dotted arrows are reduced-form relationships.
+We use data from the Slave Voyages database to corroborate the relationship between sail-
+ing time and enslaved mortality. In Figure 6a, we show a histogram of middle-passage mor-
+tality across all slave voyages from British ports. We /f_ind large diﬀerences in middle-passage
+mortality. While many voyages experienced mortality rates of 5-10 percent, some saw rates of
+20 percent or more. These diﬀerences in mortality are heavily in/f_luenced by sailing time. To
+illustrate this, Figure 6b presents a binscatter plot of the relationship between middle-passage
+mortality and the duration in days of the voyage from West Africa to the Americas. Consis-
+tent with the historical literature emphasizing voyage duration as the main determinant of
+middle-passage mortality, we see a strong and positive relationship between sailing time and
+mortality. Ten extra voyage days increase the mortality rate by 2.3 percentage points. For a
+ship carrying 350 enslaved persons, this corresponds to 8 additional deaths.
+Financing slave-trading voyages required considerable upfront capital investments in ship
+and crew and to purchase slaves in West Africa. The main source of revenue was the sale
+of the enslaved in the Americas. Therefore, high mortality rates on slave-trading voyages
+could result in substantial losses for the slave traders involved. Speci/f_ically, we expect voy-
+age duration and middle-passage mortality to be key in enabling continued involvement in
+the slave trade. To establish this link, Figure 7 displays mean continuation probabilities for
+slave traders across the number of slave voyages n. We compute these mean continuation
+probabilities from voyagen ton + 1 separately for slave traders that experienced above and
+below-median middle-passage mortality during voyagen.24 Consistent with the idea that ad-
+verse wind conditions and low voyage pro/f_its made it less likely that individuals were able
+24Table B.3 in Online Appendix B.3, we provide further evidence that voyage failure, as recorded by the Slave
+Voyage Database, became more common the longer the middle passage lasted.
+25
+--- Page 27 ---
+Figure 6: Middle-passage Mortality and Voyage Duration for Slave Voyages
+(a) Histogram of middle-passage mortality
+ (b) Voyage duration and mortality
+Note: Left panel: The /f_igure shows a histogram of the mortality rates among the enslaved ((enslaved embarked
+- enslaved disembarked)/enslaved embarked) across slave-trading voyages from British ports. Right panel: The
+/f_igure shows a binscatter of the duration of slave-trading voyages from British ports (horizontal axis) and mor-
+tality rates among the enslaved (vertical axis); blue dots correspond to ventiles and the red dashed line shows the
+linear /f_it.
+to continue in the slave trade, we /f_ind lower continuation probabilities for slave traders who
+experience above-median middle-passage mortality. For example, after 5 voyages, we /f_ind that
+over one third of the owners who experienced below-median mortality of enslaved stayed in-
+volved, whereas less than 20 percent of those exposed to above-median mortality continued
+to participate.25
+This pattern of results is consistent with selection on pro/f_itability in the slave trade. Those
+who were lucky with wind conditions and made substantial voyage pro/f_its accumulated fur-
+ther wealth and continued to participate in the slave trade. Those who were unlucky with
+weather conditions and experienced substantial voyage losses dropped out of the slave trade.
+Voyage Outcomes To implement our identi/f_ication strategy, we begin by constructing a
+voyage outcome measure for slave traders based on middle-passage mortality. We observe a
+decline in middle-passage mortality over time in the slave voyages data, in part because of
+improvements in ship technology. To abstract from this secular decline and focus on variation
+across voyages within the same time period, we remove decadal /f_ixed eﬀects from middle-
+passage mortality. From the residuals, we construct our outcome measure for slave-trading
+voyagej and ship owner or “voyager”v as the inverse of the mortality rate among the enslaved:
+1/mortalityvj, where mortality equals the number of enslaved embarked, minus the number
+25In Figure B.4 in Online Appendix B.3, we provide further evidence on this relationship between middle-
+passage mortality and continuation probabilities in the slave trade.
+26
+--- Page 28 ---
+Figure 7: Continued Involvement in the Slave Trade by Middle-passage Mortality
+Note: Horizontal axes is number of slave voyagesn; Vertical axis is continuation probability from slave voyagen
+to slave voyagen+1; mean probabilities of continued involvement shown separately for middle-passage voyages
+with above and below median mortality among the enslaved during voyagen.
+of enslaved disembarked, divided by the number of enslaved embarked. This voyage outcome
+measure has a lower bound of one for voyages where all of the enslaved die, and approaches
+in/f_inity as the number of deaths among the enslaved approaches zero.26
+The slave voyages data report up to eight ship owners or “voyagers” for each slave voyage,
+such that a given voyager can appear multiple times for diﬀerent slave voyages. We compute
+the average voyage outcome for voyagerv as the average across all of their slave voyagesj:
+VOv = 1
+nv
+nv∑
+j=1
+1
+mortalityvj
+, (14)
+wherenv is the number of slave voyages for which voyagerv is observed.
+Family Trees In our baseline speci/f_ication, we combine data on slave traders’ voyage out-
+comes and the location of their ancestors, using family trees on Ancestry.com. Often, families
+hailing from a particular place would see one of theirs work and live in a major trading port
+for a few years – but the majority of the family network, including many individuals who
+inherit or bene/f_it from the business advice of a relative, remained near the ancestral home.
+For example, the Lascelles family initially lived in Stank Hall, Yorkshire; three of the family’s
+26For the small number of voyages with zero mortality among the enslaved, we use 0 +ϵ = 0.005 to avoid
+this voyage outcome measure becoming unde/f_ined for voyages with no deaths.
+27
+--- Page 29 ---
+male descendants became slave traders, participating in 14 voyages between 1699 and 1736.
+By 1787, the Lascelles owned 27,000 acres in Barbados, Jamaica, Grenada, and Tobago. All
+the male lines save one eventually died out, so that only one of them - Henry, second Earl of
+Harewood (1767-1841) - received slavery compensation under the terms of the Abolition of
+Slavery Act, as shown in the family tree in Figure B.2 in Online Appendix B.1. By then, the
+Lascelles had returned to Yorkshire, building their country home.
+Using the family trees reported on Ancestry.com, we identify 20,000 ancestors of these
+voyagers, as discussed further in Online Appendix G. We collect birth and death addresses
+for the parents, grandparents and great grandparents of these voyagers. We also distinguish
+between two groups among slave-trading ancestors: successful traders (in the sense of more
+than one slave-trading voyage) and all other traders (with only one slave-trading voyage). For
+each location i, we compute our /f_irst average voyage outcome instrument (VOI tree
+i ) as an
+average of the voyager outcomes across all slave-trading ancestors in that location:
+VOI tree
+i = 1
+A
+Ai∑
+a=1
+VOv(a), (15)
+whereAi is the number of ancestors of slave-traders in location i; A is the total number of
+ancestors of slave-traders in England and Wales; VOv(a) is the average voyage outcome for
+voyagerv who is the descendant of ancestor a, as de/f_ined in equation (14) above, where the
+notationv(a) makes explicit that voyagerv is matched to ancestora; the scaling by1/A rather
+than 1/Ai outside the summation ensures that the instrument increases with the number of
+slave-trading ancestors in a location, and implies that it captures a location’s share of slave-
+trading ancestors in England and Wales weighted by their voyage outcomes.
+In our /f_irst-stage regression, we predict slaveholding in 1833 in a location using this instru-
+ment for the average voyage outcome of slave-traders with ancestors in that location. Note
+that this instrumental variables estimation does not require there to exist direct family con-
+nections between individual slaveholders in 1833 in a given location and the ancestors of slave
+traders in that same location. The presence of ancestors of slave traders in a location could
+have predictive power for slave holding there in 1833 because of indirect connections: For ex-
+ample, slave traders could pass information about opportunities for slaveholding investments
+through friends, business and social networks that are correlated with their familial locations.
+In Table 1, we report a balance test for three groups of locations – those without ancestors
+involved in the slave trade, those with successful ancestors in the slave trade, and those with
+unsuccessful ancestors in the slave trade. For all indicators of economic conditions before
+the large-scale expansion of Britain’s role in the slave trade starting in the 1640s, we /f_ind no
+signi/f_icant diﬀerences in property values for regions that were home to successful and unsuc-
+cessful voyagers. But regions that never engaged in the slave trade show lower levels of wealth
+28
+--- Page 30 ---
+and industrial activity after the expansion of British involvement in the slave trade from the
+1640s onwards. The remaining rows compare geographic location (as measured by latitude
+and longitude) and geographical distance from ports. Successful slave traders’ ancestral re-
+gions do not have signi/f_icantly diﬀerent latitudes or longitudes but they are located slightly
+closer to Liverpool. The absence of major diﬀerences between columns 2 and 3 suggests that
+our instrument is as good as randomly assigned across regions.
+Table 1: Balance Test – Ancestors and Middle Passage Mortality
+(1)
+(2) (3) T-test
+None Unsucessful Successful Diﬀerence
+Variable Mean/SE Mean/SE Mean/SE (1)-(2) (1)-(3) (2)-(3)
+Domesday
+Wealth (1086) 4.67
+(0.05)
+4.80
+(0.09)
+5.09
+(0.08)
+-0.13 -0.43*** -0.30***
+Wealth Subsidy (1334) 4.04
+(0.05)
+4.03
+(0.11)
+4.35
+(0.09)
+0.01 -0.31 -0.31**
+Property Wealth (1690) 7.84
+(0.04)
+8.21
+(0.06)
+8.36
+(0.06)
+-0.37* -0.52*** -0.15***
+Cotton Mills (1788) 0.05
+(0.01)
+0.43
+(0.06)
+0.10
+(0.03)
+-0.38*** -0.06 0.33***
+Longitude -1.97
+(0.08)
+-1.80
+(0.10)
+-1.44
+(0.11)
+-0.18 -0.53** -0.35***
+Latitude 52.50
+(0.06)
+52.66
+(0.09)
+52.23
+(0.09)
+-0.16** 0.28 0.44***
+Dist Historic Port 19.47
+(0.65)
+22.82
+(1.32)
+21.08
+(1.19)
+-3.35* -1.61 1.74
+Dist Liverpool 214.46
+(3.80)
+162.17
+(7.65)
+217.35
+(6.54)
+52.29*** -2.89 -55.18***
+N 511 170 170
+Note: The value displayed for t-tests are the diﬀerences in the means across the groups. Standard errors are
+robust. Group 1 is the set of regions without any identi/f_ied ancestors of slave voyagers. Groups 2 and 3 split
+those regions with ancestors into above and below voyage outcomes (recall that voyage outcomes are inversely
+related to middle-passage mortality). Wealth and count variables are inverse hyperbolic sine transformed. The
+control variable IHS of population in 1780 is included in all estimation regressions. All missing values in balance
+variables are treated as the group mean. ***, **, and * indicate signi/f_icance at the 1, 5, and 10 percent critical level.
+In Table B.5in Online AppendixB.4, we provide evidence on the performance of the instru-
+ment in the /f_irst-stage when we use only the share of ancestors as an instrument (without tak-
+ing into account middle-passage mortality) versus including information on middle-passage
+mortality (as in our baseline speci/f_ication in equation (15)). We show that the /f_irst-stage F-
+statistic increases when we incorporate mortality information, consistent with our mecha-
+nism. The gain is visible both with and without controls; and the /f_inal instrument, mortality
+29
+--- Page 31 ---
+scaled, is strong for both family trees (here) and surnames (below).
+Surnames in the 1851 Fullcount Census Our /f_irst IV above exploits direct genealogical
+connections between slave traders and their ancestors. However, family trees onAncestry.com
+are not available for all traders, and this selection could be non-random: Successful slave-
+trading families could be either more or less likely to have detailed family records. To address
+this potential concern, we also use the national distribution of all surnames (from the 1851
+population census) to measure regional links with families in the slave trade. This strategy
+exploits the persistent geographical concentration of surnames in Britain (Cheshire and Lon-
+gley 2011) and assumes that concentrations of slave voyager surnames in 1851 are informative
+about their familial locations. While less precise than the family-tree instrument, this strategy
+is exhaustive. It provides a useful cross-validation of our family-tree instrument.
+The 1851 census contains a total ofN = 17, 474, 083 individuals withS = 330, 329 distinct
+surnames. The surname distribution is heavily skewed (Fox and Lasker 1983,Güell et al. 2014).
+The two most common surnames, Smith and Jones, account for about 1.4 percent of all indi-
+viduals, while 37 percent of names occur only once. Of the 2,259 distinct voyager surnames,
+we can match 90 percent (2,040) to at least one individual in the 1851 census. Comparing the
+voyager and non-voyager surnames, we /f_ind that voyager surnames are a bit more common
+than non-voyager surnames.
+We use the voyager surnames observed in the 1851 census to predict the spatial distribution
+of voyagers’ familial locations. We observe the location of named individuals in the 1851
+census by parish. To account for the frequency and spatial dispersion of surnames, we use
+Monte Carlo simulations, in which we randomly match all slave voyagers (unique in /f_irst name
+and surname) to individuals in the 1851 census using their surname. For example, we observe
+21 slave voyagers with the surname Smith. We randomly match these 21 observations with
+21 of the 240,117 individuals named Smith in the 1851 census. 27 For each of these voyager-
+surname matches m, we use a voyager’s average voyage outcome across all of their slave
+voyages (VOv), as de/f_ined in equation (14) above. For each regioni, we compute the sum of
+voyage outcome measures of all voyagers matched to surnames in that region. Finally, we
+repeat this procedure for iterations l ={1,...,L}, where L = 1, 000. Our second average
+voyage outcome instrument for each regioni is an average across these iterations:
+VOI sname
+i = 1
+L
+n∑
+l=1
+Mil∑
+m=1
+VOv(m), (16)
+27We take the number of voyagers directly from the slave voyages dataset. Alternatively, one could make an
+assumption about their population growth rate, and in/f_late their number between their slave voyage year and
+1851. This procedure would give more weight to earlier voyagers. Since we /f_ind that this adjustment does not
+make a great diﬀerence, we refrain from further complicating the measure.
+30
+--- Page 32 ---
+where the outer summation averages across iterations for a given region i; the inner sum-
+mation counts the voyager-surname matches for that region in a given iteration l;Mil is the
+number of voyager-surname matches in regioni for iterationl; the notationv(m) makes ex-
+plicit that voyagerv is assigned to voyager-surname matchm.
+Figure 8: Bivariate Plots of Slaveholding and Ancestral Connections to the Slave Trade
+(a) Family Trees
+ (b) Surnames
+Note: The bi-plot displays tertiles of the distribution of familial connections to the slave trade as measured by
+family trees (left panel) and surnames (right panel) against terciles of slaveholding across English and Welsh
+parishes. Data are constructed for our 849 hexagonal regions and cross-walked into parishes based on their
+centroids for the purposes of the visualization.
+Figure 8 shows bi-variate plots of our voyage outcome instruments and slaveholders in
+1833, with the left panel displaying the family-tree instrument (VOI tree
+i ), and the right panel
+displaying the surname instrument (VOI sname
+i ). Grey areas show neither slaveholding nor
+familial connections to slave traders; dark brown indicates a strong con/f_luence of both. Where
+areas of the map are only red, there are many ancestral connections to slave trading but few
+1833 slaveholders; where areas of the map are blue, there are many 1833 slaveholders but
+few ancestral connections to slave trading. The map shows that slaveholding and familial
+connections to the slave trade were widespread; and in many places, they coincide. Comparing
+both maps, we see strong overlap in the areas around London, Bristol and Liverpool, but also
+in numerous other locations in England and Wales.
+7.2 Instrumental Variables Estimation
+We now use our two instrumental variables to estimate the impact of slavery wealth on eco-
+nomic development. We start with our baseline empirical results for cross-section patterns
+31
+--- Page 33 ---
+of economic development in the 1830s. Next, we check the plausibility of our IV strategy
+using never-takers: regions where ancestors of slave traders lived, but where no slaveholders
+dwelled in 1833. Finally, we provide evidence on the importance of capital accumulation using
+repeated cross-sections of steam power adoption over time.
+Baseline Estimations Our goal is to estimate the eﬀect of 1833 slaveholding wealth across
+regionsi (Si) on measures of economic development (Yi). To establish causality, we instrument
+1833 slaveholding (Si) with our voyage outcome instruments (VOI i) discussed above:
+Yi =C2 +β ˆSi +δX′
+i +ϵi (17)
+Si =C1 +αVOI i +γX′
+i +ρi (18)
+whereC1 andC2 are regression constants;X′ is a vector of control variables for other deter-
+minants of economic activity, including the population in 1780, latitude, longitude, distance to
+the nearest county bank or post town, the count of cotton mills in 1788, distance to the coast
+and our measure of property wealth in 1690; andϵi andρi are stochastic errors.
+Table 2, Panel A reports results from our IV-estimation, using the family tree instrument.
+Col. 1 shows a strong relationship with high /f_irst-stage F-stats, well above the conventional
+levels and Anderson-Rubin p-values that are below 0.01 (or at 0.01 in col. 6, Panel A). This
+underlines the relevance of our instrument. A one standard deviation increase in the voyage
+outcome measure using ancestors implies a 0.16 standard deviation increase in slaveholder
+wealth in 1833. Instrumented slave claims strongly and positively predict the number of steam
+engines in the region (col. 2). It is also associated with higher property taxes in 1815 (col. 3),
+and negatively predicts employment in agriculture (col. 3). Employment in manufacturing is
+higher (col. 4), as is the number of cotton mills (col. 5).
+We standardize all variables to facilitate the interpretation of the inverse hyperbolic sine
+transformed measures. Therefore, our estimates imply that a one standard deviation increase
+in compensation payments translates into a 1.78 standard deviation increase in steam engines,
+a 0.52 standard deviation increase in rateable values, a 0.61 standard deviation decrease in
+agricultural employment contrasted by a 0.88 standard deviation increase in manufacturing
+employment and a 0.79 standard deviation decrease in the average distance to the ten near-
+est cotton mills in 1839. We also derive elasticities following the approach in Bellemare and
+Wichman (2020) and report them at the bottom of the table. Doubling slave claims implies a
+287 percent increase in steam engines, an 11 percent increase in rateable values, 8 percentage
+points less agricultural employment, 13 percentage points more manufacturing employment
+and a 7.81 percent more mills in the region.28
+28At the extensive margin, a 10 percent increase in slave claims increases the probability to host a mill by 3.48
+32
+--- Page 34 ---
+Table 2: IV: Voyage Outcome Instruments
+(1)
+(2) (3) (4) (5) (6)
+SlaveClaims SteamEng-1830 PropTax1815 %Agric1831 %Manuf1831 CottonMill-1839
+A.
+VO-Scaled Ancestors 0.164***
+(0.03)
+Slave Claims 1.760*** 0.523** -0.614*** 0.861*** 0.774***
+(0.42) (0.22) (0.17) (0.25) (0.29)
+N
+Voyagers 286 286 286 286 286 286
+Elasticity 0.14 2.90 0.11 -0.08 0.13 0.58
+KPW F-Stat 30.64 30.64 30.64 30.64 30.64
+AR p-value 0.00 0.02 0.00 0.00 0.01
+B.
+VO-Scaled Surnames 0.435***
+(0.05)
+Slave Claims 0.736*** 0.561*** -1.360*** 1.249*** 0.695***
+(0.20) (0.09) (0.17) (0.18) (0.12)
+N
+Voyagers 2040 2040 2040 2040 2040 2040
+Elasticity 1.82 1.21 0.12 -0.19 0.18 0.52
+KPW F-Stat 77.18 77.18 77.18 77.18 77.18
+AR p-value 0.00 0.00 0.00 0.00 0.00
+Obser
+vations 849 849 849 849 849 849
+Controls Yes Yes Yes Yes Yes Yes
+Note: *** p<0.01, ** p<0.05, * p<0.10. Standardised coeﬃcients with robust standard errors in parenthesis. Slave
+claims and the outcomes in columns 1–3 and 6 are IHS-transformed. Instrument is the grid cell share of voyager
+ancestors, scaled by inverse middle-passage mortality (Panel A) or voyager surnames scaled by inverse middle-
+passage mortality (Panel B).
+This pattern of results is robust across diﬀerent speci/f_ications. In TableB.8 in Online Ap-
+pendix B.4, we demonstrate that we /f_ind similar results using a log-transformation instead
+of the inverse hyperbolic sine. Our baseline speci/f_ication controls for 1690 property wealth,
+which implies that our results capture changes in economic performance since then. But our
+results are not dependent on controls. In Online Appendix B.4, we show additional results
+without control variables, and also report the estimated coeﬃcients for all control variables.
+Our baseline speci/f_ication uses robust standard errors, because our 849 regions are relatively
+large, which helps to alleviate potential concerns about spatially correlated errors. In Online
+Appendix B.4, we report results using Heteroskedasticity Autocorrelation Consistent (HAC)
+standard errors following Conley (1999). Again, we /f_ind a similar pattern of results.
+In Panel B of Table 2, we repeat the estimations using the surname instrument. Both in-
+struments are positively correlated (as evident from Figure8). Since inferring family ties from
+surnames is more noisy than using a genealogy measure, we think of the surname speci/f_ication
+as providing validation of our empirical strategy. Again, the instrument is strong with /f_irst-
+stage F-statistics well above the conventional levels. The /f_irst stage suggests that a 1 standard
+percentage points or 12 percent relative to the mean probability of 27.4 percentage points.
+33
+--- Page 35 ---
+deviation increase in the voyage outcome measure based on surnames implies 0.44 standard
+deviation higher claims in 1833. Overall, instrumenting slave claims with the alternative sur-
+name instrument leads to qualitatively and quantitatively similar results.
+To sum up: Regions from which slave traders experiencing bene/f_icial conditions hailed had
+more slave wealth in 1833. This had eﬀects on economic development: land values increased,
+consistent with increased urbanization. The share of employment in agriculture declined, the
+share in manufacturing increased, there were more industrial establishments and more steam
+engines in the vicinity.
+Figure 9: Beta Coeﬃcients for our IV Speci/f_ication and Never-takers
+(a) Family Tree Instrument
+(b) Surname Instrument
+Note: Beta coeﬃcients with 95% con/f_idence intervals from IV estimations using the voyage outcome instrument
+based on family trees (left panel) or surnames (right panel) and reduced form OLS regressions for nevertaker
+regions with no slaveholding.
+Never-takers A simple plausibility check for our IV-strategy in the spirit of Bound and
+Jaeger (2000), Angrist and Krueger (1994), and D’Haultfœuille et al. (2022) looks at never-
+taker regions where ancestors of slave traders lived, but where we /f_ind no slave wealth in
+1833. If our argument is correct, regions that merely had exposure to the slave trade –without
+slave-holding later– should not show any statistically signi/f_icant diﬀerences in economic per-
+formance.
+Figure 9 plots the coeﬃcients for our main outcome variables for our baseline IV speci/f_i-
+cation and the never-takers (left: family-tree instrument; right: surnames). 29 We /f_ind much
+larger standardised coeﬃcients for our IV speci/f_ication, whereas the never-takers show much
+smaller estimates and in many cases, precisely-estimated zeros.30
+Taken together, these empirical results provide strong support for the mechanism in our
+model: Exogenous increases in access to slavery wealth stimulate local capital accumulation,
+29In this never-takers speci/f_ication, we estimate reduced-form regressions of our main outcomes on our mea-
+sures of familial connections to the slave-trade for regions with no slaveholding in 1833.
+30Table B.15 in Online Appendix B.4 reports the estimated coeﬃcients for the never-taker analysis.
+34
+--- Page 36 ---
+which induces a reallocation of economic activity towards the manufacturing sector.
+Steam Power Adoption Steam power was arguably one of the key technologies of the In-
+dustrial Revolution, and associated with important improvements in productivity and estab-
+lishment size (Atack et al. 2008). Adopting its use required a range of technological inventions
+and innovations, and was costly. Here, we present evidence from the adoption of steam power
+over time, showing that areas with more slaveholding in 1833 had an increasing edge.
+Table 3: IV: Steam Engine Adoption and Slaveholding
+(1)
+(2) (3) (4)
+Pre-1792 1792-1830 1830-1850 Post-1850
+A.
+VO-Scaled Ancestors 0.280 1.760*** 1.427*** 1.282***
+(0.26) (0.42) (0.35) (0.31)
+KP
+W F-Stat 30.64 30.64 30.64 30.64
+AR p-value 0.28 0.00 0.00 0.00
+Elasticity 1.17 2.90 1.87 1.32
+B.
+VO-Scaled Surnames 0.367** 0.736*** 0.884*** 1.072***
+(0.18) (0.20) (0.18) (0.19)
+KP
+W F-Stat 77.18 77.18 77.18 77.18
+AR p-value 0.03 0.00 0.00 0.00
+Elasticity 1.53 1.21 1.16 1.11
+Obser
+vations 849 849 849 849
+Controls Yes Yes Yes Yes
+Note: *** p<0.01, ** p<0.05, * p<0.10. Panels A and B give standardised IV coeﬃcients with robust standard
+errors in parenthesis. Outcome is IHS count of articles mentioning steam engines from the British Newspaper
+Archive in the indicated time period. The independent variable is IHS of slave claims. The instrument in Panel
+A is the region share of voyager ancestors, scaled by voyage outcome (inverse middle-passage mortality). The
+instrument in Panel B is the region share of voyager surname matches, again scaled by voyage outcome (inverse
+middle-passage mortality). Standard controls are included in all regressions.
+In Figure B.3a in Online Appendix B.1, we illustrate the geography of steam engine adop-
+tion, by showing the count of articles mentioning steam engines between 1792 and 1830. In
+Figure B.3b in Online Appendix B.1, we display binscatters of steam engine adoption in diﬀer-
+ent time periods against slaveholding in 1833. In the period before 1792, there is hardly any
+relationship existent, which is consistent with James Watt’s key innovations in the eﬃciency
+of the steam engine taking place from 1763-75. Starting with the period 1792-1830, we /f_ind a
+strong link between slavery and steam engine adoption. The eﬀect increases over time – and
+the slave-owning areas’ edge grows in magnitude after 1830.
+35
+--- Page 37 ---
+Table 3 reports corresponding instrumental variables speci/f_ications, in which we instru-
+ment slaveholding in 1833 using our family-tree and surname instruments introduced in the
+previous section. Corresponding OLS estimates are shown in Appendix Table B.1. Again we
+/f_ind little evidence of a relationship before 1792 and a substantial strengthening of the relation-
+ship over time. Both instruments lead to similar results: for the ancestor (surname) instrument
+a 1 standard deviation increase in compensation claims implies a 0.28 (0.37) standard devia-
+tion increase in newspaper articles mentioning steam engines before 1792 and this number
+increases to 1.76 (0.74) standard deviations 1792-1830; 1.43 (0.88) standard deviations between
+1830-50; and 1.29 (1.07) standard deviations after 1850.31
+7.3 Robustness Tests
+This section summarizes a number of robustness tests, focusing on the family-tree instrument
+(see Appendix B.4 for a detailed discussion).
+We /f_irst assess the presence of spatial auto-correlation (SAC), using Moran’s I. SAC be-
+comes insigni/f_icantly diﬀerent from zero at around 500km for the majority of our regressions,
+and for all within 750km. To ensure that the presence of SAC below these distances is not
+unduly biasing our standard errors, we calculate Conley Spatial HAC standard errors (Conley
+1999) which correct for cluster correlation in spatial settings. Even at a bandwidth distance of
+750 km, our main results remain statistically signi/f_icant at conventional levels.
+Second, we choose a diﬀerent procedure to assign parish-level observations to hexagons.
+Our preferred approach assigns parishes to a hexagon if their centroid falls inside. The bene/f_it
+of not employing area weights to map values into polygons is that we do not mechanically
+introduce spatial auto-correlation. On the downside, we may assign large rural parishes to a
+neighboring hexagon even though the majority of its area does not lie within it. To rule out
+that our results depend on the speci/f_ic choice how we map parish information to hexagons,
+we rerun our results using area weights. Our results remain unchanged. In a similar vain, we
+experiment with hexagons of diﬀerent size. Our preferred hexagons span an area of around
+9km from the center to vertex, which represents a plausible commuting distance at a time when
+walking was the dominant transport mode. In Table B.13, we present speci/f_ications where we
+consider parishes, the smallest political unit; registration districts; and grid of squares with
+side length 0.2°, or roughly 20km. We /f_ind a similar quantitative and qualitative pattern of
+results across each of these alternative choices of spatial units.
+Third, we report a robustness test, in which we use the number of slave voyages as an
+alternative measure of voyage outcomes. The logic is similar to our baseline speci/f_ication.
+31In Table B.2 in Online AppendixB.2, we show that the same pattern holds if we examine the extensive margin
+of steam engine adoption.
+36
+--- Page 38 ---
+Slave voyagers who experienced a lower middle-passage mortality are more likely to engage
+in more than one voyage. Therefore, higher values of the voyage-frequency instrument imply
+better slave-voyage outcomes and thus a higher probability to remain engaged in the slave
+trade. Again we /f_ind a similar pattern of results as in our baseline speci/f_ication.
+In a last set of checks, we assess how much our results depend on the three major slave
+ports, i.e. Bristol, Liverpool and London. Speci/f_ically, we exclude any region located within
+30km of these slave ports and /f_ind that the magnitude and signi/f_icance of the coeﬃcients
+again remain largely the same. Overall, we conclude that our /f_indings are not driven by the
+major slave ports alone, consistent with Figure 8, which shows that compliers with the slavery
+instrument are found across England and Wales.
+7.4 Quantitative Analysis of the Model
+Our empirical /f_indings so far have provided evidence of causal eﬀects of slaveholding on local
+economic activity. We now use our theoretical model to assess the aggregate and distributional
+consequences of access to slavery investments.
+We assume standard values for the model’s parameters (Online Appendix D). We set the
+share of land in agricultural costs as αA = 0.31, based on the share of land and buildings in
+farm income in Feinstein (1972). Given this parameter, we set the share of capital in manufac-
+turing costs asαM = 0.36, which ensures that the model is consistent with both the 20% share
+of agriculture in national income in 1851 inDeane and Cole (1967), and the 65% share of labor
+in national income in 1850 in Crafts (2022). We assume a migration elasticity of 1/κ = 2, as
+a central value in the range of estimates in Bryan and Morten (2019) and Galle et al. (2020).
+We assume an elasticity of substitution between domestic and slavery investments of θ = 4,
+towards the high end of the estimates in Koijen and Yogo (2020). In Online Appendix E, we
+demonstrate the robustness of our quantitative conclusions to the assumption of alternative
+values for these parameters.
+We quantify the model using our rateable values and employment data. 32 Our rateable
+values data measure /f_low rental values from domestic capital and land. In contrast, slavery
+compensation was rationalized as a one-oﬀ payment for the net present value of the labor of
+enslaved persons. To convert this net present value into the corresponding /f_low value, we
+assume a rate of return of 10 percent, which re/f_lects the high rates of mortality among en-
+slaved persons and the risk associated with slavery investments (including the risk of slave
+rebellion). Additionally, compensation values for enslaved persons were set at 40 percent of
+market values, in part because of the implicit compensation through the “apprenticeship” sys-
+tem. Therefore, we multiply the /f_low compensation values by 2.5 to obtain /f_low market values.
+32See Online Appendix C.13-C.14 for further details on the quanti/f_ication of the model.
+37
+--- Page 39 ---
+Finally, the total value of slavery plantations (including land and buildings) was typically 3
+times the value of enslaved persons, according to the accounting studies in Sheridan (1965),
+Ward (1978), and Rosenthal (2018). Therefore, we multiply the /f_low market values of enslaved
+persons by 3 to obtain the /f_low market value of slavery investments. For the aggregate econ-
+omy as a whole, the resulting /f_low income from these slavery investments equals 3.63 percent
+of the /f_low income from all capital and land (including slavery capital, domestic capital and
+land), which is in line with the estimates in Pebrer (1833).33
+Our counterfactuals start at the observed equilibrium in the data in 1833 and evaluate the
+impact of a prohibitive increase in colonial /f_inancial frictions (φnN→∞ for all n). We hold
+goods price constant to focus purely on the impact of access to slavery investments through
+capital accumulation. For ease of interpretation, we report the changes in variables from the
+counterfactual equilibrium to the observed equilibrium in the data, such that the results corre-
+spond to the impact of improved access to slavery investments. We denote the counterfactual
+equilibrium value of variables with a prime, the observed equilibrium values with no prime,
+and the relative changes between the two equilibria with a hat (such that ˆxn = x′
+n/xn). We
+assume that the observed equilibrium in the data on 1833 is close to the steady-state in the
+absence of any further changes in the exogenous variables, and we report counterfactuals for
+the steady-state impact of the changes in colonial /f_inancial frictions.34
+We begin by quantifying the impact of slavery investments on the spatial distribution of
+economic activity. In the left panel of Figure 10, we display locally-weighted linear least
+squares regressions across locations of log changes in total employment (ln ( ℓ∗
+n/ℓ∗′
+n )) on the
+observed share of slavery capital in total capital in 1833 (ξ ∗
+nN = K∗
+nN/(K∗
+nN +K∗
+nn)), where
+recallξnN+ξnn = 1. Consistent with our analytical results in Proposition1 and our causal esti-
+mates in the previous subsection, we /f_ind that greater access to slavery investments increases
+a location’s total employment: The log relative changes in total employment are substantial,
+ranging from 0.98 (a 2 percent decline) to 1.43 (a 43 percent increase).
+In the right panel of Figure 10, we show analogous locally-weighted linear least squares
+regressions for log changes in agricultural employment shares (
+(
+ℓA∗
+n /ℓ∗
+n
+)
+/
+(
+ℓA∗′
+n /ℓ∗′
+n
+)
+). Again
+in line with our earlier theoretical and empirical results, we /f_ind that greater access to slavery
+investments induces greater structural transformation away from agriculture. The magnitudes
+are substantial: The log change in agricultural employment shares ranges from 1.02 (a 2 per-
+cent increase) for those locations with no slavery investments to 0.47 (a 47 percent decline)
+for those locations with the greatest participation in slavery investments.
+33According to Pebrer (1833), the value of all capital and land in the West Indies was 3.44 percent of the value
+of all capital and land in both the United Kingdom and the West Indies in 1833.
+34To the extent that the full steady-state impact of British participation in slavery had not been realized by the
+1830s, our estimates underestimate this full steady-state impact, and hence are likely conservative.
+38
+--- Page 40 ---
+Figure 10: Counterfactual Changes in Total Employment and Agricultural Employment Shares
+from Access to Slavery Investments
+1 1.1 1.2 1.3 1.4
+Log Change
+0 .2 .4 .6 .8
+Share of Slavery Capital in Total Capital
+Total Employment
+.5 .6 .7 .8 .9 1
+Log Change
+0 .2 .4 .6 .8
+Share of Slavery Capital in Total Capital
+Agricultural Employment Share
+Note: Vertical axis in left panel shows log changes in total employment across locations; vertical axis in right panel
+shows log changes in agricultural employment shares across locations; horizontal axis in both panels displays
+the share of slavery investments in total investments in the 1830s; both panels show locally-weighted linear least
+square regressions of the changes from the counterfactual equilibrium (without slavery investments andξ∗′
+nn = 1
+for alln) to the observed equilibrium in the 1830s (with slavery investments and 0<ξ∗
+nn < 1 for somen).
+We next turn to the aggregate and distributional consequences of access to slavery invest-
+ments. In the /f_irst column of Table 4, we report percentage changes in aggregate income,
+capitalist income, landlord income and worker welfare from the counterfactual equilibrium
+with prohibitive colonial /f_inancial frictions (φnNt→∞) to the observed equilibrium in 1833.
+We /f_ind an increase in the aggregate income of all factors of production (capital, labor and
+land) of 3.54 percent. This increase in aggregate income is sizeable relative to conventional
+estimates of the welfare gains from international trade (an upper bound of 9 percent for 19th-
+century Japan inBernhofen and Brown 2005), particularly as this counterfactual focuses solely
+on the mechanism of capital accumulation, holding goods price constant. During the period
+1800-30, British GDP per capita was growing at 0.3% per annum according to Crafts (2022).
+Therefore, slavery investments increased aggregate income by the equivalent of more than a
+decade of growth. We /f_ind that this change in aggregate income involves substantial changes
+in the distribution of income across factors of production, with capitalist income rising by 11
+percent, and landlord income declining by just under 1 percent. The change in worker wel-
+fare is the population-weighted average of the change in the real wage in each location and
+equals 3.06 percent, implying substantial welfare gains for domestic free workers from the
+enslavement and exploitation of black Africans in colonial plantations.
+In the second to fourth columns of Table 4, we show that these aggregate changes mask
+39
+--- Page 41 ---
+Table 4: Aggregate and Distributional Consequences of Access to Slavery Investments
+Variable Aggregate <p50 ≥p50<p75 ≥p75
+Population Share 1833 100 68.27 8.68 23.04
+Population change − -1.97 -0.33 6.47
+Aggregate Income change 3.54 -1.58 4.88 40.68
+Capitalist Income change 11.11 -2.55 15.52 104.14
+Landlord Income change -0.87 -0.08 -1.96 -7.18
+Worker Welfare change 3.06 3.06 3.06 3.06
+Note: Slavery income share is the share of the /f_low income from slavery capital in the /f_low income from all capital
+and land; Changes are from the counterfactual equilibrium with prohibitive colonial /f_inancial frictions (φnNt→
+∞) to the observed equilibrium in 1833; Population change is the percent change in population; Aggregate income
+change is the percent change in the aggregate income of all factors of production; Capital income change is the
+percent change in capitalist income from slavery and domestic investments; Landlord income change is the
+percent change in landlord income; Worker welfare is the expected utility of the domestic workers, as de/f_ined
+in equation (7); Aggregate column reports values for the aggregate economy; <p50 column reports aggregate
+values for locations with slavery investment shares (ξnN) less than the median across those locations with positive
+shares;≥p50<p75 column reports aggregate values for locations with slavery investment shares (ξnN) from the
+50-75th percentiles across locations with positive shares; ≥p75 column reports aggregate values for locations
+with slavery investment shares (ξnN) above the 75th percentile across locations with positive shares.
+substantial distributional consequences across geographical locations, depending on their par-
+ticipation in slavery investments. We divide locations into three groups: those with slavery
+investment shares (ξ∗
+nN) less than the median across locations with positive values for slavery
+investment (68 percent of the 1833 population); locations with slavery investment shares from
+the 50-75th percentiles of these positive values (just under 9 percent of the 1833 population);
+and locations with slavery investment shares above the 75th percentile of these positive val-
+ues (23 percent of the 1833 population).35 For locations with the least participation in slavery
+investments, we see a decline in aggregate income of -1.58 percent, a fall of population of 1.97
+percent, a drop in capitalist income of 2.55 percent, and little change in landlord income, as
+economic activity reallocates towards locations with greater participation in slavery invest-
+ments. In contrast, for locations with the greatest participation in slavery investments, we /f_ind
+an increase in aggregate income of more than 40 percent, a rise in population of 6.47 percent,
+a growth in capitalist income of more than 100 percent, and a decline in landlord income of
+7.18 percent. Since labor is mobile across locations, workers in all three groups of locations
+experience the same increase in welfare of 3.06 percent.
+Therefore, we /f_ind sizeable aggregate eﬀects on access to slavery investments on income
+and welfare and the distribution of income across factors of production. Additionally, our re-
+sults highlight the uneven impact of slavery investments on the geography of the industrial
+revolution within Britain, consistent with our causal estimates using quasi-experimental varia-
+35The median slavery investment share (ξ∗
+nN) for locations with positive slavery investment is 3.55 percent.
+40
+--- Page 42 ---
+tion above. Locations with better access to slavery investments experience greater expansions
+in economic activity, structural transformation away from agriculture, and redistributions of
+income away from landlords and towards capitalists.
+8 Conclusion
+Before Europe’s contact with the Americas, and its heavy involvement in the traﬃcking of en-
+slaved Africans to the new colonies, the continent was an also-ran in economic terms. Growth
+accelerated as Atlantic trade increased (Acemoglu et al. 2005), and all the more so in the coun-
+tries that played a leading role in the trans-Atlantic slave trade. A number of historians have
+argued that Britain accumulated great wealth from the slave trade, colonial plantations, and
+the wider triangular trade to which these gave rise (Williams 1944). In contrast, most quan-
+titative assessments of this argument by economic historians have remained sceptical of this
+view, pointing out that the pro/f_its from the slave trade were not particularly high (Eltis and
+Engerman 2000).
+In this paper, we argue that it was not slave-trading as much as slave-holding that con-
+tributed to Britain’s Industrial Revolution. The most optimistic estimates of slave trading
+pro/f_its are in the range of 0.5% of GDP in the late 18th century; for slave-holding, the estimate
+is closer to 5% (Solow 1993). We develop a spatial general equilibrium model that formalizes
+the role of slavery wealth in economic development. Greater access to slavery investments
+raises the productivity of the investment technology, which stimulates capital accumulation
+and increases the steady-state capital stock. Additionally, slavery investments can readily be
+collateralized, alleviating /f_inancing constraints, and again stimulating domestic capital accu-
+mulation. In the presence of /f_inancial frictions, the greater capital stock is disproportionately
+invested locally, which in turn accelerates local economic growth and structural transforma-
+tion towards capital-intensive manufacturing.
+For identi/f_ication, we use the eﬀect of weather on sailing time, enslaved mortality, and sur-
+vival in the slave trade. Shipping enslaved Africans to the Americas took time, and conditions
+on board the ships were horri/f_ic. When passages took too long, mortality increased sharply.
+We show that shocks to enslaved mortality aﬀected participation in the slave trade, and in
+turn, the slave-holding of slave traders’ descendants in 1833. Using this source of exogenous
+variation, we /f_ind that greater slavery wealth promoted local economic growth and led to a
+reallocation of economic activity away from agriculture, and towards manufacturing, the dif-
+fusion of new manufacturing technology (cotton mills), and the adoption of steam power –
+the key new technology of the Industrial Revolution.
+We use our theoretical model to quantify the aggregate and distributional consequences of
+41
+--- Page 43 ---
+access to slavery investments. At the aggregate level, we /f_ind an increase in national income
+of 3.5 percent. Capitalists were the largest bene/f_iciaries with an increase in their aggregate
+income of 11 percent, with landowners experiencing small aggregate income losses of just
+under 1 percent. Whereas previous research has largely focused on these aggregate eﬀects,
+our work emphasizes the uneven impact of access to slavery investments on the geography of
+the industrial revolution. Locations with the greatest levels of participation in slavery invest-
+ment experience increases in total income of more than 40 percent, with capitalists’ income
+increasing by more than 100 percent, and landlords’ income declining by around 7 percent.
+Domestic workers’ welfare increases by around 3 percent from the enslavement and exploita-
+tion of black Africans in colonial plantations. In combination, our results strongly suggest that
+slavery wealth contributed causally to Britain’s Industrial Revolution, accelerating growth and
+facilitating the escape from Malthusian constraints.
+References
+A/c.sc/e.sc/m.sc/o.sc/g.sc/l.sc/u.sc, D., S. J/o.sc/h.sc/n.sc/s.sc/o.sc/n.sc, /a.sc/n.sc/d.sc J. R/o.sc/b.sc/i.sc/n.sc/s.sc/o.sc/n.sc(2005): “The Rise of Europe: Atlantic Trade,
+Institutional Change, and Economic Growth, ”American Economic Review, 95, 546–579.
+A/n.sc/g.sc/r.sc/i.sc/s.sc/t.sc, J. /a.sc/n.sc/d.sc A. B. K/r.sc/u.sc/e.sc/g.sc/e.sc/r.sc(1994): “Why do World War II Veterans Earn More than Non-
+veterans?” Journal of Labor Economics, 12, 74–97.
+A/t.sc/a.sc/c.sc/k.sc, J., F. B/a.sc/t.sc/e.sc/m.sc/a.sc/n.sc, /a.sc/n.sc/d.sc R. A. M/a.sc/r.sc/g.sc/o.sc(2008): “Steam Power, Establishment Size, and La-
+bor Productivity Growth in Nineteenth Century American Manufacturing, ”Explorations in
+Economic History, 45, 185–198.
+B/a.sc/r.sc/r.sc/o.sc, R. J.(1987): “Government Spending, Interest Rates, Prices, and Budget De/f_icits in the
+United Kingdom, 1701–1918, ”Journal of Monetary Economics, 20, 221–247.
+B/e.sc/l.sc/l.sc/e.sc/m.sc/a.sc/r.sc/e.sc, M. F. /a.sc/n.sc/d.sc C. J. W/i.sc/c.sc/h.sc/m.sc/a.sc/n.sc(2020): “Elasticities and the Inverse Hyperbolic Sine
+Transformation, ”Oxford Bulletin of Economics and Statistics, 82, 50–61.
+B/e.sc/r.sc/n.sc/h.sc/o.sc/f.sc/e.sc/n.sc, D. M. /a.sc/n.sc/d.sc J. C. B/r.sc/o.sc/w.sc/n.sc(2005): “An Empirical Assessment of the Comparative
+Advantage Gains from Trade: Evidence from Japan, ” American Economic Review, 95, 208–
+225.
+B/l.sc/e.sc/a.sc/k.sc/l.sc/e.sc/y.sc, H. /a.sc/n.sc/d.sc P. W. R/h.sc/o.sc/d.sc/e.sc(2021): “The Economic Eﬀects of American Slavery, Redux:
+Tests at the Border, ” University of Michigan, mimeograph.
+B/o.sc/u.sc/n.sc/d.sc, J. /a.sc/n.sc/d.sc D. A. J/a.sc/e.sc/g.sc/e.sc/r.sc(2000): “Do Compulsory School Attendance Laws Alone Explain
+the Association between Quarter of Birth and Earnings?” in Research in labor economics,
+Emerald Group Publishing Limited, vol. 19, 83–108.
+B/r.sc/o.sc/a.sc/d.sc/b.sc/e.sc/r.sc/r.sc/y.sc, S. N., B. M. C/a.sc/m.sc/p.sc/b.sc/e.sc/l.sc/l.sc, A. K/l.sc/e.sc/i.sc/n.sc, M. O/v.sc/e.sc/r.sc/t.sc/o.sc/n.sc, /a.sc/n.sc/d.sc B. /v.sc. L/e.sc/e.sc/u.sc/w.sc/e.sc/n.sc(2010): British
+economic growth: 1270-1870, Cambridge: Cambridge University Press.
+B/r.sc/y.sc/a.sc/n.sc, G. /a.sc/n.sc/d.sc M. M/o.sc/r.sc/t.sc/e.sc/n.sc(2019): “The Aggregate Productivity Eﬀects of Internal Migration:
+Evidence from Indonesia, ”Journal of Political Economy, 127, 2229–2268.
+B/u.sc/s.sc/t.sc/o.sc/s.sc, P., B. C/a.sc/p.sc/r.sc/e.sc/t.sc/t.sc/i.sc/n.sc/i.sc, /a.sc/n.sc/d.sc J. P/o.sc/n.sc/t.sc/i.sc/c.sc/e.sc/l.sc/l.sc/i.sc(2016): “Agricultural Productivity and Structural
+Transformation: Evidence from Brazil, ”American Economic Review, 106, 1320–65.
+C/a.sc/m.sc/p.sc/b.sc/e.sc/l.sc/l.sc, B. M. S. /a.sc/n.sc/d.sc K. B/a.sc/r.sc/t.sc/l.sc/e.sc/y.sc(2006): England on the Eve of the Black Death: An Atlas of
+Lay Lordship, Land and Wealth 1300-49, Manchester: Manchester University Press.
+C/a.sc/p.sc/r.sc/e.sc/t.sc/t.sc/i.sc/n.sc/i.sc, B. /a.sc/n.sc/d.sc H./hyphen.scJ. V/o.sc/t.sc/h.sc(2020): “Rage Against the Machines: Labor-saving Technology
+and Unrest in Industrializing England, ”American Economic Review: Insights, 2, 305–20.
+42
+--- Page 44 ---
+C/a.sc/r.sc/r.sc, D. B. /a.sc/n.sc/d.sc L. W. P/i.sc/c.sc/k.sc/l.sc/e.sc(2010): Visualizing Data Patterns with Micromaps, London: Chap-
+man and Hall.
+C/a.sc/s.sc/e.sc/l.sc/l.sc/i.sc, F. /a.sc/n.sc/d.sc W. J. C/o.sc/l.sc/e.sc/m.sc/a.sc/n.sc(2001): “The U.S. structural transformation and regional con-
+vergence: A reinterpretation, ”Journal of Political Economy, 109, 584–616.
+C/h.sc/a.sc/p.sc/m.sc/a.sc/n.sc, S. D.(1981): “The Arkwright Mills− Colquhoun’s Census of 1788 and Archaeolog-
+ical Evidence, ”Industrial Archaeology Review, 6, 5–27.
+C/h.sc/e.sc/s.sc/h.sc/i.sc/r.sc/e.sc, J. /a.sc/n.sc/d.sc P. L/o.sc/n.sc/g.sc/l.sc/e.sc/y.sc(2011): “Spatial concentrations of surnames in Great Britain, ”Pro-
+cedia - Social and Behavioral Sciences, 21, 279–286, international Conference: Spatial Think-
+ing and Geographic Information Sciences 2011.
+C/o.sc/h.sc/n.sc, R. L. /a.sc/n.sc/d.sc R. A. J/e.sc/n.sc/s.sc/e.sc/n.sc(1982): “The Determinants of Slave Mortality Rates on the Middle
+Passage, ”Explorations in Economic History, 19, 269–282.
+C/o.sc/n.sc/l.sc/e.sc/y.sc, T.(1999): “GMM estimation with cross sectional dependence, ”Journal of Econometrics,
+92, 1–45.
+C/r.sc/a.sc/f.sc/t.sc/s.sc, N.(1985): British Economic Growth During the Industrial Revolution, Oxford: Oxford
+University Press.
+——— (2022): “Slow Wage Growth During the Industrial Revolution: Productivity Paradox or
+Pro-rich Growth?” Oxford Economic Papers, 74, 1–13.
+C/r.sc/a.sc/f.sc/t.sc/s.sc, N. /a.sc/n.sc/d.sc N. W/o.sc/l.sc/f.sc(2014): “The Location of the UK Cotton Textiles Industry in 1838: A
+Quantitative Analysis, ”Journal of Economic History, 74, 1103–1139.
+D/a.sc/r.sc/i.sc/t.sc/y.sc, W.(1990): “British Industry and the West Indies Plantations, ” Social Science History,
+14, 117–149.
+D/e.sc/a.sc/n.sc/e.sc, P. /a.sc/n.sc/d.sc W. A. C/o.sc/l.sc/e.sc(1967): British Economic Growth 1688-1959: Trends and Structure,
+Cambridge: Cambridge University Press.
+D/e.sc/r.sc/e.sc/n.sc/o.sc/n.sc/c.sc/o.sc/u.sc/r.sc/t.sc, E.(2019): “Atlantic slavery’s Impact on European and British Economic de-
+velopment, ” Princeton University, mimeograph.
+D/r.sc/e.sc/s.sc/c.sc/h.sc/e.sc/r.sc, S.(2010): Econocide: British Slavery in the Era of Abolition, Univ of North Carolina
+Press.
+D’H/a.sc/u.sc/l.sc/t.sc/f.sc/oe.sc/u.sc/i.sc/l.sc/l.sc/e.sc, X., S. H/o.sc/d.sc/e.sc/r.sc/l.sc/e.sc/i.sc/n.sc, /a.sc/n.sc/d.sc Y. S/a.sc/s.sc/a.sc/k.sc/i.sc(2022): “Testing and Relaxing the Exclusion
+Restriction in the Control Function Approach, ”Journal of Econometrics, forthcoming.
+E/l.sc/t.sc/i.sc/s.sc, D.(1984): “Mortality and Voyage Length in the Middle Passage: New Evidence from the
+Nineteenth Century, ”The Journal of Economic History, 44, 301–308.
+E/l.sc/t.sc/i.sc/s.sc, D. /a.sc/n.sc/d.sc S. L. E/n.sc/g.sc/e.sc/r.sc/m.sc/a.sc/n.sc(2000): “The Importance of Slavery and the Slave Trade to
+Industrializing Britain, ”Journal of Economic History, 123–144.
+E/n.sc/g.sc/e.sc/r.sc/m.sc/a.sc/n.sc, S. L.(1972): “The Slave Trade and British Capital Formation in the Eighteenth
+Century: A Comment on the Williams Thesis, ”The Business History Review, 430–443.
+E/q.sc_u.sc/i.sc/a.sc/n.sc/o.sc, O.(1789): The Interesting Narrative of the Life of Olaudah Equiano or Gustavus Vassa,
+The African, London: Aldermanbury.
+F/a.sc/j.sc/g.sc/e.sc/l.sc/b.sc/a.sc/u.sc/m.sc, P. /a.sc/n.sc/d.sc S. R/e.sc/d.sc/d.sc/i.sc/n.sc/g.sc(2022): “Trade, Structural Transformation and Development:
+Evidence from Argentina 1869-1914, ”Journal of Political Economy, 130, 1249–1318.
+F/e.sc/i.sc/n.sc/s.sc/t.sc/e.sc/i.sc/n.sc, C. H.(1972): National Income, Expenditure and Output of the United Kingdom 1855-
+1965, Cambridge: Cambridge University Press.
+F/i.sc/n.sc/d.sc/l.sc/a.sc/y.sc, R.(1990): The "Triangular Trade" and the Atlantic Economy of the Eighteenth Cen-
+tury: A Simple General-equilibrium Model, International Finance Section, Department of
+Economics, Princeton University.
+F/o.sc/x.sc, W. R. /a.sc/n.sc/d.sc G. W. L/a.sc/s.sc/k.sc/e.sc/r.sc(1983): “The Distribution of Surname Frequencies, ”International
+Statistical Review / Revue Internationale de Statistique, 51, 81–87.
+F/r.sc/a.sc/n.sc/c.sc/i.sc/s.sc, J. A.(2021): “King Cotton, the Muni/f_icent: Slavery and (Under)development in the
+United States, 1789-1865, ” www.joefrancis.info.
+F/r.sc/a.sc/n.sc/k.sc, A. G.(1967): Capitalism and Underdevelopment in Latin America, vol. 16, NYU Press.
+——— (2011): World Accumulation, NYU Press.
+43
+--- Page 45 ---
+G/a.sc/l.sc/l.sc/e.sc, S., M. Y/i.sc, /a.sc/n.sc/d.sc A. R/o.sc/d.sc/r.sc/i.sc/g.sc/u.sc/e.sc/z.sc/hyphen.scC/l.sc/a.sc/r.sc/e.sc(2020): “Slicing the Pie: Quantifying the Aggregate
+and Distributional Consequences of Trade, ” University of California, Berkeley, mimeograph.
+G/e.sc/r.sc/s.sc/c.sc/h.sc/e.sc/n.sc/k.sc/r.sc/o.sc/n.sc, A.(1962): “Economic Backwardness in Historical Perspective (1962), ” The
+Political Economy Reader: Markets as Institutions, 211–228.
+G/i.sc/n.sc/t.sc/e.sc/r.sc, D. E.(1992): A Measure of Wealth: The English Land Tax in Historical Analysis, Québec:
+McGill-Queen’s University Press.
+G/l.sc/a.sc/s.sc/s.sc/c.sc/o.sc/c.sc/k.sc, R. E.(1974): The Lay Subsidy of 1334, London: Oxford University Press.
+G/o.sc/l.sc/l.sc/i.sc/n.sc, D., R. J/e.sc/d.sc/w.sc/a.sc/b.sc, /a.sc/n.sc/d.sc D. V/o.sc/l.sc/l.sc/r.sc/a.sc/t.sc/h.sc(2016): “Urbanization With and Without Industrial-
+ization, ”Journal of Economic Growth, 21, 35–70.
+G/o.sc/n.sc/z.sc/aacute.sc/l.sc/e.sc/z.sc, F., G. M/a.sc/r.sc/s.sc/h.sc/a.sc/l.sc/l.sc, /a.sc/n.sc/d.sc S. N/a.sc/i.sc/d.sc/u.sc(2017): “Start-up Nation? Slave Wealth and En-
+trepreneurship in Civil War Maryland, ”Journal of Economic History, 77, 373–405.
+G/u.sc/i.sc/s.sc/o.sc, L., P. S/a.sc/p.sc/i.sc/e.sc/n.sc/z.sc/a.sc, /a.sc/n.sc/d.sc L. Z/i.sc/n.sc/g.sc/a.sc/l.sc/e.sc/s.sc(2004): “Does Local Financial Development Matter?”
+The Quarterly Journal of Economics, 119, 929–969.
+G/udieresis.sc/e.sc/l.sc/l.sc, M., J. V. R/o.sc/d.sc/r.sc/iacute.sc/g.sc/u.sc/e.sc/z.sc M/o.sc/r.sc/a.sc, /a.sc/n.sc/d.sc C. I. T/e.sc/l.sc/m.sc/e.sc/r.sc(2014): “The Informational Content of
+Surnames, the Evolution of Intergenerational Mobility, and Assortative Mating, ”The Review
+of Economic Studies, 82, 693–735.
+H/a.sc/i.sc/n.sc/e.sc/s.sc, R., J. M/c.scD/o.sc/n.sc/a.sc/l.sc/d.sc, /a.sc/n.sc/d.sc R. S/h.sc/l.sc/o.sc/m.sc/o.sc/w.sc/i.sc/t.sc/z.sc(2001): “Mortality and Voyage Length in the
+Middle Passage Revisited, ”Explorations in Economic History, 38, 503–533.
+H/a.sc/l.sc/l.sc, C., N. D/r.sc/a.sc/p.sc/e.sc/r.sc, K. M/c.scC/l.sc/e.sc/l.sc/l.sc/a.sc/n.sc/d.sc, K. D/o.sc/n.sc/i.sc/n.sc/g.sc/t.sc/o.sc/n.sc, /a.sc/n.sc/d.sc R. L/a.sc/n.sc/g.sc(2014): Legacies of British
+Slave-ownership: Colonial Slavery and the Formation of Victorian Britain, Cambridge Univer-
+sity Press.
+H/e.sc/b.sc/l.sc/i.sc/c.sc/h.sc, S. /a.sc/n.sc/d.sc A. T/r.sc/e.sc/w.sc(2019): “Banking and Industrialization, ” Journal of the European
+Economic Association, 17, 1753–96.
+H/e.sc/r.sc/r.sc/e.sc/n.sc/d.sc/o.sc/r.sc/f.sc, B., R. R/o.sc/g.sc/e.sc/r.sc/s.sc/o.sc/n.sc, /a.sc/n.sc/d.sc Á. V /a.sc/l.sc/e.sc/n.sc/t.sc/i.sc/n.sc/y.sc/i.sc(2012): “Two Perspectives on Preferences
+and Structural Transformation, ”American Economic Review, 103, 2752–89.
+H/o.sc/u.sc/s.sc/e.sc /o.sc/f.sc C/o.sc/m.sc/m.sc/o.sc/n.sc/s.sc(1839): “Return of All the Mills and Factories, ” British Parliamentary
+Papers.
+——— (1844): “Return Showing the Annual Value of Real Property in each Parish of Each Coun-
+try in England and Wales Assessed to the Property and Income Tax for the Year Ended 1843
+and the Quota of Land Tax Assessed in each Parish for the Year 1798, ” British Parliamentary
+Papers.
+I/t.sc/s.sc/k.sc/h.sc/o.sc/k.sc/i.sc, O. /a.sc/n.sc/d.sc B. M/o.sc/l.sc/l.sc(2019): “Optimal Development Policies with Financial Frictions, ”
+Econometrica, 87, 139–173.
+K/i.sc/p.sc/l.sc/e.sc, K. F. /a.sc/n.sc/d.sc B. T. H/i.sc/g.sc/g.sc/i.sc/n.sc/s.sc(1989): “Mortality Caused by Dehydration during the Middle
+Passage, ”Social Science History, 13, 421–437.
+K/l.sc/e.sc/i.sc/n.sc G/o.sc/l.sc/d.sc/e.sc/w.sc/i.sc/j.sc/k.sc, K., A. B/e.sc/u.sc/s.sc/e.sc/n.sc, J. D/o.sc/e.sc/l.sc/m.sc/a.sc/n.sc, /a.sc/n.sc/d.sc E. S/t.sc/e.sc/h.sc/f.sc/e.sc/s.sc/t.sc(2017): “Anthropogenic land
+use estimates for the Holocene – HYDE 3.2, ”Earth System Science Data, 9, 927–953.
+K/o.sc/i.sc/j.sc/e.sc/n.sc, R. S. /a.sc/n.sc/d.sc M. Y/o.sc/g.sc/o.sc(2019): “A Demand System Approach to Asset Pricing, ”Journal of
+Political Economy, 127, 1475–1515.
+——— (2020): “Exchange Rates and Asset Prices in a Global Demand System, ” NBER Working
+Paper, 27342.
+L/i.sc/u.sc, E., S. J. R/e.sc/d.sc/d.sc/i.sc/n.sc/g.sc, /a.sc/n.sc/d.sc M. Y/o.sc/g.sc/o.sc(2022): “The Geography of Global Trade and Investment, ”
+Princeton University, mimeograph.
+L/u.sc/c.sc/a.sc/s.sc, R.(2002): Lectures on Economic Growth, Cambridge: Harvard University Press.
+M/a.sc/r.sc/x.sc, K.(1867): Das Kapital, Verlag Otto Meissner.
+M/a.sc/t.sc/s.sc/u.sc/y.sc/a.sc/m.sc/a.sc, K.(1992): “Agricultural Productivity, Comparative Advantage and Economic
+Growth, ”Journal of Economic Theory, 58, 317–334.
+M/o.sc/l.sc/l.sc, B.(2014): “Productivity Losses from Financial Frictions: can Self-/f_inancing undo Capital
+Misallocation?” American Economic Review, 104, 3186–3221.
+N/g.sc/a.sc/i.sc, L. R. /a.sc/n.sc/d.sc C. A. P/i.sc/s.sc/s.sc/a.sc/r.sc/i.sc/d.sc/e.sc/s.sc(2007): “Structural Change in a Multisector Model of growth, ”
+44
+--- Page 46 ---
+American Economic Review, 97, 429–443.
+N/u.sc/n.sc/n.sc, N.(2008): “The Long-term Eﬀects of Africa’s Slave Trades, ” Quarterly Journal of Eco-
+nomics, 123, 139–176.
+N/u.sc/n.sc/n.sc, N. /a.sc/n.sc/d.sc L. W /a.sc/n.sc/t.sc/c.sc/h.sc/e.sc/k.sc/o.sc/n.sc(2011): “The Slave Trade and the Origins of Mistrust in Africa, ”
+American Economic Review, 101, 3221–3252.
+P/a.sc/s.sc/c.sc/a.sc/l.sc/i.sc, L.(2017): “The Wind of Change: Maritime Technology, Trade, and Economic Devel-
+opment, ”American Economic Review, 107, 2821–54.
+PASE (2010): “Prosopography of Anglo-Saxon England, ” http://www.pase.ac.uk.
+P/e.sc/b.sc/r.sc/e.sc/r.sc, P.(1833): Taxation, Revenue, Expenditure, Power, Statistics, and Debt of the Whole
+British Empire, London: Baldwin and Cradock.
+P/r.sc/i.sc/c.sc/e.sc, G. /a.sc/n.sc/d.sc W. W/h.sc/a.sc/t.sc/l.sc/e.sc/y.sc(2020): “Did Pro/f_itable Slave Trading Enable the Expansion of
+Empire? The Asiento de Negros, the South Sea Company and the Financial Revolution, ”
+Cliometrica, 1–44.
+R/a.sc/g.sc/a.sc/t.sc/z.sc, L. J.(1928): The Fall of the Planter Class in the British Caribbean, 1763-1833, The Cen-
+tury Co.
+R/o.sc/s.sc/e.sc/n.sc/t.sc/h.sc/a.sc/l.sc, C.(2018): Accounting for Slavery: Masters and Management, Cambridge MA: Har-
+vard University Press.
+S/h.sc/e.sc/r.sc/i.sc/d.sc/a.sc/n.sc, R. B.(1965): “Wealth of Jamaica in the Eighteenth Century, ”Economic History Re-
+view, 18, 292–311.
+S/o.sc/l.sc/o.sc/w.sc, B. L.(1993): Slavery and the Rise of the Atlantic System, vol. 1, Cambridge University
+Press.
+S/o.sc/u.sc/t.sc/h.sc/a.sc/l.sc/l.sc, H. R., P. E/l.sc/l.sc, D. A. G/a.sc/t.sc/l.sc/e.sc/y.sc, /a.sc/n.sc/d.sc I. G/r.sc/e.sc/g.sc/o.sc/r.sc/y.sc(2004): “Great Britain Historical
+Database: Census Data: Parish-Level Population Statistics, 1801-1951, ” Colchester, Essex:
+UK Data Archive.
+S/t.sc/e.sc/p.sc/h.sc/e.sc/n.sc, J.(1824): The Slavery of the British West India Colonies Delineated: Being a Delineation
+of the State in Point of Law, vol. 1, J. Butterworth and Son.
+T/a.sc/y.sc/l.sc/o.sc/r.sc, M.(2020): The Interest: How the British Establishment Resisted the Abolition of Slavery ,
+London: Bodley Head.
+T/h.sc/o.sc/m.sc/a.sc/s.sc, R. P. /a.sc/n.sc/d.sc R. N. B/e.sc/a.sc/n.sc(1974): “The Fishers of Men: The Pro/f_its of the Slave Trade, ”
+The Journal of Economic History, 885–914.
+U/y.sc, T., K./hyphen.scM. Y/i.sc, /a.sc/n.sc/d.sc J. Z/h.sc/a.sc/n.sc/g.sc(2012): “Structural Change in an Open Economy, ” Journal of
+Monetary Economics, 60, 667–82.
+W /a.sc/l.sc/l.sc/e.sc/r.sc/s.sc/t.sc/e.sc/i.sc/n.sc, I. M.(2004): World-systems analysis: An introduction, Duke University Press.
+W /a.sc/r.sc/d.sc, J. R.(1978): “The Pro/f_itability of Sugar Planting in the British West Indies, 1650-1834, ”
+The Economic History Review, 31, 197–213, publisher: JSTOR.
+W/i.sc/l.sc/l.sc/i.sc/a.sc/m.sc/s.sc, E.(1944): Capitalism and Slavery, UNC Press Books.
+W/r.sc/i.sc/g.sc/h.sc/t.sc, G.(2006): Slavery and American Economic Development, LSU Press.
+W/r.sc/i.sc/g.sc/l.sc/e.sc/y.sc, E. A.(2011): The Early English Censuses, Oxford University Press.
+45

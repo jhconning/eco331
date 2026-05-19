@@ -1,0 +1,1213 @@
+
+--- Page 1 ---
+The Political and Economic Effects of
+Progressive Era Reforms in U.S. Cities:
+Evidence from Newly Digitized Data ∗
+Maria Carreri, † UCSD
+Julia Payson, ‡ NYU
+Daniel M. Thompson, § UCLA
+August 29, 2022
+Most recent version available here
+Abstract
+How did Progressive era reforms affect the lives of urban residents across U.S.
+cities? The historical record is unclear. Some scholars argue that many of the pro-
+gressive reforms were motivated by nativist and racist animus and explicitly designed
+to benefit white business elites at the expense of disadvantaged groups. Others point
+out that reformers often sought to improve urban living and working conditions and
+expand access to education, which generated new opportunities for social mobility.
+We inform this debate leveraging new data on 455 U.S. cities from 1900-1940 com-
+bining i) dates of adoption of reform-style government, ii) deanonymized census data,
+iii) data on political participation, and iv) detailed municipal budget data. Using a
+difference-in-differences design, we document the impact of Progressive reforms on po-
+litical participation, public goods spending, and the relative socioeconomic well-being
+of black, immigrant, and working class residents vis-a-vis whites, natives, and business
+elites. Despite finding that voter turnout decreased in reformed cities, we uncover only
+a modest increase in earnings inequality across more and less advantaged groups and
+no significant differences in expenditure patterns as a consequence of reform. This
+approach provides a comprehensive portrait of the legacy of Progressive municipal
+institutions and suggests that, on average, the reforms of this era may have exacer-
+bated political inequality more than economic inequality, at least in the first decades
+following their adoption.
+∗Authors are listed in alphabetical order and contributed equally.
+†Assistant Professor, School of Global Policy and Strategy ( mcarreri@ucsd.edu)
+‡Assistant Professor, Department of Politics ( julia.payson@nyu.edu)
+§Assistant Professor, Department of Political Science ( dthompson@polisci.ucla.edu)
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 2 ---
+1 Introduction
+How did the municipal reform movement of the Progressive era affect the social and eco-
+nomic lives of urban residents? A lively historical debate offers conflicting accounts as to
+whether the Progressive agenda helped or harmed less advantaged communities, including
+immigrants, African Americans, and the less affluent. Some researchers emphasize the fact
+that reformers of this era sought to clean up government corruption, address the poor living
+conditions of the working class, introduce basic forms of social insurance, and end exploita-
+tive labor practices ( Bremner 1956; Davis 1984; Faulkner 1937). But other scholars have
+pointed out that the Progressive movement was comprised primarily of white, Protestant,
+and highly educated middle and upper-class Americans ( Weinstein 1969; Hays 1964; Buenker
+1973). This research tradition concludes that racist and nativist streaks permeated many of
+the movement’s goals, and achieving reform often required disenfranchising poor, working
+class, and immigrant voters ( Bridges 1999).
+The question of how harmful or beneficial the Progressive agenda was for these groups
+remains unresolved in part because the historiography often focuses on the experiences of
+particular communities in particular cities. Scholars have documented the rise and fall of
+Irish machines in major cities like New York in the early 20th century ( Erie 1990), described
+how Italians fared in Boston’s West End ( Gans et al. 1982), and analyzed the political
+dynamics of Germans, Irish, and Poles in Detroit ( Zunz 2000). Bridges (1999) explores the
+ascent of municipal reformers in the Southwest with a focus on the political participation of
+the poor and racial minorities, while Stone, Price, and Stone (1940) describes the opposition
+of working class residents to reforms in nine urban cities. While these rich case studies offer
+nuanced accounts of who benefited from Progressive policies across specific local contexts,
+to date we largely lack systematic empirical research on the overall effects of the Progressive
+reform movement on the socioeconomic lives of urban residents across the U.S. 1
+1For a review of the historical and sociological literature, see Fox (2012) and Leonard (2016).
+1
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 3 ---
+We bring new data to bear on these old questions, including (1) de-anonymized census
+records at the individual level, (2) newly digitized city financial statistics, (3) dates of mu-
+nicipal reform which we hand collected from primary sources, and (4) estimates of electoral
+participation at the county level. Collectively, our data cover 455 U.S. cities and span the
+period from 1900 to 1940. We focus specifically on reforms that led to the adoption of a
+council-manager or city commissioner form of government. Considered the most extreme
+example of municipal reform (e.g. Holli 1969; Bernard and Rice 1975), this change was often
+accompanied by the adoption of at-large elections and non-partisan ballots Banfield and
+Wilson (1966); Bridges (1999) and serves as an effective proxy for when Progressives gained
+control of the city government. In addition to being one of the most institutionally dramatic
+reforms of this era, changes to the structure of government have been one of the longest
+lasting Progressive legacies. We further discuss the theoretical and empirical rationale for
+focusing on this particular reform in section 2.
+Our research design exploits the fact that U.S. cities varied in whether and when they
+reformed. This allows us to study how city life changed around the time of the reform
+by comparing changes in socioeconomic and political outcomes of various groups in re-
+formed cities vis-a-vis in cities that did not reform. In order to avoid bias arising from
+heterogeneous treatment effects in staggered difference-in-differences designs (e.g. Xu 2017;
+Goodman-Bacon 2021; De Chaisemartin and d’Haultfoeuille 2020), we follow the approach
+proposed by Cengiz et al. (2019) and compare reform cities only to cities that never reform.
+Importantly, since the timing of reform cannot be considered random, we then employ a
+weighting strategy introduced by ( Hazlett and Xu 2018), which ensures that outcomes in
+reform and non-reform cities follow similar trends in the pre-reform period.
+We use individual-level census data covering the period 1900-1940 to construct measures
+of the socioeconomic standing of several groups of urban residents. In particular, we com-
+pare the outcomes of more advantaged groups—natives, whites, and members of the business
+elite—to those of immigrant, black, and non-business workers. As our primary measure of
+2
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 4 ---
+economic well-being we use the average predicted wage earnings of each group, which we
+compute following the procedure outlined in Abramitzky et al. (2021). We also analyze four
+additional socioeconomic outcomes: the employment rate within each group, the share hold-
+ing a local government job, the group’s literacy rate, and city-level occupational segregation
+across groups.
+Overall, our results show that the adoption of Progressive era reforms modestly increased
+the earnings gap between more and less advantaged residents, but the magnitude of the
+effects is small. The reform had no significant impact on the earnings of immigrant and
+native residents. The earnings of business residents increased by 0.6 percent following the
+reform, while the earnings of black and non-business residents decreased by 1.5 percent and
+0.7 percent, respectively. These effects result in a statistically significant but relatively small
+widening of the white-black and business-nonbusiness earnings gap. Consistent with these
+limited effects on earnings, we show that reforms did not lead to systematic changes across
+other socioeconomic outcomes. Crucially, we find that failing to account for the endogeneity
+in the timing of reform adoption would significantly affect our estimates: an estimation
+strategy that does not employ our weighting method would result in estimates that are
+twice as large as the true treatment effect on the native-immigrant gap. While we observe
+some evidence of distributional effects, we show that a wider earnings gap between more and
+less advantaged groups was not the price for more city growth: we document that reform
+cities did not experience higher aggregate growth in earnings, population, or employment.
+We next examine the effect of reform on political participation. As we discuss in the next
+section, there is little disagreement in the historiography that one of the consequences of the
+municipal reform movement was to restrict popular participation in politics ( Martin 1933;
+Banfield and Wilson 1966; Judd and Hinze 2018). Fox (2012) provides suggestive evidence
+that, in aggregate, voter turnout in presidential elections decreased more in regions with a
+large number of reform cities, and Hajnal and Lewis (2003) shows that turnout is lower today
+in California cities that maintain various Progressive-era reforms. We offer new evidence
+3
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 5 ---
+that the adoption of reform-style government decreased turnout. Using historical data from
+Clubb, Flanigan, and Zingale (2006), we show that turnout in presidential and congressional
+elections decreased significantly in counties where cities reformed. This finding is consistent
+with ample evidence suggesting that the reforms enacted during this period stripped political
+power from immigrants, minorities, and poorer residents ( Holli 1969; Karnig and Walter
+1983; Caren 2007).
+Finally, we also show that the reduction in electoral participation did not go hand in
+hand with significant changes in public goods provision. Leveraging newly digitized data
+from the Financial Statistics of Cities Bulletins, we show that cities that reformed did not
+decrease public spending, nor significantly change the allocation of government funds across
+different types of public goods. These results suggest that, on average, the Progressive
+agenda neither helped nor harmed disadvantaged communities to the extent suggested by
+existing literature, at least economically. The well-documented reduction in terms of elec-
+toral participation and descriptive representation of immigrants and working class residents
+(Weinstein 1969; Davidson and Korbel 1981; Trounstine 2009) appears to have only modestly
+hurt their economic prospects. In the next section, we describe the historical background of
+the municipal reform movement and flesh out the theoretical debates at stake.
+2 Historical Context and Theoretical Perspectives
+The late 19th and early 20th century marked a period of rapid urban growth in the United
+States. Cities spread beyond their original boundaries, and suburban communities emerged
+thanks to the development of new methods of urban transportation in the second half of the
+19th century ( Jackson 1987). This process of rapid urban expansion led to increasing ad-
+ministrative challenges, and city government often struggled to provide urban residents with
+adequate services ( Glaab and Brown 1967). Population growth and density were associated
+with a rise in diseases, fires, water pollution, and overcrowding, which tended to dispropor-
+4
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 6 ---
+tionately impact the living conditions of working class and immigrant residents in urban
+cores ( Trounstine 2018). In this period, political machines often emerged in American cities
+as important providers of services for immigrants as well as poor communities generally and
+facilitated economic and social integration in exchange for political support ( Schiesl 1977).
+By the late 1800s, a reform movement began to emerge whose stated goal was to improve
+city life and living conditions and eliminate the graft, corruption, and patronage associated
+with machine-style politics ( Buenker 1973; Renner and DeSantis 1993). Part of the broader
+Progressive movement in American politics, these municipal reformers sought to reorganize
+city administration. As pointed out by ( Schiesl 1977) “Political reform appeared to be
+a matter of running municipal government along the lines of the business corporation. ”
+The reforms of this era centered around the introduction of the council-manager form of
+government, the introduction of at-large elections and non-partisan ballots, and civil service
+rules for municipal employees. However, while reformers often claimed that their agenda
+was designed to broadly improve city governance and provide better services for all residents
+(Stewart 1950), the movement combined contradictory impulses.
+On the one hand, some historians have pointed out that the Progressive reform movement
+was fueled primarily by business interests and upper-middle class whites who feared the
+political influence wielded by foreigners, racial minorities, and poor people ( Merton 1968;
+Fox 2012; Lane 1962). Although urban poverty shocked the sensibilities of Progressives,
+many reformers believed the solution to such societal ills could only be achieved by reigning
+in the power of the lower classes ( Weinstein 1969; Leonard 2016; Banfield and Wilson 1966).
+To achieve their goals, reformers called for various structural measures that would limit the
+ability of immigrants and ethnic minorities to exercise political power. While often enacted
+under the guise of reducing election fraud and streamlining governance, reforms such as
+voter registration, at-large elections, and non-partisan ballots made it more diﬀicult for poor
+and minority voters to cast ballots and achieve representation on city councils ( Buenker
+1973). Additionally, early accounts portrayed the political machines of this era as sources of
+5
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 7 ---
+political power and vehicles of upward mobility for immigrants ( DiGaetano 1988). Perhaps
+not surprisingly, the most active opposition to these reform efforts came from immigrant and
+working class voters ( Bridges and Kronick 1999).
+On the other hand, subsequent research has demonstrated that most machines relied on
+petty favors rather than encouraging immigrant communities to organize around their com-
+mon economic and political interests. City machines often benefited only one ethnic group
+at the expense of others (usually the Irish), and machine politicians did little to improve the
+dangerous living and working conditions experienced by many immigrants ( Judd and Hinze
+2018; Erie 1990; Trounstine 2009). Moreover, even as Progressive Era reformers sought to
+weaken immigrant voting blocs politically, they also made important improvements to work-
+place conditions, passed child labor laws, advocated for safer housing, and expanded social
+services ( Fox 2012). According to Kirschner (1975), early scholarship on the Progressive
+movement tended to sing the praises of urban reformers. “Their generous efforts to ease the
+burdens of the poor by limiting the working hours of women and children, improving fac-
+tory, housing and health conditions, and introducing rudimentary forms of social insurance,
+according to this interpretation, mark[ed] them as path breakers to the New Deal and the
+modern welfare state” ( Kirschner 1975).
+Ultimately, while historians largely agree that the government reforms of this era resulted
+in a reduced political participation of disadvantaged residents in cities ( Stone, Price, and
+Stone 1940; Cassel 1986; Bridges and Kronick 1999), it is unclear what the overall socioeco-
+nomic impact was. While Progressives were often blatantly suspicious of immigrants, racial
+minorities, and the urban poor, their social policies may have still improved the economic
+well-being of those communities both directly and indirectly. As Leonard (2016) summa-
+rizes, “The great contradiction at the heart of Progressive Era reform was its view of the
+poor as victims deserving state uplift and as threats requiring state restraint. The unsta-
+ble amalgam of compassion and contempt helps explain why Progressive Era reform lent a
+helping hand to those it deemed worthy of citizenship and employment while simultaneously
+6
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 8 ---
+narrowing that privileged circle by excluding the many it judged unworthy. ” The net effect
+on the economic and social lives of more disadvantaged groups and, more generally, which
+groups benefited when reformers gained power in cities, remains an empirical question that
+is largely unresolved.
+We shed light on this question by analyzing socioeconomic outcomes for various groups of
+residents around the time during which a city switches to a council-manager or city commis-
+sioner form of government. While the Progressive movement was characterized by a series
+of reforms, we use the adoption of this new form of government as a proxy for Progressives
+gaining control of the apparatus of city government. Beyond being one of the most dra-
+matic and long-lasting structural reforms of this era ( Chambers 2000), this is one of the few
+reforms for which the date of adoption was systematically collected for every municipality
+across the country via the City Managers’ Association (now the International City Manage-
+ment Association). Broadly, these reforms sought to remove power from elected mayors and
+city council members and place policymaking authority with appointed city managers or
+city commissioners. The goal was to streamline decision-making, increase eﬀiciency, and—
+importantly—make it diﬀicult for machines and party bosses to engage in patronage ( Judd
+and Hinze 2018). Existing historical work suggests that reforming the city charter itself
+was the most extreme example of reform (e.g. Holli 1969; Bernard and Rice 1975), and the
+vast majority of council-manager systems adopted other Progressive reforms at some point
+(Banfield and Wilson 1966).
+We emphasize that adopting reform-style government represents a bundled treatment
+that was often accompanied by other reforms—such as non-partisan ballots and new voter
+registration rules—and marked a shift both culturally and politically ( Bridges 1999). Some
+of these Progressive reforms and policies likely had direct effects on the jobs and social lives
+of less advantaged city residents. For example, we know that at-large elections and non-
+partisan ballots reduced turnout in immigrant neighborhoods and led to a higher proportion
+of occupational elites on city councils ( Fox 2012; Cassel 1986). Civil service reforms also
+7
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 9 ---
+made it more diﬀicult for immigrants to obtain municipal jobs via patronage, although
+recent research has demonstrated that these concerns are likely overstated ( Kuipers and
+Sahn 2022). We view the adoption of reform-style government as a proxy for Progressives
+gaining power and being able to advance their agenda. Any of the effects we observe are
+almost certainly the result of the multiple reforms that were part of the Progressive agenda.
+The goal of this paper is not to isolate the impact of a specific reform, but to contribute
+to the debate about the overall effect of the Progressive legacy on the economic and social
+well-being of urban residents.
+3 Data
+3.1 Data Collection
+In this paper, we study the effect of the adoption of reform-style government, which entailed
+a switch to a council-manager or city commissioner form of government. The City Managers’
+Association (now the International City Management Association) kept detailed historical
+records of the list of cities that adopted this reform, along with the date of adoption. 2
+Drawing from the Municipal Yearbooks of 1934 and 1940 and archival records available in
+Rice (2014), we collected data on the year of adoption of reform-style government for the
+1,100 largest cities in the U.S.
+Data on socio-economic outcomes are constructed from individual-level census data avail-
+able via the Integrated Public Use Microdata Sample (IPUMS) for the years 1900, 1910, 1920,
+1930, and 1940. Every 72 years, the Census Bureau releases data at the individual level,
+which allows us to track a variety of outcomes for different groups of urban residents as
+cities experimented with new government institutions over the first half of the 20th century.
+2Unfortunately, no systematic data exist on the year of adoption of at-large elections and non-partisan
+ballots, which were two of the other common reforms of this time. We attempted to hand collect this
+data from newspapers.com and by emailing local municipal archives but had little luck. However, as
+described in Section 2, historians describe how these reforms were usually introduced after a transition to
+the council-manager form of government.
+8
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 10 ---
+Crucially, such comparisons are not possible with the more commonly used Census data ag-
+gregated at the location level, which does not allow one to construct socio-economic variables
+that vary both at the city- and at the group-level.
+We combined data on the date of adoption of reform-style government with census data
+for the 1900-1940 period. In total, there were 455 cities that appeared in both the census
+data (for all five decades) and our dataset on municipal form of government, 186 of which
+reformed during our sample period. Figure 1 shows the number of cities that adopted a
+reform-style government in every year between 1900 and 1940. While the majority of reforms
+took place between 1910 and 1920, cities continued to reform their charters over the course
+of the sample.
+Figure 1: Number of Reforms by Year
+0510152025Number of Cities190019051910191519201925193019351940Reform Year
+Notes: the plot above shows the year of adoption for each of the 186 reformed cities in our sample of 455
+cities in the U.S. between 1900 and 1940. Blue lines highlight census decades.
+9
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 11 ---
+Figure 2: Geographic Distribution of Reformed Cities
+Non−Reformed City Reformed City
+Notes: the plot above shows the geographic distribution of cities that reformed (in black) and did not reform
+(in gray) during the period 1900-1940.
+Figure 2 depicts the geographic distribution of cities that reformed at some point during
+the 40 year period and cities that never reformed. Non-reformed cities were particularly
+common in the Northeast and Midwest. Examples of reformed cities can be found in every
+state, although they are particularly common in the South and Southwest.
+To study the effect of the adoption of reform-style government on political participation,
+we rely on data on voter turnout in both congressional and presidential elections from 1900
+to 1940 available from Clubb, Flanigan, and Zingale (2006). Unfortunately, the smallest
+administrative unit at which data on voter turnout is available is the county. We thus map
+each city in our sample to a county, and assign to the city the turnout in the county where
+the city is located.
+Finally, to study the effects of reform on public spending, we digitized information on city
+financial spending from the yearly Financial Statistics of Cities Bulletins provided by the U.S.
+10
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 12 ---
+Census Bureau between 1902 and 1940. Our efforts build on work by Trounstine (2018) and
+Janas (2022) who have also transcribed portions of these data. These reports were released
+by the Census Bureau yearly from 1902 to 1938 and contain detailed information on the
+revenues, expenditures, debts, and public service enterprises for all cities with a population
+above 30,000 (until 1931) and then for all cities with a population above 100,000 (from 1932 to
+1938). Importantly, the data contain information not only on the aggregate amount of public
+expenditures, but also on the specific amount spent by the city for specific public services. Of
+the 455 cities in the sample that we used for our socioeconomic outcomes analyses, 136 appear
+in the Financial Statistics bulletins. For each available year, we digitized city expenditures
+on schools, fire and police services, sanitation, public health, highways, recreation, hospitals,
+as well as total municipal spending.
+3.2 Variable Definition
+To assess how different groups fared in reformed vs. non-reformed cities, we split the residents
+of each city along several dimensions. First, we divide residents between immigrants and
+natives: we define “immigrant” to include both foreign-born individuals and respondents
+whose parents were born outside the U.S. 3 Second, we divide residents between African
+American and non-immigrant white residents, relying on the RACE variable provided by
+IPUMS. Finally, we use census occupation codes to investigate whether Progressive reforms
+differentially affected business elites by dividing residents into those employed in business
+occupations and those employed in non-business professions. Specifically, we follow existing
+literature (Buchmann and McDaniel 2016: e.g.) and define “business” to include occupations
+classified under the Managers, Oﬀicials, and Proprietors category according to IPUMS. 4
+We use wage earnings as our measure of economic well-being of different groups. For each
+of these groups, we compute the variable Predicted Log Earnings, which reflects the predicted
+average wages earned by the members of the group. Specifically, while data on respondent
+3For this classification, we rely on the variable NATIVITY provided by IPUMS.
+4For specific details on the IPUMS variables used in each of our analyses, see the Appendix.
+11
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 13 ---
+occupation exist over the course of the panel, the census only began collecting information
+on wages starting in 1940. Following the procedure outlined in Abramitzky et al. (2021), we
+first predict wages in 1940 based on occupation, age, and region. We then impute wages in
+previous census years based on the same characteristics. 5 While this measure cannot capture
+changes in earnings over time within an occupation or city, it reflects the local value of each
+resident’s occupation had they performed it in 1940. Finally, we average predicted wages at
+the city-decade-group level, and we take its logarithm.
+To further explore the socioeconomic impact of reform, as well as to explore possible
+mechanisms behind the relationship between reform and wages, we look at five additional
+outcomes available in the Census data. First, we calculate the variable Employment, which
+is the share of each group that is employed. This indicator is based on the IPUMS variables
+labforce and classwrkr, and additional details about variable construction can be found in the
+Appendix. Second, we construct the variable Local Government Job , which is an indicator
+that takes a value of one if an individual holds a job in “local government” as defined by
+industry classification in the census. Third, we use the variable Literacy as a measure of
+cultural assimilation and human capital. It is an indicator that takes a value of one if
+a respondent could read and write. Fourth, we construct the variable Group Population
+Share, which is the share of each group among the residents of a city.
+Finally, we calculate the variable Occupational segregation, which indicates the degree to
+which workers belonging to different groups are clustered in different occupations. We employ
+two standard approaches to measure segregation: a dissimilarity index and an isolation index,
+both widely used measures in the literature ( Cutler, Glaeser, and Vigdor 1999; Iceland,
+Weinberg, and Steinmetz 2002; Gentzkow and Shapiro 2011). The two indices are defined
+in a given city-year as:
+Dissimilarity = 1
+2
+X
+k∈K
+
+immigrantsk
+immigrants − nativesk
+natives
+ (1)
+5We make predictions using only cities that had not reformed by 1940 to avoid projecting any consequences
+of reform into the past.
+12
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 14 ---
+Isolation =
+X
+k∈K
+immigrantsk
+immigrants
+immigrantsk
+immigrants − nativesk
+natives (2)
+where k is one of the K occupations present in that city-year. Both indices range between
+0 (no segregation) and 1 (perfect segregation). The dissimilarity index can be interpreted
+as the share of minority residents (or majority) that would need to switch occupations for
+the minority share to be uniform across the labor market. The isolation index measures
+the extent to which minority residents are only exposed to one another in their occupations
+(White 1986; Cutler, Glaeser, and Vigdor 1999; Gentzkow and Shapiro 2011).
+With the exception of our occupational segregation measures, which by construction can
+be computed only at the city-year level, we compute all our measures both at the city-
+year-group level, to study the impact of reform on specific demographic groups, and at the
+city-year level, to study the aggregate impact of reform on the socio-economic evolution of a
+city. Additionally, in order to directly measure the distributional impacts of reform, we also
+calculate the gap in each measure between the more advantaged groups – natives, whites,
+and members of the business elites – and the more disadvantaged ones – immigrants, African
+Americans, and non-business workers.
+4 Empirical Approach
+Our goal is to study the effect of reform across U.S. cities at the turn of the 20th century.
+Our identification strategy exploits the staggered introduction of the reform across cities
+shown in Figure 1 to study the effect of progressive reforms on three sets of city-level out-
+comes: socioeconomic outcomes for different groups of residents, voter turnout, and public
+expenditures. Census outcomes are aggregated at the city-year-group and are recorded ev-
+ery decade. Turnout is measured at the county level and is available every two years for
+congressional elections and every four years for presidential elections. Finally, city budget
+outcomes are measured at the city-year level directly and are measured every year for the
+13
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 15 ---
+subset of cities for which this information is available. The standard difference-in-differences
+specification for our setting would be the following
+yct = γc + δt + βRef ormedct + εct (3)
+where yct is the outcome for city c and decade t. Ref ormedct is an indicator variable that
+takes a value of 1 after city c reforms. City and year fixed effects are represented by γc and
+δt respectively.6 For census outcomes, we are most interested in whether city reforms affect
+more and less advantaged residents differently. For every outcome, we always show results
+for less advantaged residents (immigrants, black people, and non-business workers) and more
+advantaged residents (natives, whites, and business people) separately, and we then show
+the effect on the gap in that outcome between the two groups. Standard errors are clustered
+by city.
+Standard difference-in-differences regressions, like in Equation 3, are biased when the
+treatment goes into effect at different times for different units if treatment effects change
+over time (e.g. Xu 2017; Goodman-Bacon 2021; De Chaisemartin and d’Haultfoeuille 2020).
+This is likely to be the case in our setting if reform affects the fortunes of various groups
+differentially over the course of our panel. To avoid this source of bias, we follow the stacked
+approach proposed by Cengiz et al. (2019) and compare reform cities only to cities that
+never reform (“clean control” cities). As they propose, we create as many copies of each
+never-reformed city as treatment periods in our data. For instance, when looking at census
+data which is available for each decade during 1900-1940, we create four copies of never-
+reformed cities, one for each decade highlighted in Figure 1 in which treated cities reformed
+(1901-1910, 1911-1920, 1921-1930, 1931-1940). We refer to each set of reform cities and their
+corresponding never-reformed cities as a “timing group. ’’ We then compare reform cities
+only to the never-reformed cities in the same timing group by estimating:
+6Across all analyses, we limit our data to cities for which we have data in all relevant years. This means
+that the exact number of treated and control units varies across analyses.
+14
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 16 ---
+ycgt = γcg + δtg + βRef ormedcgt + εcgt (4)
+where g identifies the timing group, δtg represents period-by-timing group fixed effects,
+and γcg represents city-by-timing group fixed effects. 7 Standard errors are clustered at the
+city level. We can interpret β as the effect of reform under the assumption that reform and
+non-reform cities would have been on the same average trajectory had neither reformed.
+Of course, the timing of reform is not random: cities may choose to adopt a city manager
+in response to changing socioeconomic conditions. For example, the reform movement gained
+strength in the west at the same time as many people were moving to the region. To
+address this issue, we re-weight our data to ensure that the never-reformed cities match
+the average outcome for the reform cities in their timing group before reform ( Imai, Kim,
+and Wang 2018). This approach is similar to the strategy proposed in Hazlett and Xu
+(2018). Specifically, we use entropy balancing to find weights that minimize the difference
+between the average reform and never-reform cities on all pre-reform observations of the
+outcome while maintaining weights as close to 1 for all control units ( Hainmueller 2012).
+This method is well-suited to cases with many treated units and few pre-treatment periods,
+which is not the case with standard synthetic control methods for panel data.
+To investigate pre-trends and the dynamic evolution of the treatment effect, we also
+estimate a non-parametric event-study specification:
+ycgt = γcg + δtg +
++3X
+τ =−3
+βτ Ref ormedcg × /x31[t = τ ] + εcgt (5)
+where the coeﬀicients of interest, βτ s, measure the change in outcomes of treated cities
+τ decades before or after treatment, relative to the decade preceding the introduction of
+reform in each city and compared to the change in outcomes of pure control cities.
+7Note that city-by-timing group fixed effects are effectively city fixed effects in our analysis using census
+data. This is because, differently from our analysis using political and fiscal outcomes, which leverages
+more granular time variation, in our census analysis each pure control city enters each timing group for the
+same number of decades (all the decades in the 1900 to 1940 period).
+15
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 17 ---
+5 Reforms Had Minimal Socioeconomic Impact
+In this section, we begin by presenting our results on socioeconomic gaps between more vs less
+advantaged groups of city residents. Table 1 reports estimates from equation 4, which mea-
+sures the impact of the reform on the evolution of earnings for different groups of residents.
+Columns 1-3 focus on immigrants versus natives, columns 4-5 focus on blacks versus whites,
+while columns 7-9 focus on residents in non-business versus business occupations. Overall,
+we find that the reform had at most moderate distributional effects. The reform led to a 1
+percent reduction in earnings for immigrant residents (p-value 0.095), while it had a negli-
+gible impact for natives, resulting in an insignificant 0.007 increase in the native-immigrant
+earnings gap (i.e. the difference in log earnings between natives and immigrants).
+Table 1: The Impact of Reform on Earnings Across Groups
+Predicted Log Earnings
+Immigrant Native Gap Black White Gap Non-Business Business Gap
+(1) (2) (3) (4) (5) (6) (7) (8) (9)
+Reform -0.010 -0.002 0.007 -0.015 0.002 0.017 -0.007 0.006 0.013
+(0.006) (0.004) (0.006)(0.008) (0.005) (0.008) (0.004) (0.002) (0.004)
+Num Obs 6,305 6,305 6,305 4,845 4,845 4,845 6,310 6,310 6,310
+Num Cities 454 454 454 366 366 366 455 455 455
+Outcome Mean 7.065 7.100 0.035 6.650 7.097 0.447 6.911 7.438 0.527
+Outcome Stdv .137 .115 .114 .181 .12 .127 .157 .101 .112
+City FEs Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Year×Timing Group FEs Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Balancing Weights Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Notes: Gapis defined as the difference between the more and less privileged group (e.g. native - immigrant, white -
+black, and business - non-business). Regressions estimated using all men age 19 to 50 living in cities from 1900 to 1940.
+Heteroskedasticity-robust standard errors clustered by city reported in parentheses. The mean and standard deviation of the
+weighted dependent variable are shown in the table..
+Importantly, we can show that a failure to account for the possible endogenous timing in
+the adoption of the reform would result in significantly inflated estimates. A regression that
+does not employ entropy balancing weights results in an estimated effect on the earnings
+gap that is twice as large (estimate of 0.014, p-value 0.005). Indeed, as we show in Figure 3,
+Panel A, cities that reformed were already experiencing an increase in the immigrant-native
+earnings gap, relative to unreformed cities, in the decades leading up to the reform. When
+we apply our weighting procedure, which ensures that reform and never-reformed cities are
+16
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 18 ---
+on similar trends before the reform, we estimate a significantly smaller effect of the reform
+(see Panel B of Figure 3).
+The remaining columns of Table 1 provide some evidence that the reform increased the
+earnings gap between more and less advantaged residents, but the economic magnitude of
+these effects is modest. The white-black earnings gap increased by 0.017 following the reform,
+with the effect mainly resulting from a 1.5 percent drop in earnings among black residents.
+The earnings gap between residents in business versus non-business occupations increased
+by 0.013, as a result of a 0.7 percent decrease in earnings for non-business residents and a 0.6
+percent increase for business residents. Appendix Figure A.1 presents event-study estimates
+from equation 5 and shows evidence of immediate increases in the gaps in the first decade
+after the adoption of the new form of government. To put these effects in perspective, the
+average gap in log earnings between white and black in unreformed cities over the sample
+period is 0.414, and the one between business and non-business residents is 0.506; thus, the
+reform increased the gaps by 4.1 and by 2.6 percent, respectively, relative to the average
+unreformed city.
+Figure 3: Event Study Estimates for the Native-Immigrant Earnings Gap
+-.05-.0250.025.05coefficient estimate-3-2-1123Decade since reformEarnings Without Weights-.05-.0250.025.05coefficient estimate-3-2-1123Decade since reformEarnings With Weights
+Notes: Shows coeﬀicient estimates from the model described in equation 5 for the gap in earnings between
+native born and immigrants residents. The figure on the left uses raw data, and the figure on the right
+employs balancing weights as described in Hainmueller (2012). Dotted line shows the 95 percent confidence
+intervals.
+17
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 19 ---
+In line with the small earnings effects uncovered in Table 1, we find small and mostly
+statistically insignificant effects on other measures of socioeconomic standing. Figure 4
+reports the coeﬀicients and 95 percent confidence intervals from estimating equation 4 for all
+our additional socioeconomic variables (where coeﬀicients are expressed in standard deviation
+units of their respective dependent variable). For each outcome, we estimate the impact of
+the reform on the gap between more and less advantaged groups of residents.
+If the adoption of reform-style government made it more diﬀicult for machines to offer
+employment opportunities to disadvantaged residents, we would expect the effect of the
+reform on their probability of employment in general, and on their probability of having a
+public job more specifically, to be negative. As Trounstine (2006) observes, public sector
+jobs in the early 20th century often paid better wages than private employment. If instead
+less advantaged residents in cities that reformed were not particularly reliant on patronage
+for employment, or if reforms did not significantly reduce their likelihood of employment,
+we would observe no effect of the form of government on labor force participation. In line
+with this second possibility, we find no evidence that the reform widened employment gaps
+or gaps in the probability of holding a local government job. In addition, we find that the
+literacy gaps between groups were not affected by the adoption of reform.
+We use our segregation measures to investigate whether cities that reformed had higher
+degrees of occupational segregation. Importantly, such clustering is not necessarily a neg-
+ative thing for minorities. For instance, co-ethnic niches can capitalize on particular skill
+sets and human capital attributes to provide employment opportunities to members of the
+same communities ( Waldinger and Bozorgmehr 1996). At the same time, existing empirical
+work finds little evidence that such occupational segregation benefits minorities in terms of
+their earnings and educational attainment ( Wilson 1999; Model 2018). We do find some
+18
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 20 ---
+evidence that cities that reformed had higher degrees of occupational segregation, although
+the estimates are imprecise. 8
+Figure 4: The Impact of Reform on Other Socioeconomic Outcomes
+EmploymentLocal Government JobGroup Population ShareLiteracySegregation - DissimilaritySegregation - Isolation-.4-.20.2.4Native - Immigrant GapWhite - Black GapBusiness - Non-Business Gap
+Notes: Shows coeﬀicient estimates and 95 percent confidence intervals from the model described in
+equation 4. See section 3.2 for a description of the dependent variables shown on the y axis. Results in
+table format are presented in Tables A.3, A.4, A.5.
+Finally, we look at the overall share of each group in the population. We do this for
+two reasons. First, worsening economic conditions for a particular demographic group in
+the decades following the reform could lead to a decrease in that group’s population share
+through a combination of increased mortality rates, lower birth rates, and negative net
+migration rates. Second, we can use this variable to investigate whether any changes to
+earnings are driven by changes in the relative size of the groups under study. If, for example,
+the reforms in a particular city led to a reduction in the white population, we might expect
+higher wages for this group because of lower competition for similar jobs. In line with the
+8Note that our occupational segregation measure is constructed at the city level directly and it is equal to 1
+by definition when the groups we look at are residents in business and non-business occupations, which is
+why we omit this comparison from Figure 4. See the previous section for details.
+19
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 21 ---
+small to null distributional effects we uncover, we do not find significant changes in the shares
+of the city population belonging to any of the groups we study.
+Despite the small distributional effects, the adoption of reform-style government may have
+had aggregate welfare effects, leading to differential economic growth relative to unreformed
+cities. While the absence of significant treatment effects for most of the outcomes and groups
+in Table 1 and Figure 4 already suggests this is not the case, we can provide direct evidence on
+the absence of significant aggregate welfare effects by re-estimating equation 4 on a sample at
+the city-census decade level. Table 2 shows that the adoption of reform-style government was
+not associated with differential changes to overall earnings, city population, or employment
+trajectories in the decades following the reform. Similarly, the share of employment in local
+government jobs and literacy rates did not change after the reform.
+Table 2: The Impact of Reform on Aggregate Outcomes
+Log Log Local
+Predicted Total EmploymentGovernmentLiteracy
+Earnings Population Job
+(1) (2) (3) (4) (5)
+Reform -0.007 -0.007 -0.000 0.000 -0.001
+(0.004) (0.046) (0.006) (0.000) (0.003)
+Num Obs 6,310 6,310 2,112 6,310 5,048
+Num Cities 455 455 435 455 455
+Outcome Mean 7.025 23.349 0.801 0.011 0.952
+Outcome Stdv .129 89.981 .074 .008 .043
+City FEs Yes Yes Yes Yes Yes
+Year× Timing Group FEs Yes Yes Yes Yes Yes
+Balancing Weights Yes Yes Yes Yes Yes
+Notes:Shows estimates of the aggregate effect of the reform. Heteroskedasticity-robust standard errors clustered
+by city reported in parentheses. The mean and standard deviation of the weighted dependent variable are shown
+in the table.
+Overall, our empirical analysis paints a picture that is inconsistent with large distribu-
+tional or aggregate effects of Progressive reforms. Our estimates show that, on average,
+the relative socioeconomic standing of less advantaged groups was either unaffected (for the
+case of immigrants) or only moderately worsened (for the case of African Americans and
+non-business residents) in the decades following the reform.
+20
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 22 ---
+6 Political Participation Decreased in Reformed Cities
+We next examine how the adoption of reform-style government affected political participa-
+tion. Here, the theoretical predictions are more clear-cut, and existing empirical work tends
+to support the idea that the reforms of the Progressive era reduced democratic participation,
+consistent with them being partially designed to weaken popular participation in machine
+politics at the city-level ( Banfield and Wilson 1966; Buenker 1973). Table 3 reports re-
+sults from equation 4, estimated on a panel that includes all presidential and congressional
+elections from 1900 to 1940. While the treatment remains at the city-level, turnout data
+are not available below the level of the county. The dependent variable is thus turnout in
+the county where the city is located in each two or four year cycle (for congressional and
+presidential elections, respectively). Odd columns present unweighted coeﬀicient estimates,
+while even columns present coeﬀicient estimates from our preferred specification employing
+entropy balancing weights as described in section 4.9 Standard errors are clustered at the
+city level and Appendix Tables A.6 shows robustness to clustering standard errors at the
+county level. Figure 5 presents event-study estimates from equation 5.
+We find large negative effects for both congressional and presidential elections. When
+a city reforms, turnout in that city’s county decreases by 2.045 percentage points in con-
+gressional elections and 2.242 percentage points in presidential elections. The event study
+estimates show that the drop in electoral participation is already visible in the first election
+post-reform, and it becomes larger over time. These results are in line with Fox (2012), which
+suggests that turnout decreased more quickly in the south and southwest than in the reform
+resistant north in the early 20th century. Today, turnout remains 6 to 8 percentage points
+higher in mayor-council cities compared to council-manager cities in California, according to
+estimates by Hajnal and Lewis (2003). It is worth noting that coeﬀicients from the specifi-
+9Election results are available for a larger number of cities that the 455 included in the balanced sample
+of cities in our main analysis using census data and shown in Table 1. For consistency, Appendix Table
+A.7 shows robustness to restricting the electoral analysis to the sample of 455 cities present in census data.
+Note that 2 cities cannot be included because election results are available for one year only.
+21
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 23 ---
+Table 3: The Impact of Reform on Voter Turnout
+Turnout Turnout
+Congressional Elections Presidential Elections
+(1) (2) (3) (4)
+Reform -3.366 -2.045 -3.313 -2.242
+(0.584) (0.588) (0.595) (0.635)
+Num Obs 425,586 383,754 137,929 137,929
+Num Cities 1342 1342 1649 1649
+Outcome Mean 53.364 48.780 60.642 55.449
+Outcome Stdv 17.617 18.932 18.356 20.409
+City× Timing Group FEs Yes Yes Yes Yes
+Year× Timing Group FEs Yes Yes Yes Yes
+Balancing Weights No Yes No Yes
+Notes:Shows estimates of the effect of the reform on voter turnout. The dependent variable
+is turnout in the county where each city is located in each two year period (for Congressional
+elections) or four year period (for Presidential elections). Heteroskedasticity-robust standard
+errors clustered by city reported in parentheses. The mean and standard deviation of the
+unweighted dependent variable are shown in column (1) and column (3) of the table. The
+mean and standard deviation of the weighted dependent variable are shown in column (2) and
+column (4) of the table.
+Figure 5: Event Study Estimates for Voter Turnout
+-5-2.502.55coefficient estimate-5-4-3-2-101234Elections since reformCongressional Elections-5-2.502.55coefficient estimate-5-4-3-2-101234Elections since reformPresidential Elections
+Notes: Shows coeﬀicient estimates from the model described in equation 5 for congressional and presidential
+turnout with balancing weights. Dotted line shows the 95 percent confidence intervals.
+cation not accounting for endogenous timing of reform, in columns 1 and 3 of Table 3, are
+65% and 48% larger than coeﬀicients in columns 2 and 4 for Congressional and Presidential
+elections respectively. Our results provide some of the first historical evidence at the local
+level and using a before-and-after design that reform-style government decreased turnout—a
+22
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 24 ---
+widely assumed consequence of Progressive institutions ( Martin 1933; Banfield and Wilson
+1966; Judd and Hinze 2018). Moreover, by showing that the reform led to a significant
+shock to electoral participation, we can provide direct evidence that the mostly insignificant
+socio-economic effects that we uncovered in the previous section are not simply the result
+of a weakly specified treatment. The adoption of reform-style government mattered for the
+residents of American cities, but the consequences were more pronounced in the political
+rather than the economic sphere.
+7 No Change in Public Expenditures After Reform
+Finally, we examine whether and how the adoption of reform-style government influenced
+the allocation of spending on public goods. The theoretical predictions here are mixed.
+On the one hand, qualitative work suggests that the middle and upper-class supporters of
+the Progressive movement favored investment in amenities like parks, libraries, museums,
+and infrastructure improvements that would benefit downtown business districts (e.g. Hays
+1964). But reformers also sought to expand access to education and social services (e.g.
+Buenker 1973). And while municipal reformers also claimed that their efforts would make
+city government more cost-effective and eﬀicient ( Schiesl 1977), existing empirical work shows
+that overall spending is no lower in council-manager cities ( Lineberry and Fowler 1967; Ruhil
+2003) and in fact is sometimes even higher ( Coate and Knight 2011).
+Here, we examine how spending across several key categories evolved in reformed vs. non-
+reformed cities.10 Following Trounstine (2018) and Janas (2022), we draw from the Financial
+Statistics of Cities bulletins. Out of the 455 cities in our socioeconomic outcomes analysis,
+136 cities also appear in the bulletins. For these cities, we digitized yearly information on
+aggregate municipal public spending, as well as on the amount spent on eight categories of
+10Given the higher frequency of city budget data with respect to census and elections data (yearly vs.
+decennial and quadriennial/biennial respectively), and in order to be consistent with the weighting strategy
+used in the previous analysis and described in 4, we here use entropy balancing to find weights that minimize
+the difference between the average reform and never-reform cities only on the last three pre-reform years .
+23
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 25 ---
+services: schools, fire, police, sanitation, public health, highways, recreation, and hospitals.
+This newly collected data allow us to paint a comprehensive portrait of how municipal
+budgets were affected by the adoption of Progressive reforms.
+Interestingly, we find few differences in the evolution of public goods spending between
+cities that reformed and those that did not. Table 4 shows the results. In Column 1, we
+find a modest and statistically insignificant increase in total spending of around 2% among
+cities that reformed. These results point in the same direction but are substantively smaller
+than Coate and Knight (2011), who find that per capita spending increased by just under
+8% when cities switched to council-manager government in the 1980s and 1990s. Although
+reformers of the Progressive Era frequently claimed that their proposals would cut costs and
+improve services ( Bruere 1913; Taylor 1919), reformed cities did not actually reduce their
+overall expenditures in the early 20th century.
+Table 4: The Impact of Reform on Public Expenditures
+Total School Police Highways Hospitals Fire Sanitation Recreation Health
+(1) (2) (3) (4) (5) (6) (7) (8) (9)
+Reform 0.022 0.030 -0.010 0.013 -0.055 -0.000 0.026 0.055 -0.085
+(0.018) (0.018) (0.024) (0.034) (0.142) (0.022) (0.032) (0.064) (0.046)
+Num Obs 5,106 8,435 8,268 8,436 5,437 8,268 8,268 7,930 8,268
+Num Cities 121 136 136 136 122 136 136 135 136
+Outcome Mean 5955.3 2000.9 534.2 475.7 572.7 409.3 383.4 160.7 125.6
+Outcome Stdv 25459.6 9897.4 2877.6 1467.3 2705.4 1532.9 2108.6 651.9 512
+City×Timing Group FEs Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Year×Timing Group FEs Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Balancing Weights Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Notes: Dependent variables are the natural log of spending in each budget category measured in thousands of dollars. The mean and standard
+deviation of the unlogged weighted dependent variable are shown in the table. Heteroskedasticity-robust standard errors clustered by city reported
+in parentheses.
+Despite the fact that reform coalitions were widely perceived as supporting public goods
+like parks and libraries in the more affluent parts of their community, we uncover only a noisy
+(but positive) effect of the reform on spending on recreation. In general, across individual
+policy categories, we do not observe consistent patterns in the expenditure priorities of city
+governments after they reform. Spending did increase modestly on education—the largest
+expenditure category—but the estimates are not statistically distinguishable from zero.
+24
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 26 ---
+The null results in this section offer some suggestive evidence as to why we fail to detect
+meaningful increases in the socioeconomic gaps between different groups of more and less
+advantaged residents in reformed cities. While the historical literature gives us reason to
+believe that the municipal Progressive agenda may have disproportionately catered to white
+and middle-class business elites, the actions of city leaders may not have translated into
+observable increases in inequality if spending on public goods remained fairly constant. Of
+course, we cannot observe how funding was allocated at the sub-city level, and case study
+evidence suggests that reform governments tended to neglect poorer neighborhoods (e.g.
+Judd and Hinze 2018; Beach et al. 2018). But the aggregate differences in the policy priorities
+and overall spending of reformed vs. non-reformed governments appear to be quite small
+overall.
+8 Discussion
+According to Judd and Hinze (2018), “The municipal reforms of the early nineteenth century
+were designed to undercut the electoral influence of working-class and immigrant voters” (77).
+What is less clear is whether these reforms reduced the economic power of these groups as
+well. In this paper, we study whether the adoption of reform-style government affected
+a variety of socioeconomic outcomes for immigrants, African Americans, and the working
+class compared to native-born, white, and business elites. Using de-anonymized census data
+to construct estimates of the wage earnings of city residents, we find that the earnings
+gap increased only marginally in reformed relative to non-reformed cities. We also find
+some modest evidence that occupational segregation increased, particularly for immigrants.
+Crucially, a naive difference-in-difference approach would have uncovered a much larger effect
+of reform on earnings inequality. After accounting for the non-random adoption of reform
+institutions with trajectory balancing, we find that much of the difference in earnings gaps
+25
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 27 ---
+can be explained by differences in the wage dynamics of cities that reformed vs. those that
+did not.
+To show that these minimal effects are not simply the result of a weakly specified treat-
+ment, we use the same empirical setup to show that voter turnout did decrease in counties
+where more cities reformed. These results remain consistent even after employing trajectory
+balancing and are consistent with existing literature suggesting that the reforms of the Pro-
+gressive era reduced political participation. While we cannot state with certainty whether
+this reduction in turnout disproportionately impacted working class and racial and ethnic
+minorities, one consistent explanation for this result is the fact that Progressive reformers
+tended to implement stricter voter registration and literacy requirements once they gained
+power.
+Finally, we find no meaningful differences in public goods expenditures across reform
+and non-reformed cities. While we lacked clear ex ante theoretical predictions for these
+analyses, we include these results to paint the most comprehensive portrait possible about
+how municipal government evolved in cities before and after the adoption of Progressive
+institutions. We hope that these newly digitized data from the Financial Statistics of Cities
+Bulletins will be a resource for other scholars of historical political economy.
+Together, these findings speak to important debates today about the contemporary legacy
+of Progressive-era reforms—particularly for poor and racial minorities. Many cities still rely
+on non-partisan ballots and at-large elections, and voter turnout remains much lower at the
+local level ( Hajnal and Trounstine 2005). In some states, like California, a spate of recent
+lawsuits have aimed to overturn these electoral institutions with the goal of achieving more
+equitable representation for communities of color. 11
+Overall, this paper provides a comprehensive portrait of the economic, political, and
+public policy landscapes for a large sample of American cities in the early 20th century.
+Most scholarly work on the effects of Progressive institutions has focused specifically on their
+11https://www.commoncause.org/california/resource/california-municipal-democracy-index/
+26
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 28 ---
+consequences for participation and representation, and we have learned a great deal about the
+conditions under which local institutions are more or less responsive to the interests of racial
+minorities ( Engstrom and McDonald 1981; Davidson and Korbel 1981; Karnig and Welch
+1982; Hajnal and Trounstine 2007; Trebbi, Aghion, and Alesina 2008; Trounstine and Valdini
+2008; Marschall, Ruhil, and Shah 2010; Abott and Magazinnik 2020). The findings in this
+paper suggest that the economic and social consequences of these reforms may also warrant
+additional scrutiny in the contemporary political environment. To the extent that the design
+of local political institutions exacerbates other types of socioeconomic inequalities, reforming
+these institutions becomes all the more urgent. On the other hand, if the consequences are
+largely confined to the political sphere, creating more equitable electoral institutions is no less
+urgent—but such efforts are likely insuﬀicient to address broader socioeconomic disparities.
+27
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 29 ---
+References
+Abott, Carolyn, and Asya Magazinnik. 2020. “At-Large Elections and Minority Represen-
+tation in Local Government. ” American Journal of Political Science 64(3): 717–733.
+Abramitzky, Ran, Leah Boustan, Elisa Jácome, and Santiago Pérez. 2021. “Intergenerational
+mobility of immigrants in the United States over two centuries. ” American Economic
+Review 111(2): 580–608.
+Banfield, Edward C, and James Q Wilson. 1966. City politics. Vol. 335 Vintage Books.
+Beach, Brian, Daniel B Jones, Tate Twinam, and Randall Walsh. 2018. Minority represen-
+tation in local government. Technical report National Bureau of Economic Research.
+Bernard, Richard M, and Bradley R Rice. 1975. “Political environment and the adoption of
+progressive municipal reform. ” Journal of Urban History 1(2): 149–174.
+Bremner, Robert. 1956. “From the Depths: The Discovery of Poverty in America. ” New
+York: New York University .
+Bridges, Amy. 1999. Morning glories: Municipal reform in the Southwest . Vol. 60 Princeton
+University Press.
+Bridges, Amy, and Richard Kronick. 1999. “Writing the rules to win the game: The middle-
+class regimes of municipal reformers. ” Urban Affairs Review 34(5): 691–706.
+Bruere, Henry. 1913. The New City Government: A Discussion of Municipal Administration
+Based on a Survey of Ten Commission Governed Cities . D. Appleton.
+Buchmann, Claudia, and Anne McDaniel. 2016. “Motherhood and the wages of women
+in professional occupations. ” RSF: The Russell Sage Foundation Journal of the Social
+Sciences 2(4): 128–150.
+Buenker, John D. 1973. Urban liberalism and progressive reform . New York: Scribner.
+Caren, Neal. 2007. “Big city, big turnout? Electoral participation in American cities. ”
+Journal of Urban Affairs 29(1): 31–46.
+Cassel, Carol A. 1986. “The nonpartisan ballot in the United States. ” Electoral Laws and
+Their Political Consequences 226: 227–28.
+Cengiz, Doruk, Arindrajit Dube, Attila Lindner, and Ben Zipperer. 2019. “The effect of
+minimum wages on low-wage jobs. ” The Quarterly Journal of Economics 134(3): 1405–
+1454.
+Chambers, John Whiteclay. 2000. The Tyranny of Change: America in the Progressive Era,
+1890-1920. Rutgers University Press.
+28
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 30 ---
+Clubb, Jerome M., William H. Flanigan, and Nancy H. Zingale. 2006. “Electoral Data
+for Counties in the United States: Presidential and Congressional Races, 1840-1972. ”
+Inter-university Consoritum for Political Science Research https://doi.org/10.3886/
+ICPSR08611.v1.
+Coate, Stephen, and Brian Knight. 2011. “Government form and public spending: Theory
+and evidence from US municipalities. ” American Economic Journal: Economic Policy
+3(3): 82–112.
+Cutler, David M, Edward L Glaeser, and Jacob L Vigdor. 1999. “The rise and decline of the
+American ghetto. ” Journal of political economy 107(3): 455–506.
+Davidson, Chandler, and George Korbel. 1981. “At-large elections and minority-group rep-
+resentation: A re-examination of historical and contemporary evidence. ” The Journal of
+Politics 43(4): 982–1005.
+Davis, Allen Freeman. 1984. Spearheads for reform: The social settlements and the progressive
+movement, 1890-1914 . Rutgers University Press.
+De Chaisemartin, Clément, and Xavier d’Haultfoeuille. 2020. “Two-way fixed effects estima-
+tors with heterogeneous treatment effects. ” American Economic Review 110(9): 2964–96.
+DiGaetano, Alan. 1988. “The rise and development of urban political machines: An alter-
+native to Merton’s functional analysis. ” Urban Affairs Quarterly 24(2): 242–267.
+Engstrom, Richard L, and Michael D McDonald. 1981. “The election of blacks to city coun-
+cils: Clarifying the impact of electoral arrangements on the seats/population relationship. ”
+American Political Science Review 75(2): 344–354.
+Erie, Steven P. 1990. Rainbow’s end. University of California Press.
+Faulkner, Harold Underwood. 1937. The Quest for Social Justice, 1898-1914 . Vol. 11
+Macmillan.
+Fox, Cybelle. 2012. Three worlds of relief . Princeton University Press.
+Gans, Herbert J et al. 1982. Urban villagers . Simon and Schuster.
+Gentzkow, Matthew, and Jesse M Shapiro. 2011. “Ideological segregation online and offline. ”
+The Quarterly Journal of Economics 126(4): 1799–1839.
+Glaab, Charles Nelson, and A Theodore Brown. 1967. “A History of Urban America. ” .
+Goodman-Bacon, Andrew. 2021. “Difference-in-differences with variation in treatment tim-
+ing. ”Journal of Econometrics .
+Hainmueller, Jens. 2012. “Entropy Balancing for Causal Effects: A Multivariate Reweighting
+Method to Produce Balanced Samples in Observational Studies. ” Political analysis 20(1):
+25–46.
+29
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 31 ---
+Hajnal, Zoltan, and Jessica Trounstine. 2005. “Where turnout matters: The consequences
+of uneven turnout in city politics. ” The Journal of Politics 67(2): 515–535.
+Hajnal, Zoltan, and Jessica Trounstine. 2007. “Transforming votes into victories: Turnout,
+institutional context, and minority representation in local politics. ” Voting Rights Act
+Reauthorization of 2006: Perspectives on democracy, participation, and power pp. 83–106.
+Hajnal, Zoltan L, and Paul G Lewis. 2003. “Municipal institutions and voter turnout in
+local elections. ” Urban Affairs Review 38(5): 645–668.
+Hays, Samuel P. 1964. “The politics of reform in municipal government in the progressive
+era. ”The Pacific Northwest Quarterly 55(4): 157–169.
+Hazlett, Chad, and Yiqing Xu. 2018. “Trajectory Balancing: A general Reweighting
+Approach to Causal Inference with Time-Series Cross-Sectional Data. ” Working Paper.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3214231.
+Holli, Melvin G. 1969. Reform in Detroit: Hazen S. Pingree and urban politics . Vol. 4 Oxford
+University Press.
+Iceland, John, Daniel H Weinberg, and Erika Steinmetz. 2002. Racial and ethnic residential
+segregation in the United States 1980-2000 . Vol. 8 (3) Bureau of Census.
+Imai, Kosuke, In Song Kim, and Erik Wang. 2018. “Matching methods for causal inference
+with time-series cross-section data. ” Working Paper. https://imai.fas.harvard.edu/
+research/tscs.html.
+Jackson, Kenneth T. 1987. Crabgrass frontier: The suburbanization of the United States .
+Oxford University Press.
+Janas, Pawel. 2022. Public Goods Under Financial Distress: Evidence from Cities in the
+Great Depression. Technical report Working paper.
+Judd, Dennis R, and Annika M Hinze. 2018. City politics: The political economy of urban
+America. Routledge.
+Karnig, Albert K, and B Oliver Walter. 1983. “Decline in municipal voter turnout: A
+function of changing structure. ” American Politics Quarterly 11(4): 491–505.
+Karnig, Albert K, and Susan Welch. 1982. “Electoral structure and black representation on
+city councils. ”Social Science Quarterly 63(1): 99.
+Kirschner, Don S. 1975. “The Ambiguous Legacy: Social Justice and Social Control in the
+Progressive Era. ”Historical Reflections/Réflexions Historiques pp. 69–88.
+Kuipers, Nicholas, and Alexander Sahn. 2022. “The Representational Consequences of Mu-
+nicipal Civil Service Reform. ” American Political Science Review pp. 1–17.
+Lane, Robert Edwards. 1962. “Political ideology: Why the American common man believes
+what he does. ” .
+30
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 32 ---
+Leonard, Thomas C. 2016. Illiberal reformers. Princeton University Press.
+Lineberry, Robert L, and Edmund P Fowler. 1967. “Reformism and public policies in Amer-
+ican cities. ” American Political Science Review 61(3): 701–716.
+Marschall, Melissa J, Anirudh VS Ruhil, and Paru R Shah. 2010. “The new racial calculus:
+Electoral institutions and black representation in local legislatures. ” American Journal of
+Political Science 54(1): 107–124.
+Martin, Roscoe C. 1933. “The municipal electorate: A case study. ” The Southwestern Social
+Science Quarterly pp. 193–237.
+Merton, Robert. 1968. Social theory and social structure . Simon and Schuster.
+Model, Suzanne. 2018. “The ethnic niche and the structure of opportunity: Immigrants and
+minorities in New York City. ” In The” Underclass” Debate . Princeton University Press
+pp. 161–193.
+Renner, Tari, and Victor DeSantis. 1993. “Contemporary patterns and trends in municipal
+government structures. ”Municipal Yearbook 60: 57–69.
+Rice, Bradley Robert. 2014. Progressive cities: The commission government movement in
+America, 1901–1920. University of Texas Press.
+Ruhil, Anirudh VS. 2003. “Structural change and fiscal flows: A framework for analyzing
+the effects of urban events. ” Urban Affairs Review 38(3): 396–416.
+Schiesl, Martin J. 1977. The politics of eﬀiciency: Municipal administration and reform in
+America, 1800-1920. Univ of California Press.
+Stewart, Frank Mann. 1950. A Half Century of Municipal Reform . University of California
+Press.
+Stone, Harold Alfred, Don Krasher Price, and Kathryn Haeseler Stone. 1940. City manager
+government in nine cities . Vol. 8 Committee on public administration of the Social science
+research council.
+Taylor, Frederick Winslow. 1919. The principles of scientific management . Harper & broth-
+ers.
+Trebbi, Francesco, Philippe Aghion, and Alberto Alesina. 2008. “Electoral rules and minority
+representation in US cities. ” The Quarterly Journal of Economics 123(1): 325–357.
+Trounstine, Jessica. 2006. “Dominant regimes and the demise of urban democracy. ” The
+Journal of Politics 68(4): 879–893.
+Trounstine, Jessica. 2009. “Challenging the Machine–Reform Dichotomy: Two Threats to
+Urban Democracy. ” In The city in American political development . Routledge pp. 93–113.
+31
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 33 ---
+Trounstine, Jessica. 2018. Segregation by design: Local politics and inequality in American
+cities. Cambridge University Press.
+Trounstine, Jessica, and Melody E Valdini. 2008. “The context matters: The effects of single-
+member versus at-large districts on city council diversity. ” American Journal of Political
+Science 52(3): 554–569.
+Waldinger, Roger, and Mehdi Bozorgmehr. 1996. Ethnic Los Angeles . Russell Sage Founda-
+tion.
+Weinstein, James. 1969. “The corporate ideal in the liberal state: 1900-1918. ” .
+White, Michael J. 1986. “Segregation and diversity measures in population distribution. ”
+Population index pp. 198–221.
+Wilson, Franklin D. 1999. “Labor-Market Opportunities. ” Immigration and Opportuntity:
+Race, Ethnicity, and Employment in the United States p. 106.
+Xu, Yiqing. 2017. “Generalized synthetic control method: Causal inference with interactive
+fixed effects models. ” Political Analysis 25(1): 57–76.
+Zunz, Olivier. 2000. The changing face of inequality: Urbanization, industrial development,
+and immigrants in Detroit, 1880-1920 . University of Chicago Press.
+32
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 34 ---
+Online Appendix
+Intended for online publication only.
+Contents
+A.1 Data Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+A.2 Additional Statistical Results . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+A.1 Data Appendix
+33
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 35 ---
+Table A.1: Summary Statistics
+Variable Mean Std. Dev. Min. Max. N
+Reformed City 0.409 0.492 0 1 455
+Elections
+Turnout Congressional Elections 53.354 17.62 0.3 98.900 383754
+Turnout Presidential Elections 60.642 18.356 0 99.2 137929
+Census - Earnings
+Predicted Log Earnings (Immigrant) 7.057 0.132 6.5 7.509 6305
+Predicted Log Earnings (Native) 7.124 0.105 6.607 7.468 6305
+Predicted Log Earnings (Gap: Native - Immigrant)0.067 0.11 -0.47 0.409 6305
+Predicted Log Earnings (Black) 6.707 0.157 6.11 7.543 4845
+Predicted Log Earnings (White) 7.127 0.103 6.642 7.468 4845
+Predicted Log Earnings (Gap: White - Black) 0.42 0.12 -0.442 0.874 4845
+Predicted Log Earnings (Non-Business) 6.944 0.139 6.377 7.291 6310
+Predicted Log Earnings (Business) 7.453 0.087 7 7.675 6310
+Predicted Log Earnings (Gap: Business - Non-Business) 0.509 0.11 0.2 0.924 6310
+Log of Finance Spending
+Total 14.657 1.309 12.411 19.719 5106
+School 13.565 1.287 11.155 18.812 8435
+Police 12.249 1.406 9.384 17.861 8268
+Highways 12.43 1.275 9.817 17.248 8436
+Hospitals, Charities and Corrections 11.727 1.982 3.951 17.574 5437
+Fire 12.328 1.197 9.832 17.03 8268
+Sanitation 11.89 1.437 8.654 17.549 8268
+Recreation 11.043 1.687 0 16.407 7930
+Health Conservation 10.587 1.618 5.74 15.849 8268
+Census - Other Outcomes
+Employment (Gap: Native - Immigrant) -0.011 0.048 -0.225 0.295 2109
+Employment (Gap: White - Black) 0.036 0.13 -0.37 0.883 1650
+Employment (Gap: Business - Non-Business) 0.182 0.084 -0.237 0.532 2112
+Local Government Job (Gap: Native - Immigrant) 0.002 0.01 -0.071 0.073 6305
+Local Government Job (Gap: White - Black) 0.006 0.013 -0.149 0.083 4845
+Group Population Share (Immigrants) 0.498 0.238 0.017 0.969 6305
+Group Population Share (Black) 0.118 0.141 0.001 0.781 4845
+Group Population Share (Non-Business) 0.93 0.02 0.823 0.987 6310
+Segregation - Dissimilarity (Immigrant) 0.252 0.079 0.062 0.6 5044
+Segregation - Dissimilarity (Black) 0.584 0.091 0.159 0.999 3876
+Segregation - Isolation (Immigrant) 0.093 0.046 0.015 0.386 5044
+Segregation - Isolation (Black) 0.26 0.119 0.007 0.653 3876
+Literacy (Gap: Native - Immigrant) 0.055 0.057 -0.065 0.495 5044
+Literacy (Gap: White - Black) 0.082 0.08 -0.021 0.639 3876
+Literacy (Gap: Business - Non-Business) 0.039 0.041 -0.06 0.306 5048
+.
+34
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 36 ---
+Table A.2: Description of IPUMS Variables Used in Analysis
+IPUMS Variable Description & Notes
+LABFORCE A dichotomous variable indicating whether a person partici-
+pated in the labor force. See EMPSTAT for a non-dichotomous
+variable that indicates whether the respondent was part of the
+labor force – working or seeking work – and, if so, whether the
+person was currently unemployed. Notes: we combine this vari-
+able with CLASSWKR to identify if an individual is employed.
+Note that the variable EMPSTAT referenced in the IPUMS def-
+inition above is only available for the years 1910, 1930, and
+1940. However, LABFORCE alone cannot distinguish between
+employed workers and unemployed individuals who are in the la-
+bor force but currently out of work. Our variable Employment
+takes a value of 1 if an individual is listed as being in the labor
+force AND has a current occupation listed for the CLASSWKR
+variable
+CLASSWKR Indicates whether respondents worked for their own enterprise(s)
+or for someone else as employees. Notes: in combination with
+LABFORCE, allows us to distinguish between employed and
+unemployed individuals in the labor force.
+INCW AGE Reports each respondent’s total pre-tax wage and salary income
+- that is, money received as an employee - for the previous year.
+Notes: we use wages in 1940 to build a prediction model that al-
+lows us to impute wages to previous years based on an individu-
+als’ occupation, immigration status, age, and place of residence.
+Used to construct our variable Predicted Log Earnings
+OCC1950 Applies the 1950 Census Bureau occupational classification sys-
+tem to occupational data, to enhance comparability across years.
+Note: used to predict Log Earnings
+NATIVITY Indicates whether respondents were native-born or foreign-born;
+for native-born respondents, it indicates whether their mothers
+and/or fathers were native-born or foreign-born. Notes: we de-
+fine an individual as an immigrant if they are foreign-born or if
+either of their parents is foreign-born
+RACE Indicates whether respondents were white, African American,
+Native American, Chinese, Japanese, or classified as “other”
+35
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 37 ---
+A.2 Additional Statistical Results
+Figure A.1: The Impact of Reform on Earnings Gap
+-.05-.0250.025.05coefficient estimate-3-2-1123Decade since reformNative - Immigrant Gap-.05-.0250.025.05coefficient estimate-3-2-1123Decade since reformWhite - Black Gap-.05-.0250.025.05coefficient estimate-3-2-1123Decade since reformBusiness - Non-Business GapPredicted Log Earnings
+Notes: Shows coeﬀicient estimates from the model described in equation 4 employing balancing weights for
+outcomes shown in Table 1. Dotted line shows the 95 percent confidence intervals.
+36
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 38 ---
+Figure A.2: Event Study Estimates for the Native-Immigrant Gap in Other Socioeconomic
+Outcomes
+-.06-.030.03.06coefficient estimate-3-2-112Decade since reformEmployment-.006-.0030.003.006coefficient estimate-3-2-112Decade since reformLocal Government Job-.06-.030.03.06coefficient estimate-3-2-1123Decade since reformGroup Population Share (Immigrant)-.06-.030.03.06coefficient estimate-3-2-1123Decade since reformLiteracy-.06-.030.03.06coefficient estimate-3-2-112Decade since reformSegregation - Dissimilarity-.06-.030.03.06coefficient estimate-3-2-112Decade since reformSegregation - IsolationNative - Immigrant Gap
+Notes: Shows coeﬀicient estimates from the model described in equation 4 employing balancing weights for
+outcomes shown in Figure 4 for native and immigrant residents. Dotted line shows the 95 percent confidence
+intervals.
+37
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 39 ---
+Figure A.3: Event Study Estimates for the White-Black Gap in Other Socioeconomic Out-
+comes
+-.06-.030.03.06coefficient estimate-3-2-112Decade since reformEmployment-.006-.0030.003.006coefficient estimate-3-2-112Decade since reformLocal Government Job-.06-.030.03.06coefficient estimate-3-2-1123Decade since reformGroup Population Share (Black)-.06-.030.03.06coefficient estimate-3-2-1123Decade since reformLiteracy-.06-.030.03.06coefficient estimate-3-2-112Decade since reformSegregation - Dissimilarity-.06-.030.03.06coefficient estimate-3-2-112Decade since reformSegregation - IsolationWhite - Black Gap
+Notes: Shows coeﬀicient estimates from the model described in equation 4 employing balancing weights for
+outcomes shown in Figure 4 for white and black residents. Dotted line shows the 95 percent confidence
+intervals.
+38
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 40 ---
+Figure A.4: Event Study Estimates for the Business-Non-Business Gap in Other Socioeco-
+nomic Outcomes
+-.06-.030.03.06coefficient estimate-3-2-112Decade since reformEmployment-.06-.030.03.06coefficient estimate-3-2-1123Decade since reformGroup Population Share (Non-Business)-.06-.030.03.06coefficient estimate-3-2-1123Decade since reformLiteracyBusiness - Non-Business Gap
+Notes: Shows coeﬀicient estimates from the model described in equation 4 employing balancing weights for
+outcomes shown in Figure 4 for residents in business and non-business occupations. Dotted line shows the
+95 percent confidence intervals.
+39
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 41 ---
+Figure A.5: Event Study Estimates for Public Expenditures
+-.2-.10.1.2coefficient estimate-3-2-101234Elections since reformSchools-.2-.10.1.2coefficient estimate-3-2-101234Elections since reformPolice-.2-.10.1.2coefficient estimate-3-2-101234Elections since reformHighways-.6-.30.3.6coefficient estimate-3-2-101234Elections since reformHospitals-.2-.10.1.2coefficient estimate-3-2-101234Elections since reformFire-.2-.10.1.2coefficient estimate-3-2-101234Elections since reformSanitation-.2-.10.1.2coefficient estimate-3-2-101234Elections since reformRecreation-.6-.30.3.6coefficient estimate-3-2-101234Elections since reformHealth
+Notes: Shows coeﬀicient estimates from the model described in equation 4 employing balancing weights for
+outcomes shown in Table 4. Dotted line shows the 95 percent confidence intervals.
+40
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 42 ---
+Table A.3: The Impact of Reform on the Native-Immigrant Gap in Other Socioeconomic
+Outcomes
+Native - Immigrant Gap
+Local Group Segregation
+EmploymentGovernmentPopulationLiteracy Dissimilarity Isolation
+Job Share
+(1) (2) (3) (4) (5) (6)
+Reform -0.005 -0.001 -0.011 0.001 0.008 0.003
+(0.006) (0.001) (0.009) (0.003) (0.004) (0.002)
+Num Obs 2,109 6,305 6,305 5,044 5,044 5,044
+Num Cities 434 454 454 454 454 454
+Outcome Mean -0.009 0.002 0.401 0.043 0.235 0.084
+Outcome Stdv .047 .009 .232 .05 .072 .04
+City FEs Yes Yes Yes Yes Yes Yes
+Year× Timing Group FEs Yes Yes Yes Yes Yes Yes
+Balancing Weights Yes Yes Yes Yes Yes Yes
+Notes:the table above reproduces estimates shown in figure4 for native and immigrant residents. The two indices of segregation
+do not refer to the gap because they are city-wide measures. The group population share refers to the share of immigrant men.
+The mean and standard deviation of the weighted dependent variable are shown in the table.
+Table A.4: The Impact of Reform on the White-Black Gap in Other Socioeconomic Outcomes
+White - Black Gap
+Local Group Segregation
+EmploymentGovernmentPopulationLiteracy Dissimilarity Isolation
+Job Share
+(1) (2) (3) (4) (5) (6)
+Reform -0.003 -0.001 0.000 -0.005 0.007 -0.004
+(0.013) (0.001) (0.001) (0.007) (0.007) (0.008)
+Num Obs 1,650 4,845 4,845 3,876 3,876 3,876
+Num Cities 349 366 366 366 366 366
+Outcome Mean 0.036 0.006 0.076 0.087 0.581 0.286
+Outcome Stdv .13 .014 .019 .081 .086 .123
+City FEs Yes Yes Yes Yes Yes Yes
+Year× Timing Group FEs Yes Yes Yes Yes Yes Yes
+Balancing Weights Yes Yes Yes Yes Yes Yes
+Notes:the table above reproduces estimates shown in figure4 for white and black residents. The two indices of segregation do
+not refer to the gap because they are city-wide measures. The group population share refers to the share of black men. The
+mean and standard deviation of the weighted dependent variable are shown in the table.
+41
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 43 ---
+Table A.5: The Impact of Reform on the Business-Non-business Gap in Other Socioeconomic
+Outcomes
+Business - Non-Business Gap
+Group
+Employment Population Literacy
+Share
+(1) (2) (3)
+Reform 0.002 -0.011 0.000
+(0.007) (0.009) (0.003)
+Num Obs 2,112 6,305 5,048
+Num Cities 435 454 455
+Outcome Mean 0.183 0.401 0.036
+Outcome Stdv .082 .232 .038
+City FEs Yes Yes Yes
+Year× Timing Group FEs Yes Yes Yes
+Balancing Weights Yes Yes Yes
+Notes: the table above reproduces estimates shown in figure4 for residents in
+business and non-business occupations. The group population share refers to the
+share of non-business men. The mean and standard deviation of the weighted
+dependent variable are shown in the table.
+Table A.6: The Impact of Reform on Voter Turnout – Robustness to County Clustering
+Congressional Elections Turnout Presidential Elections Turnout
+(1) (2) (3) (4)
+Reform -3.366 -2.045 -3.313 -2.242
+(0.753) (0.611) (0.674) (0.641)
+Num Obs 425,586 383,754 137,929 137,929
+Num Cities 1342 1342 1649 1649
+Outcome Mean 53.364 48.780 60.642 55.449
+Outcome Stdv 17.617 18.932 18.356 20.409
+City × Timing Group FEs Yes Yes Yes Yes
+Year× Timing Group FEs Yes Yes Yes Yes
+Balancing Weights No Yes No Yes
+Notes: the table above reproduces estimates shown in Table3 with standard errors clustered at the county level.
+See Table3 for additional table notes.
+42
+Electronic copy available at: https://ssrn.com/abstract=4206025
+--- Page 44 ---
+Table A.7: The Impact of Reform on Voter Turnout – Same Sample as Earnings Results
+Turnout Turnout
+Congressional Elections Presidential Elections
+(1) (2) (3) (4)
+Reform -4.350 -1.946 -4.887 -3.145
+(0.922) (0.958) (1.006) (0.948)
+Num Obs 122,139 58,674 33,965 28,403
+Num Cities 453 402 453 447
+Outcome Mean 53.444 49.059 60.816 56.543
+Outcome Stdv 18.322 18.8 18.213 19.984
+City× Timing Group FEs Yes Yes Yes Yes
+Year× Timing Group FEs Yes Yes Yes Yes
+Balancing Weights No Yes No Yes
+Notes:Reproduces results shown in Table3, restricting the sample to the cities also appearing
+in Table1. The mean and standard deviation of the unweighted dependent variable are shown
+in column (1) and column (3) of the table above. The mean and standard deviation of the
+weighted dependent variable are shown in column (2) and (4) of the table above.
+43
+Electronic copy available at: https://ssrn.com/abstract=4206025

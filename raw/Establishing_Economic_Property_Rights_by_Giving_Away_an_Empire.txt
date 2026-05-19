@@ -1,0 +1,1236 @@
+
+--- Page 1 ---
+251
+[  Journal of Law and Economics, vol. 62 (May 2019)]
+© 2019 by The University of Chicago. All rights reserved. 0022-2186/2019/6202-0008$10.00
+Establishing Economic Property Rights  
+by Giving Away an Empire
+Douglas W. Allen    Simon Fraser University
+Abstract
+The first land grant act for a transcontinental railroad and the Homestead Act 
+were both passed in 1862. Each gave away massive federal lands, created incen-
+tives to rush construction and settlement, and (at least partly) dissipated land 
+values. I argue that these apparently wealth-reducing actions rationally utilized 
+railroads and settlers to establish meaningful federal ownership over the frontier 
+and allowed for future federal land sales to take place. This paper examines the 
+tenuous US sovereignty in the West, the institutional details of the land grants, 
+and (using newly digitized records) the relationship among railroads, home-
+steads, and cash sales to test the theory that “giving away an empire” was a ra-
+tional strategy to establish economic property rights through quick occupation.
+Between 1850 and 1872 the federal government gave an empire 
+of land to promoters who promised to build railroads across the 
+sparsely settled territory of the West. (Fogel 1964, p. 3)
+1. Introduction
+Economic property rights are necessary for the creation of wealth, but these 
+rights must be established and maintained, and methods vary according to cir-
+cumstances. In this context, the American West has provided numerous oppor-
+tunities for understanding why and how such rights came to exist. 1 One import-
+ant method of establishing rights to land is through occupation, and here again 
+the West provides an excellent setting, given the use of land grants to railroads 
+and homesteaders.
+Thanks to Yoram Barzel, Chris Bidner, John Chant, Stanley Engerman, Andy Hanssen, P.J. Hill, 
+Frank Lewis, Bryan Leonard, Gary Libecap, Pete Leeson, Christoph Luelfesmann, Hitoshi Shigeoka, 
+Wing Suen, and an anonymous referee for their comments. I also thank Ian Broad for his geographic 
+information systems (GIS) assistance with the Oklahoma land grant shapefiles.
+1 Anderson and Hill (1975) started the western property rights literature (for example, Anderson 
+and Hill 1983, 1990, 2002, 2004). See also Dennen (1976), Umbeck (1981), Allen (1991a), Lueck 
+(2002), Hansen and Libecap (2004), Hornbeck (2010), Libecap and Lueck (2011), Taylor and Wil -
+son (2013), and Leonard and Libecap (2019) for a sampling of work. Much of this work still rests on 
+the seminal paper Demsetz (1967).
+
+--- Page 2 ---
+252 The Journal of LAW &  ECONOMICS
+Without considering their role in establishing property rights, these massive 
+land giveaways make little sense. Between 1850 and 1871 (70 percent between 
+1862 and 1866), around 80 grants, making up an area just larger than Texas, were 
+issued by Congress to seven railway systems 2—creating a transcontinental rush 
+that induced rail construction 20 years prematurely. Likewise, homestead grants 
+encouraged settlers to rush, and this was exacerbated by placing homesteads near 
+the railroad land grants.3 Why was there a desire for rushing, why was a cumber-
+some and dissipating empire of land used to induce this rushing, and why were 
+settlers allowed to rush and dissipate valuable lands close to railroads?4
+The hypothesis here is that railroad and homestead land grants were a single 
+federal strategy to rapidly populate the frontier to establish effective property 
+rights over their fragile legal claims in light of both internal and external threats 
+to sovereignty.5 Hence, it was not just a matter of coordinating railroads and set-
+tlers to move to the frontier but rather of the federal government actively accel-
+erating development beyond what narrow economic interests might warrant, 
+even accounting for the complementarity between rail and settlement, so that the 
+West would remain part of the United States.
+In the mid-19th century, the Union’s economic rights to the frontier—the ex-
+pectation that decisions made with respect to the lands would be carried out—
+were tenuous. The aggressive rush to develop and settle the West frustrated the 
+land claims of others. 6 Rushing was a costly option to establish economic own-
+ership, but in light of the alternatives at the time it was rational and allowed for 
+future land sales. Thus, “giving away an empire” was a matter of exploiting pri-
+vate incentives that were compatible with the state’s objective of sovereignty. The 
+state wanted the West occupied by settlers, and settlers and railroads were com-
+plements. By giving land away to both settlers and railroads, the state induced a 
+massive and immediate settlement of western lands.
+2 The systems were the Illinois Central; Union Pacific; Central Pacific; Southern Pacific; Texas and 
+Pacific; Atchison, Topeka, and Santa Fe; and Northern Pacific (Mercer 1982, pp. 6–7). These systems 
+contained dozens of railroads, integrated to various extents.
+3 In contrast to the transfer to railroads of 131 million acres, 285 million acres were given away to 
+homesteaders. If each homesteader received the basic plot of 160 acres, this would amount to 1.78 
+million homesteaders (Clawson 1970, p. 94).
+4 The evidence for rushing is extensive, starting with Fogel (1960), who argues that the railroads 
+were built 20 years ahead of demand. See also Haney (1968, p. 153), Lewis and Robinson (1984, p. 
+351), Krooss (1966, p. 302), and Emery and McKenzie (1996, p. 258). Allen and Leonard (forthcom-
+ing) provide evidence on the Oklahoma land rushes based on digitized land patents.
+5 Legal property rights, in this context, refer to the state’s ability under the law to make deci -
+sions with respect to public lands. Legal rights had been established through purchase (Louisiana 
+Purchase [1803], Gadsden Purchase [1853], Alaska [1867]), treaty (West Florida [1821], Red River 
+[1818], East Florida [1819], Texas [1845], Oregon [1846], New Mexico and Mexican Cession lands 
+[1848]), and conquest (West Florida [1810]). Economic property rights refer to the state’s ability to 
+carry out its decisions with respect to these lands. See Allen (1991b) and Barzel (1997) for a discus -
+sion of the distinction.
+6 This argument in the context of homesteading is made by Barzel (1997) and Allen (1991a).
+
+--- Page 3 ---
+ Property Rights  253
+2. Essential Details of Land Grants
+2.1. Railroad Land Grants
+The historical details of railroad land grants are as dense as a map of tracks 
+on the Eastern Seaboard but can be briefly summarized. Both railroads and land 
+grants were common, but separate, at the turn of the 19th century. Although fed-
+eral funds were made available to Ohio in 1802–3 for internal railroads, and al-
+though various rights-of-way were granted to private railroads east of the Missis-
+sippi, until 1845 Congress was reluctant to involve itself in any significant way in 
+the new technology (Haney 1968, p. 16). Likewise, although military land grants 
+had been given to soldiers after the Revolutionary War, Mexican-American War, 
+and War of 1812, early grants for railroads were for narrow rights-of-way; acre-
+age for depots, timber, and gravel; and workshops and stations. By later stan-
+dards, the lands granted by 1830 were quite insignificant (Haney 1968, pp. 164–
+68; Sanborn 1899, pp. 9–13).
+The first major railroad land grant was made in 1850 when the Illinois Cen-
+tral, Mobile and Chicago, and Mobile and Ohio railroads were granted six even- 
+numbered sections of land per mile on either side of track if the rail from Chicago 
+to New Orleans/Mobile were completed within 10 years.7 Like subsequent grants, 
+this one respected lands that were already sold, preempted, or otherwise encum-
+bered, and the federal government substituted other public lands within 15 miles 
+of the track for them (An Act Granting the Right of Way, and Making a Grant of 
+Land to the States of Illinois, Mississippi, and Alabama, 9 Stat. 466 [1850]; Ellis 
+1948, p. 254). Table 1 shows some basic aspects of railroad land grants across the 
+seven major western systems.
+During the 1850s, Congress struggled with the form and constitutionality of 
+aid to private rail firms, particularly across the public lands to the Pacific. When 
+the Civil War removed the Southern objectors to railroad land grants, a united 
+Congress passed a series of acts that accounted for the bulk of all land grants. 
+The Pacific Railroad Acts start in 1862 (12 Stat. 489) with a grant for the Union 
+Pacific. Initially no firm rushed to take up the offer, and a series of acts followed, 
+most notable of which were in 1864 (13 Stat. 356) and 1866 (14 Stat. 66), that 
+sweetened the pot on most margins: longer completion times, shorter lengths of 
+completion for patenting, and release from government bonds. The last of the 
+railroad land grants was made in 1871, and the seven major systems accounted 
+for about 83 percent of the net acreage transferred (Greever 1951, p. 83).
+Despite their differences, the major land grants were similar in key respects. 
+Land was given in alternate sections on either side of the track for 6–40 miles, 
+which created a wide swath of checkerboard private railroad holdings through a 
+state or territory (Greever 1951, p. 84). 8 All grants required railroads to provide 
+7 A section of land is 1 square mile (640 acres). In the Public Land Survey System (PLSS), each 
+township contains 36 sections, numbered 1 to 36.
+8 Beyond this base land allocation, there were “lieu strips” ranging from 9 to 20 miles from which 
+replacement plots were taken.
+
+--- Page 4 ---
+254 The Journal of LAW &  ECONOMICS
+reduced rates for federal government mail and troops, and the land grant had to 
+be earned by completing portions of the rail line, subject to federal inspection. In 
+most cases, 20 miles of track had to be completed before the land was inspected 
+and patented and the deeds transferred. The railroad was required to complete 
+the track within a given time period, and Congress always reserved the right to 
+“add to, alter, amend, or repeal this act” (see, for example, 12 Stat. 489, sec. 18 
+[1862]).9
+2.2. Homesteading
+The Homestead Act was passed in 1862 (12 Stat. 392), the same year as the 
+first private railroad land grant. 10 The act allocated a quarter section (160 acres) 
+of unappropriated public land based on first possession after the land had been 
+federally surveyed and made available for homesteading. Only citizens who had 
+“never borne arms against the United States Government” were eligible, and 
+once claimed a $10 registration fee was paid, an affidavit of “allegiance to the 
+Government” was sworn, and the homesteader was to remain on the land, build a 
+house, and cultivate the land for 5 years before title was transferred (12 Stat. 392). 
+The survey requirement meant that the state could direct where settlement would 
+take place, and therefore the location of homesteading—like the location of rail-
+road land grants—was a reflection of its intentions. 11
+Like the railroad land grants, homestead grants created a rush to claim areas 
+designated for settlement. As a result, the costs of rushing dissipated the value of 
+the land, and for the marginal settler there would have been full dissipation. Un-
+9 Of the 175 million acres granted between 1850 and 1871, 35 million acres were reclaimed be -
+cause of failure to meet the statute’s conditions (Greever 1951, p. 84).
+10 Homesteading is well studied by economists. See Southey (1978), Anderson and Hill (1983, 
+1990), Stroup (1988), Allen (1991a), and Barzel (1997).
+11 In practice, this was not always the case. Settlers often preempted parcels by occupying unsur -
+veyed lands, and most of these claims were eventually respected by the federal government.
+Table 1
+Details of Major Land Grants
+Railroad
+Land  
+Grant 
+(acres)
+Year of 
+Grant
+Right of 
+Way  
+(feet)
+Sections 
+per Mile of 
+Railroad
+Patented 
+(miles)
+Time 
+Limit 
+(years)
+Illinois Central 2,600,000 1850 100 12 10
+Union Pacific 9,050,000 1862/1864 200 10 40/20 12
+Central Pacific 6,500,000 1862/1864 200 10 40/20 12
+Atchison, Topeka, and Santa Fe 6,000,000 1863 200 10–20 When finished 10
+Northern Pacific 42,000,000 1864 200 20–40 1 12
+Southern Pacific 5,260,000 1866 200 20–40
+Texas Pacific 13,000,000 1871 200 20 20 5
+Sources. Haney (1968); Mercer (1982); 12 Stat. 489 (1862); 13 Stat. 356 (1864).
+
+--- Page 5 ---
+ Property Rights  255
+like the railroad land grants, for which the number of acres given varied from one 
+railroad to another, most homesteaders received 160 acres.12
+The alternative for the federal government was outright sale of public domain 
+land. Since the 1785 ordinance that established the Public Land Survey System 
+(PLSS) and the rules for public auctions and private sales of the public domain, 
+the US government had actively sought to sell lands. These lands also had to be 
+surveyed and authorized by law for sale. For the states examined here, cash sales 
+could always take place in areas where homesteading was allowed, but various 
+parts of the states were excluded from homesteading. In addition, as time passed 
+and areas became secure, untaken lands were no longer made available for home-
+steading and could only be purchased.
+3. A Conceptual Framework of Land Grants
+Figure 1 provides a simple conceptual framework for considering the role of 
+land grants in establishing property rights. Although justified later, it is assumed 
+that the federal government has ruled out the use of force and has decided to 
+establish sovereignty through occupation. The federal government does this by 
+choosing two instruments: the subsidy received for a homestead and the size of 
+a railroad land grant. The railroad, seeing the size of the land grant subsidy, then 
+decides whether to build by a given date. Once the railroad has committed to this 
+date, the settler decides when to arrive and lay claim to the homestead, given the 
+homestead subsidy. The model that follows solves this through backward induc-
+tion.
+3.1. The Settler’s Arrival Problem
+Consider a quarter section of frontier land that produces a crop each year 
+and assume that the yearly net value from the land depends on the year (t) and 
+whether a railroad is present (R t). Once occupied, the land is perfectly owned, 
+and its net value is equal to v[t, Rt(l)], where l is the size of the railroad land grant. 
+Furthermore, suppose the price of the land (including the settlement costs, land 
+clearing, and so forth) is exogenously given as p. 13 Homesteading can be thought 
+of as a price subsidy h = p per acre, for 160 acres, to the first settler who claims 
+and remains on the land.
+12 There were various exceptions. Homesteads could be preempted at $1.25 per acre after a settler 
+resided on the homestead for 6 months; the Timber Culture Act (1873) transferred title if 40 acres 
+(later reduced to 10) of the quarter section was cultivated in trees, and the Desert Land Act (1877) 
+gave preferential treatment if the land was irrigated within 3 years. These acts were unimportant for 
+the locations and time period analyzed in the empirical work of this paper. In addition, there were 
+many township homesteads, and those parcels tended to be small.
+13 This is historically reasonable for the frontier. The state had set a price of $1.25 per acre for most 
+lands and double this amount for lands within the railroad land grants.
+
+--- Page 6 ---
+256 The Journal of LAW &  ECONOMICS
+It is well known that under allocation by first possession the following full- 
+dissipation condition holds at the margin:14
+ ( *)
+*
+[, ] () .rt t
+t
+t
+vt R e hl dt p
+¥
+-- =-ò  (1)
+Equation (1) determines the arrival time t* of settlers under homesteading, and 
+t* is a function of the subsidy h, the interest rate r, and the railroad land grant l, 
+with ∂t*/∂h < 0, ∂t*/∂r > 0, and ∂t*/∂l ≤ 0. 15
+3.2. The Railroad’s Arrival Problem
+The railroad, anticipating the response of the settlers in equation (1), has an 
+arrival year that depends on the size of its land grant: if *tll³  then Rt equals one, 
+where *tl  is the critical land grant making the railroad indifferent to building or 
+not by a given year t. If *tll£ , then there is no railroad at time t, and R t equals 
+zero.16
+Given the actions of the railroad and settlers, two value functions v[t, Rt(l)] are 
+shown in Figure 2, where times t1 and t3 are defined as v(t1, 0) = 0 and v(t3, 1) = 
+0.17 A value function v(t, Rt) is negative early in the 19th century because of the 
+lack of population and lack of market access but increases over time as settlers 
+drift onto the frontier and markets develop.18 Given the value of land over time, a 
+settler who had purchased land with R t equal to zero would not arrive until time 
+t1 when the land starts generating a positive net value. On the other hand, with 
+Rt equal to zero and h = p, a homesteader would have to arrive at a date like t 2, 
+where equation (1) is binding, to secure first possession.
+14 For the purposes of this paper, it is sufficient to consider only the full-dissipation condition. The 
+nature of the equilibrium depends on a host of conditions that are peripheral to the issues here. See 
+Gordon (1954), Barzel (1968), and Anderson and Hill (1990) for early applications in fishing, inno -
+vation, and homesteading. See Barzel (1974), Suen (1989), Lueck (1995), Li and Suen (2004), and 
+Bloch and Cantala (2017) for examples of how the total dissipation depends on various conditions.
+15 For example, differentiating equation (1) with respect to h and rearranging terms gives 
+*( *, )
+** ** 1 / [ ( ,)( * ,) ] ./
+trt R
+tt tt h r vt R vt R e d t
+¥ -
+¶ ¶ =- ò -  The denominator is positive because (, ) (, ) *ttvt R vt R>
+(, ) (, ) *ttvt R vt R>  for any t > t*, which implies that ∂t*/∂h < 0. Differentiating equation (1) with respect to r , 
+using integration by parts, and assuming that p  −  h ≥ 0, it can be shown that ∂t*/∂r < 0. If the land 
+grant l increases Rt such that Rt(l¢) ≥ R (l), for all t if l¢ > l, then v[t, Rt(l¢)] ≥ v [t, Rt(l)] for all t. Differ-
+entiating equation (1) with respect to l yields ∂t*/∂l ≤  0.
+16 A larger railroad land grant induces earlier arrival but at a diminishing rate given positive dis -
+count rates. If tr is the arrival date of the railroad, then ∂tr/∂l < 0, and ∂2tr/∂l2 < 0.
+17 If the land was not perfectly owned, then v(t, Rt) = 0 for all years.
+18 This framework follows Anderson and Hill (1990), who view the accrued negative values of 
+rushing as a social waste as opposed to a cost of establishing ownership. Donaldson and Hornbeck 
+(2016) point out that, because of the network effects of the railroad, improvements in railroad lines 
+in the East could increase the market access of lands in the West for a given rail line. Hence, v (t, Rt) 
+can increase over time because of rail developments east of the Mississippi.
+Figure 1. Stages of establishing property rights
+
+--- Page 7 ---
+ Property Rights  257
+Figure 2 shows that the arrival time for settlers depends on the combination of 
+homestead and railroad subsidies. Consider the early arrival date t4, which can be 
+achieved one of two ways. First, without a railroad, settlers will arrive at t 4 if h > 
+p by enough to satisfy equation (1) at t 4; that is, the state could pay settlers suf-
+ficiently to move to the frontier. Second, sufficient railroad land grants could be 
+given to induce Rt equal to one, along with regular homesteading subsidy h = p, 
+to induce settlers’ arrival at t4. Therefore, the federal government had a choice in 
+terms of the combination of homestead and railroad subsidies to induce the early 
+arrival of settlers.
+3.3. The Federal Government’s Problem
+For the moment, assume the following regarding the federal government: it has 
+an exogenous interest in having a large fraction of the frontier occupied by date 
+t4, the homestead subsidy is h = p (land is free), and the federal government is a 
+cost-minimizing single-policy decision maker. 19 If the economic property rights 
+to the frontier are secure, selling the land does not achieve the objective because 
+purchasers arrive only at date t1, and therefore some combination of homestead-
+ing and railroad land grants must be used.
+Figure 3 shows the state’s problem. The convex curves are arrival isolines de-
+rived from Figure 2 and show the combinations of homestead subsidy h and land 
+grants l that achieve a given arrival time—with earlier arrival isolines farther from 
+the origin. For example, if there was no railroad land grant (l = 0), but there 
+was homesteading (h = p), then the arrival time would be t* = t 2 (point a). The 
+curves are convex because of interest compounding, and since each earlier year of 
+arrival requires a larger subsidy (dollars for homesteaders, land for railroads), the 
+arrival isolines are more convex moving away from the origin. The arrival curves 
+have slopes equal to *( *, ) ( ):tvt R R l ¢  the ratio of the marginal product of railroad 
+grants to the marginal product of the homestead subsidy. 20 Because land is fixed 
+in space, larger railroad grants are necessarily farther from the railroad line and 
+19 This is obviously a simplifying assumption to avoid the complex nature of the state’s decision-  
+making. See Anderson and McChesney (1994) for a richer discussion of the various forces at work 
+in US–Indian frontier relations.
+20 That is, *( */ )/( */ ) ( *, ) ( ), ttl th v t R R l¶¶ ¶ ¢¶=  from equation (1).
+Figure 2. Homesteaders’ arrival, given arrival of a railroad
+
+--- Page 8 ---
+258 The Journal of LAW &  ECONOMICS
+of lower value (R ¢¢(l) < 0). Hence, the marginal product of railroad land grants 
+diminishes faster than the marginal product of homestead subsidies, and the ar-
+rival isolines are flatter moving southwest.
+Given that the state wants settlement at t* = t 4, in principle it could choose 
+any combination of land subsidies along the t 4 arrival isoline. However, given h 
+= p, the h, l combinations between points b and c are not feasible. When h = 
+p, the cost to the federal government of giving land to settlers and railroads is 
+the same, which means that the cost isoline along the horizontal line h = p in 
+Figure 3 would have a slope of −1 (not shown). If the marginal product of rail-
+road land grants is small in the neighborhood of l*, then the absolute slope of 
+the t4 arrival isoline is less than 1, and c would be the cost-minimizing solution 
+for the federal government. At this allocation, the state introduces homesteading 
+and then selects the railroad grant large enough (l*) to induce rail construction 
+and early settlement (t 4). If, on the other hand, the marginal product of railroad 
+land grants is large in the neighborhood of l*, then some point like d would be the 
+cost- minimizing solution, where the 160-acre homestead subsidy would be less 
+than 100 percent of the land price.
+This framework generates a number of testable hypotheses. First, homestead-
+ers take the most valuable lands and therefore locate near railroads first. Second, 
+homesteaders should arrive before the railroad is completed but after the route is 
+announced. Third, no one should purchase lands until the title is secure, which 
+implies that cash sales should take place after homesteading. Fourth, when west-
+ern lands are potentially more valuable to homesteaders, railroad land grants 
+through that area should be smaller. 21 Fifth, as the marginal product of railroad 
+21 From Figure 3, an exogenous increase in land values shifts the arrival isolines in toward the ori -
+gin. In the extreme, if line t4 shifted to t2 in Figure 3, then point a would be the state’s solution where 
+there was homesteading but no railroad land grant.
+Figure 3. The state’s choice of homestead subsidy or railroad land grant
+
+--- Page 9 ---
+ Property Rights  259
+land grants increases, the homestead subsidy should fall. Sixth, by extension of 
+the last two hypotheses, homesteading without railroad land grants is possible, 
+but there should be no railroad land grants without (some) homesteading. Fi-
+nally, costly railroad and homesteading land grants should be used only where 
+federal legal property rights are tenuous.
+3.4. The Rationale for Homesteading and Railroad Land Grants
+The above analysis assumes that the frontier was perfectly owned and the in-
+terest in occupation at t 4 was exogenously given. However, the frontier was not 
+perfectly owned, as challenges came from Native Americans, foreign powers, and 
+the Confederacy (more below). If settlers lost battles to hostile groups, and if the 
+federal government was unable or unwilling to defend the lands with force, then 
+it risked losing its legal claims to the frontier. In 1862 the federal government 
+wanted occupation as soon as possible.
+The analysis also assumes that the homestead subsidy could not exceed the 
+price of the land. In the 1860s the federal government was fiscally constrained 
+by the war, war debt, and reconstruction. This fiscal constraint meant that dollar 
+payments to settlers and enforcement of legal dominion through military force in 
+the West was infeasible.
+Early occupation by homesteaders and railroad grants solved both problems. 
+Large numbers of dense settlements thwarted the claims of others based on force, 
+without the state incurring large military expenditures. Given that the federal 
+government was unconstrained in the amount of land it could give a railroad, 
+large grants could always be made to induce the settlement of homesteaders 
+across the various regions. Once ownership was established through occupation, 
+the federal government could sell the remaining federal lands and leave further 
+rail development up to the private decisions of the railroad.
+4. Evidence
+This section provides evidence for the model in terms of historical context, 
+institutional detail, and econometric testing. It is interesting, however, that the 
+broad historical facts are consistent with the model. First, although railroad land 
+grants were initiated in 1862, there were no takers. However, the state did not 
+make adjustments to homesteading but rather adjusted on the unconstrained 
+margin: the size of the railroad grant l. Once this was increased in 1864, railroads 
+started to compete to build, and homesteaders followed.
+Second, the model is broadly consistent with the historical evidence on timing, 
+which suggests that settlers’ arrival dates without homestead land grants were 
+around t1 ≈ 1890 and with just homesteading were at t 2 ≈1885 (see, for example, 
+Fogel [1960] on these dates). The frontier was so isolated that the low land val-
+ues created small, insufficient homestead rushes. As a result, homesteading alone 
+would have been insufficient to establish the sovereignty required in the 1860s. 
+However, a railroad grant of l* induced completed construction by t 3 = 1869, 
+which created an incentive for homesteaders to arrive at t4 = 1864. Hence, it was 
+
+--- Page 10 ---
+260 The Journal of LAW &  ECONOMICS
+rational to subsidize the railroad on the condition that the aid be received only if 
+the railroad was built by t3, along with passing the Homestead Act to provide the 
+private incentives of both parties to reach the early arrival equilibrium. 22 Finally, 
+as land values in the West increased, railroad land grants stopped, but home-
+steading continued.
+4.1. Tenuous Sovereignty and Congressional Awareness
+A necessary condition for the hypothesis is a tenuous US sovereignty over the 
+West in the mid-19th century. The evidence for this is extensive and requires only 
+a brief summary. The 1840s and 1850s saw a massive increase in the size of the 
+United States, mostly brought about by negotiations with foreign powers.23 How-
+ever, despite the establishment of legal rights to the lands west of the Mississippi, 
+in practice sovereignty was tenuous in midcentury because of threats from Native 
+Americans, foreign powers, and the Confederacy.
+Confrontations with Native Americans escalated dramatically in the mid-19th 
+century. The speed of land acquisition, the rush of gold miners, the migration 
+of Mormon settlers, the steady push of eastern tribes into the West, the limited 
+western federal military presence, the resistance to movement by Native Ameri-
+cans and concentration on reservations, the ineffectiveness of tribal organizations 
+to enter into common-law treaties, the corruption among federal land agents, 
+and the constant encroachment of squatters transformed native life in 2 decades 
+and led to an escalating number of violent confrontations that could not feasibly 
+be dealt with militarily.24 War resulted: 190 battles in the 1850s, 786 in the 1860s, 
+530 in the 1870s, and 131 in the 1880s (Anderson and McChesney 1994, p. 58).
+Added to this chronic hostility was the threat of foreign nations. Border dis-
+putes with Britain continued until 1859, and both France and Britain made dip-
+lomatic overtures to aid Texas, California, and even the Confederacy (Axelrod 
+1993, p. 155). At various times in the mid-19th century, worry over threats from 
+Mexico, Spain, and even Russia surfaced, and as late as 1849, when the Office of 
+Indian Affairs was created, the federal government could not effectively deal with 
+sovereignty issues by force. Finally, one cannot underestimate the impact of the 
+Civil War on the Union’s expectation of sovereignty in the West. In 1862 it was 
+far from clear which side would win, and the possibility of a powerful new nation 
+22 Evidence on the induced rail construction that was premature by 20 years is well established. 
+See Fogel (1960, p. 18), Mercer (1982, p. 60), Ellis (1948, p. 255), Haney (1968, p. 153), Krooss (1966, 
+p. 302), and Emery and McKenzie (1996, p. 258).
+23 Texas was voluntarily annexed to the Union in 1845. The Gadsden Purchase (1853) from Mex -
+ico added 19 million acres along the border with Mexico, the Oregon territory was acquired from 
+Britain in 1846 through treaty negotiations, and California was purchased from Mexico in 1848.
+24 Nichols (2013, pp. 127–28) states that “federal officials lacked any effective means for dealing 
+with the tribes.” See also White (1991, pp. 85–92) and Utley (1984, p. 3). Axelrod (1993, pp. 155–56) 
+estimates the army’s 1870 numbers at 19,000, while Dillon (1984, p. 7) estimates only 10,000. In 
+contrast, the Plains Indians were warrior nations, experts in guerrilla tactics, and masters at combat 
+horse riding and numbered around 350,000 (Utley 1984, p. 4). There were 1.4 million settlers in the 
+West in 1860.
+
+--- Page 11 ---
+ Property Rights  261
+in the South, with its own claims on the West, meant that immediate effective 
+control over the frontier was critical.
+Not surprisingly, throughout the congressional record and public debates 
+leading up to the Civil War, there was a steady discussion of threats to the fron-
+tier.25 Of interest here is that many public figures championed settlement through 
+homesteading complemented by railroads as the solution. As early as 1830, evi-
+dence in congressional debates shows that members of Congress were aware of 
+the strategic use of railways for this purpose.26 Congressman James H. Campbell, 
+in support of the Pacific Railroad Acts, summed the question up best, noting, 
+“The question is, whether we shall hold our Pacific possessions . . . or whether 
+we should abandon our Pacific possessions” (Cong. Globe, 37th Cong., 2d Sess., 
+p. 1712 [1862]).
+For these early debates prior to the Civil War, the concept of railroads’ involve-
+ment in national security and military advantage mostly meant moving troops 
+quickly to western borders and over terrain that was often impassable (Haney 
+1968, p. 203). 27 Haney (1968, p. 150; see also Thorburn and Wright 1929) sums 
+up the pre–Civil War view that a railway would “strengthen the army, decrease 
+costs, and enable the government to deal more effectively with the Indians.”
+Throughout the ongoing debate regarding land grants to railroads prior to 
+1850, none were granted, and alternatives for defending the West were continu-
+ally sought. At the same time, land sales to settlers were pursued vigorously prior 
+to 1850, but it became clear that few settlers were willing to pay the statutory 
+price for land on the frontier. Not surprisingly, beginning as early as 1850, the 
+connection between railroads and increased settlement as a means by which land 
+sales might be encouraged started to appear in the congressional record.28
+25 For example, an 1845 congressional report from the Committee on Roads and Canals con -
+cluded that the Oregon territory was soon to become “a separate nation . . . and be our most dan -
+gerous and successful rivals in the commerce of the world” (Committee on Roads and Canals, 28th 
+Cong., 2d Sess., S. Doc. 69, p. 1 [1845]).
+26 Haney (1968, p. 262) cites State Papers, 1829–30 as the earliest mention of “the utility of the 
+railway for military operations.” Haney (1968, p. 71) reports on Representative Taylor Webster’s 
+concern over “the government policy of congregating the Indians west of the Mississippi.” Finally, 
+on the importance of rail in the event of battles or war on the frontier, see also Cong. Globe, 35th 
+Cong., 1st Sess., p. 1581 (1858).
+27 Haney (1968, p. 193) quotes General William T. Sherman as saying that the Pacific railway was 
+“a military necessity and the only thing positively essential to the binding together of the republic.” 
+Sanborn (1899, p. 60) states that the land grants arose “under pressure of the military importance 
+of the road to the Pacific coast.” President James Buchanan also made this claim: “Without such a 
+road it is quite evident we cannot protect California and our Pacific possessions against invasion” 
+(Richardson 1902, pp. 2987–88).
+28 For an explicit statement, see Cong. Globe, 31st Cong., 1st Sess., p. 845 (1850). However, a 
+search of the online US congressional documents and debates between 1850 and 1862 finds hun -
+dreds of entries in the Senate Journal, House Journal, bills and resolutions, and Statutes at Large  
+dealing with both homesteading and railroads with respect to the settlement of “actual settlers.” 
+Despite the wide-ranging contexts, this shows that Congress was well aware of the connection be -
+tween the two types of grants. Interestingly, Canada faced a similar problem 2 decades later. Having 
+acquired British North America in 1871, and with no means of defending it against American set -
+tlers, the Canadian government used land grants to the Canadian Pacific Railroad along with almost 
+identical homesteading terms to settle the prairie population with Canadians.
+
+--- Page 12 ---
+262 The Journal of LAW &  ECONOMICS
+4.2. Institutional Details of Land Grants
+The institutional details of the homesteading and railroad land grants are con-
+sistent with a goal of fast and concentrated occupation. The first, and most ob-
+vious, fact is that both the Homestead Act and the first act establishing railroad 
+land grants were passed in the same year.29 It was not just any year: 1862 was pos-
+sibly the nadir of Union expectations of survival, and Congress was focused on 
+matters of national security.30 Had the acts been passed in widely different years, 
+or at a time of security, the hypothesis would be refuted.
+In addition to simultaneous creation, the details of the railroad land grants 
+were complementary to homesteading. For example, railroad lands were given in 
+alternating sections of 640 acres and then sold in quarter sections. By giving the 
+railroads every other section of land, the value of the subsidy to the railroad was 
+clearly reduced. For any amount of land, the same acreage could have been trans-
+ferred through contiguous sections next to the track. However, such continuous 
+land holdings may have had multiple uses: ranching, mineral, timber, or indus-
+trial, but most of these uses would have resulted in a low population density. By 
+forcing the sale of noncontiguous lands, the railroads were constrained to sell the 
+land for agricultural uses.31
+Furthermore, each railroad grant stated that “all lands hereafter granted in 
+aid of railways be sold by State or corporation to actual settlers, in quantities no 
+greater than one quarter-section, to any one person” (Cong. Globe, 40th Cong., 
+2d Sess., p. 4429 [1868]). This clause for railroad land grants aligned it with the 
+1862 Homestead Act, which stated that the lands were to go to “actual settlers,” 
+private individuals who would farm and live on the land (An Act to Secure 
+Homesteads to Actual Settlers on the Public Domain, Pub. Law No. 37-64, 12 
+Stat. 392). Like homesteads, the railroad lands were to be sold in small 160-acre 
+quarter sections and to only one person. This was intended to have a family living 
+on every quarter section sold, just like homesteads. Along a similar line, when the 
+land grant railroad came upon a squatter, the settler’s possession was recognized 
+to maintain occupation, and the railroad was given similar sized lands outside the 
+land grant swath.
+Two features of railroad grants encouraged fast construction. First, payment of 
+the grant was not made until construction of a given amount of track was com-
+pleted and inspected (patented), which had the obvious benefit of removing a 
+major moral hazard on the part of the railroad. Had payments been made first, 
+railroads would have delayed construction until it was privately profitable to lay 
+29 It is beyond the scope of this paper, but 1862 also saw the passage of the Morrill Land Grant 
+Acts, which allowed for the creation of land grant colleges on the frontier.
+30 As noted above, homesteads were to be given to citizens who had not borne arms against the 
+United States, which would have kept many from the South out of western settlement.
+31 In some land grants (like those associated with the Northern Pacific), the railroad was not al -
+lowed to select mineral lands in lieu of granted land but was allowed to select agricultural lands (Ellis 
+1948, p. 53).
+
+--- Page 13 ---
+ Property Rights  263
+the track.32 Second, every railroad land grant came with a time limit. 33 Railroads 
+had to complete the contracted amount of track or face having the land grant re-
+voked. This was not an idle threat, and many lands were recovered.34
+A final institutional feature of railroad land grants was that the size of the 
+grants could vary across the different grants and within a specific grant. Accord-
+ing to the model, low land values in a territory required larger grants to convince 
+settlers to homestead early. Table 1, shows that, across the different railroad sys-
+tems, both the Northern Pacific and Southern Pacific received grants of 20–40 
+sections per mile, which were larger than grants to the other systems. Such grants 
+were necessary because northern and desert lands were the lowest valued in the 
+West. In addition, three railroads had land grants that varied in size along the 
+route. The Atchison, Topeka, and Santa Fe received 10 sections per mile across 
+high-valued Kansas but 20 sections per mile across low-valued New Mexico. 
+Likewise, the Southern Pacific land grant railroad received 40 sections per mile 
+across the deserts of New Mexico and Arizona but only 20 sections per mile in 
+California. Although the Northern Pacific railroad grant had a range of 20–40 
+sections per mile, 40 were given along the entire route, likely because the north-
+ern lands were of uniformly low value.35
+Institutional details for homesteads are also consistent with the hypothesis. 
+Having settlers remain on the land for 5 years meant that the land was occupied 
+and frustrated the claims of others. Requiring a home to be built and the land to 
+be improved created sunk investments that would be lost if the land was aban-
+doned (for details on the incentives, see Allen 1991a). One institutional detail rel-
+evant to railroads was that the size of the homestead could vary. From Figure 3, if 
+the arrival isoline becomes steeper than 1 (the marginal product of railroad land 
+grants becomes greater than the homestead subsidy), then the homesteading sub-
+sidy should be reduced. This was most likely to occur for lands next to the rail-
+road or in a townsite. Consistent with this, it was not uncommon for homesteads 
+within the railroad band to be limited to 80 acres, and homesteads near townsites 
+were often between 20 and 40 acres (Engerman 1972, p. 461).
+Every institutional incentive was given to the railroads to build and settle ter-
+ritory quickly, despite the high costs. 36 Furthermore, the railroad land grants en-
+32 Indeed, this was often the case for indemnity lands held by the railroads. When such lands were 
+secured by the railroad, they often sat on them for decades, waiting for the privately optimal time to 
+develop them. See Haney (1968) and Ellis (1948).
+33 An interesting timing feature is found in the first land grants given to the Union Pacific and 
+Central Pacific Railroads. Conspicuous by its absence from the original grants, no meeting place was 
+established ahead of time. This meant that each railroad rushed construction to lay as much track as 
+possible until they met in 1869.
+34 See Ellis (1948) for a detailed history of the fight to recover the Oregon and California railroad 
+land grants. Ellis (1948, p. 254) notes that “the whole justification for land grants rested on this pro -
+vision.”
+35 Even so, the Northern Pacific Railroad ultimately failed.
+36 It is beyond the scope of this paper to analyze every land grant railroad system; however, the 
+locations of the land grant railroads are consistent with the hypothesis: they essentially spanned the 
+top, middle, and bottom of the country. That is, they were spread out and not concentrated in safe 
+territories.
+
+--- Page 14 ---
+264 The Journal of LAW &  ECONOMICS
+couraged the settlement of farmers on relatively small plots, living on the land 
+year round, improving it, and protecting it against outside forces.
+4.3. Railroads, Homesteading, and Land Sales
+According to the model, in a territory of tenuous sovereignty, homesteading 
+should have occurred near the railroad, homesteading should have taken place 
+before the railroad was completed, and any land sales should have lagged home-
+steading in both time and space. This last implication is a critical test of the prop-
+erty rights hypothesis. In principle, land sales and homesteading could occur at 
+the same time and in the same area because all of the land for settlement was 
+available for sale. However, when legal property rights to land are tenuous, in-
+dividuals are unwilling to purchase land. Thus, homesteading should have taken 
+place first and on the edge of the frontier where ownership was least certain, and 
+therefore lagging cash sales of federal land are a litmus test of newly established 
+economic property rights.
+Until recently, data on land settlement were limited and of low quality.37 How-
+ever, the Bureau of Land Management (BLM) has digitized and made available all 
+of its historical land patent files. The BLM files contain information on land par-
+cels that were transferred from the federal government to various parties. Among 
+other details, each digitized BLM patent record specifies whether the land was 
+given away as a homestead or sold, provides the location of the property accord-
+ing to the PLSS address, and shows the year the land title was transferred. 38 The 
+BLM records were matched with PLSS records for each state in question. The 
+PLSS files are ArcMap shapefiles that contain the PLSS address for every section 
+in the state. The two files were matched using the section’s address, and so re-
+cords that do not match are parcels that remained untaken. This matching not 
+only allows each BLM record to be geo-referenced and mapped, but it also creates 
+a data set that contains every section of land in a state: those transferred to private 
+parties and those untaken.
+I test the model using the land patent files from 1862 to 1890 along and around 
+the First Transcontinental route (Figure 4).39 The First Transcontinental Railroad 
+was made up of the Union Pacific and the Central Pacific Railroads. Construc-
+tion began on the ends (Omaha, Nebraska, and Sacramento, California) in 1864 
+and concluded in 1869 when the two sections met at Promontory Summit, Utah 
+Territory.
+I divide the settlement analysis into three parts. First, I analyze the settlement 
+in Nebraska in some detail to provide intuition on the relationship between 
+37 In just 2008, Edwards (2008, pp. 181–82) stated, “Data available to scholars on homesteading 
+are of very poor quality—inconsistent, unreliable, inaccessible, incomplete. . . . When scholars look 
+for data on homesteading, there are seven basic sources. Unfortunately, each is seriously flawed.”
+38 See the Appendix for details. For land that was sold, the year of title is the same as the year of 
+sale. For land that was homesteaded, the title was given 5 years after it was first settled.
+39 See the Appendix for details. The year 1862 is the starting point of both the railroad and home -
+stead legislation. The year 1890 was chosen because by that time an expectation of ownership was 
+well established.
+
+--- Page 15 ---
+ Property Rights  265
+homesteading and cash sales in time and space. Next I consider the settlement 
+in Nebraska, South Dakota, and Kansas because they are essentially on the same 
+longitude. Finally, I examine settlement in all of the states along the Union Pacific 
+line and exploit exogenous shocks to the populations in California, Nevada, and 
+Utah.
+4.3.1. Nebraska
+Figure 5 shows 2-year snapshot maps of Nebraska. The points are homestead 
+arrivals, with the Union Pacific also mapped. The westward progression of home-
+steaders across the state from 1864 (the year of the first arrivals) to 1890 is ob-
+vious. Homesteaders settled the more valuable eastern lands first, and the maps 
+show that settlers followed the Union Pacific.40
+Figure 6 shows another pattern of settlement: for any given year, cash sales of 
+quarter sections were east of the homesteads in that year. The central mass of the 
+homesteads always lies to the west of the cash sales for every year between 1862 
+and 1890. The patterns in Nebraska for 1872–90 are consistent with the model: 
+homesteaders settled before the railroad was finished in 1869 but not until the 
+Union Pacific was legally formed in 1864, and homesteading preceded land sales 
+in both time and space.
+Using ArcGIS (see the Appendix), I calculate the distance between each home-
+stead and the nearest railroad. Table 2 shows the number of homesteaders in five 
+bins between 1864 and 1890 who located within increasing 10-mile bands of the 
+sections of Union Pacific Railroad that existed in 1869. Across the bins, most 
+homesteaders were within 50 miles of a railroad, and more than 40 percent were 
+40 The settlers also followed the major rivers: the Missouri River along the eastern border, the 
+Platte River through the  middle, the Republican River to the south, and the Loup and Elkhorn Riv -
+ers north of the Platte.
+Figure 4. The first transcontinental railroad, 1869
+
+--- Page 16 ---
+Figure 5. Railroads and homesteads in Nebraska, 1864–90
+Figure 6. Homesteads and cash sales in Nebraska, 1870–72
+
+--- Page 17 ---
+ Property Rights  267
+within 20 miles.41 Interestingly, homesteaders settled close to the future railroad 
+when they arrived in 1864—years before most of the track was in operation. Fi-
+nally, Table 2 shows that homesteaders started to settle immediately.
+4.3.2. Settlement across South Dakota, Nebraska, and Kansas
+A natural experiment exists across Kansas, Nebraska, and South Dakota to for-
+mally test the model. The three states are approximately on the same longitude, 
+but each experienced different patterns of railroad expansion, both in terms of 
+the timing and total amount of rail. Figure 7 shows the growth of railroads be-
+tween 1869 and 1890 and the progression of homesteads over the same time pe-
+riod.42 Although Nebraska had the first transcontinental railroad, Kansas quickly 
+surpassed Nebraska in the amount of track. In contrast, South Dakota lagged in 
+total track and over much of the period had almost no rail lines. Almost all of the 
+railroads in 1880 were land grant railroads, and almost all of the expanded tracks 
+in 1890 were trunk lines that did not receive federal land grants.
+The pattern of homestead expansion in South Dakota and Kansas is similar 
+to that in Nebraska in that it moves in a northwest direction, arrives before the 
+railroad line is in operation, and is most dense along the railroad lines and water-
+ways. Figure 7 shows how dramatic settlement was. Of the lands made available 
+to settlers in those states, virtually every region was occupied within 28 years of 
+the 1862 Homestead Act and the first railroad land grants.43
+41 Here one advantage of the new patent data is apparent. Looking at only the legislated land that 
+was available for homesteading, Gates (1954, p. 242) claims that “most of the homestead lands were 
+distant from railroads . . . [and] farm making on them was hazardous.” In fact, Table 2 shows that 
+the lands distant from the Union Pacific were less likely to be homesteaded.
+42 The 1890 homestead map shows large white patches, particularly in eastern and southern Kan -
+sas, west-central Nebraska, and western South Dakota. In Nebraska, most of that land is arid, with 
+few major streams, and hence is of low value. In Kansas, significant military warrant patents were 
+given in the eastern section of the state during the 1850s and 1860s, along with land for reservation. 
+The wide swath of land in southern Kansas along the Oklahoma border was called the Neutral Tract 
+and was made up of Cherokee holdings, Indian Territory, the Osage reservation, and other native 
+lands. There were no tracts allocated to homesteaders in this 52.5-mile swath, and the state used 
+force to keep out squatters and preemptors. Later, and after the West was secured, the land was sold 
+to settlers and railroads under various treaties and special acts. See Gates (1954, pp. 153–93, 231) 
+for a detailed discussion of the “settler-railroad war on the neutral tract.” The western South Dakota 
+lands were mostly held by Sioux reservations.
+43 Much of South Dakota was set aside for reservations and was not open to homesteaders.
+Table 2
+Arrivals of Homesteaders in Nebraska
+Distance to Railroad By 1864 1865–69  1870–80 1881–90
+10 Miles 113 1,789 7,436 5,662
+11–20 Miles 98 1,881 7,348 4,629
+21–30 Miles 83 1,941 5,908 5,376
+31–40 Miles 39 915 5,554 4,367
+41–50 Miles 1 270 4,667 4,125
+ Total homesteaders 369 7,265 37,056 46,543
+
+--- Page 18 ---
+268 The Journal of LAW &  ECONOMICS
+I use the geo-referenced BLM homestead record information to test the key 
+predictions of the model. To begin, consider Figure 8, which shows the Kaplan- 
+Meier nonparametric estimator of various survivor functions. 44 Each survivor 
+function is based on a particular sample: lands homesteaded, lands sold but close 
+to the railroad, and so on, and each survivor function describes how fast the lands 
+in the sample were taken. Figure 8A shows that the survival function for home-
+steaded lands always lies under the survival function of lands purchased—which 
+means that homesteads were taken faster than lands were sold. Figure 8B sep-
+arates the survival functions by type of settlement and whether the lands were 
+within 50 miles of a railroad. 45 Regardless of the distance to the railroad, home-
+steaded lands were taken sooner, and homesteaded lands close to the railroad 
+were taken first.
+44 A survivor function shows the probability of a plot of land not being taken by a moment in time 
+(measured in days since 1862).
+45 Changing the dividing distance for close and far makes no difference in the qualitative rankings 
+of the survival functions.
+Figure 7. Expansion of railroads and homesteads in Kansas, Nebraska, and South Dakota
+
+--- Page 19 ---
+ Property Rights  269
+To examine the effects of covariates on the probability that a plot of land was 
+homesteaded, Table 3 reports results from five logit regressions for which the de-
+pendent variable equals one if a given section of land was homesteaded and zero 
+if sold for cash. 46 (See the Appendix for definitions and summary statistics.) The 
+regressions differ in the reference railroads used for closeness and in the sample 
+used. Regressions in columns 1–3 contain the full sample of land patents from 
+46 Thus the sample includes only lands that were homesteaded or sold. The Online Appendix 
+shows proportional hazard models rather than logit models. In the proportional hazard models, 
+the samples include plots that were never taken. The Online Appendix also includes two alternative 
+measures for distance to railroads (10-mile bins and log of distance). In all cases, the results are qual-
+itatively identical.
+Figure 8. Kaplan-Meier survival rates
+
+--- Page 20 ---
+Table 3
+Logit Regressions for Homesteads versus Cash Sales
+Variable
+All Land Patents 1862–90 Patents  
+by 1869
+(4)
+Patents  
+by 1880
+(5)(1) (2) (3)
+Miles from 1869 Railroad −.1553** −.3083**
+(.0019) (.0130)
+Miles2 from 1869 Railroad −.0005** −.0099**
+(.00005) (.0011)
+Miles from 1880 Railroad −.2310** −.3245**
+(.0024) (.0101)
+Miles2 from 1880 Railroad −.0005** .0066**
+(.0001) (.0015)
+Miles from Land Grant Railroad in 1890 −.0471**
+(.0020)
+Miles2 from Land Grant Railroad in 1890 −.0005**
+(.0000)
+Miles from Trunk Railroad in 1890 .0957**
+(.0016)
+Miles2 from Trunk Railroad in 1890 −.0011**
+(.0000)
+Arrival Date −.1653** −.2013** −.190** −.2418** −.0215**
+(.0007) (.0008) (.0007) (.0081) (.0020)
+Longitude .4355** .6915** .3881** 1.2838** .9927**
+(.0025) (.0032) (.0025) (.0205) (.0081)
+Latitude .9569** .7772** .5800** .1077** 1.1039**
+(.0046) (.0040) (.0037) (.0199) (.0080)
+Total Track 1.0542** 1.2589** .5412** −.9613** 1.8914**
+(.0187) (.0122) (.0044) (.0682) (.0227)
+Water Distance .1045** .0330** .0593** .3369 .1961
+(.0017) (.0017) (.0016) (.0141) (.0062)
+Soil Quality .0097** −.0175** .0250** .0528** .0062**
+(.0011) (.0011) (.0011) (.0039) (.0024)
+Poor Terrain −.0155** .0080** −.0011** .0136 .0111
+(.0005) (.0006) (.0005) (.0327) (.0009)
+N 529,482 529,482 529,482 36,907 178,172
+Pseudo R2 .23 .23 .20 .19 .30
+Note. The states are South Dakota, Nebraska, and Kansas. Standard errors are in parentheses. All regressions include state fixed effects.
+** Significant at the 1% level. 
+
+--- Page 21 ---
+ Property Rights  271
+1862 to 1890, while regressions in columns 4 and 5 contain only land patents of 
+those who arrived by 1869 or 1880, respectively. Regressions in columns 1 and 4 
+use the 1869 railroad (essentially the initial Union Pacific line) as the reference 
+for closeness. That is, miles from a railroad is the distance between any land grant 
+to this railroad (measured in tens of miles). Regressions in columns 2 and 5 use 
+the railroads in 1880 as the reference for closeness. Finally, for the regression in 
+column 3, the distance to both the land grant railroads and the trunk lines in 
+1890 are used for the measure of closeness.
+Across the regressions, the coefficient for distance to a land grant railroad is 
+negative and statistically significant, which implies that homestead lands were lo-
+cated closer to railroads than cash sale lands. 47 Lands allocated for homesteading 
+close to railroads are more valuable and therefore more subject to rushing. When 
+sold, those lands sold at a higher price, and at the margin land purchasers might 
+have considered other locations preferable. Second, although homesteads were 
+located close to the railroads that received land grants, column 3 shows they were 
+farther from trunk railroads. The trunk lines were built on the eastern side of the 
+states, where settlement supported a profitable railroad without a subsidy. Given 
+the higher density of population, there was no question of economic ownership, 
+and therefore the state reduced homesteading in that area and resorted to cash 
+sales. Homesteading was used only with land grant railroads on the frontier.
+The regressions show two further results consistent with establishing the prop-
+erty rights hypothesis. First, the variable Arrival Date is negative in all regres-
+sions, which means that homesteaders arrived on their lands before other lands 
+were purchased—cash sales lagged homesteading in time. Second, homesteading 
+preceded cash sales in space. In every regression, the coefficients for Longitude 
+and Latitude are large and positive, which indicates that the homesteaders were 
+west and north of the cash sales. 48 Thus, homesteaders were on the western edge 
+of the frontier establishing ownership, and the land being sold was behind the 
+front line, as shown in Figure 6 for Nebraska.
+Finally, Table 3 reports the results for four measures of general land quality: 
+total rail track in the state, the distance to a major stream, soil quality, and rough-
+ness of terrain for each section (see the Appendix for details). For the most part, 
+higher-quality land along these margins induced homesteading, but not always. 
+The coefficient for Water Distance is always positive, which means that lands far-
+ther from major streams were more likely to be homesteaded than sold. The more 
+consistent results for distance to a railroad suggest that the state had an extra 
+interest, above mere land quality, in surveying and allowing homesteading near 
+railroads—even though it meant larger dissipations of land values through rush-
+ing. The evidence from these three states is consistent with the homestead and 
+47 To provide some context, for the regression in column 1 the marginal effect of distance evalu -
+ated at the mean of the dependent variable (taking into account all interactions) is − .0379, which 
+means that there is a decrease of about 3 percent in the chance that a plot of land will be home -
+steaded for every 10 additional miles the plot is from the railroad track in 1869.
+48 Both latitude and longitude are measured in decimal degrees. However, the absolute value of 
+longitude is used in the regression, and therefore a positive coefficient means west.
+
+--- Page 22 ---
+272 The Journal of LAW &  ECONOMICS
+railroad acts being complementary programs to settle the West quickly and to 
+establish rights that would allow land markets to function.49
+4.3.3. Homesteading and Cash Sales along the Transcontinental Route
+Examining homestead and cash sale settlements along the entire transconti-
+nental route allows the exploitation of exogenous differences in populations 
+across the five states involved. In particular, the two eastern states (Nebraska and 
+Wyoming) are strikingly different from the other three (California, Nevada, and 
+Utah) in terms of the expectation of federal sovereignty in the 1860s. Whereas the 
+situation in Wyoming was similar to that in South Dakota, Nebraska, and Kan-
+sas, the three western states had positive exogenous population shocks prior to 
+homesteading. California experienced the gold rush of 1849, Nevada had a silver 
+rush in 1876–77, and in Utah Mormon settlement started in 1847.50 Although the 
+question of sovereignty existed for all of the western states in 1860, to the extent 
+that some states had resident settler populations already, they were more secure. 
+In such states there should have been less homesteading relative to cash sales, the 
+railroads should have been less important for homestead settlement, and home-
+steads should not necessarily have preceded cash sales in time because miners 
+would have found cash sales preferable to homesteads since they would gain full 
+rights to the land immediately and without having to cultivate it. 51 In addition, 
+homesteading did not simply move from east to west. Homesteading should 
+move from the borders of secured territory into less secured territory. Since fed-
+eral rights were relatively secure on the western edge of the railroad (Sacramento) 
+as well as on the eastern edge (Omaha), it is predicted that homesteading should 
+have preceded cash sales from the outside toward the middle.
+Table 4 presents the results of logit regressions formatted similarly to those 
+in Table 3, with the five states divided by region. 52 As in Table 3, in all four re-
+gressions the population is represented by homesteads or cash sales from 1862 to 
+1890. Regressions in columns 1 and 3 use the tracks in place by 1872, and regres-
+sions in columns 2 and 4 use the 1890 tracks.53
+Since, in 1860, Nebraska and Wyoming were in the same sovereignty situa-
+tion as South Dakota, Nebraska, and Kansas, not surprisingly columns 1 and 2 
+in  Table 4 show results similar to those in Table 3. Homesteads were placed close 
+49 This result stands in sharp contrast to the common historical complaint that railroad land 
+grants inhibited homesteaders by making large tracts of land unavailable (see, for example, Hibbard 
+1924).
+50 According to the US Census Bureau, in 1860 the nonnative populations were 379,994 in Cali -
+fornia, 6,857 in Nevada, 40,273 in Utah, 0 in Wyoming, and 28,841 in Nebraska.
+51 To the extent that miners and Mormons were squatters on the federal lands, the preemption 
+laws would have allowed them to purchase their lands.
+52 The results do not change if the states are considered independently.
+53 Unlike Table 3, the railroad files do not allow an accurate identification of land grant tracks and 
+trunk lines for California in 1890, and so the 1890 rail lines are lumped together. The year 1872 is 
+used rather than 1869 as the earlier year because that was the first year the entire Union Pacific line 
+was in full operation across the five states, according to the railroad shapefile.
+
+--- Page 23 ---
+ Property Rights  273
+Table 4
+Logit Regressions for Homesteads versus Cash Sales by Location
+Variable
+Nebraska and Wyoming California, Nevada, and Utah
+(1) (2) (3) (4)
+Miles from 1872 Railroad −.2326** −.019**
+(.0044) (.0014)
+Miles2 from 1872 Railroad −.0090** .0002
+(.0002) (.00004)
+Miles from 1890 Railroad −.2326** −.0453**
+(.0044) (.0029)
+Miles2 from 1890 Railroad .0009** .0014**
+(.0002) (.0002)
+Arrival Date −.128** −.128** .049** .051**
+(.001) (.001) (.0005) (.0005)
+Longitude .358** .358** −.103** −.093**
+(.004) (.004) (.003) (.003)
+Latitude .384** .385** .010** .035**
+(.009) (.009) (.003) (.003)
+N 144,964 144,964 304,451 304,451
+Pseudo R2 .11 .11 .04 .04
+Note. Standard errors are in parentheses. All regressions include state fixed effects and land quality 
+variables.
+** Significant at the 1% level.
+to railroad lines, preceded cash sales, and moved from east to west. In the three 
+western states, it is still the case that a given plot of land was more likely home-
+steaded when close to a railroad—the coefficients for the miles from railroad vari-
+ables remain negative. 54 However, other differences emerge that are consistent 
+with the model’s predictions, given the geographical and historical differences 
+of the states. First, Longitude now has a negative sign, so clearly homesteading 
+moved ahead of cash sales in space from west to east, that is, in the opposite di-
+rection from the eastern states of Nebraska and Wyoming. Second, Arrival Date 
+is positive for the western states; that is, cash sales occurred on average before 
+homesteading, because the first settlers were miners and Mormons who would 
+have exercised their preemptive rights to purchase their lands.
+4.4. Oklahoma: Homesteading without Railroad Land Grants
+One final implication of the model is that as land values increased, railroad 
+land grants should have been reduced in size and at some point not be used at all. 
+When land values were high, settlers were willing to immediately homestead, and 
+therefore railroad land grants were not needed. Oklahoma’s unique history pro-
+vides a natural experiment to test this implication.
+54 Although not reported, the land quality variables have weakly robust estimates similar to those 
+in Table 3, which again suggests that homesteading next to railroads involved more than land quality.
+
+--- Page 24 ---
+274 The Journal of LAW &  ECONOMICS
+Oklahoma was originally the quasi-sovereign Indian Territory established by 
+President Andrew Jackson, who “exchanged” it for the southern lands of people 
+referred to at the time as the Five Civilized Tribes. These tribes were forcibly re-
+moved from 100 million acres in the South and began their Trail of Tears journey 
+west for $68 million and 20 million acres in the Indian Territory (Wickett 2000, 
+pp. 3–4). The process was not peaceful, and some fighting lasted until 1842. In 
+the 1860s other tribes from the western plains were also relocated to the territory, 
+and most settled in the eastern portions, despite having lands across the territory. 
+The Indian Territory ended up having the largest concentration and total popula-
+tion of Native Americans compared with any other state.
+Over the last decades of the 19th century, as the surrounding states became 
+settled, the unoccupied lands in the western half of the Indian Territory were 
+continuously encroached by squatters, ranchers, and various outlaws. 55 Squat-
+ters organized themselves into groups of boomers who attempted to take Native 
+American lands en masse, which led to confrontations that had to be resolved 
+through force. Throughout the 1870s and 1880s, the confrontations increased.56
+In the 1880s, several acts of Congress (for example, the Dawes Act), forced 
+the 30 tribes then living in the territory to sell the western, generally unoccupied 
+lands. This gave the federal government legal title to the western part of the terri-
+tory, but it was clearly a case of tenuous ownership given the forced sale, ongoing 
+western hostilities, and potential for conflict with the tribes. Once again, the solu-
+tion was quick occupation through homesteading. Between April 22, 1889, and 
+July 9, 1901, seven large blocks of land constituting about half of the state were 
+opened to homesteading.57
+Because these giveaways of land took place relatively late in the frontier settle-
+ment process, during a time when neighboring states like Kansas were essentially 
+settled and railroads already crisscrossed the West, the lands were already valu-
+able enough for immediate rushing; that is, individuals were willing to purchase 
+the lands at a positive price. As a result, by all accounts, the rush was immediate, 
+and the Oklahoma land rushes are now well entrenched in popular culture as the 
+exemplar of homesteading behavior. What was absent from Oklahoma were rail-
+road land grants. None were given, as the model predicts.
+5. Conclusion
+The conclusion to be drawn from this analysis is that despite the fre-
+quent obituary notices, the “land-grant legend” is still alive. While  
+55 Thompson (1986, pp. 5–7) argues that smugglers, bootleggers, bank robbers, and cattle rustlers 
+all found the unoccupied western territory lands an attractive place to hide from federal law enforce-
+ment.
+56 Wickett (2000, pp. 48, 200) notes that “the United States government diligently tried to remove 
+as many illegal white squatters from Indian lands as possible,” but the state was too large for the 
+tribes or the state to police.
+57 Without considering the benefits of establishing economic ownership, the aggressive home -
+steading in Oklahoma is especially puzzling given that it followed immediately after the govern -
+ment’s purchase of the land.
+
+--- Page 25 ---
+ Property Rights  275
+there have been recent advances in the discussion of the reasons 
+for subsidy and in the measurement of social benefits and costs, 
+we are left with a sufficient number of questions to regard the final 
+evaluation of the land-grant policy as still open. (Engerman 1972, 
+p. 463)
+The question regarding land in aid of railroads that was never asked or an-
+swered was why the most valuable land was used to create a dissipating rush onto 
+the frontier. Here I have argued that previous researchers missed the objective of 
+the federal government (to establish economic property rights) and failed to see 
+how the use of two types of land grants allowed individual incentives among set-
+tlers and railroads to fall into a rushing equilibrium that was incentive  compatible 
+with the objective of the federal government. Had western lands been secure, 
+there would have been no railroad land subsidy or homesteading.58
+Instead, earlier economists criticized the use of land in aid of railroads be-
+cause the value of the railroad was linked to the value of the land. Although they 
+showed that the rates of return to railroads from building transcontinental lines 
+in exchange for millions of acres of land were close to 0 on average, they failed to 
+see that this was the outcome of a rushing equilibrium. Indeed, this dissipation 
+was the major cost of allocating the land to railroads on a first-possession basis.
+Even though homesteading and railroad land grants were costly in terms of 
+dissipations created through rushing, from the point of view of the United States 
+(particularly the northern states), the costly exercise was rational. Indeed, the 
+rush was so successful and complete that within 30 years there was no doubt as to 
+the economic owner of the West, and the speed and overwhelming success led to 
+the ironic creation of legends of overpayment.
+Aside from matters of ownership, it makes no sense to increase the risk of op-
+erations to the railroad or to dissipate the value of western lands. However, rush-
+ing reinforced legal claims through occupation, and using land as the prize of first 
+possession provided railroads and settlers the right incentives to build and move 
+west quickly.
+Various forms of evidence have been shown consistent with this theory. The 
+institutional details of both types of land grants, and the specific details of the 
+Union Pacific, created incentives for a rushed occupation. Likewise, a detailed 
+analysis of the pattern of homesteading and cash sales along the Union Pacific 
+shows that the two types of land grants were complementary and used together 
+and that cash sales lagged in time and space. Finally, the case of Oklahoma pro-
+vides a type of falsification test: when high land values made homesteading arrive 
+immediately, no railroad grants were used.
+58 Three states met this condition: Hawaii, Maine, and Alaska. See Allen (1991a) for a discussion 
+of Maine and Alaska and the absence of homesteading.
+
+--- Page 26 ---
+276 The Journal of LAW &  ECONOMICS
+Appendix
+Data
+The federal land patent data are from the BLM. 59 The BLM files contain the 
+records of every parcel of federal land that was transferred to private individuals, 
+corporations, tribes, or any other agency. The records include the legislative type 
+of transfer, such as homestead grants, railroad grants, cash sales, Indian allot-
+ments, and so on (there are hundreds of types).
+These files also contain the PLSS locations for each land patent. The PLSS iden-
+tifies a plot of land through aliquot part, section, township, and range number. 
+As lands are subdivided, the aliquot parts become very complicated. Hence, in 
+the BLM records, for example, one Nebraska plot is described as SW1/4 NW1/4 
+16 T17N R8E, which is the southwest 40 acres in the northwest quarter section 
+of section 16 in township 17 north, range 8 east. Since 98.8 percent of the home-
+steads consisted of 160 acres, the aliquot parts are ignored, and the geographic 
+center of the section is used as the location of each quarter. The unit of analysis is, 
+therefore, the section, and a given section often has multiple homesteaders in it.
+The BLM files are divided into multiple CSV files and are linked by an identifi-
+cation number. The files were merged, and then all homestead, Indian allotment, 
+military warrant, railroad grant, and state or territory allotment transfers were se-
+lected. For the years 1860–90, these comprise almost 100 percent of the transfers. 
+The new file was then matched with state PLSS files to determine which sections 
+were empty and to geo-reference the data.
+Once the file was entered into ArcGIS, various shapefiles were added to build 
+the final data set. The important railroad information was created by Atack 
+(2016). The elevation data used to create the variable for poor terrain are from the 
+Natural Resources Conservation Service, and the soil quality data are from the 
+productivity index grid.60
+For this project, the Contiguous USA Albers projection was used to generate 
+distance measurements between the centers of each section to the nearest object 
+specified (for example, a railroad or stream). For latitudes and longitudes, the 
+North American Datum 1983 geographic coordinate system was used to calcu-
+late the decimal degrees. The definitions of variables are found in Table A1, while 
+some summary statistics are provided in Table A2.
+59 The records can be downloaded from US Department of the Interior, Bureau of Land Manage -
+ment, Bulk Data (http://www.glorecords.blm.gov/BulkData/default.aspx).
+60 For data on elevation, see Natural Resources Conservation Service, Geospatial Data Gateway 
+(https://datagateway.nrcs.usda.gov/); for data on soil quality, see Bradley Miller, Productivity Index 
+Grid (Conterminous U.S.) (https://www.geographer-miller.com/productivity-index-grid/).
+
+--- Page 27 ---
+Table A1
+Definitions of Variables
+Variable Definition
+Homestead Equals one if the land was homesteaded and zero if the land was sold
+Miles from 18XX Railroad Shortest distance in tens of miles between the center of a section and a 
+reference railroad (that is, the railroads in 1869, 1880, or 1890)
+Arrival Date Date the patent was signed by the owner if the land was sold or 5 years 
+prior to the date the patent was signed by the owner if homesteaded
+Latitude Decimal degrees of latitude for the center of a section
+Longitude Absolute value of the decimal degrees of longitude for the center of a 
+section
+Total Track Miles of track in operation, by year, in a given state
+Water Distance Shortest distance in miles between the center of a section and a major 
+stream
+Soil Quality Index variable that ranges from 0 to 19 and measures agricultural soil 
+quality
+Poor Terrain Standard deviation of elevation in a given section
+Table A2
+Summary Statistics
+Three-State Sample Five-State Sample
+Variable Mean Max Min Mean Max Min
+Homestead .455 1 0 .384 1 0
+Miles from 1869 Railroad 8.75 33.69 .006
+Miles from 1872 Railroad 6.77 43.58 .001
+Miles from 1880 Railroad 4.31 30.51 .0
+Miles from 1890 Railroad .58 7.39 .0 3.78 32.2 .0
+Distance to railroad:
+ 10 Miles .115 1 0
+ 11–20 Miles .085 1 0
+ 21–30 Miles .100 1 0
+ 31–40 Miles .093 1 0
+ 41–50 Miles .088 1 0
+ Arrival Date 1882 1890 1862 1879 1890 1862
+Latitude 40.75 45.93 37.0 39.07 44.9 32.5
+Longitude 98.64 104.05 94.60 114.2 124.3 95.5
+Total Track 1869 864.9 1,589.7 0 1,319.4 1,515.9 504.95
+Total Track 1872 1,319.4 1,515.9 504.95
+Total Track 1880 1,326.2 2,174.5 125.1
+Total Track 1890 5,868.6 8,447.5 2,661.9 4,241 5,171.8 963.7
+Water Distance 1.6 21.2 .0 3.22 50.7 .0
+Soil Quality 12.81 .0 18 9.02 .0 19
+Poor Terrain 6.7 0 177.5 45.56 0 835.7
+Note. The three-state sample includes Kansas, Nebraska, and South Dakota. The five-state sample 
+includes California, Nevada, Utah, Wyoming, and Nebraska.
+
+--- Page 28 ---
+278 The Journal of LAW &  ECONOMICS
+References
+Allen, Douglas W. 1991a. Homesteading and Property Rights; or, “How the West Was Re-
+ally Won.” Journal of Law and Economics 34:1–23.
+———. 1991b. What Are Transaction Costs? Research in Law and Economics 14:1–18.
+Allen, Douglas W., and Bryan Leonard. Forthcoming. Rationing by Racing and the Okla-
+homa Land Rushes. Journal of Institutional Economics.
+Anderson, Terry L., and P.J. Hill. 1975. The Evolution of Property Rights: A Study of the 
+American West. Journal of Law and Economics 18:163–79.
+———. 1983. Privatizing the Commons: An Improvement? Southern Economic Journal 
+50:438–50.
+———. 1990. The Race for Property Rights. Journal of Law and Economics 33:177–97.
+———. 2002. Cowboys and Contracts. Journal of Legal Studies 31:S489–S514.
+———. 2004. The Not So Wild, Wild West: Property Rights on the Frontier. Stanford, CA: 
+Stanford Economics and Finance.
+Anderson, Terry L., and Fred S. McChesney. 1994. Raid or Trade? An Economic Model of 
+Indian-White Relations. Journal of Law and Economics 37:39–74.
+Atack, Jeremy. 2016. Historical Geographic Information Systems (GIS) Database of U.S. 
+Railroads for 1869–1880 (computer file). Nashville: Vanderbilt University. https://my 
+.vanderbilt.edu/jeremyatack/data-downloads/.
+Axelrod, Alan. 1993. Chronicle of the Indian Wars: From Colonial Times to Wounded 
+Knee. New York: Prentice-Hall.
+Barzel, Yoram. 1968. The Optimal Timing of Innovations. Review of Economics and Sta-
+tistics 50:348–55.
+———. 1974. A Theory of Rationing by Waiting. Journal of Law and Economics 17:73–95.
+———. 1997. Economic Analysis of Property Rights. 2d ed. Cambridge: Cambridge Uni-
+versity Press.
+Bloch, Francis, and David Cantala. 2017. Dynamic Assignment of Objects to Queuing 
+Agents. American Economic Journal: Microeconomics 9:88–122.
+Clawson, Marion. 1970. Uncle Sam’s Acres. Westport, CT: Greenwood Press.
+Demsetz, Harold. 1967. Toward a Theory of Property Rights. American Economic Review 
+57:347–59.
+Dennen, R. Taylor. 1976. Cattlemen’s Associations and Property Rights in Land in the 
+American West. Explorations in Economic History 13:423–36.
+Dillon, Richard H. 1984. Indian Wars, 1850–1890. New York: Park South Books.
+Donaldson, Dave, and Richard Hornbeck. 2016. Railroads and American Economic 
+Growth: A “Market Access” Approach. Quarterly Journal of Economics 131:799–858.
+Edwards, Richard. 2008. Why the Homesteading Data Are So Poor (and What Can Be 
+Done about It). Great Plains Quarterly 28:181–90.
+Ellis, David Maldwyn. 1948. The Oregon and California Railroad Land Grant, 1866–1945. 
+Pacific Northwest Quarterly 39:253–83.
+Emery, J. C. Herbert, and Kenneth J. McKenzie. 1996. Damned If You Do, Damned If You 
+Don’t: An Option Value Approach to Evaluating the Subsidy of the CPR Mainline. Ca-
+nadian Journal of Economics 29:255–70.
+Engerman, Stanley L. 1972. Some Economic Issues Relating to Railroad Subsidies and the 
+Evaluation of Land Grants. Journal of Economic History 32:443–63.
+Fogel, Robert W. 1960. The Union Pacific Railroad: A Case in Premature Enterprise. Balti-
+more: Johns Hopkins University Press.
+
+--- Page 29 ---
+ Property Rights  279
+———. 1964. Railroads and American Economic Growth: Essays in Econometric History. 
+Baltimore: Johns Hopkins University Press.
+Gates, Paul Wallace. 1954. Fifty Million Acres: Conflicts over Kansas Land Policy, 1854–
+1890. Ithaca, NY: Cornell University Press.
+Gordon, H. Scott. 1954. The Economic Theory of a Common-Property Resource: The 
+Fishery. Journal of Political Economy 62:124–42.
+Greever, William. 1951. A Comparison of Railroad Land-Grant Policies. Agricultural His-
+tory 25:83–90.
+Haney, Lewis H. 1968. A Congressional History of Railways in the United States. New York: 
+A. M. Kelley.
+Hansen, Zeynep K., and Gary D. Libecap. 2004. Small Farms, Externalities, and the Dust 
+Bowl of the 1930s. Journal of Political Economy 112:665–94.
+Hibbard, Benjamin H. 1924. A History of the Public Land Policies. New York: Macmillan.
+Hornbeck, Richard. 2010. Barbed Wire: Property Rights and Agricultural Development. 
+Quarterly Journal of Economics 125:767–810.
+Krooss, Herman E. 1966. American Economic Development. 2d ed. Englewood Cliffs, NJ: 
+Prentice-Hall.
+Leonard, Bryan, and Gary Libecap. 2019. Collective Action by Contract: Prior Appropri-
+ation and the Development of Irrigation in the Western United States. Journal of Law 
+and Economics 62:67–115.
+Lewis, Frank, and David R. Robinson. 1984. The Timing of Railway Construction on the 
+Canadian Prairies. Canadian Journal of Economics 17:340–52.
+Li, Hao, and Wing Suen. 2004. Self-Fulfilling Early-Contracting Rush. International Eco-
+nomic Review 45:301–24.
+Libecap, Gary D., and Dean Lueck. 2011. The Demarcation of Land and the Role of Coor-
+dinating Property Institutions. Journal of Political Economy 119:426–67.
+Lueck, Dean. 1995. The Rule of First Possession and the Design of the Law. Journal of Law 
+and Economics 38:393–436.
+———. 2002. The Extermination and Conservation of the American Bison. Journal of Le-
+gal Studies 31:S609–S652.
+Mercer, Lloyd J. 1982. Railroads and Land Grant Policy: A Study in Government Interven-
+tion. New York: Academic Press.
+Nichols, Roger L. 2013. Warrior Nations: The United States and Indian Peoples. Norman: 
+University of Oklahoma Press.
+Richardson, James D. 1902. A Compilation of the Messages and Papers of the Presidents. 
+Vol. 7. Washington, DC: US Congress.
+Sanborn, John Bell. 1899. Congressional Grants of Land in Aid of Railways. Madison: Uni-
+versity of Wisconsin.
+Southey, Clive. 1978. The Staple Thesis, Common Property, and Homesteading. Canadian 
+Journal of Economics/Revue canadienne d’economique 11:547–59.
+Stroup, Richard. 1988. Buying Misery with Federal Land. Public Choice 57:69–77.
+Suen, Wing. 1989. Rationing and Rent Dissipation in the Presence of Heterogeneous Indi-
+viduals. Journal of Political Economy 97:1384–94.
+Taylor, Jaworski, and Bart J. Wilson. 2013. Go West Young Man: Self-Selection and En-
+dogenous Property Rights. Southern Economic Journal 79:886–904.
+Thompson, John. 1986. Closing the Frontier: Radical Response in Oklahoma, 1889–1923. 
+Norman: University of Oklahoma Press.
+Thoburn, Joseph Bradfield, and Muriel H. Wright. 1929. Oklahoma: A History of the State 
+
+--- Page 30 ---
+280 The Journal of LAW &  ECONOMICS
+and Its People. New York: Lewis Historical Publishing Co.
+Umbeck, John. 1981. Might Makes Rights: A Theory of the Formation and Initial Distri-
+bution of Property Rights. Economic Inquiry 19:38–59.
+Utley, Robert M. 1984. The Indian Frontier of the American West, 1846–1890. Albuquer-
+que: University of New Mexico Press.
+White, Richard. 1991. “It’s Your Misfortune and None of My Own”: A History of the Amer-
+ican West. Norman: University of Oklahoma Press.
+Wickett, Murray R. 2000. Contested Territory: Whites, Native Americans, and African 
+Americans in Oklahoma, 1865–1907. Baton Rouge: Louisiana State University Press.

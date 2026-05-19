@@ -1,0 +1,18 @@
+---
+published: true
+title: Final Exam Questions
+---
+
+The final exam will be similar in format to the [Midterm Exam](https://canvas.instructure.com/courses/14011875/pages/midterm-materials "Midterm materials") with some multiple-choice questions followed by short and medium length essay questions. Unlike the midterm, where I gave you a long list of possible essay questions, the final exam will be drawn from a few of the following six questions (or very close variants of these):
+
+1\. What was the Industrial Revolution? Why do many scholars argue that it first happened in Britain? Discuss at least two interpretations.
+
+2\. Robert C. Allen argues that the USA, Germany and other parts of West Europe industrialized by employing "the standard model' of railways, tariffs, banks, and schools. Late industrializers including Russia, Japan would try to adapt the same model. Describe how the elements of this standard model and how the circumstances and strategies of these countries differed from Britain's earlier industrialization experience. Choose one (or more) of the countries mentioned to illustrate some of your points. 
+
+3\. "Malthus was right about roughly 58 of 60 centuries of civilization: living standards basically did not improve ... because any technological gains were swallowed by population pressure." Explain the underlying assumptions and logic of the Malthusian model using diagrams and intuitive explanations. What are the impacts of improved technology in a Malthusian economy?
+
+4\. There are ongoing debates about the role of colonization and slavery in explaining the rise of Europe and the Industrial Revolution, and the 'great divergence' in incomes across regions that we still observe today. Outline some of the arguments and evidence that has been presented in these debates, being careful to distinguish between arguments that say colonization and slavery contributed to development in the 'core' countries and those that argue it had lasting harmful effects on the "periphery". Try to be clear about the suggested mechanisms.
+
+5\. Explain and interpret the following quote "Proximate causes of growth—such as investment, education, and technological progress—are indeed important. But they are not the fundamental causes. These determinants themselves are the products of the deeper-level factors: institutions that provide the incentive structure of societies and organizations and the constraints that shape their behavior." In your response explain what are "institutions," how they change over time, and how institutional differences might help explain differences in economic performance across societies. Give concrete examples and mention the similarities and/or contrasts of at least two relevant thinkers (e.g. Douglass North, Karl Marx, Oded Galor, Robert Brenner, etc).
+
+6\. Evsey Domar argued that free labor, abundant land, and a landed aristocracy cannot simultaneously coexist. With plentiful land and free labor, land rents would be too low to maintain an aristocracy dependent on those rents. In land-abundant regions, aristocrats would thus attempt to impose labor coercion; where they failed, relatively free peasant communities might emerge. Only when land became scarce would free wage labor and a landlord class naturally coexist. Analyze the economic logic of Domar's hypothesis, evaluating its strengths and limitations as a framework for understanding the relationship between land availability, labor systems, and class structures. Support your analysis with at least two historical cases that either support or challenge the theory.

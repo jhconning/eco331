@@ -1,0 +1,77 @@
+keepEmptyPriority: true
+code:
+  include_lists:
+    - TODO
+    - DOING
+    - DONE
+    - PLANNING
+    - FIXME
+    - ARCHIVE
+    - HACK
+    - CHANGED
+    - XXX
+    - IDEA
+    - NOTE
+    - REVIEW
+lists:
+  - filter: 'dueDate < "${tomorrow at 6AM}" AND list != DONE +dueDate +order'
+    hidden: true
+    id: akn0i9kluvqs162
+    name: What's Due?
+  - hidden: false
+    ignore: false
+    name: NOTE
+    id: akn0i9kluvqs163
+  - hidden: false
+    name: TODO
+    id: akn0i9kluvqs164
+  - hidden: false
+    name: DOING
+    id: akn0i9kluvqs165
+  - hidden: false
+    ignore: true
+    name: DONE
+    id: akn0i9kluvqs166
+  - filter: 'completedDate > "${14 days ago}" -completed'
+    hidden: false
+    id: akn0i9kluvqs167
+    name: Recently Completed
+settings:
+  '0': object Object
+  openIn: url
+  journalType: Single File
+  journalPath: null
+  appendNewCardsTo: imdone-tasks.md
+  newCardSyntax: HASHTAG
+  replaceSpacesWith: '-'
+  plugins: {}
+  journalTemplate: null
+  markdownOnly: false
+  editorTheme: blackboard
+  noDST: false
+  theme: dark
+  customOpenIn: 'notable://command/note.go.line/${relPath}/${line-10}'
+  ignoreFrontMatterTags: true
+  name: Eco331
+  views: []
+  cards:
+    colors: []
+    template: |
+
+      <!--
+      created:${timestamp}
+      -->
+    trackChanges: !<tag:yaml.org,2002:js/undefined> ''
+    metaNewLine: true
+    addCompletedMeta: true
+    addCheckBoxTasks: false
+    doneList: DONE
+    taskPrefix: '##'
+    tagPrefix: '#'
+    metaSep: ':'
+    orderMeta: true
+    maxLines: 6
+    addNewCardsToTop: true
+    showTagsAndMeta: true
+    defaultList: TODO
+    computed: !<tag:yaml.org,2002:js/undefined> ''

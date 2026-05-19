@@ -4,6 +4,7 @@ description: "ECO 331: Economic History - sl_isi"
 author: "Jonathan Conning"
 marp: true
 paginate: true
+deploy: false
 theme: gaia
 ---
 <!--

@@ -1,0 +1,174 @@
+
+--- Slide 1 ---
+How the World Became Rich
+Chapter 6
+Was it Just a Matter of Colonization and Exploitation?
+
+
+--- Slide 2 ---
+A Large Part of The World was Colonized by Just a Few
+“Opening of the Atlantic” a key turning point in global economic history
+England, France, Spain, Portugal, & Netherlands colonized a large fraction of the world’s landmass
+Violence and exploitation practices were common
+What role did this play in Europe becoming rich? Other parts of the world not catching up?
+
+
+--- Slide 3 ---
+Exploitation
+The colonial powers exploited the natural resources of their colonies
+Precious metals (South America) 
+Rubber (Congo)
+Sugar (Caribbean, Brazil)
+Spices and sugar (Indonesia)
+Oil (Middle East)
+Slaves
+Cheap inputs and labor from the colonies allowed for dramatic economic expansion in Western Europe
+The legacy of colonization is still with us in many respects. But was it responsible for modern economic growth?
+“In the Rubber Coils”
+
+--- Slide 4 ---
+How Colonization Mattered
+New World crops fundamentally changed Eurasian diets
+Nunn and Qian (2010): potato was responsible for about one-quarter of Old World population growth and increase in urbanization between 1700 and 1900
+Pomeranz (2000): key to Europe’s rise was new land (“ghost acreage”) in the New World, which relieved population pressures and brought in new natural resources
+Slave/coerced labor thought to play a role in Britain’s industrialization via cotton and sugar production: discussed more in Chapter 8
+
+--- Slide 5 ---
+Marx’s Argument
+Karl Marx, in Das Kapital:
+“The discovery of gold and silver in America, the extirpation, enslavement and entombment in mines of the aboriginal population, the beginning of the conquest and looting of the East Indies, the turning of Africa into a warren for the commercial hunting of black-skins, signaled the rosy dawn of the era of capitalist production.”
+For Marx, colonization provided the initial capital required for the construction of the modern economic system, especially via trading companies
+”Primitive accumulation” provided the resources that fueled economic growth in European countries
+
+
+--- Slide 6 ---
+Modern Versions of the Exploitation Thesis
+Eric Williams (1944): sugar plantations in the West Indies supplied capital for British industry and calories for workers 
+Joseph Inikori (2002): 
+Goods produced by enslaved people, particularly sugar and cotton, were vital inputs to Britain’s industrializing economy
+Africa and the Americas were important markets for British manufactures
+
+--- Slide 7 ---
+Modern Versions of the Exploitation Thesis
+Beckert (2014):  
+Colonial exploitation and slavery was required to supply the key input for industrialization: cotton
+Colonial activities by western states deindustrialized Asian economies
+Colonial powers prevented colonized countries from imposing protection and supporting their own industries
+
+--- Slide 8 ---
+Problems With the Exploitation Thesis
+Economic growth is not zero-sum. Exploitation made individuals in Western countries extremely rich.   But the scale of modern economic growth cannot simply be accounted for by transfers from colonized countries to colonizers
+Spain and Portugal conquered vast colonial empires, but their economies stagnated after 1600
+The links between British colonial activates in the Caribbean and the development of an innovative economy in the Midlands and northwest of England after 1760 were indirect
+
+--- Slide 9 ---
+King Cotton? 
+Textiles were among the leading sectors of the Industrial Revolution
+The price of cotton fell by 85% between 1780 and 1850
+Beckert (2014) argues that slave-produced cotton textiles were critical to early industrialization
+In contrast, Mokyr (2009) argues “If there had been no cotton, there still would have been an Industrial Revolution, even if its exact shape would have differed.”
+
+
+
+--- Slide 10 ---
+Slave Trades
+Slave trades: the most odious aspect of colonization
+Colonial powers brought over 12 million slaves to the New World
+By 1850, Africa’s population was only half of what it would have been had the slave trades never taken place
+Beyond the social and psychological costs of slavery, what were its economic costs in Africa?
+Number of slaves in the transatlantic slave trade by carrier
+
+--- Slide 11 ---
+The Legacy of the Slave Trade
+Nunn (2008): countries with high “slave exports” have lower GDP, greater ethnic fractionalization, and worse political institutions today
+The gap between high- and low-slave export African countries is growing
+Suggests slave trades might be responsible for both the relative poverty of sub-Saharan Africa and differences of income within Africa
+Why have the effects of slavery persisted?
+
+Slave “exports” vs 2018 log GDP per capita
+
+--- Slide 12 ---
+The “Residue” of the Slave Trades
+Trust
+Slaves captured in raids by neighboring groups and kidnapping by close friends, neighbors
+Led to culture of mistrust that persists to the present (Nunn and Wantchekon 2011)
+Key reason why parts of Africa have had difficult time developing
+Ethnic fractionalization
+Slave trade broke apart inter-ethnic alliances, led to fractionalization
+Less economic growth, more conflict
+Africa’s ethnic boundaries prior to colonization
+
+--- Slide 13 ---
+The Resource Grab
+European colonizers mostly set up institutions in their colonies to maximize resources extracted
+Limited rights for natives, low investment in public goods
+Post-colonial governments found these extractive institutions useful as well
+Acemoglu, Johnson, and Robinson (2001): this is a key reason “bad” political institutions persist in former extractive (but not settler) colonies
+Europeans only settled where settler mortality was low
+Settler mortality vs. Institutional Quality
+
+--- Slide 14 ---
+More Examples of Extractive Colonial Institutions
+Sokoloff and Engerman (2000): reversal of fortunes in Americas due to places with good agricultural suitability getting extractive institutions that strongly favored a small landholding elite
+Dell (2010): those living in the boundaries of the South American mining mita (forced labor) have less consumption and worse health today
+Lowes and Montero (2021): those living in Congo rubber concession zone have much worse education, wealth, and health outcomes today
+
+--- Slide 15 ---
+Colonial Taxation
+Colonial tax systems that gave power to local authorities were often retained after independence
+Banerjee and Iyer (2005): decades after Indian independence, places in which rights were given to local landlords continued to have greater inequality, lower agricultural productivity, and less investment in health and education
+Iyer (2010): areas formerly under British rule have much less access to schools, health centers, and roads, likely due to weaker public good provision under the British
+Tax Collection Institutions and Irrigation
+
+--- Slide 16 ---
+Poor Political Design
+Colonial powers ruled people they knew little about, leading to poor political design
+Dippel (2014): forced co-existence of Native American tribes, who typically made decisions at “sub-tribe” level led to poor local governance, more poverty today
+Michalopoulos and Papaioannou (2016): “Scramble for Africa” meant arbitrary borders created across ethnic group lines, triggered post-independence political violence, political instability, discrimination, and ethnic wars
+Partitioned African Ethnic Groups
+
+--- Slide 17 ---
+Silver Linings of Colonialism?
+The colonial experience was highly heterogeneous
+Some economies stagnated under colonial rule, others developed rapidly
+Economic development obviously does not excuse injustices that took place
+Frankema and van Waijenburg (2012): real wages grew considerably in British colonial Africa 
+Growth rate in Accra (1900-1960) comparable to London (1840-1900)
+Feyrer and Sacerdote (2009): former island colonies tend to be better off the longer they were under colonial rule
+NONE of these, studies, however, compare the colonial experience against the counterfactual where colonization did not occur!
+
+--- Slide 18 ---
+Railways
+Railroads: among the most important goods provided by some colonial powers
+Built largely for military and (self-serving) economic reasons
+By 1930, 67,247 km of track laid in India (fourth largest in world)
+Increased income, trade, and market integration throughout British India (Donaldson 2018)
+Ghana: places with colonial railroads are more developed today despite many of the railroads going into disuse after independence (Jedwab and Moradi 2016)
+Indian Railway Network, 1930
+
+--- Slide 19 ---
+Other Public Goods and Education
+Dell and Olken (2020): Dutch Cultivation System in Java had unintentional effect of increasing public good investment
+Need infrastructure to get raw sugar to refinery
+Cultivation regions currently have more access to electricity, better schools
+Huillery (2009): around 30% of current performance in education, health, and infrastructure in French West Africa explained by colonial investment
+Note: these were not benevolent policies of colonizers … they were unintentional consequences
+Dutch Cultivation System
+
+--- Slide 20 ---
+Missionaries
+Cagé and Rueda (2016): places near Protestant missions with printing presses have numerous contemporary socio-economic outcomes that are much better
+Valencia Caicedo (2018): proximity to (Catholic) Jesuit missions is associated with higher education attainment and income today
+Literature does not claim that it was something about Christian values or theology that enabled some of the colonies to eventually escape the poverty trap … it was likely an unintended consequence of missionary activity aimed at religious conversion
+
+As part of the colonization process, Christian churches sent missionaries to far-off lands with the goal of converting the local populations
+Woodberry (2012): missionary activity correlated with democracy, likely due to increased mass education
+
+--- Slide 21 ---
+Chapter Summary
+Did colonization make parts of Europe rich? Did it keep the colonized poor?
+The debate for whether it made Europe rich centers on colonization’s effect on industrialization; this is discussed in more detail in Chapter 8
+The weight of the evidence is that colonization has slowed catch-up growth in many parts in the formerly colonized world
+Bad institutions persisted long after independence
+Cultural legacies of colonization’s most pernicious features (e.g., slave trade)
+There were some silver linings of colonialism (education, public goods), though it is difficult to know how those regions would have grown in the absence of colonialism

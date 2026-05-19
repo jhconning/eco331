@@ -21,7 +21,7 @@ style: |
 -->
 
 
-![bg right w:550 Image of Ir1](./../attachments/IR1.png)
+![bg right w:550 Image of Ir1](attachments/IR1.png)
 ## ECO 331
 # Economic History
 ```
@@ -46,7 +46,7 @@ Reasonably priced in e-book, print, and/or audio formats.
 ## Canvas LMS
 
 
-![bg right:41% w:500 Image of Serfs](./../attachments/Serfs.jpg)
+![bg right:41% w:500 Image of Serfs](attachments/Serfs.jpg)
 https://canvas.instructure.com/enroll/Y79KWT
 <br></br>
 * Syllabus, Reading Schedule
@@ -59,7 +59,7 @@ https://canvas.instructure.com/enroll/Y79KWT
 
 ## Grading
 
-![bg left w:450 Image of Woman Write](./../attachments/woman_write.jpg)
+![bg left w:450 Image of Woman Write](attachments/woman_write.jpg)
 
 | Activity                               | pct |
 | :------------------------------------- | ------- |
@@ -76,17 +76,17 @@ https://canvas.instructure.com/enroll/Y79KWT
 **Oded Galor**
 Brown University
 
-![bg right:70% w:300 Image of Galor Pic](./../attachments/Galor_pic.jpg)
-![bg w:350 Image of Book Cover Galor](./../attachments/book_cover_Galor.png)
+![bg right:70% w:300 Image of Galor Pic](attachments/Galor_pic.jpg)
+![bg w:350 Image of Book Cover Galor](attachments/book_cover_Galor.png)
 
 ---
 ![bg w:350 Image of Galor Unified](attachments/Galor_unified.png)
 
 ---
 
-![bg left:74% w:300 Image of Book Cover Koyama](./../attachments/book_cover_Koyama.png)
-![bg w:240 Image of Markkoyama](./../attachments/MarkKoyama.png)
-![bg w:240 Image of Jrubin](./../attachments/JRubin.jpg)
+![bg left:74% w:300 Image of Book Cover Koyama](attachments/book_cover_Koyama.png)
+![bg w:240 Image of Markkoyama](attachments/MarkKoyama.png)
+![bg w:240 Image of Jrubin](attachments/JRubin.jpg)
 
 <br></br>
 <br></br>
@@ -97,7 +97,7 @@ Brown University
 
 ---
 ## 'Big History' Questions
-![bg right:45%  w:600 Image of Growth Chart1](../growth_chart1.png)
+![bg right:45%  w:600 Image of Growth Chart1](attachments/growth_chart1.png)
 * How did the world become Rich?
 * Why did it take so long?
 * Why isn't the whole world rich?
@@ -125,20 +125,20 @@ Brown University
 
 ---
 
-![bg w:400 Image of Book Cover Smith](./../attachments/book_cover_Smith.png)
-![bg w:400 Image of Book Cover Marx](./../attachments/book_cover_Marx.png)
+![bg w:400 Image of Book Cover Smith](attachments/book_cover_Smith.png)
+![bg w:400 Image of Book Cover Marx](attachments/book_cover_Marx.png)
 
 ---
-![bg w:400 Image of Book Cover Moore](./../attachments/book_cover_Moore.png)
+![bg w:400 Image of Book Cover Moore](attachments/book_cover_Moore.png)
 
 
-![bg w:400 Image of Book Cover Diamond](./../attachments/book_cover_Diamond.png)
+![bg w:400 Image of Book Cover Diamond](attachments/book_cover_Diamond.png)
 
-![bg w:400 Image of Book Cover Pomeranz](./../attachments/book_cover_Pomeranz.png)
+![bg w:400 Image of Book Cover Pomeranz](attachments/book_cover_Pomeranz.png)
 
 ---
-![bg w:400 Image of Book Cover North](./../attachments/book_cover_North.png)
-![bg w:400 Image of Book Cover Acemoglu](./../attachments/book_cover_Acemoglu.png)
+![bg w:400 Image of Book Cover North](attachments/book_cover_North.png)
+![bg w:400 Image of Book Cover Acemoglu](attachments/book_cover_Acemoglu.png)
 
 
 ---
@@ -197,7 +197,7 @@ Can be short or long. Submit via Canvas. Due 11pm the night before class.
 
  
 ---
-![bg left:40% w:300 Image of Book Cover Koyama](./../attachments/book_cover_Koyama.png)
+![bg left:40% w:300 Image of Book Cover Koyama](attachments/book_cover_Koyama.png)
 
 ## Chapter 1
 

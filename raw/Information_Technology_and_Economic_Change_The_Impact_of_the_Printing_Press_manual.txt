@@ -1,0 +1,2380 @@
+
+--- Page 1 ---
+INFORMATION TECHNOLOGY AND ECONOMIC CHANGE:
+THE IMPACT OF THE PRINTING PRESS
+∗
+J
+EREMIAH
+E. D
+ITTMAR
+The printing press was the great innovation in early modern information
+technology, but economists have found no macroeconomic evidence of its impact.
+This articleexploits city-level data. Between1500 and1600, Europeancities where
+printing presses were established in the 1400s grew 60% faster than otherwise
+similar cities. Cities that adopted printing in the 1400s had no prior advantage,
+andtheassociationbetweenadoptionandsubsequent growthwas not duetoprint-
+ers choosing auspicious locations. These findings are supported by regressions
+that exploit distance from Mainz, Germany—the birthplace of printing—as an
+instrument for adoption.JEL Codes: N13, N33, N93, O11, O18, O33.
+I. I
+NTRODUCTION
+The movable type printing press was the great innovation in
+early modern information technology. The first printing press was
+established in Mainz, Germany, between 1446 and 1450. Over
+the next 50 years the technology diffused across Europe. Between
+1450 and 1500, the price of books fell by two-thirds, transforming
+the ways ideas were disseminated and the conditions of intellec-
+tual work. Historians suggest the printing press was one of the
+most revolutionary inventions in human history.
+1
+Economists have found no evidence of the technology’s
+impact in measures of aggregate productivity or per capita
+income—much as, until the mid-1990s, they found no evidence
+of productivity gains associated with computer-based information
+technologies. A conventional explanation is that the economic
+effects of the printing press were limited: whatever the advances,
+they occurred in a very small sector marked by modest price
+∗
+I thank Barry Eichengreen, Chad Jones, Christina Romer, Brad DeLong,
+Peggy Anderson, Suresh Naidu, Davide Cantoni, Tien-Ann Shih, Robert Barro,
+Greg Clark, seminar participants at Berkeley, Stanford, Harvard, Yale, American,
+Northwestern, George Washington, the NBER Summer Institute, George Mason,
+andanonymous referees for their comments. Financial support from the Economic
+HistoryAssociationandtheNational ScienceFoundation(SES #1023380) is grate-
+fully acknowledged. The errors are mine. Financial support from the Economic
+History Association and the National Science Foundation (SES # 1023380) is
+gratefully acknowledged.
+1. For instanceRoberts(1996), Braudel(1979), andGilmore(1952). On prices
+seeZanden(2009) andClark(2004).
+c⃝ The Author(s) 2011. Published by Oxford University Press, on behalf of President and
+Fellows of Harvard College. All rights reserved. For Permissions, please email: journals.
+permissions@oup.com.
+The Quarterly Journal of Economics (2011) 126, 1133–1172. doi:10.1093/qje/qjr035
+.
+1133
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 2 ---
+1134
+QUARTERLY JOURNAL OF ECONOMICS
+elasticities.
+2
+However, that argument makes no attempt to gauge
+the positive externalities historians argue were associated with
+the diffusion of printing. Historical research suggests that print
+media transformed the ways ideas were disseminated, promoted
+the accumulation of human capital, and played a key role in
+the evolution of business practices (Febvre and Martin 1958;
+Eisenstein 1979; Hoock 2008).
+This article examines these spillovers by exploiting new, city-
+level data on the adoption of the movable type printing press in
+fifteenth-century Europe. It uses city-level data to examine two
+principal questions: Was the new printing technology associated
+with city growth? And, if so, how large was the association?
+To explore these questions, this article compares cities where
+printers established presses with similar cities where they did
+not. The article uses ordinary least squares (OLS) estimators
+to document the magnitude and the timing of the association
+between printing and city growth. It then employs historical
+evidence and instrumental variable techniques to identify the
+impact of printing on city growth.
+The instrumental variable (IV) analysis is motivated by his-
+torical evidence. Johannes Gutenberg established the first print-
+ingpress inMainzaround1450.
+3
+At that timeonlyasmall number
+of men in Mainz knewthe secrets behindthe technology. Between
+1450 and 1500, the technology diffused in “concentric circles”
+(Barbier 2006) as printers set out to establish presses in other
+cities. Distance from Mainz was strongly and significantly asso-
+ciated with early adoption of the printing press, but not with city
+growth before the diffusion of the printing press or with other in-
+dependent determinants of city growth. The geographicpattern of
+technologydiffusionthus allows us toidentifyexogenous variation
+inadoption. InstrumentingforadoptionwithdistancefromMainz,
+I find very large and significant estimates of the relationship
+between the adoption of the printing press and city growth.
+The printing press fostered knowledge and skills that were
+valuable in commerce. Print media played a key role in the devel-
+opment ofnumeracy, theemergenceofbusiness education, andthe
+adoption of innovations in bookkeeping and accounting. With ac-
+cess to cheap waterborne transport, port cities were positioned to
+2. Clark(2001) argues that the macroeconomic impact was “unmeasurably
+small” for these reasons.
+3. For details of Gutenberg’s innovation and competing attempts to devise
+print media see SectionV.D.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 3 ---
+IT AND ECONOMIC CHANGE
+1135
+profit from innovations in commercial practice. In the data, I find
+that printing delivered special benefits to port cities—beyond the
+advantages associated with printing or with port location alone.
+These findings add a new dimension to arguments stressing
+the role of cities as sites where information was exchanged, ideas
+were produced, and the business practices and social groups that
+drove the rise of European capitalism developed.
+II. L
+ITERATURE
+Among economic historians, there is some difference of opin-
+ion about the extent towhich the movable type printing press was
+a revolutionary innovation.Mokyr(2005) notes that innovation
+depends on the cost of accessing existing knowledge, and that
+the printing press was one of the most important access cost–
+reducing inventions in history.Jones (1981) also argues that
+“western progress owed much to the superior means of storing
+and disseminating information.”Baten and van Zanden(2008)
+find a significant association between simulated national-level
+wages and observed differences in aggregate book production in
+European history.
+4
+However,Clark(2001) finds no evidence of
+aggregate productivity growth associated with the diffusion of
+movable type printing.Mokyr(2005) similarly argues that the
+aggregate effects were small.
+Social historians have hailed the movable type printing press
+as a revolutionary innovation.Braudel(1979a) identifies printing
+as one of three great technological revolutions observed 1400–
+1800 (alongside advances in artillery and navigation).Gilmore
+(1952) states that printing drove “the most radical transformation
+in the conditions of intellectual life in the history of western
+civilization.”Eisenstein(1979) argues that printing created revo-
+lutionary new possibilities for “combinatory intellectual activity.”
+Roberts(1996) suggests the outcome was one “dwarfing in scale
+anything which had occurred since the invention of writing.”
+Macroeconomic research identifies the central role ideas play
+in technological change and growth (Romer 1990; Lucas 2009;
+Jones and Romer 2010). Economists observe that technological
+4. Baten and van Zanden(2008) draw simulated country-level real wages
+from Allen (2003). This paper takes the city as the unit of analysis. Within
+economies, there was significant variation in printing and growth across cities.
+Observed data on economic outcomes is also available at the city level. Moreover,
+contemporary national boundaries didnot define the historiceconomies of Europe.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 4 ---
+1136
+QUARTERLY JOURNAL OF ECONOMICS
+change is driven by sharing and recombining ideas (Romer 1990;
+Mokyr 1995;Weitzman 1998). These findings indicate that major
+changes intheways ideas canbestoredandtransmittedmayhave
+far-reaching consequences.
+Printing was an urban technology. The market for print
+media was overwhelmingly urban. Motivated by these facts, this
+article takes cities as the units of analysis.
+Europeancities playeda central roleintheemergenceof mod-
+ern, idea-based capitalist economic growth. Urban life generated
+social contacts that fostered the circulation of information and
+innovation (Bairoch 1988). Cities were also seedbeds of capitalist
+business practices. Braudel (1979a) observes that historically,
+“Capitalism and towns were the same things.”
+5
+Historians and
+economists have observed that city sizes were historically im-
+portant indicators of economic prosperity; that broad-based city
+growth was associated with macroeconomic growth; and that
+cities produced the economic ideas and social groups that trans-
+formed the European economy.
+6
+These facts support the use of
+city growth as an indicator of economic vitality.
+III. T
+HE
+M
+ECHANISM
+This section describes how the adoption of printing technol-
+ogy impacted city growth in early modern Europe. The key point
+is that cities that adopted print media benefited from localized
+spillovers in human capital accumulation, technological change,
+and forward and backward linkages. These spillovers contributed
+to city growth by exerting an upward pressure on the returns to
+labor, making cities culturally dynamic and attracting migrants.
+They were localized by high transport costs associated with in-
+tercity trade and because the printing press fostered important
+face-to-face interactions.
+7
+Historically, urban death rates exceeded urban birth rates
+and migration drove city growth. Cities drew migrants to the
+5. Historical research has qualified this generalization (e.g.Scott 2002) but
+confirms the importance of cities. For discussion seeDittmar(2010).
+6. Acemoglu, Johnson, and Robinson(2005), DeLong and Shleifer(1993),
+Bairoch(1988), andBraudel(1979a, 1979c).
+7. This article stresses the effects of print media on the development of
+economically useful skills and knowledge. The interplay between printing and
+religion is discussed in SectionV.F. The historic association between printing
+and city growth is consistent withGlaeser and Saiz’s (2003) finding that human
+capital predicts population and productivity growth at the city level in our day.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 5 ---
+IT AND ECONOMIC CHANGE
+1137
+extent that they offered relatively high wages, cultural ameni-
+ties, and economic opportunities.
+8
+In the pre-industrial era,
+commerce was a more important source of urban wealth and
+income than tradable industrial production.
+9
+As a result, migra-
+tion and city growth were typically contingent on commercial
+success.
+10
+Print media played a key role in the acquisition and devel-
+opment of skills that were valuable to merchants.
+11
+The ability
+to calculate interest rates, profit shares, and exchange rates was
+associated with high returns for merchants engaged in large-
+scale and long-distance trade. Starting in the 1480s, European
+presses produced a stream of “commercial arithmetics.” Commer-
+cial arithmetics were the first printed mathematics textbooks and
+were designed for students preparing for careers in business.
+12
+They transmitted commercial know-how and quantitative skills
+by working students through problems concerned with determin-
+ing payments for goods, currency conversions, interest payments,
+andprofit shares. The first known printedmathematics text is the
+Treviso Arithmetic (1478). It begins:
+I have often been asked by certain youths. . . who look
+forward to mercantile pursuits, to put into writing the
+fundamental principles of arithmetic. . . Here begin-
+neth a Practica, very helpful to all who have to do with
+that commercial art. (Reproduced inSwetz 1987)
+Gaspar Nicolas, author of the first Portuguese arithmetic
+(1519), similarlyexplained: “I amprintingthis arithmeticbecause
+it is a thing so necessary in Portugal for transactions with the
+merchants of India, Persia, Ethiopia, and other places” (quoted in
+Swetz 1987).
+8. Onmigrationandhistorical demographyseeWoods(2003), deVries(1984),
+andBairoch(1988).
+9. See inter aliaNicholas(2003) andBraudel(1966).
+10. Political capitals were exceptions to this rule.
+11. A large share of print media was religious and less likely to gener-
+ate positive spillovers. However, the availability of affordable religious and
+humanist works promoted literacy and, increasingly, norms favoring the ex-
+change of ideas. Literacy is discussed later. SectionV.F. discusses printing and
+religion.
+12. They were employed in urban schools and by private teachers teaching
+commercial arithmetic. The schools teaching commercial arithmetic operated
+parallel to universities, which did not provide business-oriented preparation. See
+Rey(2006), Speisser(2003), Swetz(1987), andGoldthwaite(1972).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 6 ---
+1138 QUARTERLY JOURNAL OF ECONOMICS
+Hundreds of commercial arithmetics were printed1480–1550 (see
+FigureI below).
+Print media were also associated with the development of
+cutting-edge business practice. Social scientists have identified
+double-entry bookkeeping as an important technological innova-
+tion since the early twentieth century, whenWeber(1927) and
+Sombart(1957) argued that it played a key role in the emer-
+genceof rational, optimizingbusiness practice. Thefirst published
+description of double-entry bookkeeping appeared in 1494 (Luca
+Pacioli’sSumma). Printed merchants’ manuals then dissemi-
+nated the key ideas. Generally, merchants’ manuals combined
+instruction in accounting and arithmetic with non-quantitative
+guidance on business practice (Goldthwaite 1972; Hoock 2008). A
+subset contained tables that simplified the calculation of interest
+on loans, tariffs, and transport costs.Hoock(2008) observes that,
+“In some ways, [these handbooks] present the same characteris-
+tics as the modern pocket calculator with integrated routines.”
+FigureI documents that hundreds of different merchants’ manu-
+als wereprinted1480–1550. It shows that growthinthenumberof
+merchants’ manuals printed declined from high initial rates and
+FIGUREI
+Cumulative Output of Merchants’ Manuals in Europe
+Cumulative output (editions) of printedmerchants’ manuals in Europe, includ-
+ing commercial arithmetics, treatises on bookkeeping, guides to commercial law
+and business practice. Data fromHoock and Jeannin(1991, 2001, 2007).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 7 ---
+IT AND ECONOMIC CHANGE
+1139
+by the late 1500s stabilized at a constant rate (approximately 1%
+per year).
+The observation that print media fostered the development
+of business practices employed in long distance trade raises a
+question: Did printing deliver special benefits to geographic loca-
+tions that were propitious for commerce? Historically, transport
+over land was relatively expensive. Cities with access to cheap,
+waterborne transport were positioned to realize high returns to
+innovations incommerce. SectionV.B. documents that thegrowth
+advantageenjoyedbycities that adoptedprintinginthelate1400s
+was largely driven by the growth of ports with printing presses—
+beyond advantages associated with the printing press or with
+being a port alone.
+The availability of inexpensive texts was a key prerequisite
+for the spread of literacy in Renaissance Europe (Grendler 1990).
+School books generated high returns for Renaissance printers
+(Bolgar 1962; Nicholas 2003; F¨ ussel 2005). Schooling in lan-
+guages became part of a progression in which pupils went from
+“arts to marts.” Cities began to run schools for children who were
+not going to learn Latin—using printed grammar school texts.
+In the fifteenth century, it became expected that the children
+of the bourgeoisie would attend school (Bolgar 1962). But print
+media also promoted opportunities for the less privileged to ob-
+tain education and raise their incomes.Brady(2009) observes
+that no document better captures the new opportunities than
+Thomas Platter’s (1499–1582) autobiography(Platter1839). After
+wandering penniless across Europe, Platter began his formal
+schooling at age 18. Having learned Latin, Platter took a job as
+a rope maker in Zurich to support his book-buying and reading
+habit, taught himself Hebrew and Greek, and rose to become a
+wealthy school master, professor, and printer.
+Beyond literacy, print media fostered the development of
+new, bourgeois competences and the “social ascent of new pro-
+fessionals” (Scott 2002).
+13
+The urban middle classes were the
+principal purchasers of books. Printing spread to meet, “demand
+for books among the merchants, substantial artisans, lawyers,
+goverment officials, doctors, and teachers who lived and worked
+in towns. . . men who needed to read, write, and calculate in
+13. Mokyr(2005) defines competence as extending beyond the ability to read,
+interpret, and execute the instructions of a technique to include supplemental
+tacit knowledge.Nicholas(2003) andEisenstein(1979) observe that print media
+transformed urban culture.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 8 ---
+1140
+QUARTERLY JOURNAL OF ECONOMICS
+order to manage their businesses and conduct civic affairs” (Rice
+1994). The new technology underpinned an emerging culture of
+informationexchangeandthedevelopment of anurban, bourgeois
+public sphere (Smith 1984; Long 1991; Zaret 2000).
+The role of print media in the diffusion of industrial inno-
+vations was probably more limited. Historically the diffusion of
+industrial technology was heavily dependent on the movement
+of skilled workers (Cipolla 1972). This is consistent with the
+emphasis this article places on localized spillovers from print
+media and the pattern of technology diffusion described shortly.
+Significantly, theknowledgerequiredtosuccessfullycast movable
+type remained quasi-proprietary for nearly one century after
+Gutenberg’s innovation: Biringuccio’sPirotechnia (1540) provides
+the earliest known published blueprint.
+Cities with printing presses derived benefits from the tech-
+nology that others did not. The costs of information and human
+capital accumulation were significantly lower in cities with print-
+ing presses. In part, these advantages were due totransport costs.
+Print media were costly totransport because they were heavy
+and fragile commodities, sensitive to damp (Febvre and Martin
+1958; Barbier 2006). The trade in hardbound books was relatively
+extensive but still significantly limited. Outside printing cities,
+information on the range of available print media was incomplete
+and many books were not offered for sale.Flood(1998) observes,
+“Outside the towns where books were printed or which were main
+centers of the burgeoning book trade the public were dependent
+on what itinerant traders offered them and on word of mouth.”
+14
+Booklets and ephemera termed “city printing” (l’imprimerie de
+ville) accounted for a large share of production and were even
+less widelytraded.
+15
+Transport costs inearlymodernEuropewere
+sufficiently high that print media often spreadthrough reprinting
+rather than intercity trade.
+16
+Books were often shipped unbound
+14. Contemporary accounts confirm that access to print media was limited
+outside printing centers.Platter(1839) described the constraints on his education
+in the early 1500s: “In the school at St. Elizabeth, indeed, nine Bachelors of
+Arts read lectures at the same hour, and in the same room. . . neither had any
+one printed books. . . What was read had first to be dictated, then pointed and
+constructed, and at last explained; so that the Bacchants had to carry away thick
+books of notes when they went home.”
+15. See Nieto (2003), Edwards(1995), Eisenstein(1979), and Section V for
+further discussion.
+16. Edwards(1995) observes: “If, for example, there was an interest in Stras-
+bourg for a work first published in Wittenberg, it was more common for a printer
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 9 ---
+IT AND ECONOMIC CHANGE
+1141
+and in very small lots—a few copies of a few texts (Febvre and
+Martin 1958). Contracts between printers in Lyons and Poitiers
+from the late 1500s indicate that the allowance for transport costs
+associated with a journey of approximately 360 km raised the
+sale price of transported books by 20% (Febvre and Martin 1958).
+Records from the archives of the Ruiz merchant family indicate
+that insurance and transport costs for a shipment of 21 books
+from Lyon to Medina del Campo (280 km as the crow flies) were
+equivalent to 30 days’ wages for a skilled craftsman (Febvre and
+Martin 1958). Archival holdings provide additional evidence on
+the limits on the trade in print media. The Bayerische Staats-
+bibliothek in Munich houses the largest and most comprehensive
+historic collection of books printed 1450–1500. FigureII shows
+that the proportion of the editions produced in a given city and
+held in the Munich archives declines sharply (and nonlinearly) in
+the distance between the printing city and the archive.
+17
+Printing cities also enjoyed benefits due to agglomeration
+economies. The printing press produced new face-to-face inter-
+actions in addition to books and pamphlets. Printers’ workshops
+brought scholars, merchants, craftsmen, and mechanics together
+for the first time in a commercial environment, eroding a pre-
+existing “town and gown” divide (Eisenstein 1979). Bookshops
+and the houses of printers became meeting places and temporary
+residences for intellectuals. Print technology alsoproduced, in the
+printer-scholar, “a ‘new man’. . . adept in handling machines and
+marketing products even while editing texts, founding learnedso-
+cieties, promoting artists andauthors, [and] advancing newforms
+of data collection” (Eisenstein 1979). Historical research indicates
+that these activities made printing cities attractive cultural and
+economiclocations. Cities that were early adopters of the printing
+press attracted booksellers, universities, and students. Adoption
+of the printing press alsofosteredbackwardlinkages: the printing
+press attracted paper mills, illuminators, and translators.
+18
+in Strasbourg to reprint the work than it was for the printer in Wittenberg to ship
+a large number of copies [500 kilometers] to Strasbourg.”
+17. Language barriers do not explain this phenomenon: 72% of books printed
+1450–1500 were printed in Latin and the pattern holds when the sample is
+restricted to Latin editions. That an unusually high proportion of books printed
+VeniceandRomewas heldinforeigncollections is explainedbythefact that Venice
+was the commercial hub and leading printing center of Europe 1450–1500 and
+Rome occupied a unique position as the seat of Roman Catholicism.
+18. See Febvre and Martin(1958), Barbier(2006), Varry(2002), Fau et al.
+(2003), andEisenstein(1979).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 10 ---
+1142 QUARTERLY JOURNAL OF ECONOMICS
+FIGUREII
+Archive Holdings and Distance from Point of Production
+This figure presents data for the 100 cities with the highest output of incunab-
+ula editions 1450–1500. For each city it shows what share of its editions are held
+in the Bayerische Staatsbibliothek in Munich and howfar the city is from Munich.
+Markers are scaled to reflect the magnitude of city book production. Fitted values
+estimated with locally weighted regression. Data on total incunabula production
+from ISTC (1998).
+IV. DATA
+This article exploits data on the diffusion and output of
+printing presses over the technology’s infant industry period
+(1450–1500). Between 1450 and 1500, entrepreneurs established
+printing presses across Europe and the real price of books fell by
+two-thirds (Zanden 2004; Clark 2004). Between 1500 and 1800,
+printing technology was largely unchanged and declines in the
+price of books were relatively modest (Febvre and Martin 1958;
+F¨ ussel 2005).19 Historical research emphasizes that the period
+1450–1500 was the “first infancy” of printing. Books produced
+1450–1500 are referred to as incunabula, from the Latin for
+19. Clark(2004) finds that real book prices in England fell 75% between 1450
+and 1530 and stabilized at one-third the pre-Gutenberg level through the late
+1700s. Zanden(2009) examines Dutch data and estimates that real prices fell by
+two-thirds 1450–1500. Zanden estimates that between 1500 and 1800 book prices
+declined from approximately one-third to one-sixth of the pre-Gutenberg level.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 11 ---
+IT AND ECONOMIC CHANGE
+1143
+“cradle” or “infancy” (Febvre and Martin 1958; Clair 1976;
+Glomski 2001; Barbier 2006). Over the infant industry period
+supply-side constraints limited technology diffusion. As will be
+discussed, by the early to mid-1500s these constraints were re-
+laxed.
+I construct data on the location andoutput of printing presses
+over the infant industry period from three principal sources. The
+first source is theIncunabula Short Title Catalogue (ISTC 1998)
+maintained by the British Library. TheISTC (1998) “records
+nearly every [incunabulum] printed from movable type before
+1501.” TheISTC(1998) records 27,873 printedbooks. Each record
+includes the title, publication date, and location of publication.
+The ISTC catalogs fifteenth-century editions printed in 196 his-
+toric cities.
+20
+The second source isFebvre and Martin’s (1958)
+L’Apparition du Livre, which documents 181 historic cities that
+adopted the printing press 1450–1500. The third source isClair’s
+(1976) A History of European Printing , which documents the
+establishment of printingpresses in188 historiccities 1450–1500.
+As shown in TableI, the historical sources identify 205 unique
+cities that adopted the printing press 1450–1500.
+21
+Data on the locations and populations of Europe’s historic
+cities are fromBairoch, Batou, andCh` evre(1988). Their approach
+is to identify the set of cities that ever reached 5,000 inhabitants
+between 1000 and 1800 and then search for population data for
+these cities in all periods. The data record (in thousands) the pop-
+ulations of urban agglomerations, not simply populations within
+administratively defined boundaries.
+22
+These data—henceforth
+the “Bairoch data”—are recorded every 100 years up to 1700,
+and then every 50 years to 1850. The data set contains a total of
+2,204 historicEuropeancities. Populations areobservedevery100
+20. Of the 27,873 records, 1,352 are either undated or are associated with
+dates outside 1450–1500 and 738 indicate only a regional location or possible city
+locations.
+21. This figure comprises the 196 cities from the ISTC, four additional printing
+cities identified by Febvre and Martin, four identified by Clair, and one identified
+by Clair and Febvre and Martin. While presses operated in these nine additional
+cities, since we have no record of incunabula produced at these locations, they are
+not recorded inISTC(1998). Results are not contingent on the inclusion of these
+cities.
+22. Bairoch, Batou, and Ch` evre(1988) include populations of “the ‘fauborgs’,
+the ‘suburbs’, ‘communes’, ‘hamlets’, ‘quarters’, etc. that are directly adjacent” to
+historic city centers. Bairoch, Batou, and Ch` evre draw data from urban censuses,
+tax records, archaelogical work, as well as other primary and secondary sources.
+These data are examined in greater detail inDittmar(2010).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 12 ---
+1144
+QUARTERLY JOURNAL OF ECONOMICS
+TABLE I
+T
+HE
+D
+IFFUSION OF THE
+P
+RINTING
+P
+RESS
+1450–150
+0
+(1) (2) (3) (4)
+Cities Adopting Total Number of Share
+20th-Century Polity Printing Press Historic Cities Adopting (
+%)
+Austria 1 17 6
+Belgium 9 72 13
+Czechoslovakia 5 36 14
+Denmark 2 10 20
+England 3 165 2
+France 39 341 11
+Germany 40 245 16
+Hungary 1 47 2
+Italy 56 406 14
+Netherlands 11 60 18
+Poland 3 55 5
+Portugal 6 53 11
+Spain 24 265 9
+Sweden 1 20 5
+Switzerland 4 19 21
+Total 205 1,811 1
+1
+Notes. See text for the sources identifying printing cities. Data on total cities represent the historical
+cities identified inBairoch, Batou, and Ch` evre(1988).
+years 1300–1800 for a balanced panel of 202 cities.
+23
+The leading
+alternate source of data on historic city populations is the panel
+inde Vries(1984). This article analyzes the Bairoch data because
+the de Vries(1984) data are restricted to 1500–1800 and cover
+only cities that reached a population of 10,000.
+24
+The econometric work that follows also exploits a new
+database on the historical characteristics of European cities,
+including which cities were located on navigable rivers, sea ports,
+and the sites of Roman settlement; which were political or reli-
+gious centers; and measures of economic institutions. These data
+are described in the Data Appendix.
+23. ISTC(1998), Clair(1976), andFebvre and Martin(1958) identify printing
+presses at some locations that do not appear in the Bairoch city data. These
+were overwhelmingly nonurban religious establishments (principally monaster-
+ies). Other “missing” print centers were adjacent to cities that did have presses
+and represent a sort of duplication. Westminster with its proximity to the city
+of London is an example. In keeping with the economic understanding of urban
+agglomeration, and the construction of the Bairoch data, this article treats pro-
+duction of print media at Westminster as London output.
+24. Dittmar(2010) analyzes and compares these data in greater detail.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 13 ---
+IT AND ECONOMIC CHANGE
+1145
+V. E
+MPIRICS
+V.A. Overview
+Per capita income data are not available at the city level
+and the existing data on urban wages are confined to a small
+number of cities.
+25
+However, the consensus in the literature on
+urbanization in Europe is that population size was an indicator
+of the overall vitality and well-being of cities in early modern Eu-
+rope.
+26
+Moreover, city growth may reflect technological progress.
+In modern economies with mobile labor, high-productivity cities
+are likely to draw migrants (Glaeser, Scheinkman, and Shleifer
+1995). In a Malthusian economic regime, or one with Lewis-style
+unlimited supplies of surplus labor in agriculture, technological
+change in the urban sector will also show up in city growth. For
+these reasons, this article focuses on the relationship between the
+adoption of print technologies and city growth.
+Because data on the number of presses in operation are only
+available for a small subset cities, and because the available
+measures of output are coarse, I focus on adoption. Data on the
+production of incunabula editions provide valuable but imperfect
+measures of production. Pamphlets, booklets, andotherephemera
+constituted a large, unmeasured share of output. The produc-
+tion of ephemera was less concentrated than the production of
+expensive books and the intercity trade in ephemeral forms of
+print media was relatively limited: historians designate these
+ephemeral media as “cityprinting”(l’imprimeriedeville).
+27
+These
+media playedan important role in the development of literacy and
+print culture that measures of book production may not capture.
+These facts support an emphasis on the printing press itself.
+V.B. Comparison of Average Outcomes
+This section compares the population growth of cities that
+were early adopters of print technology with the growth of
+cities that were not. It documents that cites in which printing
+25. Allen(2007) compiles data on real wages in 20 cities. These extend to the
+early 1400s for only eight cities, all of which adopted printing 1450–1500. Similar
+coverage is available in the data collected by the Global Price and Income History
+Group (UC Davis) and the International Institute for Social History.
+26. See Acemoglu, Johnson, and Robinson(2005), Bairoch(1988), andde Vries
+(1984).
+27. See Nieto(2003), Flood(1998), Edwards(1995), Eisenstein(1979), Febvre
+and Martin(1958), andBarbier(2006).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 14 ---
+1146
+QUARTERLY JOURNAL OF ECONOMICS
+presses were established in the late 1400s grewrelatively quickly
+1500–1600.
+28
+Table II compares, by country, the growth 1500–1600 of
+cities that were early adopters with the growth of cities that
+were not. It includes all cities for which population data are
+available. It shows that on average, cities that adopted the press
+in the late 1400s grew 20 percentage points more than nonprint-
+ing cities 1500–1600. TableII also shows that the cities that
+adopted were unusually large: 30% of cities with population data
+adopted, but adopting cities accounted for 58% of total urban
+population in 1500. Moreover, the Netherlands stand out as an
+economy in which printing press cities grew relatively slowly
+1500–1600. TableIII shows that the print cities’ growth advan-
+tage declined to a modest 7 percentage points 1500–1800. It also
+shows that in Germany print cities grew relatively slowly over
+long periods.
+29
+For Germany the slow growth of print cities in the 1600s
+was associated with military conflict (the Thirty Years War,
+1618–1648) in which flourishing cities were depopulated. In the
+Netherlands, the slow growth of print cities 1500–1800 is en-
+tirely accounted for by slow growth before 1700. The Netherlands
+were the site of military conflict through much of the sixteenth
+century and from 1621, following the expiration of the Twelve
+Years Truce.
+30
+These wars were confessional conflicts between
+Catholic and Protestant forces. Since print media were critical
+for the diffusion of the Reformation (Edwards 1995; Gilmont
+1998), these wars cannot be viewed simply as “exogenous shocks.”
+As discussed in Section V.F., the positive economic impacts
+of the printing press may have been offset the adverse conse-
+quences of the religious diversity and conflict it was used to
+promote.
+28. It is natural to wonder whether the printing press impacted incomes at
+the city level. The data on wages are limited to a small number of cities almost
+all of which adopted the press 1450–1500. The Online Appendix documents that
+skill premia (the ratio of skilled wages to unskilled wages) increased after the
+establishment of printing presses and discusses the increases in urban wages
+observed 1500–1600.
+29. TheslowgrowthofformerCzechprint cities is duetoPrague’s demographic
+decline, whichwas associatedwiththereimpositionof serfdomandthecityceasing
+to be a political capital.
+30. Leiden was notable as the city in which the Elsevier publishing house was
+based. In 1572, Leiden was besieged by Spanish (Catholic) forces and lost a third
+of its population.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 15 ---
+IT AND ECONOMIC CHANGE
+1147
+TABLE II
+P
+RINT
+T
+ECHNOLOGY AND
+L
+OG
+C
+ITY
+G
+ROWTH
+1500–160
+0
+Press Adopted 1450–1500 Press Not Adopted 1450–150
+0
+(1) (2) (3) (4) (5) (6) (7) (8)
+No. Urban Weighted No. Urban Weighted Print City
+20th-Century of Pop. Average of Pop. Average Growth
+Polity Cities 1500 Growth Cities 1500 Growth Advantag
+e
+Austria 1 20 0.92 7 43 −0.03 0.95
+Belgium 8 202 −0.08 15 136 −0.27 0.19
+Czechoslovakia 2 85 0.23 6 25 0.25 −0.02
+Denmark 1 10 1.39 1 3 0.51 0.88
+England 2 55 1.16 38 166 0.21 0.95
+France 21 662 0.20 28 347 0.04 0.16
+Germany 27 360 0.16 53 318 0.12 0.04
+Italy 34 1, 119 0.26 62 442 0.24 0.02
+Netherlands 9 104 0.34 17 119 0.53 −0.19
+Poland 3 77 0.60 14 96 0.08 0.52
+Portugal 4 87 0.56 3 19 0.04 0.52
+Spain 19 359 0.37 55 554 −0.15 0.51
+Sweden 1 7 0.25 17 27 0.06 0.20
+Switzerland 3 27 0.25 3 8 0.00 0.25
+Totals 135 3,174 0.27 319 2,303 0.07 0.2
+0
+Notes. Urban populations are given in thousands. At the country level, weighted average growth (columns 4 and 7) is calculated using city populations in 1500 as the weights on
+log city growth. At the city level, log growth 1500–1600 isln
+(
+POP160
+0
+POP1500
+)
+, wherePOP
+t
+is city population in yeart. The print growth advantage (column 8) is the difference between
+average growth for adopting and nonadopting cities (column 4−column 7). Across all countries, total weighted average growth is calculated using urban populations in 1500 as the
+weights. Hungary is omitted because Buda was the lone Hungarian print city and the Bairoch data do not record Buda’s population in 1600.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 16 ---
+1148
+QUARTERLY JOURNAL OF ECONOMICS
+TABLE III
+P
+RINT
+T
+ECHNOLOGY AND
+L
+OG
+C
+ITY
+G
+ROWTH
+1500–180
+0
+Press Adopted 1450–1500 Press Not Adopted 1450–150
+0
+(1) (2) (3) (4) (5) (6) (7) (8)
+No. Urban Weighted No. Urban Weighted PrintCity
+20th-Century of Pop. Average of Pop. Average Growth
+Polity Cities 1500 Growth Cities 1500 Growth Advantag
+e
+Austria 1 20 2.51 7 43 0.09 2.42
+Belgium 8 202 0.32 25 174 0.05 0.27
+Czechoslovakia 4 109
+−
+0.05 7 29 0.87
+−
+0.92
+Denmark 1 10 2.31 1 3
+−
+0.41 2.72
+England 3 60 2.48 52 213 1.19 1.29
+France 26 700 0.44 48 440 0.44
+−
+0.01
+Germany 30 374 0.26 79 387 0.44
+−
+0.18
+Hungary 1 12 0.73 4 29 1.15
+−
+0.41
+Italy 34 1, 119 0.38 67 463 0.37 0.01
+Netherlands 11 118 0.32 22 142 0.72
+−
+0.40
+Poland 3 77 0.39 15 100
+−
+0.02 0.41
+Portugal 4 87 1.05 21 114 0.26 0.79
+Spain 19 359 0.30 56 556
+−
+0.07 0.37
+Sweden 1 7 2.38 17 27 0.67 1.72
+Switzerland 3 27 0.60 8 26 0.51 0.0
+9
+Totals 149 3,281 0.43 429 2,746 0.36 0.0
+7
+Notes. Urban populations are given in thousands. At the country level, weightedaverage growth (columns
+4 and 7) is calculated using city populations in 1500 as the weights on log city growth. At the city level, log
+growth 1500–1600 is ln
+(
+POP180
+0
+POP1500
+)
+, wherePOP
+t
+is city population in yeart. The print growth advantage
+(column 8) is the difference between average growth for adopting and nonadopting cities (column 4−column
+7). Across all countries, total weighted average growth is calculated using urban populations in 1500 as the
+weights.
+V.C. Regression Analysis
+TableIV presents regression estimates that examine log city
+growth over 100-, 200-, and 300-year periods. These estimates
+show that cities that adopted the printing press in the late 1400s
+grewnofaster than other cities 1400–1500, but enjoyedvery large
+and significant growth advantages after 1500. The estimates con-
+trol for the geographic, institutional, and cultural growth factors
+identifiedin the economichistory, urban economics, andeconomic
+geography literatures as determining urban growth: population
+size; the historicpresence of political and educational institutions
+(political capitals and historic universities); the nature of eco-
+nomic institutions securing protection against expropriation; and
+advantages associated with locations at sea ports, navigable
+rivers, and sites where Roman settlements were established
+(Hohenberg and Lees 1985; DeLong and Shleifer 1993;Acemoglu,
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 17 ---
+IT AND ECONOMIC CHANGE
+1149
+TABLE IV
+R
+EGRESSION
+A
+NALYSIS OF
+P
+RINT
+M
+EDIA AND
+L
+OG
+C
+ITY
+G
+ROWT
+H
+Dependent Variable Is Log City Growt
+h
+Pre-Adoption Post-Adoptio
+n
+(1) (2) (3) (4) (5)
+Growth Growth Growth Growth
+Independent Variable 1400–1500 1500–1600 1500–1700 1500–180
+0
+Print Adoption 1450–1500 0.07 0.19
+∗∗∗
+0.26
+∗∗∗
+0.30
+∗∗∗
+(0.08) (0.06) (0.08) (0.09)
+Editions Per Capita 0.03 0.03
+∗
+0.04 0.05
+(0.03) (0.02) (0.03) (0.03)
+University −0.12 0.02 0.17
+∗
+0.17
+∗
+(0.11) (0.07) (0.09) (0.09)
+Roman Site 0.08 −0.01 0.09 0.04
+(0.06) (0.05) (0.08) (0.07)
+Capital 0.31
+∗∗
+0.95
+∗∗∗
+1.46
+∗∗∗
+1.98
+∗∗∗
+(0.13) (0.16) (0.20) (0.27)
+Freedom Index −0.23 0.27
+∗∗∗
+0.29
+∗∗
+−0.07
+(0.14) (0.10) (0.13) (0.14)
+Atlantic Port 0.16 0.34
+∗∗∗
+0.64
+∗∗∗
+0.76
+∗∗∗
+(0.18) (0.09) (0.14) (0.12)
+Mediterranean Port 0.21
+∗
+0.15 0.57
+∗∗∗
+0.65
+∗∗∗
+(0.13) (0.12) (0.15) (0.17)
+Baltic Port −0.16 0.25
+∗∗
+0.55
+∗∗
+0.37
+(0.18) (0.12) (0.22) (0.24)
+Navigable River 0.14
+∗
+0.18
+∗∗∗
+0.23
+∗∗∗
+0.39
+∗∗∗
+(0.08) (0.06) (0.09) (0.09)
+Log Population −0.22
+∗∗∗
+−0.30
+∗∗∗
+−0.42
+∗∗∗
+−0.64
+∗∗∗
+(0.04) (0.04) (0.05) (0.05)
+Country FE Yes Yes Yes Yes
+Observations 291 495 515 622
+R Squared 0.33 0.32 0.35 0.4
+7
+Note. The dependent variable in column (2) is ln
+(
+POP150
+0
+POP1400
+)
+, wherePOP
+t
+is city population in yeart. The
+dependent variable in column (3) is ln
+(
+POP160
+0
+POP1500
+)
+. The dependent variable is in column (4) is ln
+(
+POP170
+0
+POP1500
+)
+.
+The dependent variable in column (5) is In
+(
+POP180
+0
+POP1500
+)
+. Editions Per Capita are measured as editions
+published 1450–1500 per 10,000 inhabitants in 1500.University is an indicator for the presence of a historic
+university.Roman Site andCapital are indicators for cities located on sites of Roman settlement and historic
+capitals.Freedom Index is the DeLong and Shleifer (1993) index of regional institutions securing property
+rights.Atlantic Port, Mediterranean Port, andBaltic Port are indicators for historicport cities on these bodies
+of water.Navigable River is an indicator for cities on historically navigable inland waterways.Log Population
+measures the log of city population at the beginning of the relevant period. All variables are described in
+the Data Appendix. City growth 1400–1500 is taken as a placebo (the average date of adoption was 1476).
+Heterskedasticity-robust standard errors are clustered at the country level and presented in parentheses.
+Significance at the 90%, 95%, and 99% confidence levels are indicated by
+∗
+,
+∗∗
+, and
+∗∗∗
+, respectively.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 18 ---
+1150
+QUARTERLY JOURNAL OF ECONOMICS
+Johnson, and Robinson 2005).
+31
+On average European cities grew
+by 0.27 log points 1500–1600. TableIV shows print cities grew an
+additional 0.19 log points over this period. This estimate implies
+that printingaccountedfor18% ofcitygrowth1500–1600.
+32
+Inthe
+balanced panel, the print effect is stronger (0.3 log points) 1500–
+1600 and the association between books per capita and growth
+vanishes. This suggests that city printing (pamphlets, price lists,
+and other nonbook materials) and the subject matter of print
+media were important (see the Online Appendix). The results
+also hold when we exclude the cities of Eastern Europe that were
+exposed to the institutions of the second serfdom post-1500.
+33
+These results are supported by generalized difference-in-
+differences regression estimates that test whether and when
+cities that adopted printing in the late 1400s began to grow rel-
+atively quickly. The generalized difference-in-differences set-up
+estimates the association between city growth andthe interaction
+between print status and time in the balanced panel of cities
+with populations observed every 100 years 1300–1800. The basic
+reduced-form model is:
+(1) Y
+i,t
+=θ
+i
++δ
+t
++
+1700
+∑
+t=1300
+α
+t
+D
+t
+T
+i
++ X
+′
+i,t
+γ+ϵ
+i,t
+.
+Here Y
+i,t
+is log city growth for cityi in time t, the θ
+i
+’s are
+city fixed effects, theδ
+t
+’s time fixed effects,D
+t
+is an indicator
+variable for each time period,T
+i
+is an indicator variable capturing
+whether cityi was an early adopter of print technology,X
+i,t
+is a
+vector of covariates, andϵ
+i,t
+is the error term. The coefficient of
+interest isα
+t
+, which captures the growth advantage print cities
+enjoyed in each time periodt. CovariatesX
+i,t
+include controls
+for universities, political capitals, and country fixed effects; in-
+teractions between indicators for Atlantic ports and time fixed
+effects; indicators for Mediterranean ports and time fixed effects;
+31. Results are robust to controls for Protestantism. For discussion of religion
+see SectionV.F.
+32. This calculation relies on the point estimate of 0.19, the fact that printing
+presses were established in 135 of the 495 cities in TableIV, and the assumption
+that the establishment of presses in printing cities did not depress the growth
+of cities without presses. Evidence for this assumption is discussed below and in
+the Online Appendix. The fact that the estimated print effect does not fall when
+controls are added may appear puzzling. The explanation is that printers tended
+to go to larger cities and big cities typically grew slowly. This nonrandom growth
+dynamic is analyzed inDittmar(2010).
+33. On the impact of the “second serfdom” seeDittmar(2010).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 19 ---
+IT AND ECONOMIC CHANGE
+1151
+interactions between country and year indicators; and between
+log population and year indicators to control for the negative
+association between intial city size and city growth identified in
+Dittmar(2010).
+TableV documents that the cities that adopted the printing
+press inthelate1400s hadnopriorgrowthadvantagebut a highly
+significant advantage of over 30 percentage points after 1500. It
+shows that althoughprint cities enjoyedgrowthadvantages 1600–
+1700 and 1700–1800, the estimates do not cross the conventional
+thresholds for statistical significance in the complete sample. In
+TableV, the line “Print×Yr1400” presents the estimate of the
+relative growth advantage print cities enjoyed 1400–1500, the
+line “Print×Yr1500” presents the estimated print city growth
+advantage 1500–1600, and so on.
+Table V shows that the print effect is not driven by the
+particular region in which cities were located, but was driven by
+the growth advantages enjoyed by ports that adopted printing.
+34
+Column (6) shows that when the sample is restricted to port
+cities, cities that adoptedprinting in the late 1400s hadextremely
+largesubsequent growthadvantages. It alsoshows that—oncethe
+interaction between printing and ports is considered—Atlantic
+ports enjoyed no systematic advantages over non-Atlantic ports.
+Column (7) shows that among cities that were not ports, early
+adoption of the printing press was associated with a modest and
+statistically insignificant growth advantage. Interestingly, ports
+wereless likely to get the printing press than other cities. In
+the balanced sample, printing presses were established by 1500
+in 43% of nonport cities and 36% of sea ports. Controlling for
+city size, the presence of universities, country fixed effects, and
+measures of institutional quality, there is a significant negative
+association between ports and the adoption of the printing press
+1450–1500.
+35
+V.D. Technology Adoption
+The printing press was not randomly assigned to cities. This
+section describes how the technology was brought to and adopted
+by the cities of Europe. It documents that the quasi-proprietary
+34. The results are not driven by a “London effect.” Excluding English cities
+does not change the results. The results are similarly robust to controlling for
+Protestantism. On religion, see SectionV.F.
+35. For this analysis, see the Online Appendix.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 20 ---
+1152
+QUARTERLY JOURNAL OF ECONOMICS
+TABLE V
+L
+OG
+C
+ITY
+G
+ROWTH
+: T
+HE
+T
+IMING OF THE
+P
+RINT
+A
+DVANTAG
+E
+(1) (2) (3) (4) (5) (6) (7)
+All Cities Exclude Exclude Exclude If Only Only Cities
+Balanced German Italian & East of Port Without
+Variable Sample Cities Dutch Cities Elbe River Cities Port
+s
+Print
+×
+Yr1400 0.09 0.10 0.09 0.11 0.27
+−
+0.04
+(0.16) (0.18) (0.20) (0.17) (0.38) (0.16)
+Print
+×
+Yr1500 0.34
+∗∗
+0.39
+∗∗
+0.41
+∗∗
+0.34
+∗∗
+1.39
+∗∗∗
+0.10
+(0.15) (0.17) (0.18) (0.16) (0.42) (0.15)
+Print
+×
+Yr1600 0.13 0.22 0.08 0.16 0.73
+∗∗
+−
+0.01
+(0.16) (0.17) (0.20) (0.16) (0.34) (0.17)
+Print
+×
+Yr1700 0.19 0.25 0.16 0.22 0.84
+∗∗
+0.00
+(0.14) (0.16) (0.17) (0.14) (0.42) (0.15)
+Atlantic
+×
+Yr1400 0.12 0.27 0.13 0.12
+−
+0.32 —
+(0.31) (0.33) (0.37) (0.31) (0.52) —
+Atlantic
+×
+Yr1500 0.43
+∗
+0.55
+∗∗
+0.38 0.44
+∗
+−
+0.24 —
+(0.25) (0.28) (0.28) (0.25) (0.52) —
+Atlantic
+×
+Yr1600 0.42
+∗
+0.49
+∗
+0.33 0.45
+∗∗
+0.47 —
+(0.22) (0.25) (0.24) (0.22) (0.38) —
+Atlantic
+×
+Yr1700 0.60
+∗∗∗
+0.73
+∗∗∗
+0.64
+∗∗∗
+0.62
+∗∗∗
+0.32 —
+(0.19) (0.20) (0.21) (0.19) (0.38) —
+R squared 0.55 0.57 0.58 0.54 0.77 0.53
+Observations 1,010 875 710 850 225 78
+5
+Adopting Cities 83 71 53 78 16 67
+Nonadopting Cities 119 104 89 92 29 9
+0
+Note. This table presents estimates of Equation (1) using the balanced panel of cities with population
+data observed every 100 years 1300–1800. The dependent variable is log population growth: ln
+(
+POPt+10
+0
+POPt
+)
+,
+wherePOP
+t
+is city population in yeart and t = 1300,..., 1700. Print is an indicator variable for cities
+that adopted the printing press 1450–1500. The variables Yr1400,..., Yr1700 are indicators for 100-year
+periods starting 1400,..., 1700. Atlantic is an indicator variable for cities that were historic ports on
+the Atlantic Ocean. Regressions control for city, country, and year fixed effects; country cross year fixed
+effects; Mediterranean port cross-year fixed effects; and log population. See Data Appendix for details on
+the construction of the control variables. Heterskedasticity-robust standard errors clustered by city are in
+parentheses. Significance at the 90%, 95%, and 99% confidence levels are indicated by
+∗
+,
+∗∗
+, and
+∗∗∗
+,
+respectively.
+nature of the technology limited diffusion on the supply side
+and how distance from Mainz was an important determinant of
+adoption 1450–1500.
+36
+The movable type printing press was developed by Johannes
+Gutenberg in Mainz around 1450. In subsequent decades en-
+trepreneurial printers spread the technology to other European
+36. SectionV.E. documents the negative relationship between adoption and
+distance within economies. It shows that distance from Mainz is a strong in-
+strument for adoption and yields large, significant estimates of the technology’s
+impact. For analysis of factors associated with adoption see also the Online
+Appendix.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 21 ---
+IT AND ECONOMIC CHANGE
+1153
+cities. Over the infant industry period, the printers who estab-
+lished presses in cities across Europe were almost exclusively
+Germans. Most had been apprentices of Gutenberg and his busi-
+ness partners in Mainz or had learned from former apprentices.
+37
+FigureIII shows the pattern of diffusion. FigureIV shows that
+theproportionof cities adoptingprintingdeclinedindistancefrom
+Mainz.
+Over the period1450–1500, entry was limitedby the fact that
+the printing press was a quasi-proprietary technology. The key
+innovation in printing—the process used to cast movable metal
+type—was complex and semi-secret.
+38
+To produce suitable metal
+type, printers required a combination of alloys that was strong
+and ductile; hard and nonporous; noncorrosive and maintained
+the “plane-parallel” shape of the castings when cooled. These
+characteristics were obtained with a precise combination of lead,
+tin, and antimony that was a trade secret.
+39
+Although it proved
+impossible to maintain a strict monopoly on the intellectual prop-
+erty behind the printing press, the knowledge remained quasi-
+proprietary for almost a century. The first known “blueprint”
+manual on the production of movable type was only printed in
+1540 (Biringuccio’sPirotechnia).
+Supply-side restrictions meant that distance from Mainz
+was an important factor determining which cities were early
+adopters. Cities relatively close to Mainz were more likely to
+37. Before he moved to Mainz, Gutenberg was developing the technology
+in Strasbourg. There were concurrent attempts to develop printing technology
+in Avignon and Haarlem, but the breakthrough was made in Mainz and the
+technology diffused from there. SeeBarbier(2006), Nieto(2003), Fuhrman(1978),
+Clair(1976), andFebvre and Martin(1958).
+38. Recent research suggests that as of the 1450s, Gutenberg may not have
+entirely consolidated the breakthrough that enabled the mass production of
+movablemetal type.Ag¨ uera yArcas andFairhall(2001) andAg¨ uera yArcas(2002)
+perform a computational analysis of the characters in the Papal Bull (Calixtus
+Bull) of 1456 printed by Gutenberg. Ag¨ uera y Arcas and Fairhall document that
+this bull was printedwithhundreds of different versions of eachletter. This finding
+suggests that Gutenberg may have been casting only a few letters at a time in the
+1450s. It also raises the possibility that other printers played a role in developing
+techniques that permitted the mass production of movable type.
+39. Documents from a lawsuit in which Gutenberg was the defendant reveal
+that when one of his original business partners died, Gutenberg sent a servant
+to the home of the deceased to dismantle a press, retrieve components, and
+destroy evidence of their collaboration lest these materials fall into the hands of
+the partner’s heirs. SeeClair(1976), Fuhrman(1978), and Febvre and Martin
+(1958).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 22 ---
+1154 QUARTERLY JOURNAL OF ECONOMICS
+FIGUREIII
+The Diffusion of the Movable Type Printing Press
+receive the technology other things equal (Barbier 2006). AsNieto
+(2003) notes, faced with high travel costs and the uncertainties
+associated with the matching process, printers who established
+a profitable press in a given city had few incentives to leave.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 23 ---
+IT AND ECONOMIC CHANGE 1155
+FIGUREIV
+Distance from Mainz and Adoption of the Printing Press, 1450–1500
+This figuredocuments therelationshipbetweendistancefromMainz, Germany
+and the proportion of historic cities that adopted the printing press 1450–1500.
+Historic cities are those identified inBairoch, Batou, and Ch` evre(1988).
+Consistent with these observations, 40 of Europe’s 100 largest
+cities did not have printing presses in 1500.
+Regulatory barriers to diffusion and entry were minimal.
+Printing with movable type was a newoccupation and fell outside
+existing guild regulations.F¨ ussel(2005) observes that over the
+infant industry period the business was “free to develop without
+regulation by governments, princely houses or the Church, nor is
+there any evidence that any restrictions were imposed by guilds.”
+Barbier(2006), Nicholas(2003), Brady(2009), andNeddermeyer
+(1997) confirm that entry was free and unregulated.
+Incontrast, financial barriers toentrywerenotable. Forthose
+unable to manufacture movable type, the cost of a complete set
+of equipment was equivalent to the wages a craftsman would
+earn over a period of 4 to 10 years.40 In addition, paper was
+expensive, printers realized returns on print runs only over time,
+40. Data from bequests show that the equipment required to establish a press
+cost 250–600 livres in the early 1500s (Gilmont 1998; Febvre and Martin 1958).
+A livre was worth 18.7 g of silver 1500–1550. The average wage earned by a
+craftsman in Paris was 4.4 g of silver per day 1500–1550 (the average wage across
+18 cities was 4.7 g—seeAllen 2007).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 24 ---
+1156
+QUARTERLY JOURNAL OF ECONOMICS
+and successful printing required a minimum efficient scale. As a
+result, printers typically required financial backing.
+41
+Originating in Mainz, the technology diffused through a
+search process. The process was shaped by demand-side fun-
+damentals but had an important random component. Printers
+sought two things: a backer to finance an establishment and a
+town with sufficiently large and stable demand for print me-
+dia (Febvre and Martin 1958). Cities with universities, or with
+sovereign political andlegal institutions, typically providedstable
+markets. However, historians observe that the entrepreneurs’
+information was incomplete and that random and accidental fac-
+tors shaped the process through which they settled on locations.
+Clair(1976) observes that a notable fraction of the early printers
+became “nomads, trusting to luck to find a backer who would en-
+able them to settle and establish themselves.”Febvre and Martin
+(1958) identify the idiosyncratic interest of particular capitalists,
+patrons, and religious institutions had in making texts available
+as the dominant factor in the diffusion process.
+42
+Gilmont(1998)
+observes that technology diffusion was, “guided more by chance
+thanbyanyassessment of profitablecenters”inwhichtoestablish
+presses and that a set of early print centers maintained first
+mover advantages in subsequent centuries (Gilmont 1992).
+The pattern of diffusion was shaped by the fact that print-
+ing exhibited characteristics associated with o-ring production
+41. The main source of commercial credit 1450–1500 was the urban merchant
+class (Wright 1996). Over this period, only a handful of cities had organized
+exchanges and formal banking systems were only incipient. Many cities with
+significant merchant interests did not adopt printing 1450–1500. Sea port cities
+were commercial and financial centers. In the balanced sample, printing presses
+were established in 36% of port cities and in 43% of nonport cities. Important sea
+ports that did not get the printing press include Bari, Bordeaux, Bremen, Dor-
+drecht, Dublin, K¨ onigsberg (Kaliningrad), Livorno, Malaga, Marseilles, Salerno,
+Santander, Salonika, andToulon. As documentedintheOnlineAppendixsea ports
+wereless likelythanothercities toget printingpresses 1450–1500 evencontrolling
+for distance from Mainz. But many inland cities that were important industrial
+and financial centers also did not get printing presses 1450–1500 (e.g., Mechelen,
+Arras, and Lille). These facts suggest that unobserved city characteristics associ-
+ated with technology adoption and subsequent growth are unlikely to explain the
+estimatedprintingeffect. Tofurtheraddress concerns about missingdeterminants
+of technology adoption and city growth, SectionV.E. exploits distance from Mainz
+as an instrument for adoption.
+42. Printers were invited to Rome, Chartres, Erfurt, and Florence. The first
+press in Paris was not a business venture but a project initiated by two professors
+at the Sorbonne. Some years later, workers from this press set up the first
+commercial establishment in Paris. SeeClair(1976).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 25 ---
+IT AND ECONOMIC CHANGE
+1157
+functions (Kremer 1993). Beyond the secret of movable type,
+printingrequireda complementaryset of inputs andskills, eachof
+which was required for successful production. Successful printing
+required movable type, a suitably oily ink, nontrivial skill in
+inking and press work, and in the printer a rare combination of
+mechanical and intellectual skills (Fuhrman 1978).
+43
+The availability of paper was a prerequisite for the diffusion
+of the printing press, however, the locations of preexisting paper
+mills did not determine which cities adopted the printing press
+(Febvre and Martin 1958; Barbier 2006). In the tenth century
+paper mills were established in Islamic Europe (Palermo, Cadiz,
+Cordoba, Grenada, and Toledo). By 1300, there were mills at 20
+locations in Catalunya and Italy. In the 1300s paper mills were
+established at 25 locations in France. Between 1390 and 1450,
+paper mills spread into Germany (N¨ urnberg, Ravensburg, Chem-
+nitz, K¨ oln, Frankfurt am Main, W ¨ urzburg, Esslingen, Munich),
+Switzerland(Basel andMarly), Bohemia (K¨ onigsaal), andAustria
+(Kremsm¨ unster). There was no significant association between
+adoption of the printing press and proximity to paper mills.
+V.E. Distance from Mainz as Instrumental Variable
+Given the observed positive association between the adop-
+tion of print technology and city growth, the natural question is
+whether printers selected cities that were already bound to grow
+quickly. This section exploits distance from Mainz as an instru-
+ment for print adoption. It confirms that distance from Mainz was
+a significant determinant of technology adoption. It documents
+that there was no statistically significant relationship between
+distance from Mainz and city growth before the diffusion of the
+printing press, that a highly significant relationship emerged
+after Gutenberg, andthat distance from Mainz was not correlated
+with other determinants of growth. It shows that instrumenting
+for adoption with distance yields estimates of the print effect that
+are significant and substantially larger than OLS estimates.
+43. Theoilyinkandtheskills inpress workweredevelopedforandbyprinting.
+However, it is natural to wonder whether cities with advanced metal-working
+industries were likely to both grow quickly independent of printing and to attract
+printers. The evidence does not support this hypothesis. Among German-speaking
+cities, printing presses were no more likely to be established in locations close to
+metal-working districts identified inScott(2002) or iron mills identified inLutz
+(1941).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 26 ---
+1158
+QUARTERLY JOURNAL OF ECONOMICS
+TABLE VI
+D
+ISTANCE FROM
+M
+AINZ AND
+E
+CONOMIC
+O
+UTCOMES
+B
+EFORE AND
+A
+FTER
+G
+UTENBER
+G
+(1) (2) (3) (4) (5)
+Log Growth University Log Size Log Growth
+Regression Model 1400–1500 in 1450 in 1500 1500–160
+0
+Log Distance to Mainz −0.05 0.00 −0.11 −0.03
+∗∗∗
+(0.04) (0.01) (0.08) (0.01)
+Observations 269 410 410 410
+R Squared 0.23 0.12 0.31 0.2
+2
+Note. The dependent variable in column (2) is log city growth 1400–1500: ln
+(
+POP150
+0
+POP1400
+)
+. The dependent
+variable in column (3) is an indicator variable recording the presence of a historic university in 1450. The
+dependent variable in column (4) is log city population in 1500:ln (POP
+1500
+). The dependent variable
+in column (5) is log city growth 1500–1600: ln
+(
+POP160
+0
+POP1500
+)
+. Controls include city latitude, longitude, the
+interaction between latitude and longitude; the DeLong-Shleifer index of institutions; indicators for sea
+ports, navigable rivers, capitals, and cities on Roman sites; and log city population. (Log population is not a
+control for the regression reported in column 4.) Sample restricted to balanced panel of cities with population
+observed 1500–1800 in economies with at least one print city. Heteroskedasticity-robust standard errors
+clustered by country in parentheses. Significance at the 99% confidence level is indicated by
+∗∗∗
+.
+Between 1450 and1460 only a small number of men in Mainz
+knew the secrets of printing.Barbier(2006) observes that in sub-
+sequent decades thetechnologydiffusedin“concentriccircles”(see
+alsoFebvre and Martin 1958; Nieto 2003). This section exploits
+distance from Mainz as an instrument to capture variation in
+adoption that was exogenous to the underlying determinants of
+city growth.
+Ideally, we would employ a measure of economic distance
+that capturedtravel times, travel costs, andtrade flows. However,
+data on travel times and intercity trade is exceedingly limited
+and fragmentary (Braudel 1966). For this reason, I employ great
+circle (“as the crow flies”) distance as an instrument. Because
+great circle distance is not perfectly correlated with unobserved
+economic distance, we expect to find attenuated estimates of the
+association between distance from Mainz and adoption.
+TableVI shows that highly significant relationship between
+distance from Mainz and growth emerged after Gutenberg’s in-
+novation (1500–1600), but that no significant relationship be-
+tween growth and distance is observed before the diffusion of
+printing (1400–1500).
+44
+It also documents that cities that were
+close to Mainz not significantly larger or smaller than others
+44. An earlier version of this paper reported results from a specification with
+country fixed effects which found that cities farther from Mainz in fact grew
+relatively quickly 1400–1500, although this estimate was also not statistically
+significant.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 27 ---
+IT AND ECONOMIC CHANGE
+1159
+TABLE VII
+I
+NSTRUMENTAL
+V
+ARIABLE
+A
+NALYSIS OF
+P
+RINTING AND
+L
+OG
+C
+ITY
+G
+ROWT
+H
+(1) (2) (3)
+1st Stage 2nd Stage
+Adopt Print City Growth
+Regression Model 1450–1500 1500–160
+0
+Log Distance to Mainz −0.06
+∗∗∗
+(0.01)
+Adopt Print 1450–1500 0.58
+∗∗
+(0.29)
+Observations 410 410
+R squared 0.34 0.15
+F Statistic (IV) 20.74
+∗∗∗
+82.07
+∗∗∗
+Note. The dependent variable in the first stage is an indicator variable that takes the value of 1 for cities
+that adopted the printing press 1450–1500. The dependent variable in the second stage is log population
+growth:ln
+(
+POP160
+0
+POP1500
+)
+. Distance from Mainz in log kilometers is the instrumental variable for print adoption
+1450–1500. Regressions control for: log city population in 1500, port location, navigable rivers, location on
+Roman sites, political capitals, city latitude, city longitude, the interaction between latitude and longitude,
+and the DeLong–Shleifer freedom index of regional institutions. The Data Appendix provides detailed
+descriptions of these variables. Sample restricted to balanced panel of cities with population observed
+1500–1800 in economies with at least one print city. Heteroskedasticity-robust standard errors clustered by
+country in parentheses. Significance at the 90%, 95%, and 99% confidence levels are indicated by
+∗
+,
+∗∗
+, and
+∗∗∗
+.
+were no more likely to have housed universities on the eve of
+Gutenberg’s innovation. These results indicate that the diffusion
+of the printing press from Mainz provides a plausible means to
+obtain variation in adoption that is exogenous to preexisting eco-
+nomicandeducational determinants of citygrowth. Theestimates
+control for ports, navigable rivers, Roman sites, capitals, longi-
+tude, latitude, the interaction between longitude andlatitude, the
+DeLong–Shleifer index of institutions, and log city population in
+the previous period.
+Table VII reports the IV estimates of the impact of early
+print adoption on city growth. The first-stage results document
+that distance from Mainz is a strong instrument. There was a
+very significant negative association between distance and adop-
+tion, and theF statistics for the IV are highly significant: they
+cross the rule-of-thumb threshold of 10 and the weak instrument
+thresholds calculated byStock and Yogo(2002). The second-stage
+results show that the IV estimate of the impact of adoption on
+city growth is a significant 0.58 log points for 1500–1600 or,
+equivalently, 78 percentage points.
+45
+45. A model with country fixed effects yields slightly larger estimates of the
+effect of adopting printing 1450–1500 on city population growth 1500–1600.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 28 ---
+1160
+QUARTERLY JOURNAL OF ECONOMICS
+TABLE VIII
+P
+LACEBO
+T
+EST OF
+I
+NSTRUMENTAL
+V
+ARIABLE
+I
+DENTIFICATIO
+N
+(1) (2) (3)
+IV Employs Distance From IV Estimate of Print Effect IV Estimatet Statisti
+c
+Mainz 0.58 2.03
+∗∗
+Amsterdam −3.00 0.95
+London 1.20 0.34
+Paris −14.25 0.12
+Venice 0.08 0.55
+Wittenberg 2.21 0.6
+4
+Note. The dependent variable is log population growth 1500–1600:ln
+(
+POP160
+0
+POP1500
+)
+. All regressions have
+the controls noted in Table VII. The sample is restricted to balanced panel of cities with population observed
+1500–1800. Thet statistics are heteroskedasticity robust and clustered by country. Significance at the 95%
+confidence level is indicated by
+∗∗
+.
+TableVIII provides a falsification test of the IV estimates.
+It compares the estimate obtained using distance from Mainz as
+the IV with results obtained using distance from other important
+cities: Amsterdam, London, Paris, Venice, and Wittenberg. These
+other cities are placebos. Wittenberg is included because it has
+been identified as the location from which Protestant ideas dif-
+fused, because Protestantism may have been a demand shifter for
+literacy, and becauseBecker and Woessmann(2009) argue that
+distance from Wittenberg may identify exogenous variation in
+Protestantism (the next section examines the interplay between
+religion and printing in greater detail). Only in the case of Mainz
+does distance pick up a significant print effect on subsequent
+city growth. This evidence supports the singular importance of
+distance from Mainz.
+The magnitude of the IV estimate is remarkable. For 1500–
+1600, the IV estimate (ˆα
+IV
+= 0.58) is more than twice the size of
+the OLS estimate and implies that printing accounted for 68% of
+total city growth.
+46
+There are several possible explanations for
+this result.
+First, theOLS estimatemaybeattenuatedbyproxymeasure-
+ment error. What mattered for city growth was not the physical
+presence of a printing press but its contribution to human capital
+46. In the unbalanced sample examined in TableIV, ˆα
+OLS
+= 0.19 for 1500–
+1600. In the balanced panel examined in the Online Appendix,ˆα
+OLS
+= 0.29 for
+1500–1600. The IV point estimate implies that printing accounted for 68% of total
+city growth under the assumption that the establishment of printing presses in
+some cities did not depress growth in cities without presses. See above and Online
+Appendix for supporting evidence.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 29 ---
+IT AND ECONOMIC CHANGE
+1161
+accumulation and intellectual exchange. An indicator variable
+capturing whether a given city was an early adopter of the
+printing press is a coarse proxy for these nuanced aspects of
+social life. It is likely that cities closer to Mainz were able to
+develop richer print cultures over the early modern period. In the
+OLS regressions, a binaryindicatorproxies forunmeasured“print
+culture.” It follows thatˆα
+OLS
+may be attenuated by a species of
+measurement errorandthat IV regressionmaypickupa “cleaner”
+measure of the impact of printing.
+47
+Second, we cannot rule out a priori the possibility that the
+IV estimate is biasedupward by differences implicit in the IV
+scheme. It is possible that there was underlying heterogeneity
+in the returns to technology adoption and that the IV approach
+recovers returns for a subset of cities likely to have high returns.
+For this to be the case, on average the cities likely to benefit most
+from the new technology would have to be the ones located close
+to Mainz. A plausible case could be made that this was the case
+for Italy. By the middle 1400s, cities in northern Italy arguably
+enjoyed institutional advantages over the southern Italian cities
+exposed tothe institutions of the kingdoms of Naples and Sicily—
+andwere closer toMainz. However, when one excludes the Italian
+cities from the sample, one still gets large IV estimates: a print
+effect of over 0.67 log points for 1500–1600 that is significant at
+the 95% level.
+V.F. Printing and Religion
+Print media played a critical role in the diffusion of the
+Protestant Reformation 1517–1648.
+48
+Historians argue that
+the diffusion of the Reformation would not have been possible
+without the printing press (Brady 2009). However, religious sen-
+timent also fostered demand for print media, notably through
+Protestant calls for laypersons to read the Bible. Recent economic
+research examines whether Protestantism was associated with
+variations in economic outcomes (Becker and Woessmann 2009;
+47. One could imagine that distance from Mainz also captures adoption after
+1500. The evidence does not support this hypothesis. As shown in the next section,
+cities close toMainz were nomore likely than others toadopt printing 1500–1600.
+Over this period, supply-side restrictions on diffusion were relaxed.
+48. The Evangelical media campaign criticizing CatholicChurch practices was
+the first major attempt to employ the printing press to shape a mass movement.
+Pamphlets published in the vernacular made Martin Luther the first best-selling
+author. SeeEdwards(1995) andGilmont(1998).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 30 ---
+1162
+QUARTERLY JOURNAL OF ECONOMICS
+Cantoni 2009). This section examines the interplay between reli-
+gion and printing.
+Becker and Woessmann(2009) argue that Protestantism
+shifted the demand for literacy and impacted economic outcomes
+through a human capital channel. Becker and Woessmann use
+distancetoMartinLuther’s baseinWittenbergas anIV toidentify
+exogenous variation in Protestantism within historic Prussia.
+49
+Given the associations Becker and Woessmann find between
+Protestantism, literacy, and prosperity, it is natural to wonder
+whether the print effects estimated in this article embody a
+Protestant demand shift for print media. It is also natural to
+wonder how the IV identification strategy in this article relates
+to the IV strategy inBecker and Woessmann(2009).
+The historical chronology is important for an understand-
+ing of these IV strategies. This article examines the impact of
+printing presses established 1450–1500. Martin Luther’s calls for
+the reform of the Church first appeared in Wittenberg in 1517.
+Wittenberg was not a particularly important city before 1517, and
+distance from Wittenberg was not associated with the drivers of
+growth prior to 1517 (Becker and Woessmann 2009).
+Consistent with this sequence of events, the baseline
+instrumental variable estimate of the print effect reported in
+TableVII is robust to the inclusion of distance to Wittenberg as
+an additional control variable. In TableIX, column (2) documents
+that the magnitude and significance of the relationship between
+distance to Mainz and adoption of the printing press is the
+same when we control for distance to Wittenberg as in the the
+baseline estimate presented in TableVII (this relationship is
+the first stage in the IV regression,β
+FS
+=−0.06). Column (3)
+similarly documents that the relationship between distance to
+Mainz and city growth 1500–1600 is the same when we control
+for distance to Wittenberg as in the baseline estimate presented
+in TableVI (this is the reduced form,β
+RF
+=−0.03). Columns (4)
+and (5) show that among German-speaking cities there was also
+no significant relationship between distance to Wittenberg and
+the establishment of printing presses 1450–1500 or between
+distance to Wittenberg and city growth 1500–1600.
+50
+These
+results are consistent withCantoni’s (2009) finding that there
+49. Wittenbergis 370 kmnortheast of Mainz. ProximitytoWittenbergpredicts
+Protestantism.
+50. The German-speaking cities comprise cities in Germany, Austria, and
+parts of Alsace, Poland, Switzerland, and Bohemia.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 31 ---
+IT AND ECONOMIC CHANGE
+1163
+TABLE IX
+D
+ISTANCE TO
+M
+AINZ
+(G
+UTENBERG
+)
+AND
+W
+ITTENBERG
+(L
+UTHER
+)
+All Cities German-Speaking Citie
+s
+(1) (2) (3) (4) (5)
+Adopt Print Log Growth Adopt Print Log Growth
+Regression Model 1450–1500 1500–1600 1450–1500 1500–160
+0
+Log Distance to Mainz −0.06
+∗∗∗
+−0.03
+∗∗
+−0.04
+∗∗∗
+−0.03
+∗∗∗
+(0.01) (0.01) (0.01) (0.00)
+Log Distance to Wittenberg 0.03 −0.03 −0.05 0.10
+(0.02) (0.02) (0.04) (0.07)
+Observations 410 410 85 85
+R squared 0.34 0.22 0.41 0.2
+9
+Note. The dependent variable in columns (2) and (4) is an indicator variable that records whether a
+printing press was established in a given city 1450–1500. The dependent variable in columns (3) and (5) is
+log city growth 1500–1600:ln
+(
+POP160
+0
+POP1500
+)
+. Controls and t statistics are as in Table VII. European sample
+restricted to balanced panel of cities with population observed 1500–1800. German sample restricted to cities
+with population observed 1500 and 1600. Heterskedasticity-robust standard errors clustered by country in
+parentheses. Significance at the 95%, and 99% confidence levels are indicated by
+∗∗
+and
+∗∗∗
+.
+was no positive association between Protestantism and city
+populations among German cities 1300–1800.
+The data also provide only qualified support for the hypoth-
+esis that Protestantism was a positive demand shifter for the
+printing press. TableX exploits data on printing presses founded
+in German-speaking cities after Luther disseminated his famous
+95 theses in 1517. Columns (2) and (4) show that there is no
+clear evidence that German-speaking cities close to Wittenberg
+were more likely to adopt the printing press after 1517.
+51
+The
+weakness of these estimates does not, however, rule out a Protes-
+tant demand shift for print media from existing printing presses.
+Columns (2) and (4) also show that distance from Mainz was no
+longer negatively associated with the adoption of the printing
+press 1517–1600. Over this period, the first blueprints describing
+how to create movable type were printed, and the technology
+ceased to be a trade secret controlled by printers emanating from
+Mainz. Columns (3) and(5) showthat the proximity toWittenberg
+was not associated with city growth 1600–1700. In fact, cities
+farther from Wittenberg grew relatively quickly. However, the
+standard errors on the estimates are large and the association is
+not statistically significant.
+51. In fact, examining cities in the unbalanced panel. I find that distance from
+Wittenberg was positively associated with adoption of the printing press 1517–
+1600 (TableX, column (4)).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 32 ---
+1164
+QUARTERLY JOURNAL OF ECONOMICS
+TABLE X
+P
+ROTESTANTISM AS
+D
+EMAND
+S
+HIFTER FOR
+P
+RINT
+M
+EDIA IN
+G
+ERMAN
+Y
+Cities from Cities from
+Balanced Panel Unbalanced Pane
+l
+(1) (2) (3) (4) (5)
+Adopt Print Log Growth Adopt Print Log Growth
+Regression Model 1517–1600 1600–1700 1517–1600 1600–170
+0
+Log Distance to Mainz 0.33
+∗∗∗
+−0.05
+∗∗∗
+0.16∗ − 0.05
+∗∗∗
+(0.07) (0.01) (0.08) (0.01)
+Log Distance to Wittenberg−0.08 0.04 0.02
+∗∗∗
+0.06
+(0.05) (0.05) (0.00) (0.05)
+Observations 54 86 106 87
+R Squared 0.28 0.33 0.18 0.3
+3
+Note. The dependent variable in columns (2) and (4) is an indicator variable that records whether a
+printing press was established in a given city 1517–1600. The estimates in these columns examine cities
+without printing presses in 1517. The dependent variable in columns (3) and (5) is log city growth 1600–1700:
+ln
+(
+POP170
+0
+POP1600
+)
+. The balanced sample comprises German-speaking cities with population observed 1500–1800.
+The unbalanced sample comprises cities with population observed in 1500. Controls and t statistics as in
+Table VII. Significance at the 90%, 95%, and 99% confidence levels are indicated by
+∗
+,
+∗∗
+, and
+∗∗∗
+. Data
+on post-1517 presses from Reske (2007). Among German cities adopting the press 1517–1700, the mean
+adoption year was 1591.
+Two related facts may explain why Protestantism may
+have been associated with a demand shift for print media,
+but Protestant cities did not grow quickly 1600–1700. First,
+presses in Protestant cities concentrated on producing agitational
+pamphlets and religious propaganda (Febvre and Martin 1958)
+without immediate economic spillovers. Second, while a Protes-
+tant demand shift could be expected to show up in city growth
+1600–1700, the Thirty Years War (1618–1648) led to massive
+disruptions in economic activity and demographic shocks that
+hit Protestant cities harder than Catholic cities (Cantoni 2009).
+During the war, the output of German printing presses declined
+by roughly 80% (Febvre and Martin 1958). Moreover, war-related
+demographicdeclines werepronouncedinnortheasternGermany,
+running as high as 30% of the population (Scott 2002). The Thirty
+Years War was a religious conflict and appears to have offset any
+printing-related advantage among Germany’s Protestant cities.
+This suggests that the economic impact of information tech-
+nologies may operate through their effects on the transmission
+of economically useful ideas and the evolution of beliefs and
+ideologies.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 33 ---
+IT AND ECONOMIC CHANGE
+1165
+VI. C
+ONCLUSION
+Economists have found no evidence that the printing
+press was associated with increases in productivity at the
+macroeconomic level. Some have concluded that the economic
+impact of the printing press was limited. This article exploits
+city-level data on the diffusion and adoption of the printing
+press to examine the technology’s impact from a new perspective.
+The estimates presented here show that cities that adopted the
+printing press in the late 1400s enjoyed no growth advantages
+prior to adoption, but grew at least 20 percentage points—and as
+much as 78 percentage points—more than similar cities that did
+not over the period 1500–1600. These estimates imply that the
+impact of printing accounted for at least 18% and as much as 68%
+of European city growth between 1500 and 1600.
+Between 1500 and1800, European cities were seedbeds of the
+ideas, activities, and social groups that launched modern, capital-
+ist economic growth. The findings herein suggest that movable
+type print technologies had very substantial effects in European
+economic history through their impact on cities.
+D
+ATA
+A
+PPENDIX
+Data on city populations. City populations are fromBairoch,
+Batou, and Ch` evre(1988) and de Vries (1984). City loca-
+tions are from Bairoch, Batou, and Ch` evre(1988) and http://
+www.gpsvisualizer.com/.
+Data on print media . The locations of printing presses es-
+tablished 1450–1500 are fromFebvre and Martin(1958), Clair
+(1976), andISTC(1998). Data onthenumberof editions published
+in each city 1450–1500 are fromISTC (1998). Data on printing
+presses establishedafter1500 inGerman-speakingcities arefrom
+Reske(2007). Data for the Bayerische Staatsbibliothek are online
+at http://mdzx.bib-bvb.de/bsbink/treff2feld.html (accessed March
+2009). The Bayerische Staatsbibliothek holds historical collec-
+tions acquired by Duke Albrecht V. In 1558, Albrecht acquired
+the private library of Johann Widmannstetter. In 1571, Albrecht
+alsopurchasedthe private library of international banker Johann
+Fugger. Additional acquisitions were made as German monaster-
+ies were dissolved in the 1802–1803 period. Data on merchants’
+manuals are from Hoock and Jeannin (1991, 2001, 2007).
+Control variables. The data sources for the control variables
+are as follows.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 34 ---
+1166
+QUARTERLY JOURNAL OF ECONOMICS
+University is an indicator variable taking the value 1 in a
+given period if a university was present in a given city at the
+beginning of that period. For instance, the University of Ferrara
+(Italy) was founded in 1391. For Ferrara,University = 0 in 1300
+and University = 1 in 1400. Data on the historical location of
+universities are fromDarby(1970) and Jedin, Latourette, and
+Martin(1970).
+Roman Site is an indicator variable taking the value of 1 for
+cities located on the sites of Roman settlements. Data on Roman
+settlements arefromStillwell, MacDonald, andMcAllister(1976).
+Port is an indicator variable taking the value 1 for cities lo-
+catedon historicsea or ocean ports. Data on the historical location
+of ports are fromAcemoglu, Johnson, and Robinson(2005), sup-
+plemented by data inMagosci(1993) and Stillwell, MacDonald,
+and McAllister(1976), and the sources cited inDittmar(2010).
+The data in this article supplementsAcemoglu, Johnson, and
+Robinson(2005) by coding for cities that were historically ports
+on the Baltic(e.g., St. Petersburg, Gda´ nsk, Kaliningrad, Szczezin,
+Rostock, and L¨ ubeck) and Mediterranean and Black Sea ports
+omitted in Acemoglu, Johnson, and Robinson(2005): Durres,
+Fano, Gaeta, Iraklion, Kerch, Korinthos, Malaga, Pozzuoli, Tra-
+pani, and Vlora. Similarly, the coding here reflects the fact that
+Rota and Sanl´ ucar de Barrameda had Atlantic ports.
+Atlantic Port, Mediterranean Port, andBaltic Port are indica-
+tors taking the value of 1 for cities with ports on these bodies of
+water. Black Sea ports are classed as Mediterranean.
+Navigable River is anindicatorvariabletakingthevalue1 for
+cities located on historically navigable inland waterways. Data on
+navigable rivers are drawn fromMagosci(1993), Pounds (1979,
+1990), Livet (2003),Cook and Stevenson(1978), Graham (1979),
+Stillwell, MacDonald, and McAllister(1976), and de Vries, Jan
+and van der Woude(1997). The coding captures the principal
+historicallynavigablewaterways anddoes not class as “navigable”
+waterways that required substantial improvements and became
+navigableonlyovertheearlymodernera. Somecities onnavigable
+rivers were also sea or ocean ports.
+Freedom Index is the DeLong and Shleifer(1993) index
+of regional institutions. DeLong and Shleifer class institutions
+as either promoting relatively unrestrained and autocratic rule
+(prince, index value 0) or as securing relative freedom (free, index
+value 1). The DeLong–Shleifer coding is here extended to Poland
+and the Ottoman Europe, neither of which meet the criteria for
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 35 ---
+IT AND ECONOMIC CHANGE
+1167
+classification as free between 1300 and 1850 (this is confirmed by
+DeLong).
+Capital is an indicator variable taking the value 1 for cities
+that were historically national capitals. For instance, Madrid was
+not a capital through 1500 (Phillip II moved the court to Madrid
+and made it his capital only in 1561). Similarly, Berlin is taken
+as a capital from 1700 (Berlin became the capital of Prussia
+in 1701). Likewise, Krak´ ow was Poland’s capital through 1596,
+when Sigismund III moved the capital of the Polish-Lithuanian
+Commonwealth to Warsaw. In contrast, London and Paris were
+capitals in all periods examined in the econometric analysis.
+Executive Constraint is the historical coding of the Polity-IV
+indexof constraints onarbitraryexecutiveauthority. Thedata are
+fromAcemoglu, Johnson, and Robinson(2002, 2005).
+TableA.1 provides summary statistics for these variables for
+all cities and for the balanced panel of cities with population data
+observed every 100 years 1300–1800.
+APPENDIX TABLE A.1
+S
+UMMARY
+S
+TATISTIC
+S
+Unbalanced Panel Balanced Pane
+l
+(1) (2) (3) (4) (5)
+Variable Mean s.d. Mean s.d
+.
+Adopt Print 1450–1500 0.09 0.29 0.41 0.49
+Editions Per Capita 11.59 121.90 102.41 377.19
+Roman Site 0.15 0.36 0.41 0.49
+Atlantic Port 0.05 0.22 0.11 0.31
+Mediterranean Port 0.03 0.18 0.09 0.29
+Baltic Port 0.00 0.07 0.03 0.17
+Navigable River 0.06 0.24 0.25 0.44
+Distance to Amsterdam 983.53 590.26 778.81 470.92
+Distance to London 1, 101.86 653.11 879.86 560.77
+Distance to Mainz 1, 192.21 711.41 989.34 577.05
+Distance to Paris 1, 045.17 668.84 849.23 505.06
+Distance to Venice 1, 011.99 531.73 856.86 433.06
+Distance to Wittenberg 1, 093.61 564.61 912.31 487.20
+Population 1300 11.84 16.47 18.53 22.77
+Population 1400 11.97 21.00 18.83 27.10
+Population 1500 10.73 15.83 19.92 24.20
+Population 1600 11.60 20.91 27.39 38.58
+Population 1700 10.56 28.49 32.78 62.16
+Population 1800 12.02 31.10 44.92 89.98
+Ln Population Growth 1300–1400 −0.04 0.63 0.01 0.57
+Ln Population Growth 1400–1500 0.18 0.53 0.13 0.55
+Ln Population Growth 1500–1600 0.27 0.53 0.26 0.5
+5
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 36 ---
+1168
+QUARTERLY JOURNAL OF ECONOMICS
+APPENDIX TABLE A.1
+(
+CONTINUED
+)
+Unbalanced Panel Balanced Pane
+l
+(1) (2) (3) (4) (5)
+Variable Mean s.d. Mean s.d
+.
+Ln Population Growth 1600–1700 0.00 0.61 0.06 0.57
+Ln Population Growth 1700–1800 0.56 0.66 0.31 0.50
+Capital 1300 0.01 0.10 0.02 0.16
+Capital 1400 0.02 0.12 0.02 0.16
+Capital 1500 0.01 0.09 0.02 0.16
+Capital 1600 0.01 0.09 0.02 0.16
+Capital 1700 0.01 0.08 0.03 0.17
+Capital 1800 0.00 0.06 0.02 0.16
+University 1300 0.04 0.19 0.06 0.25
+University 1400 0.07 0.25 0.12 0.32
+University 1500 0.10 0.30 0.18 0.39
+University 1600 0.09 0.29 0.24 0.43
+University 1700 0.08 0.27 0.26 0.44
+University 1800 0.06 0.24 0.29 0.45
+Freedom Index 1300 0.41 0.49 0.47 0.50
+Freedom Index 1400 0.42 0.49 0.47 0.50
+Freedom Index 1500 0.17 0.38 0.21 0.41
+Freedom Index 1600 0.11 0.31 0.21 0.41
+Freedom Index 1700 0.17 0.37 0.15 0.36
+Freedom Index 1800 0.11 0.31 0.15 0.3
+6
+Note. The balanced panel comprises 202 cities with populations observed every 100 years 1300–1800.
+The unbalanced panel comprises 498 cities with population observed in 1300, 400 cities in 1400, 631 cities in
+1500, 897 cities in 1600, 1,169 cities in 1700, and 2,113 cities in 1800. For time-invariant city characteristics,
+summary statistics for the unbalanced panel are calculated over 2,202 cities. City populations are in
+thousands. Distances are in kilometers. Editions per capita measures editions published 1450–1500 per
+10,000 inhabitants in 1500.
+A
+MERICAN
+U
+NIVERSITY
+S
+UPPLEMENTARY
+M
+ATERIAL
+An Online Appendix for this article can be found at QJE
+online (qje.oxfordjournals.org).
+R
+EFERENCES
+Acemoglu, Daron, Simon Johnson, and James Robinson, “The Rise of Europe:
+Atlantic Trade, Institutional Change and Economic Growth,”American Eco-
+nomic Review, 95 (2005), 546–579.
+, “The Rise of Europe,” NBER Working Paper 9378 (2002).
+Ag¨ uera y Arcas, Blaise, “Computational Analytical Bibliography,” Paper pre-
+sented at Bibliopolis Conference The future history of the book, The
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 37 ---
+IT AND ECONOMIC CHANGE
+1169
+Hague (Netherlands), Koninklijke Bibliotheek (2002). Available online at
+http://bibliopoliscongres2002.kb.nl/aguera.html.
+Ag¨ uera y Arcas, Blaise, and Adrienne Fairhall, “Archaeology of Type: Printing
+Technology Co-evolved with the Written Representation of Language,”Na-
+ture, 411 (2001), 997.
+Allen, Robert, “Progress and Poverty in Early Modern Europe,”Economic History
+Review, 56 (2003), 403–443.
+, Wages, Prices & Living Standards: The World-Historical
+Perspective (2007). Available online at http://www.economics.ox.ac.uk/
+Members/robert.allen/WagesPrices.htm.
+Bairoch, Paul,Cities and Economic Development (Chicago: University of Chicago
+Press, 1988).
+Bairoch, Paul, JeanBatouandPierreCh` evre,La Population Des Villes Europ´ eenes
+(Geneva: Librarie Droz, 1988).
+Barbier, Fr´ ed´ eric,L’Europe De Gutenberg: Le Livre et L’Invention de la Modernit´ e
+Occidentale (Paris: Belin, 2006).
+Baten, Jorg, and Jan Luiten van Zanden, “Book Production and the Onset
+of Modern Economic Growth,”Journal of Economic Growth , 13 (2008),
+217–235.
+Becker, Sascha O., and Ludger Woessmann, “Was Weber Wrong? A Human Capi-
+tal Theory of Protestant Economic History,”Quarterly Journal of Economics,
+124 (2009), 531–596.
+Bolgar, R. R., “Education and Learning,” inThe New Cambridge Modern History,
+Vol III: the Counter-Reformation and the Price Revoltion 1559–1610 , ed. R.
+Wernham (Cambridge: Cambridge University Press, 1962).
+Brady, Thomas A., German Histories in the Age of Reformations, 1400–1650
+(Cambridge: Cambridge University Press, 2009).
+Braudel, Fernand,La M´ editerran´ ee et le Monde M´ editerran´ een`A L’´Epoque De
+Phillippe II, vol. 1 (Paris: Armand Colin, 1966).
+, Civilisation, ´Economie et Capitalisme , vols. 1–3 (Paris: Armand Colin,
+1979a, 1979b, 1979c).
+Cantoni, Davide, “The Economic Effects of the Protestant Reformation: Testing
+the Weber Hypothesis in the German Lands,” Harvard University Working
+Paper (2009).
+Cipolla, Carlo, “TheDiffusionofInnovationinEarlyModernEurope,”Comparative
+Studies in Society and History, 14 (1972), 46–52.
+Clair, Colin,A History of European Printing (London: Academic, 1976).
+Clark, Gregory, “The Secret History of the Industrial Revolution,” Working Paper,
+UC Davis (2001).
+, “Lifestyles of the Rich and Famous: Living Costs of the Rich ver-
+sus the Poor in England, 1209–1869,” Paper presented in conference, To-
+wards a global history of prices and wages (2004). Available online at
+http://www.iisg.nl/hpw/papers/clark.pdf.
+Cook, Chris, and John Stevenson,Longman Atlas of Modern British History
+(London: Longman, 1978).
+Darby, H. C., ed., The New Cambridge Modern History , vol. 14 (Cambridge:
+Cambridge University Press, 1970).
+de Vries, Jan, and A. M. van der Woude,The First Modern Economy: Success,
+Failure, and Perseverence of the Dutch Economy, 1500–1815 (Cambridge:
+Cambridge University Press, 1997).
+deVries, Jan,European Urbanization 1500–1800(Cambridge: HarvardUniversity
+Press, 1984).
+DeLong, J. Bradford, and Andrei Shleifer, “Princes and Merchants: City Growth
+before the Industrial Revolution,”Journal of Law and Economics, 36 (1993),
+671–702.
+Dittmar, Jeremiah E., “Cities, Markets, and Growth: The Emergence of Zipf’s
+Law,” Working Paper (2010). Online athttp://www.jeremiahdittmar.com.
+Edwards, Mark U.,Printing, Propaganda, and Martin Luther (Berkeley: Univer-
+sity of California Press, 1995).
+Eisenstein, Elizabeth L.,The Printing Press as an Agent of Change: Communi-
+cations and Cultural Transformations in Early-Modern Europe (Cambridge:
+Cambridge University Press, 1979).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 38 ---
+1170
+QUARTERLY JOURNAL OF ECONOMICS
+Fau, Guillaume, Sarah Saksik, Marie Smouts, and Sylvie Tisserand,
+“L’Imprimerie ` a Lyon au XVe si` ecle: un ´ etat des lieux,”Revue Fran¸ caise
+d’Histoire du Livre, 118–121 (2003), 191–276.
+Febvre, Lucien, and Henri-Jean Martin,L’Apparition du Livre (Paris: Albin
+Michel, 1958).
+Flood, John, “The Book in Reformation Germany,” inThe Reformation and the
+Book, ed. Jean-Fran¸ cois Gilmont (Aldershot: Ashgate, 1998).
+Fuhrman, Otto W., “The Invention of Printing,” inHistory of Books and Printing,
+ed. P. Winckler (Englewood: IHS, 1978).
+F¨ ussel, Stephan,Gutenberg and the Impact of Printing (Aldershot: Ashgate,
+2005).
+Gilmont, Jean-Fran¸ cois, “Les Centres de la Production Imprim´ ee,”inProduzione e
+Commercio della Cart e del Libro, Secc. XIII–XVII, ed. Simonetta Cavaciocchi
+(Firenze: Le Monnier, 1992).
+, “Printing at the Dawn of the Sixteenth Century,” inThe Reformation and
+the Book, ed. Jean-Fran¸ cois Gilmont (Aldershot: Ashgate, 1998).
+Gilmore, Myron P.,The World of Humanism, 1453–1517 (New York: Harper,
+1952).
+Glaeser, Edward, andAlbert Saiz, “The SkilledCity,”NBERWorking Paper 10191
+(2003).
+Glaeser, Edward, Jos´ e Scheinkman, and Andrei Shleifer, “Growth in a
+Cross-Section of Cities,” Journal of Monetary Economics , 36 (1995),
+117–143.
+Glomski, Jacqueline, “Incunabula Typographiae: Seventeenth Century Views on
+Early Printing,”Library Transactions of the Bibliographical Society, 7 (2001),
+336–348.
+Goldthwaite, Richard A., “Schools and Teachers of Commercial Arithmetic in
+Renaissance Florence,”Journal of European Economic History, 1 (1972), 418–
+433.
+Graham, Brian, “The Evolution of Urbanization in Medieval Ireland,”Journal of
+Historical Geography, 5 (1979), 111–125.
+Grendler, Paul F., “Schooling in Western Europe,”Renaissance Quarterly , 45
+(1990), 775–787.
+Hohenberg, Paul M., and Lynn H. Lees,The Making of Urban Europe, 1000–1950
+(Cambridge: Harvard University Press, 1985).
+Hoock, Jochen, “Professional Ethics and Commercial Rationality at the Beginning
+of the Modern Era,” inThe Self-Perception of Early Modern Capitalists , ed.
+Margaret C. Jacob and Catherine Secretan (New York: Palgrave Macmillan,
+2008).
+Hoock, Jochen, and Pierre Jeannin,Ars Mercatoria: Handb ¨ ucher und Traktate
+f ¨ ur den Gebrauch des Kaufmanns: 1470–1820: Eine Analytische Bibliographie
+(Band I–III) (Paderborn: Sch¨ oningh, 1991, 2001, 2007).
+ISTC,Incunabula Short Title Catalogue (London: British Library, 1998).
+Jedin, Hubert, Keneth S. Latourette and Jochen Martin,Atlas Zur Kirchen-
+Geschichte (Freiburg: Herder, 1970).
+Jones, Charles I., andPaul M. Romer, “NewKaldor Facts: Ideas, Institutions, Pop-
+ulation, and Human Capital,”American Economic Journal: Macroeconomics,
+2 (2010), 224–245.
+Jones, Eric L.,The European Miracle: Environments, Economics, and Geopolitics
+in the History of Europe and Asia (Cambridge: Cambridge University Press,
+1981).
+Kremer, Michael R., “The O-Ring Theory of Economic Development,”The Quar-
+terly Journal of Economics, 108 (1993), 551–575.
+Livet, Georges (2003), Histoire des routes et des transports en Europe: Des
+chemins de Saint-Jacques ` a l’ˆ age d’or des diligences, Strasbourg; Presses
+Universitaires de Strasbourg.
+Long, Pamela O., “The Openness of Knowledge: An Ideal and Its Context in 16th-
+Century Writings on Mining and Metallurgy,”Technology and Culture , 32
+(1991), 318–355.
+Lucas, Robert E., “Ideas and Economic Growth,”Economica, 76 (2009), 1–19.
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 39 ---
+IT AND ECONOMIC CHANGE
+1171
+Lutz, J., “Die Ehemaligen Eisenh¨ ammer und H¨ uttenweke,”Mitteilungen aus
+Forstwirtschaft und Forstwissenschaft, 3 (1941), 277–294.
+Magosci, Paul R.,Historical Atlas of East Central Europe (Seattle: University of
+Washington Press, 1993).
+Mokyr, Joel, “Long-Term Economic Growth and the History of Technology,” in
+The Handbook of Economic Growth, vol. 1B, ed. P. Aghion et al. (Amsterdam:
+Elsevier, 2005).
+—— , “Urbanization, Technological Progress, and Economic History,” inUrban
+Agglomeration and Economic Growth, ed. Herbert Giersch (Berlin: Springer,
+1995).
+Neddermeyer, Uwe, “Why Were There No Riots of the Scribes?”Gazette du livre
+m´ edi´ eval, 31 (1997), 1–8.
+Nicholas, David,Urban Europe, 1100–1700 (London: Palgrave Macmillan, 2003).
+Nieto, Philippe, “G´ eographie des Impressions Europ´ eenes au XVe Si` ecle,”Revue
+Fran¸ caise d’Histoire du Livre, 118–121 (2003), 125–173.
+Platter, Thomas,The Autobiography of Thomas Platter: A Schoolmaster of the
+Sixteenth Century (London: Wertheim, 1839).
+Pounds, Norman (1990), An Historical Geography of Europe , Cambridge:
+Cambridge University Press.
+Pounds, Norman (1979), An Historical Geography of Europe, 1500–1840 ,
+Cambridge: Cambridge University Press.
+Reske, Christophe,Die Buchdrucker des 16. und 17. Jahrhunderts im deutschen
+Sprachgebiet (Weisbaden: Harrassowitz Verlag, 2007).
+Rey, Javier D., “Reading Luca Pacioli’sSumma in Catalonia,”Historia Mathemat-
+ica, 33 (2006), 43–62.
+Rice, Eugene F.,The Foundations of Early Modern Europe (New York: Norton,
+1994).
+Roberts, John M.,A History of Europe (London: Penguin, 1996).
+Romer, Paul M., “Endogenous Technological Change,”Journal of Political Econ-
+omy, 98 (1990), S71–S102.
+Scott, Tom,Society and Economy in Germany 1300–1600 (New York: Palgrave,
+2002).
+Smith, Woodruff D., “The Function of Commercial Centers in the Modern-
+ization of European Capitalism: Amsterdam as an Information Exchange
+in the Seventeenth Century,”Journal of Economic History , 44 (1984),
+985–1005.
+Sombart, Werner, “Medieval and Modern Commercial Enterprise,” inEnterprise
+and Secular Change, ed. F. Lane (Homewood, IL: Irwin, 1957).
+Speisser, Maryvonne, “Les manuels d’arithm´ etique pour les marchands dans la
+France du XVe si` ecle,”Bulletin de l’APMEP, 444 (2003), 32–50.
+Stillwell, Richard, William L. MacDonald, and Marian H. McAllister, eds.,Prince-
+ton Encyclopedia of Classical Sites (Princeton: Princeton University Press,
+1976).
+Stock, James H., and Motohiro Yogo, “Testing for Weak Instruments in Linear IV
+Regression,” NBER Technical Working Paper 284 (2002).
+Swetz, Frank J.,Capitalism and Arithmetic: The New Math of the 15th Century
+(La Salle, IL: Open Court, 1987).
+Varry, D., “Lyons’ Printers and Booksellers from the Fifteenth to the Nineteenth
+Century,” inPrinted Matters: Printing, Publishing and Urban Culture in
+Europe in the Modern Period , ed. Malcolm Gee and Tom Kirk (Farnham:
+Ashgate, 2002).
+Weber, Max,General Economic History (NewBrunswick: Transaction, 1927 [1981
+reprint]).
+Weitzman, Martin L., “Recombinant Growth,”Quarterly Journal of Economics ,
+113 (1998), 331–360.
+Woods, Robert, “Rural-Urban Mortality Differentials: An Unresolved Debate,”
+Population and Development Review, 29 (2003), 29–46.
+Wright, William, “TheNatureof EarlyCapitalism,”inGermany: A New Social and
+Economic History, 1450–1630, ed. Bob Scribner (London: Arnold, 1996).
+Zanden, Jan Luiten van, The Long Road to the Industrial Revolution: The
+European Economy in a Global Perspective, 1000–1800 (Leiden: Brill, 2009).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020
+
+--- Page 40 ---
+1172
+QUARTERLY JOURNAL OF ECONOMICS
+——, “Common Workmen, Philosophers and the Birth of the European
+Knowledge Economy,” Paper for Global Economic History Network con-
+ference, Useful Knowledge (2004). Online at www.iisg.nl/research/jvz-
+knowledg
+e economy.pdf.
+Zaret, David,Origins of Democratic Culture: Printing, Petitions, and the Public
+Sphere in Early-modern England (Princeton: Princeton University Press,
+2000).
+Downloaded from https://academic.oup.com/qje/article-abstract/126/3/1133/1855353 by Federal Reserve Bank user on 11 May 2020

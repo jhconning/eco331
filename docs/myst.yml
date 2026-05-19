@@ -9,6 +9,8 @@ project:
       file: course_outline_and_reading_schedule.md
     - title: Final Exam Prep
       file: final_exam_questions.md
+    - title: Final Essay Exercise
+      file: ../canvas/canvas_pages/final_essay.md
     - title: Paper Presentation Assignments
       file: paper_presentation_assignments.md
     - title: Midterm Materials
@@ -31,6 +33,8 @@ site:
       file: course_outline_and_reading_schedule.md
     - title: Final Exam Prep
       file: final_exam_questions.md
+    - title: Final Essay Exercise
+      file: ../canvas/canvas_pages/final_essay.md
     - title: Paper Presentation Assignments
       file: paper_presentation_assignments.md
     - title: Midterm Materials

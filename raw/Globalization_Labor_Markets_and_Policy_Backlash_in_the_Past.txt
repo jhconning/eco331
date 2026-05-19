@@ -1,0 +1,991 @@
+
+--- Page 1 ---
+/ 300d 0012 Mp 51 Monday Oct 09 03:10 PM LP–JEP 0012
+Journal of Economic Perspectives—Volume 12, Number 4—Fall 1998—Pages 51–72
+Globalization, Labor Markets and Policy
+Backlash in the Past
+Jeffrey G. Williamson
+T
+wo important features of the world economy since 1970 also characterized
+the economy in the late 19th century. First, the earlier period was one of
+rapid globalization: capital and labor ﬂowed across national frontiers in
+unprecedented quantities, and commodity trade boomed as transport costs
+dropped sharply. Second, the late 19th century underwent an impressive conver-
+gence in living standards, at least within most of what we would now call the OECD
+club, but what historians call the Atlantic economy. Poor countries at the European
+periphery tended to grow faster than the rich industrial leaders at the European
+center, and often even faster than the richer countries overseas in the New World.
+This club excluded, of course, most of the third world and eastern Europe, and
+even around this limited periphery there were some who failed to catch up.
+A recent literature has developed which argues that most of the convergence
+between 1850 and 1914 was due to the open economy forces of trade and mass
+migration. By inference, it also suggests that convergence stopped between 1914
+and 1950 because of de-globalization and implosion into autarchy. These facts are
+directly relevant to debates over globalization today.
+1 The new historical research
+shows that these forces of globalization had a signiﬁcant distributional impact
+within participating countries. It also suggests that these distributional events
+helped create a globalization backlash which caused a drift towards more restrictive
+immigration and tariff policy prior to World War I.
+1 For an overview of the rapidly expanding literature which argues that open economy forces were central
+in driving convergence prior to 1914, see Williamson (1996), Hatton and Williamson (1998), and
+O’Rourke and Williamson (1997a).
+/H17039Jeffrey G. Williamson is Laird Bell Professor of Economics, Harvard University, Cambridge,
+Massachusetts.
+--- Page 2 ---
+52 Journal of Economic Perspectives
+/ 300d 0012 Mp 52 Monday Oct 09 03:10 PM LP–JEP 0012
+This essay starts with a brief review of the convergence evidence. It focuses on
+factor prices—like real wages—rather than GDP per capita or GDP per worker,
+since factor prices provide a more revealing way of discussing the connections be-
+tween economic forces and political reactions than do GDP aggregates. It then
+documents inequality trends around the Atlantic economy, a systematic rise in the
+labor-scarce economies and a systematic decline in the labor-abundant economies.
+The essay then turns to immigration policy responses in the labor-scarce New
+World, since it was mass migration which was doing most of the work driving con-
+vergence, and observers then thought it was also mass migration which was doing
+most of the work driving inequality. Next, the essay explores tariff responses in
+land-scarce Europe to the invasion of foodstuffs from the New World. The impact
+of these globalizing price shocks on land rents and landed wealth appear to have
+been the central ingredients of rising tariffs. I conclude with some reasons why
+these powerful lessons of history need to be qualiﬁed.
+Late 19th Century Convergence
+Convergence of What?
+Most economists who have written about the comparative growth of nations
+have used GDP per capita or per worker-hour to measure catching up and conver-
+gence.
+2 This essay favors instead real wage rates—purchasing-power-parity adjusted,
+and typically for urban unskilled workers. I can think of at least four good reasons
+why it is a mistake for the convergence debate to have ignored wages and other
+factor prices.
+First, the pre-World War II real wage data are probably of better quality than
+the GDP data, and they are certainly available for a wider sample of 19th century
+economies. The bigger sample reduces the risk of selection bias identiﬁed by
+De Long (1988) and others. Second, income distribution matters, and wage rates
+with other factor prices offer a window to look in on distribution issues. Real people
+earn wages or proﬁts or rents, not that statistical artifact known as GDP per capita.
+GDP per worker-hour is a sound measure of aggregate productivity, but I would
+argue that the living standards of ordinary workers as captured by real wages are a
+better indicator of the economic well-being of a society. By averaging all incomes,
+we throw away valuable information. Third, factor price movements help in under-
+standing the sources of convergence. For example, rapid technological catch-up in
+a poor country is more likely to increase all factor prices equally than is mass emi-
+gration or an export boom in labor-intensive manufactures. The open economy
+mechanisms which were important in driving late 19th century convergence—
+2 The literature is enormous, but it has been led by Abramovitz (1986), Barro (1991, 1996, 1997), Barro
+and Sala-i-Matin (1992, 1995), Baumol (1986), Bloom and Williamson (1997), Mankiw, Romer and Weil
+(1992), Sachs, Radelet and Lee (1997) and Sachs and Warner (1995). See also the recent surveys in this
+journal by Pritchett (1997) and Jones (1997).
+--- Page 3 ---
+Jeffrey G. Williamson 53
+/ 300d 0012 Mp 53 Monday Oct 09 03:10 PM LP–JEP 0012
+trade, migration and capital ﬂows—operated directly on factor prices, and thus
+only indirectly on GDP per capita. A focus on GDP per capita misses a large part
+of this story. Fourth, and possibly most important, economic change nearly always
+involves winners and losers, a fact which is crucial in accounting for the evolution
+of policy. Changes that would increase GDP per capita but would also cause losses
+to some politically powerful are often successfully resisted, and examining the be-
+havior of factor prices is the ﬁrst step in understanding such political resistance.
+Divergence Shocks and Convergence Responses: 1830–1870
+The Atlantic economy in the ﬁrst half of the 19th century was characterized
+by high tariffs (even in Britain where the Corn Laws were repealed only in 1846),
+modest commodity trade, very little mass migration (the famine-induced Irish ﬂood
+was not released until the late 1840s), and an underdeveloped global capital market.
+Two profound shocks occurred in this environment still hostile to liberal globali-
+zation policy: early industrialization in Britain which then spread to a few countries
+on the European continent; and resource ‘‘discovery’’ in the New World, set in
+motion by sharply declining transport costs linking overseas suppliers to European
+markets, so much so that real freight rates fell by 1.5 percent per annum between
+1840 and 1910 (O’Rourke and Williamson, 1998, ch. 3). These two shocks triggered
+a divergence in wages across countries that can be documented as starting at least
+as early as 1830 and lasting until the middle of the century.
+Figure 1 documents real wage dispersion between 1830 and 1869. The sum-
+mary statistic plotted there, C(N), is the variance divided by the square of the mean
+for a sample size, N, of either eight (line with diamonds) or 13 (line with squares)
+countries.
+3 Based on the eight Atlantic countries for which data are available in the
+early part of this period—Brazil, France, Great Britain, Ireland, the Netherlands,
+Spain, Sweden and the United States, C rises from 0.143 in 1830 to 0.402 in 1846,
+a near-tripling in the dispersion of real wages, and, presumably, in the dispersion
+of living standards. While we do not have similar real wage data this early in the
+century for, say, Canada or Australia, the U.S. evidence suggests that the global
+labor market disequilibrium was being driven primarily by rising wage gaps between
+Europe and the English-speaking New World. Does it follow that there were no
+industrial-leader and latecomer-follower dynamics which served ﬁrst to augment
+wage gaps in Europe before catching up eroded them? No. We must remember an
+inherent selectivity bias underlying this small sample, which includes only six Eu-
+ropean economies. Since the sample excludes many poorly-documented latecom-
+ers, real wage dispersion within Europe is likely to have risen even more than these
+ﬁgures suggest.
+3 Dispersion statistics like C have been used extensively in the convergence debate, and it is our measure
+of what has come to be called s-convergence. C is equivalent to the coefﬁcient of variation, but easier
+to decompose.
+--- Page 4 ---
+54 Journal of Economic Perspectives
+/ 300d 0012 Mp 54 Monday Oct 09 03:10 PM LP–JEP 0012
+Figure 1
+International Real Wage Dispersion, 1830–1869
+Source: Williamson (1995, Table A2.1; revised in O’Rourke and Williamson, 1997).
+Late 19th Century Convergence
+According to Figure 1, the years between 1846 and 1854 denote a secular
+turning point toward convergence of real wages. This convergence appears in both
+the eight-country sample (line with diamonds) and an expanded 13-country sample
+(line with squares). The ﬁve countries added to the broader sample are Australia,
+Belgium, Germany, Norway and Portugal. Figure 2 shows that the striking conver-
+gence which started in mid-century continued up to 1913. The line on the upper
+left of Figure 2 is a continuation of the 13-country sample from Figure 1. The dashed
+line in Figure 2 shows an expanded 17-country sample, now including in addition
+Argentina, Canada, Denmark and Italy. This measure shows the convergence tide
+ebbing around 1900. If we exclude Canada and the United States, two ‘‘excep-
+tional’’ rich countries which bucked the convergence tide, convergence continues
+rapidly up to 1913. If we exclude in addition Portugal and Spain, two countries that
+failed to play the globalization game, convergence up to 1913 is faster still. In the
+full sample of 17 countries, the measure of wage divergence drops by more than a
+third over the three decades 1870–1900 (falling from 0.313 to 0.200), and diver-
+gence drops by perhaps two-thirds over the half century following 1854.
+
+--- Page 5 ---
+Globalization, Labor Markets and Policy Backlash in the Past 55
+/ 300d 0012 Mp 55 Monday Oct 09 03:10 PM LP–JEP 0012
+Figure 2
+International Real Wage Dispersion, 1854–1913
+Source: Williamson (1995, Table A2.1; revised in O’Rourke and Williamson, 1997).
+The wage dispersion evidence suggests that the middle of the 19th century is
+an appropriate date for the start of modern convergence in the Atlantic economy.
+One might view this convergence as one of transition toward globally-integrated
+Atlantic factor markets. The convergence in wages from about 1854 to the end of
+the 19th century was the most extensive that the Atlantic economy has seen since
+1830, including the better-known convergence of the post-World War II era, al-
+though the ‘‘speed’’ per decade wasn’t as fast as during the spectacular post-World
+War II epoch (Crafts and Toniolo, 1996). Most of the convergence was complete
+by the turn of the century.
+Convergence wasn’t limited to real wages and living standards of the working
+poor: GDP per capita converged as well (O’Rourke and Williamson, 1998, ch. 2).
+However, real wage convergence was much faster than convergence of GDP per
+capita, and the globalization arguments which follow offer some reasons why.
+Our measure of Atlantic economy wage dispersion can be decomposed into
+three additive parts: wage dispersion within the New World; wage dispersion within
+the Old World; and the wage gap between the Old World and the new (Williamson,
+1996). On average, the wage gap between the New World and the old accounted
+for about 60 percent of the real wage variance across these 17 countries over the
+four decades prior to 1913. The remaining 40 percent of the real wage variance
+
+--- Page 6 ---
+56 Journal of Economic Perspectives
+/ 300d 0012 Mp 56 Monday Oct 09 03:10 PM LP–JEP 0012
+was explained equally by the variance within Europe and within the New World.
+Thus, real wage variance among the European countries in our sample was a modest
+part of real wage variance in the Atlantic economy as a whole (although as already
+confessed, the absence of poor east European nations from the sample probably
+accounts for much of this result). Finally, about 60 percent of the convergence
+between 1870 and 1900 is explained by the collapse in the wage gap between Europe
+and the New World, although that gap did not disappear altogether.
+In the late 19th century, wage convergence was mostly a story about Europe
+catching up with the New World, and of Argentina and Canada catching up with
+Australia and the United States. It was less a story about European latecomers catch-
+ing up to European leaders. Convergence did take place within Europe, but it was
+a modest affair in the aggregate since the spectacular catching-up successes on the
+continent were offset by some equally spectacular failures. This European experi-
+ence deserves a closer look.
+Given the great debate about Britain’s loss of industrial leadership (Crafts, 1998),
+there is a tendency to seek evidence of convergence by looking at German or U.S.
+catching up on (and overtaking of) Britain. But that’s the wrong place to look for
+general lessons, since it deals only with who was at the top among the rich countries.
+What mattered far more for convergence was whether the really poor agrarian coun-
+tries in Europe were catching up on the rich industrial ones. The well-to-do European
+economies of that time included the Netherlands, Belgium, France and Germany, as
+well as Britain. In contrast, the nine members of the European periphery at this time
+were Austria, Denmark, Finland, Ireland, Italy, Norway, Portugal, Spain and Sweden.
+(Austria and Denmark can be viewed as straddling the margin between core and
+periphery.) The industrial core countries had levels of GDP per head 67 percent
+higher than the poor European periphery (O’Rourke and Williamson, 1997, Table
+1.1), and their real wages were 86 percent higher than the periphery. Note again
+that the sample excludes east and southeast Europe simply because the late 19th
+century data are inadequate for those regions. We do know, however, that these
+countries were relatively poor even compared with our sample European periphery
+of nine countries. Bairoch’s (1976, Table 6, p. 286) rough estimates suggest that
+Bulgaria, Greece, Romania, Russia, and Serbia all had levels of GDP per head that
+were just 40–50 percent of the core. Thus, this essay ignores the poorest parts of
+Europe, with the exception of Portugal. As better historical data emerge from east
+and southeast Europe they can be used to test the assertions which follow.
+The narrative begins with a spectacular Scandinavian catch-up to the leaders.
+The ﬁrst column of Table 1 shows comparatively rapid growth of wages in Sweden,
+Denmark, Norway and Finland. Real wages in Scandinavia grew at rates almost three
+times those prevailing in the European core. In fact, no other country in Europe
+underwent real wage growth even close to that of Sweden, Denmark or Norway.
+Table 1 (column 2) also documents trends in the wage/rental ratio. These
+relative factor price movements are an important analytical component of the open
+economy impact and policy response. While the ratio of wage rates per worker to
+farm land values per acre fell everywhere in the New World by an average rate of
+--- Page 7 ---
+Jeffrey G. Williamson 57
+/ 300d 0012 Mp 57 Monday Oct 09 03:10 PM LP–JEP 0012
+Table 1
+Relative Economic Performance of the European Periphery in the Late 19th
+Century: Growth Per Annum (percent)
+Country
+(1)
+Real Wage
+per Urban
+Worker
+1870–1913
+(2)
+Wage/Rental
+Ratio
+1870–1910
+(3)
+Real GDP
+Per Capita
+1870–1913
+(4)
+Real GDP
+Per Worker
+Hour
+1870–1913
+(5)
+Impact of
+Migration 1870–
+1910 on 1910
+Labor Force (%)
+The European Periphery
+Denmark 2.63 2.85 1.57 1.90 014
+Finland na na 1.44 1.80 na
+Norway 2.43 na 1.31 1.65 024
+Sweden 2.73 2.45 1.46 1.74 020
+Scandinavia 2.60 2.65 1.45 1.77 019
+Italy 1.74 na 1.28 1.33 039
+Portugal 0.37 na 0.69 1.10 05
+Spain 0.44 00.43 1.11 1.52 06
+Austria na na 1.46 1.76 na
+Ireland 1.79 4.39 na na 045
+Periphery 1.73 2.32 1.29 1.60 022
+The European Industrial Core
+Belgium 0.92 na 1.05 1.24 9
+France 0.91 1.80 1.30 1.58 01
+Germany 1.02 0.87 1.63 1.88 04
+Great Britain 1.03 2.54 1.01 1.23 011
+The Netherlands 0.64 na 1.01 1.34 03
+Switzerland na na 1.20 1.46 na
+Industrial Core 0.09 1.74 1.20 1.46 02
+Europe 1.39 2.10 1.25 1.54 013
+The New World
+Argentina 1.74 04.06 na na 86
+Australia 0.14 03.30 0.87 1.08 42
+Canada 1.65 na 2.29 2.31 44
+USA 1.04 01.72 1.81 1.93 24
+New World 1.14 03.03 1.66 1.77 49
+Notes and Sources:All averages are unweighted. Columns 1–4 from O’Rourke and Williamson (1997b, Table
+2). Column (5) from Taylor and Williamson (1997, Table 1). See appendix for description of the data.
+about 3 percent per year over the period 1870–1910, it rose everywhere in Europe
+(with the exception of Spain). These events reﬂect the invasion of grains from the
+New World (and Russia) which lowered farm rents and land values in Europe and
+raised them in the American Midwest, the Australian outback, the Argentine pam-
+pas, and the Ukraine. Note that this relative factor price index converges fast too,
+--- Page 8 ---
+58 Journal of Economic Perspectives
+/ 300d 0012 Mp 58 Monday Oct 09 03:10 PM LP–JEP 0012
+just like real wages and absolute factor prices. For example, the Scandinavian wage/
+rental ratio rose half again faster than that of the European core (2.65 percent
+versus 1.74 percent per annum).
+Aggregate measures using gross domestic product per worker also conﬁrm the
+impressive Scandinavian catch-up, as shown in columns 3 and 4 of Table 1, although
+the differences are less spectacular than those for relative or absolute factor prices.
+Consistent with the fact that Scandinavian emigrants were economically active, leav-
+ing behind young and old dependents, the superiority of Scandinavian GDP per
+capita growth over that of the industrial core (1.45 versus 1.2 percent per annum)
+is even smaller than that of GDP per worker-hour, but it is still superior.
+Scandinavia outperformed the rest of Europe (and probably the rest of the
+world) in the late 19th century, of that there can be little doubt. They were over-
+achievers even by catching up standards,
+4 and we know the reasons why: three-
+quarters of the Swedish catch-up on the U.S. wage was due to mass migration and
+capital inﬂows, a tenth to trade, and the small remainder to schooling and to other
+as yet unidentiﬁed ‘‘new growth theory’’ forces (O’Rourke and Williamson, 1997,
+Table 10). What about the rest of the periphery? Based on Maddison’s (1994, 1995)
+data, Austria seems to have done about as well as Scandinavia: GDP per capita and
+GDP per worker-hour grew almost exactly as fast (1.46 versus 1.45 and 1.76 versus
+1.77). In contrast, while Ireland obeyed the laws of convergence, it was no over-
+achiever. Irish real wages grew twice as fast as they did in the industrial core (1.79
+versus 0.90 per annum), but they grew about as fast as the periphery average, and
+they recorded only three-quarters of the Scandinavia growth rate. On the other
+hand, the Irish wage/rental ratio rose faster.
+The western Mediterranean basin did very badly. Spain and Portugal fell far
+behind the growth rates recorded in the rest of the periphery. Real wages crawled
+upwards at only about 0.4 percent a year in those countries. Thus, Spain and Por-
+tugal missed out on the ﬁrst great globalization boom—with small emigration rates
+and big trade restrictions, as did Egypt, Turkey and Serbia at the other end of the
+Mediterranean Basin (Williamson, 1998).
+5 While the wage/rental ratio soared at
+3.23 percent a year elsewhere around the periphery, it fell by 0.43 percent a year in
+Spain. The same wide gap appears for GDP per capita growth, which averaged 0.9
+percent per annum for Spain and Portugal and 1.42 percent per annum elsewhere
+around the periphery. Maddison’s real GDP per worker-hour data also conﬁrm the
+poor performance for Spain and Portugal, but the gap is not quite so great. Italy
+does somewhat better, but even she—except for real wages—falls below the average
+for the periphery. The importance of the Iberian failure to overall Atlantic economy
+4 All of the assertions here and in the next paragraph have been successfully tested with conditional
+convergence models (O’Rourke and Williamson 1997; 1998, ch. 1).
+5 The appendix indicates that an ‘‘Atlantic economy’’ real wage data base for 17 countries between 1820
+and 1940 is available upon request. The author will also have available a similar data base for Latin
+America and Asia, like that for the Mediterranean Basin cited in the text (for example, Williamson,
+1998).
+--- Page 9 ---
+Globalization, Labor Markets and Policy Backlash in the Past 59
+/ 300d 0012 Mp 59 Monday Oct 09 03:10 PM LP–JEP 0012
+convergence has already been seen in Figure 2; remember, convergence after 1854
+was steeper for the line where Spain and Portugal are removed.
+Four countries can be used to illustrate the convergence process best: Ireland
+and Sweden (with heavy emigrations from the late 1840s onwards); the United
+States (with heavy immigrations from the late 1840s onwards); and Britain (the
+industrial leader, but losing its leadership). In 1856, unskilled real wages in urban
+Sweden were only 49 percent of Britain, while in 1913 they were at parity, an im-
+pressive doubling in Sweden’s wage relative over 57 years. Relative to the United
+States, Sweden’s real wages rose from 24 percent to 58 percent over the same pe-
+riod. In 1852, and shortly after the famine, unskilled real wages in urban Ireland
+were only 61 percent of Britain. Real wages in Ireland started a dramatic conver-
+gence with Britain during the 1850s (and did so largely in the absence of Irish
+industrialization) so that they were 73 percent of British levels by 1870, and 92
+percent by 1913. Irish convergence with the booming U.S. economy was less dra-
+matic, but Irish real wages did increase from 43 percent to 53 percent of U.S. real
+wages between 1855 and 1913.
+What a Difference Factor Prices Make
+The forces of convergence which seem to be so pronounced in the real wage
+data, adjusted for purchasing power parity, lead to different conclusions from those
+often reached by prominent studies that have focused on GDP per capita or per
+worker-hour. For example, in the words of Moses Abramovitz (1986, pp. 385, 395):
+‘‘the rate of convergence . . . showed marked strength only during the ﬁrst quarter-
+century following World War II’’; and ‘‘in the years of relative peace before 1913
+. . . the process [of convergence] left a weak mark on the record.’’ We have already
+seen how the convergence behavior of these measures differed in the past, with
+real wages and other factor prices converging far faster than the GDP aggregates.
+Now consider three reasons why this was so.
+First, GDP per worker can be thought of as a sum of per unit factor returns
+weighted by factor endowments per worker. Factor price convergence does not
+imply that all factor prices in the rich country fall relative to the poor. Some may
+rise. Suppose the initially rich countries are land-abundant and labor-scarce, while
+the initially poor countries are land-scarce and labor-abundant. While factor price
+convergence implies that low wages in poor countries catch up to high wages in
+rich countries, it also implies that low land rents in the rich catch up to high land
+rents in the poor. A similar argument applies to skill premia. Thus, wage conver-
+gence is likely to be more dramatic than convergence in GDP per worker, and
+relative factor price convergence, as measured here by the wage/rental ratio, should
+be most dramatic. This was typically the case.
+Second, the GDP and wage deﬂators differ. In a world of very incomplete
+commodity price equalization, the difference may matter, especially since laborers
+heavily consume wage goods which are expensive to move internationally like dwell-
+ing space and foodstuffs. The truth of this statement is especially easy to defend for
+the previous century, when declining transport costs edged the global economy
+--- Page 10 ---
+60 Journal of Economic Perspectives
+/ 300d 0012 Mp 60 Monday Oct 09 03:10 PM LP–JEP 0012
+closer to commodity price equalization, especially in the grain market, but also for
+butter, cheese and meats. Thus, the price of food, relative to the implicit GDP price
+deﬂator, fell in much of Europe, but rose in North America.
+Third, there may be a wedge between per capita and per worker indices, cre-
+ated partly by differences in labor force participation rates across countries over
+time, combined with different migration environments and differential rates of
+population growth. If the forces of demographic transition (higher fertility and
+lower infant mortality) are strongest for richer countries, causing population
+growth to exceed labor force growth, then per capita convergence will be faster
+than per worker convergence. If the forces of mass migration dominate instead,
+then the opposite would be true, since migrants were disproportionately young
+adult males. It turns out that the latter dominated the Atlantic economy during the
+age of mass migration (Williamson, 1997b).
+In short, factor prices like wages, and aggregate productivity measured through
+GDP, should exhibit different convergence properties. However, factor prices will
+be far more helpful in identifying winners and losers, and thus in understanding
+policy responses.
+Globalization and Inequality
+Eli Heckscher and Bertil Ohlin (translated in Flam and Flanders, 1991) argued
+that integration of global commodity markets would lead to convergence of inter-
+national factor prices, as countries everywhere expanded the production and export
+of commodities which used their abundant (and cheap) factor intensively. Table 1
+is consistent with Heckscher and Ohlin: the trade boom led to rising wage/rental
+ratios in Europe, and falling wage/rental ratios in the New World; as a consequence,
+conditions improved for the poor unskilled worker relative to the rich landlord in
+much of Europe, while the opposite was true of the New World.
+Migration helped the process of factor convergence along. The poorest Eu-
+ropean countries tended to have the highest emigration rates while the richest New
+World countries tended to have the highest immigration rates. The correlation
+wasn’t perfect, since potential emigrants from poor countries often found the cost
+of the move too high, and some New World countries restricted the inﬂow from
+certain countries along the poor European periphery (and Asia). But the correla-
+tion is still very strong (Hatton and Williamson, 1998, ch. 3). Furthermore, the last
+column of Table 1 shows that the labor force impact was very big: mass migration
+after 1870 had augmented the 1910 New World labor force (in the four countries
+listed) by 49 percent, reduced the 1910 labor force in the emigrant countries
+around the European periphery (in the eight countries listed) by 22 percent, and
+reduced the 1910 labor force in the European industrial core (in the ﬁve countries
+listed) by 2 percent. Mass migration by itself may explain about 70 percent of the
+real wage convergence in the late 19th century Atlantic economy (Williamson, 1996;
+Taylor and Williamson, 1997; O’Rourke and Williamson, 1998, ch. 8).
+--- Page 11 ---
+Jeffrey G. Williamson 61
+/ 300d 0012 Mp 61 Monday Oct 09 03:10 PM LP–JEP 0012
+Since the migrants tended to be unskilled, and became increasingly so as the
+late 19th century unfolded (much like the U.S. experience in recent decades), they
+tended to ﬂood labor markets at the bottom in destination countries, thus lowering
+the unskilled wage relative to the skilled wage, as well as relative to white collar
+incomes, entrepreneurial returns and land rents. Mass migration implied rising
+inequality in labor-scarce, resource rich countries. Emigration implied falling in-
+equality in labor-abundant, resource poor countries.
+Complete income distributions at various benchmarks between the mid-19th
+century and World War II are available only for a few countries and dates,
+6 but even
+if fuller data were available, it is not obvious that they would be the best way to
+explore the underlying causes and impact of globalization. Our interest here is
+factor prices: wages, rents and the structure of pay. How did the typical unskilled
+worker near the bottom of the distribution do relative to the typical landowner or
+capitalist near the top, or even relative to the typical skilled blue collar worker or
+educated white collar employee near the middle of the distribution? The modern
+debate over inequality has a ﬁxation on wages, but since land and landed interests
+were far more important to late 19th century inequality trends, we need to add
+them to our distribution inquiry.
+7 In any case, we have two kinds of evidence avail-
+able to document late 19th century inequality trends: changes in the ratio of the
+unskilled wage to farm land values per acre, and changes in the ratio of the unskilled
+wage to GDP per worker-hour.
+Recall from Table 1 that relative factor price convergence did characterize the
+four decades prior to World War I. The wage/rental ratio plunged in the New
+World, where it had been initially high. One study has it that the Australian ratio
+had fallen to one-quarter of its 1870 level by 1913, the Argentine ratio had fallen
+to one-ﬁfth of its mid-1880 level, and the U.S. ratio had fallen to less than half of
+its 1870 level (O’Rourke, Taylor and Williamson, 1996). In Europe, the (initially
+low) wage/rental ratio surged up to World War I. The British ratio increased by a
+factor of 2.7 over its 1870 level, while the Irish ratio increased by even more. The
+Swedish and Danish ratios both increased by a factor of 2.3. Not surprisingly, the
+surge was more pronounced in free trade than in protectionist countries. As ex-
+amples of protectionist countries, the ratio increased by a factor of 1.8 in France,
+1.4 in Germany, and not at all in Spain.
+6 Some evidence on late 19th century inequality trends has been collected by economic historians since
+Simon Kuznets published his presidential address to the American Economic Association in 1955. For a
+recent survey, see Lindert (1997). These data seem to offer support for the view that inequality was on
+the rise in the United States before World War I while it had been falling in Britain since the 1860s. But
+the Atlantic economy coverage is not sufﬁciently comprehensive to be used in the pre-1914 discussion
+which follows.
+7 Recent studies of the impact of globalization on inequality in the third world also tend to focus on
+wage inequality, and sometimes even onlyurban wage inequality. This is a big mistake for countries where
+rural wage employment is signiﬁcant and where landed interests are powerful. Surely, the economic
+positions of the landlord and the rural laborer matter in economies where agriculture is one-ﬁfth, one-
+quarter or even one-third of the economy.
+--- Page 12 ---
+62 Journal of Economic Perspectives
+/ 300d 0012 Mp 62 Monday Oct 09 03:10 PM LP–JEP 0012
+Landowners tended to be near the top of the distribution, although this was
+certainly more true of Europe, Argentina and the American South, and less true
+for the American Midwest and Canada, where the family farm dominated. The
+evidence that the wage/rental ratio was dropping in the rich, labor-scarce New
+World is consistent with the hypothesis that inequality rose there, while the rising
+wage/rental ratio was consistent with the belief that inequality was falling in poor,
+labor-abundant Europe. There is also some evidence that globalization mattered:
+European countries staying open to trade absorbed the biggest distributional hit;
+European countries retreating behind tariff walls absorbed the smallest distribu-
+tional hit (Williamson, 1997a).
+What about the ratio of the unskilled worker’s wage (w) to the returns on all
+factors per laborer as measured by Maddison’s (1995) estimates of GDP per worker-
+hour (y)? Changes in this ratio measure changes in the economic distance between
+the working poor near the bottom of the distribution and the average citizen in
+the middle of the distribution. It turns out that this statistic is highly correlated with
+more comprehensive inequality measures in the few cases where both are available.
+8
+The 14 countries in our sample (all mentioned in this paragraph) exhibitedvery
+different inequality trends over the four decades prior to the Great War. When the
+index of unskilled wages/GDP per worker is normalized to 100 in 1870, we get the
+following for 1913: the index is at about 153 for Denmark and Sweden, and at 53 or
+58 for Australia and the United States. An alternative way to standardize these distri-
+butional trends up to 1913 is to compute the annual percentage change in the index
+for each country relative to its 1870 base: the per annum rates range from/0.97 and
+/0.98 for Denmark and Sweden, to 01.22 and 01.45 for Australia and the United
+States. This measure of inequality change is plotted against the 1870 real wage in
+Figure 3, and it offers strong conﬁrmation of the globalization hypothesis: between
+1870 and 1913, inequality rose dramatically in rich, land-abundant, labor-scarce New
+World countries like Australia, Canada and the United States; inequality fell dramat-
+ically in poor, land-scarce, labor-abundant, newly industrializing countries like Nor-
+way, Sweden, Denmark and Italy; inequality was more stable in the European indus-
+trial economies like Belgium, France, Germany, the Netherlands and the United
+Kingdom; and inequality was also more stable in the poor European economies which
+failed to play the globalization game, like Portugal and Spain.
+Globalization Backlash: Immigration Restrictions
+Measuring Immigration Policy
+The American doors did not suddenly and without warning slam shut on Euro-
+pean emigrants when the U.S. Congress overrode President Wilson’s veto of the im-
+8 Some countries do have time series for more comprehensive inequality indicators. Between 1870 and
+1929, we have both the top 10 percent income share and w/y for Denmark, Germany, the Netherlands,
+Norway, Sweden and the United Kingdom: for these, R2 Å0 .944 (Williamson, 1997b). The w/y data are
+reported at length in Williamson (1997a).
+--- Page 13 ---
+
+--- Page 14 ---
+64 Journal of Economic Perspectives
+/ 300d 0012 Mp 64 Monday Oct 09 03:10 PM LP–JEP 0012
+literacy tests and discriminatory treatment upon arrival. A zero denotes policy neu-
+trality.9 The immigration policy indices constructed for Argentina, Australia, Brazil,
+Canada and the United States reveal that despite universal openness to immigration
+in the 1860s, the New World doors were effectively closed by 1930. With some
+exceptions, immigration policy was typically slow to change, sometimes remaining
+constant over a decade or more, even though there was almost always intensive
+political debate underlying that apparent quiescence. The best examples of this
+stability are Brazil over the three decades from 1890 to 1920, a period which ended
+in 1921 when tough immigration restrictions were imposed, and the United States
+from 1888 to 1916, a period which ended with the override of President Wilson’s
+veto in 1917 and the quotas in 1921. However, the policy evolution varied widely
+over those seven decades: Argentina and the United States exhibited a relatively
+steady drift away from free immigration; Brazil remained open much longer, sud-
+denly slamming the door shut in the 1920s; and Canada actually reversed the trend
+in the 1920s, while Australia did it more than once over the period.
+Immigration Policy: Searching for Hypotheses
+There is a general consensus in the historical literature that immigration policy
+has been sensitive to labor market conditions, and also that immigration ﬂows have
+been sensitive to wage and unemployment differentials between countries. For ex-
+ample, Goldin (1994) notes that there was a strong push for immigration restric-
+tions in the United States in the late 1890s, a time of economic recession and high
+unemployment. At that time, however, the rate of immigration slowed dramatically,
+reaching a secular low in 1897, the same year that the ﬁrst vote on immigration
+restriction was taken in the House of Representatives. Similarly, Australian inﬂows
+dropped sharply in the recession of the 1890s, even as attitudes towards immigrant
+subsidies hardened (Pope and Withers, 1994). These events suggest that the polit-
+ical impetus to restrict immigration was far more sensitive to labor market condi-
+tions than to immigration levels. Inequality is one manifestation of these labor
+market conditions, and the living standard of the working poor is another.
+Presumably, the policy response to immigration should take a far-sighted view.
+That is, immigration may induce falling wages for unskilled workers and greater
+inequality in the short run, but the key question for some voters might be whether
+it augments or inhibits economic growth in the longer run. The traditional
+Smithian view had it that the rising inequality would place relatively more income
+in the hands of those who save, thus raising the investment rate and growth. Modern
+political economists tend to take a different view, arguing that if a country lets its
+poorest voters become too poor, richer voters might join poorer voters to pass
+distortionary redistributive policies that can slow growth (Alesina and Perotti, 1994;
+Perotti, 1996). Economists do not yet have a clear answer to this question, especially
+9 It takes some doing to summarize these policies with a score for each year, but applied economists
+struggle with the same problem when trying to summarize just how open a country’s trade policy is at
+any point in time (Anderson and Neary, 1994; Sachs and Warner, 1995).
+--- Page 15 ---
+Jeffrey G. Williamson 65
+/ 300d 0012 Mp 65 Monday Oct 09 03:10 PM LP–JEP 0012
+for a century ago when government redistributive intervention was modest. But
+citizens might also vote for immigration restriction for other reasons: they may
+simply dislike seeing a deterioration in the living standards of their unskilled neigh-
+bors, or they may fear that these events might provoke some sort of political rebel-
+lion from below. Furthermore, since the stronger economic position of unskilled
+labor was manifested by stronger political voice in the labor-scarce immigration
+countries, their economic condition was more likely to be translated into a restric-
+tive policy response.
+Immigration Policy: Some Evidence
+The empirical literature on the determinants of immigration policy is very new,
+so that much of what follows is still speculative. But some outlines are beginning to
+emerge (Timmer and Williamson, 1996, 1997).
+The most consistent pattern is that immigration policy has been slow to change.
+This was especially true of Brazil and the United States, but it is worth noting that
+these two countries with the strongest historical persistence also exhibited the big-
+gest policy switch at the end of the period of quiescence, from wide open to tightly
+closed. Big policy switches usually required long periods of debate. Thus, measures
+of current macroeconomic conditions—like unemployment rates—are unlikely to
+help account for long-run policy changes.
+Labor market conditions have also had a consistent inﬂuence on immigration
+policy, and it appears that both the absolute and relative income performance of
+unskilled workers mattered. Poor wage performance was associated with more re-
+strictive policy in Australia, Brazil and the United States. However, the most con-
+sistently signiﬁcant variable reported by Timmer and Williamson (1996, 1997) is
+the ratio of the unskilled wage to per capita GDP, or of income near the bottom
+of the distribution to income in the middle. Rising inequality was associated with
+increasingly restrictive immigration policy. It is well known that (new) immigrants
+were unskilled and tended to cluster at the bottom of the distribution, at least
+initially, and that this was increasingly true as the late 19th century unfolded (Hat-
+ton and Williamson, 1998, ch. 7). Regardless of what else is included in the regres-
+sion, this measure of unskilled labor’s relative economic performance stands out
+as an important inﬂuence on immigration policy. Rising relative unskilled labor
+scarcity encouraged more open immigration policies; declining relative unskilled
+labor scarcity encouraged more restrictive immigration policies.
+10
+The evidence just summarized speaks to the indirect impact of immigration
+on policy by looking at absolute and relative wage performance in labor markets.
+What about the direct impact of immigration on policy? To measure these direct
+immigration effects, one might use some proxy for the quality, or human-capital
+content, of the immigrants and the change in that quality proxy; one such proxy
+10 Furthermore, this effect is likely to be biased downwards since open immigration policy implies more
+immigrants and lower ratio of unskilled wages to per capita GDP, as I argued above.
+--- Page 16 ---
+66 Journal of Economic Perspectives
+/ 300d 0012 Mp 66 Monday Oct 09 03:10 PM LP–JEP 0012
+that has been effective is the real wage of unskilled urban workers in the source
+countries. Alternatively, one might measure immigrant quantity by the foreign-born
+population share. It does appear that low and falling immigrant quality precipitated
+more restrictive immigrant policy, even after controlling for other forces. To some
+extent, therefore, New World policy anticipated the impact of low quality immi-
+grants on unskilled wages and moved to shut it down. The other measure of im-
+migration’s attributes—the difference in ethnic composition between the current
+immigration ﬂow and the foreign population stock—seems to have had little bear-
+ing on policy.
+To what extent was a change in a country’s policy in part a reaction to changes
+in immigration policy elsewhere? The United States—the immigrant leader of the
+New World—was completely unresponsive to competitors’ policies. For most other
+countries, policy elsewhere mattered a great deal. For Argentina, it was the com-
+bined impact of Australian, Canadian and Brazilian policy that mattered, with more
+restrictive policy abroad inducing more restrictive policy at home. Brazil tended to
+mimic the policies followed by Argentina and the United States. Australia tended
+to favor open immigration policies when the United Kingdom offered more gen-
+erous subsidies to its emigrants, and also, to some extent, when Canada adopted
+more open policies.
+To summarize, while the absolute size of the immigrant ﬂow did not seem to
+have any consistent impact on New World policy up to 1930, its low and declining
+quality certainly did, provoking restriction. Policies adopted by one’s global com-
+petitors mattered even more. Labor market conditions mattered most, with dete-
+riorating conditions provoking a restrictive policy reaction, as New World countries
+acted to defend the economic interests of unskilled labor.
+Globalization Backlash: European Tariffs
+Land-abundant New World economies became increasingly integrated with
+labor-abundant European economies in the late 19th century. While the distribu-
+tional impact of this shock varied from country to country, there is broad support
+for the Heckscher-Ohlin prediction that European land and American labor suf-
+fered. Not surprisingly, European agricultural interests lobbied for protection.
+Landowners were successful in some countries, such as France and Germany, and
+tariffs were introduced. These tariffs can be viewed as the precursors of today’s
+European Common Agricultural Policy (Tracy, 1989). Other countries, like Britain,
+Ireland and Denmark, stuck to their free trade guns, forcing agriculture to adapt
+or decline.
+What explains the differing European political responses to the grain invasion?
+While this question has become canonical in the comparative political economy
+literature, only recently has it been decomposed into the relevant component parts:
+the size of the globalization shock experienced by each country, the distributional
+--- Page 17 ---
+Globalization, Labor Markets and Policy Backlash in the Past 67
+/ 300d 0012 Mp 67 Monday Oct 09 03:10 PM LP–JEP 0012
+impact within each country, and, only then, the policy response (O’Rourke, 1997;
+O’Rourke and Williamson, 1998, ch. 5).
+O’Rourke (1997) explores these issues by looking primarily at the grain mar-
+ket. He ﬁnds that where tariffs were raised, they were high enough to insulate
+continental Europe from the globalizing impact of steamships, railroads and inter-
+national canals: German grain prices did not converge on American prices at all;
+French and Swedish prices converged only modestly; but British and Danish prices
+converged dramatically. The contrast between free-trading Europe (Britain and
+Denmark) and protectionist Europe (Germany, France and Sweden) is also born
+out when European prices are compared with those of the Ukraine. There is no
+evidence of grain market integration on the continent during the 40 years prior to
+World War I. An era when Europe and the New World became globally integrated
+was also one when grain markets within Europe became more balkanized. In this
+sense, globalization was not a universal phenomenon, even during the compara-
+tively liberal late 19th century.
+The literature which seeks to explain tariff responses to grain invasions begins
+with Charles Kindleberger (1951) and Ronald Rogowski (1989). Oddly enough,
+Rogowski the political scientist uses a conventional Heckscher-Ohlin model to sort
+the problem out, while Kindleberger the economist uses sociology and political
+science. Yet, both authors implicitly assume that the grain invasion generated the
+same shock to all economies, and that identical price shocks had the same impact
+on income distribution! O’Rourke (1997) shows that neither assumption held.
+Consider the assumption that the grain invasion generated the same shock to
+all economies. Denmark was a free trader, but while real cereal prices fell by 29
+percent in Britain between 1870 and 1913, they fell by only 10 percent in Denmark
+(O’Rourke, 1997, app. 5). Without protection, French and German cereal prices
+would have declined by an estimated 34 percent under free trade, and Swedish
+prices would have declined by 27 percent. If the grain invasion lowered cereal prices
+by less in Denmark than in the rest of Europe, then the grain invasion lowered
+Danish rents by less as well. If the elasticity of land prices with respect to grain prices
+was around 0.5, as O’Rourke estimates, then the cost to French, German and Swed-
+ish landowners of maintaining free trade in the face of the grain invasion would
+have been a 12 to 18 percent reduction in land values, while cheap grain lowered
+Danish land values by only 4 or 5 percent. Moreover, globalization raised the prices
+of Danish animal products exported to British markets. Armed with this new evi-
+dence, the Danish decision not to protect agriculture seems less surprising.
+The second assumption was that identical price shocks had the same effects
+on income distribution, but depending on the structure of production, the effects
+could have been very different. Agriculture was a relatively small sector in capital-
+abundant Britain, an early industrial leader. Therefore, the 29 percent decline in
+real grain prices that Britain absorbed increased real wages in free trade Britain,
+while in the absence of tariffs a similar price shock would have reduced real wages
+in more agriculture-dependent France, and in the absence of tariffs it would have
+lowered real wages only modestly in Sweden, according to computable general
+--- Page 18 ---
+68 Journal of Economic Perspectives
+/ 300d 0012 Mp 68 Monday Oct 09 03:10 PM LP–JEP 0012
+equilibrium calculations (O’Rourke, 1997). These differences can be easily inter-
+preted in the context of the sector-speciﬁc factors model: Cheap grain lowered
+workers’ cost of living economy-wide, but reduced the demand for agricultural
+labor. Where agriculture was a big employer, nominal wages fell economy-wide.
+Where agriculture was a small employer, nominal wages did not fall economy-wide.
+Only 23 percent of the British labor force worked in agriculture in 1871, while the
+corresponding ﬁgure for France was 51 percent. Thus, a negative shock to agricul-
+tural labor demand had a much bigger impact on French nominal wages, while the
+impact on workers’ cost of living was about the same. One key reason why Britain
+maintained free trade while the continent protected agriculture was that agriculture
+was a lot less important to the Britain than to the continental economies. Not only
+did this imply that cheap grain was better for British than for continental workers,
+but it also meant that the assets of the landowning rich declined by less (land was
+a smaller share of total assets), and that agricultural interests had less political clout.
+The Lessons of History
+Factor prices converged in the Atlantic economy up to 1914. This was true of
+absolutes, like real wages and farm rents, and it was true of relatives, like
+wage/rental ratios. The post-World War II decades have exhibited the same con-
+vergence, although economists have tended to measure it by use of aggregates like
+GDP per capita and GDP per worker. Convergence of relative factor prices implies
+something about inequality trends too. Where unskilled wages rise relative to farm
+rents and skilled wages, inequality falls; where unskilled wages fall relative to farm
+rents and skilled wages, inequality rises. The evidence from the late 19th century
+conﬁrms that prediction, since inequality was on the rise in labor-scarce New World
+countries, while it was on the decline in labor-abundant Old World countries. The
+United States, and to some extent Europe as well, has exhibited the same inequality
+rise since the early 1970s.
+Recent work by economic historians suggests that a large share of these trends
+in factor prices and inequality everywhere around the late 19th century Atlantic
+economy can be explained by globalization forces. Not all, but a large share. Is the
+same likely to be true of the late 20th century? Probably not. After all, it looks like
+mass migration played the central globalization role a century ago, not the indirect
+effects of trade, and migration has never returned to ‘‘mass’’ levels since the quotas
+were imposed after World War I.
+There was a de-globalization implosion after 1914, coinciding with two world
+wars, two periods of fragile peace, a great depression and a cold war. The last few
+decades of the 20th century have marked a successful struggle to reconstruct that
+pre-World War I global economy. The standard view of history has treated these
+spectacular changes in global policy largely as switches in regime that were pretty
+much independent of economic events and thus can be taken as exogenous (Sachs
+and Warner, 1995).
+--- Page 19 ---
+Jeffrey G. Williamson 69
+/ 300d 0012 Mp 69 Monday Oct 09 03:10 PM LP–JEP 0012
+This view ignores the evidence of factor price convergence and trends in in-
+come distribution cited a moment ago. It also ignores the fact that immigration
+policy in labor-scarce parts of the global economy became increasingly less generous
+and more restrictive prior to 1914, and that much of this retreat from open im-
+migration policies was driven by a defense of the deteriorating relative economic
+position of the working poor. In addition, it fails to note the fact that liberal atti-
+tudes towards trade were brief, and that protection rose sharply almost everywhere
+on the European continent from the 1870s onwards. Much of this retreat from free
+trade was manifested by protection of domestic agriculture from the negative price
+shocks associated with globalization. And most of this retreat from free trade was
+driven by a defense of the trade-induced deterioration in the relative economic
+position of both the landed rich and the landless poor.
+Thus, a more accurate narrative of globalization experience in the decades
+prior to World War I would read like this: A spreading technology revolution and
+a transportation breakthrough led ﬁrst to a divergence of real wages and living
+standards between countries. The evolution of well-functioning global markets in
+goods and labor eventually brought about a convergence between nations. This
+factor price convergence planted, however, seeds for its own destruction since it
+created rising inequality in labor-scarce economies (like the United States) and
+falling inequality in labor-abundant economies (like those around the poor Euro-
+pean periphery). Obviously, most gained by the globalization process, but the im-
+proved economic conditions of now-less-abundant European stayers and of the re-
+cently-moved new immigrants were not relevant to restrictionist debates in desti-
+nation countries, nor were the improved economic conditions of labor and capital
+in growing export sectors well represented in protectionist debates on the European
+continent. The voices of powerful interest groups who were hit hard by these glob-
+alization events were heard, however, and these were in particular the ordinary
+worker in labor-scarce economies and the landlord in the labor-abundant econo-
+mies. These interest groups generated a political backlash against immigration and
+trade, and this backlash, which had been building up for decades, was brought to
+a head by events around World War I.
+A late 19th century globalization backlash made a powerful contribution to
+interwar de-globalization. Is this history likely to repeat? Maybe not. After all, wealth
+and employment are not nearly as concentrated in the tradable sector today as they
+were a century ago, thus insulating OECD economies from the kind of trade back-
+lash seen in the past. And while restrictions on farm imports are still prominent in
+Europe today, OECD farm sectors are far too small to matter economy-wide to the
+extent that they did a century ago. Furthermore, the migrations from poor to rich
+countries today are pretty trivial affairs compared with the mass migrations up to
+World War I. Today, only the U.S. has across-the-border migration rates anything
+like those recorded all over the converging Atlantic economy prior to the quotas.
+And governments today have far more sophisticated ways to compensate losers than
+they had a century ago.
+All of these qualiﬁcations may suggest that a move towards de-globalization is
+--- Page 20 ---
+70 Journal of Economic Perspectives
+/ 300d 0012 Mp 70 Monday Oct 09 03:10 PM LP–JEP 0012
+unlikely to repeat. Yet history does supply that warning: if a globalization backlash
+can be found in our past, it may reappear in our future.
+Data Appendix
+Real Wages : These are urban male unskilled wage rates, typically weekly and
+for construction work. They are deﬂated by cost of living indices. These real
+wage time series are projected from purchasing-power-parity benchmarks con-
+structed for the period 1905–1914 by the author. Sources, methods and the data
+are elaborated in Williamson (1995), but the data have been revised in O’Rourke
+and Williamson (1997). This revised ‘‘Atlantic economy’’ data base will be made
+available on diskette upon request from the author at »jwilliam@kuznets.
+fas.harvard.edu …, along with a detailed appendix describing its construction and
+sources.
+Wage/Rental Ratio: The nominal wage rates under ‘‘real wages’’ above are di-
+vided by nominal per unit farm land values, and indexed 1901 Å100. The data are
+described and defended at length in O’Rourke, Taylor and Williamson (1996,
+pp. 521–4).
+Equality Index: The nominal wage rates under ‘‘real wages’’ above are divided
+by nominal GDP per worker-hour, the latter taken from Maddison (1995). The
+ratio (w/y) is indexed 1870 Å100. The data are described and defended at length
+in Williamson (1997a).
+GDP per capita and per worker : These data, nominal and real, are mainly from
+Maddison (1994, 1995) as revised and augmented in O’Rourke and Williamson
+(1997).
+POLICY: The New World immigration policy index described in the text ranges
+from 05 (restrictive) to /5 (open with subsidies) and it measures political message
+rather than impact. The index is described at length in Timmer and Williamson
+(1996).
+Net migration impact: Net migration between 1870 and 1910 is converted from
+population to labor force equivalents, and then expressed as a share of the sending
+or receiving 1910 labor force. The ﬁgures are taken from Taylor and Williamson
+(1997, Table 1).
+/H17039This paper has been supported by NSF grant SBR-9505656, and it has beneﬁted enormously
+by collaborations with Kevin O’Rourke of University College Dublin and Ashley Timmer of
+Harvard University. I want to thank both of them for allowing me to draw freely on our as
+yet unpublished work. Bill Collins and Asim Khwaja were also helpful in solving some tech-
+nical problems. In addition, I would like to thank Alan Krueger, Brad De Long, Dani Rodrik
+and Timothy Taylor for comments that improved the paper.
+--- Page 21 ---
+Globalization, Labor Markets and Policy Backlash in the Past 71
+/ 300d 0012 Mp 71 Monday Oct 09 03:10 PM LP–JEP 0012
+References
+Abramovitz, M., ‘‘Catching Up, Forging
+Ahead, and Falling Behind,’’ Journal of Economic
+History, June 1986, 46, 385–406.
+Alesina, A., and R. Perotti, ‘‘The Political
+Economy of Growth: A Critical Survey of the Re-
+cent Literature,’’ World Bank Economic Review ,
+September 1994, 8, 351–71.
+Anderson, J. E., and J. P. Neary, ‘‘Measuring
+the Restrictiveness of Trade Policy,’’ World Bank
+Economic Review, May 1994, 8, 151–69.
+Bairoch, P., ‘‘Europe’s Gross National Prod-
+uct: 1800–1975,’’ Journal of European Economic
+History, May-August 1976, 5, 273–340.
+Barro, R. J.,‘‘Economic Growth in a Cross Sec-
+tion of Countries,’’ Journal of Political Economy ,
+May 1991, 106, 407–43.
+Barro, R.J., ‘‘The Determinants of Economic
+Growth,’’ Lionel Robbins Lecture , London School
+of Economics, February 20–22, 1996.
+Barro, R.J., Determinants of Economic Growth .
+Cambridge, Mass.: MIT Press, 1997.
+Barro, R. J., and X. Sala-i-Martin, ‘‘Conver-
+gence,’’ Journal of Political Economy , April 1992,
+100, 223–52.
+Barro, R. J., and X. Sala-i-Martin, Economic
+Growth. New York: McGraw-Hill, 1995.
+Baumol, W., ‘‘Productivity Growth, Conver-
+gence and Welfare: What the Long-Run Data
+Show,’’ American Economic Review , December
+1986, 76, 1072–85.
+Bloom, D., and J. G. Williamson, ‘‘Demo-
+graphic Transitions and Economic Miracles in
+Emerging Asia,’’ NBER Working Paper 6268, Na-
+tional Bureau of Economic Research, Cam-
+bridge, MA, November 1997.
+Crafts, N. F. R., ‘‘Forging Ahead and Falling
+Behind: The Rise and Relative Decline of the
+First Industrial Nation,’’ Journal of Economic Per-
+spectives, Spring 1998, 12:2, 193–211.
+Crafts, N. F. R., and G. Toniolo, Economic
+Growth in Europe Since 1945 . Cambridge: Cam-
+bridge University Press, 1996.
+De Long, J. B., ‘‘Productivity Growth, Conver-
+gence and Welfare: Comment,’’ American Eco-
+nomic Review, December 1988, 78, 1138–54.
+Flam, H., and M. J. Flanders, Heckscher-Ohlin
+Trade Theory. Cambridge, MA: MIT Press, 1991.
+Goldin, C., ‘‘The Political Economy of Immi-
+gration Restriction in the United States, 1890 to
+1921.’’ In C. Goldin and G. D. Libecap, eds., The
+Regulated Economy: A Historical Approach to Political
+Economy. Chicago: University of Chicago Press,
+1994.
+Hatton, T. J., and J. G. Williamson, The Age of
+Mass Migration: An Economic Analysis , New York:
+Oxford University Press, 1998.
+Jones, C., ‘‘On the Evolution of the World In-
+come Distribution,’’ Journal of Economic Perspec-
+tives, Summer 1997, 11, 19–36.
+Kindleberger, C. P., ‘‘Group Behavior and In-
+ternational Trade,’’ Journal of Political Economy ,
+February 1951, 59, 30–46.
+Lewis, W. A., The Evolution of the International
+Economic Order. Princeton, NJ: Princeton Univer-
+sity Press, 1978.
+Lindert, P. H., ‘‘Three Centuries of Inequality
+in Britain and America.’’ In A. B. Atkinson and
+F. Bourguignon, eds., Handbook of Income Distri-
+bution, Amsterdam: North-Holland, 1997.
+Maddison, A., Phases of Capitalist Development .
+Oxford: Oxford University Press, 1982.
+Maddison, A., ‘‘Explaining the Economic Per-
+formance of Nations.’’ In W. J. Baumol, R. Nel-
+son, and E. N. Wolff, eds., Convergence of Produc-
+tivity: Cross-National Studies and Historical Evidence.
+New York: Oxford University Press, 1994.
+Maddison, A., Monitoring the World Economy
+1820–1992. Paris: OECD Development Centre
+Studies, 1995.
+Mankiw, N. G., D. Romer, and D. N. Weil, ‘‘A
+Contribution to the Empirics of Economic
+Growth,’’ Quarterly Journal of Economics, May 1992,
+107, 407–37.
+O’Rourke, K. H., ‘‘The European Grain Inva-
+sion, 1870–1913,’’ Journal of Economic History, De-
+cember 1997, 57, 775–801.
+O’Rourke, K. H., A. M. Taylor, and J. G. Wil-
+liamson, ‘‘Factor Price Convergence in the Late
+Nineteenth Century,’’ International Economic Re-
+view, August 1996, 37, 499–530.
+O’Rourke, K. H., and J. G. Williamson,
+‘‘Around the European Periphery 1870–1913:
+Globalization, Schooling and Growth,’’ European
+Review of Economic History , August 1997, 1, 153–
+90.
+O’Rourke, K. H., and J. G. Williamson, Glob-
+alization and History: The Evolution of a 19th Century
+Atlantic Economy . Cambridge, MA: MIT Press,
+1998, forthcoming.
+Perotti, R., ‘‘Growth, Income Distribution and
+Democracy,’’ Journal of Economic Growth , June
+1996, 1, 149–87.
+Pope, D., and G. Withers,‘‘Wage Effects of Im-
+migration in Late-Nineteenth-Century Austra-
+lia.’’ In Timothy J. Hatton and Jeffrey G. William-
+son, eds., Migration and the International Labor
+Market, 1850–1939. London: Routledge, 1994.
+Pritchett, L., ‘‘Divergence, Big Time,’’ Journal
+of Economic Perspectives, Spring 1997, 11, 3–17.
+--- Page 22 ---
+72 Journal of Economic Perspectives
+/ 300d 0012 Mp 72 Monday Oct 09 03:10 PM LP–JEP 0012
+Rogowski, R., Commerce and Coalitions: How
+Trade Affects Domestic Political Arrangements .
+Princeton, NJ: Princeton University Press, 1989.
+Sachs, J. D., S. Radelet, and J-W Lee, ‘‘Eco-
+nomic Growth in Asia,’’ ch. 2 in Emerging Asia.
+Manila: Asian Development Bank, 1997.
+Sachs, J. D., and A. Warner, ‘‘Economic Re-
+form and the Process of Global Integration,’’
+Brookings Papers on Economic Activity, Washington,
+D.C.: Brookings Institution, 1995.
+Taylor, A. M., and J. G. Williamson, ‘‘Conver-
+gence in the Age of Mass Migration,’’ European
+Review of Economic History, April 1997, 1, 27–63.
+Timmer, A., and J. G. Williamson,‘‘Racism, Xe-
+nophobia or Markets? The Political Economy of Im-
+migration Policy Prior to the Thirties,’’ NBER
+Working Paper 5867, National Bureau of Economic
+Research, Cambridge, MA, December 1996.
+Timmer, A., and J. G. Williamson, ‘‘Immigra-
+tion Policy Prior to the Thirties: Labor Markets,
+Policy Interactions and Globalization Backlash,‘‘
+Department of Economics, Harvard University,
+March 1997.
+Tracy, M., Government and Agriculture in Western
+Europe 1880–1988 ,3
+rd ed. New York: Harvester
+Wheatsheaf, 1989.
+Williamson, J. G., ‘‘The Evolution of Global
+Labor Markets Since 1830: Background Evidence
+and Hypotheses,’’ Explorations in Economic History,
+April 1995, 32, 141–96.
+Williamson, J. G., ‘‘Globalization, Conver-
+gence and History,’’ Journal of Economic History ,
+June 1996, 56, 1–30.
+Williamson, J. G., ‘‘Globalization and Inequal-
+ity, Past and Present,’’ World Bank Research Ob-
+server, August 1997a, 12, 117–35.
+Williamson, J. G., ‘‘Growth, Distribution and
+Demography: Some Lessons From History,’’
+NBER Working Paper 6244, National Bureau of
+Economic Research, Cambridge, MA, October
+1997b.
+Williamson, J. G., ‘‘Real Wages and Relative
+Factor Prices Around the Mediterranean Basin
+1500–1940,’’ paper presented to the Conference
+on Long Run Economic Change in the Mediterranean
+Basin, Istanbul, Turkey, June 4–6, 1998.

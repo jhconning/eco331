@@ -1,0 +1,1336 @@
+
+--- Page 1 ---
+American Economic Review 101 (December 2011): 3286–3307
+http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3286
+3286
+In this article we exploit the variation in institutional reform created by the French 
+Revolution in Europe, in particular within Germany, to investigate the consequences 
+of radical, externally imposed reforms on subsequent economic growth. After 1792 
+French armies occupied and reformed the institutions of many European countries. 
+The set of reforms the French imposed in the territories that they conquered were 
+extensive and radical; they included the imposition of the civil legal code, the abo-
+lition of guilds and the remnants of feudalism, the introduction of equality before 
+the law, and the undermining of aristocratic privileges. The long-run implications 
+of these reforms are of interest both for historical reasons and also because they 
+are related to current debates on institutional change. For example, the view that 
+“designed” and externally imposed institutions are unlikely to foster economic 
+progress would suggest that the French Revolution should have significant negative 
+effects.
+1 In contrast, the view that oligarchies, entry barriers, and restrictions on trade 
+in labor and other markets were the main impediment to growth in Europe at the 
+turn of the nineteenth century would suggest that the revolutionary reforms should 
+have unleashed more rapid economic growth in affected areas (Mancur Olson 1982; 
+Acemoglu 2008).
+2
+1 Friedrich Hayek (1960) argued that institutions cannot be designed and have to evolve organically (and that this 
+was the major reason for the inferiority of the civil code), and a recent literature has claimed that institutions have 
+to be “appropriate” to the specific circumstances of countries (e.g., Daniel Berkowitz, Katharina Pistor, and Jean-
+Francois Richard 2003a; Berkowitz, Pistor, and Richard 2003b; Dani Rodrik 2007). Rafael La Porta et al. (1998) 
+emphasize several inefficiencies associated with the French civil legal code.
+2 These issues are also related to the classic historical debate about the extent to which the institutions of the 
+ancien régime impeded capitalism and economic growth and whether the French Revolution played a constructive 
+or destructive role in European political development. The historical debate about the consequences of the French 
+Revolution is also about its impact on political institutions and democracy, which is beyond the scope of the current 
+article.
+The Consequences of Radical Reform:  
+The French Revolution†
+By Daron Acemoglu, Davide Cantoni,  
+Simon Johnson, and James A. Robinson*
+* Acemoglu: Department of Economics, Massachusetts Institute of Technology, 50 Memorial Drive, Cambridge, 
+MA 02139, and CIFAR (e-mail: daron@mit.edu); Cantoni: Seminar für Wirtschaftsgeschichte, Ludwig-Maximillians-
+Universität, Ludwigstr. 33/IV 80539 Munich Germany (e-mail: davide.cantoni@lrz.uni-muenchen.de); 
+Johnson: Sloan School of Management, MIT, 50 Memorial Drive, Cambridge, MA 02139 (e-mail: sjohnson@
+mit.edu); Robinson: Department of Government and IQSS, Harvard University, 1737 Cambridge St., Cambridge, 
+MA 02138, NBER and CIFAR (e-mail: jrobinson@gov.harvard.edu). We thank Jared Diamond, Robert Dixon, 
+Niall Ferguson, Tim Guinnane, Peter Hall, Philip Hoffman, Joel Mokyr, Sheilagh Ogilvie, Winifred Rothemberg, 
+Jesus Villaverde, John Wallis, Peter Wilson, participants in the American Economic Association, the International 
+Society for New Institutional Economics, and the Verein für Socialpolitik annual meetings, and seminar audi-
+ences at Australian National, CIFAR, Harvard, Melbourne, Paris School of Economics, USC, and Yale for their 
+comments. Leopoldo Fergusson, Camilo García-Jimeno, Tarek Hassan, Jutta Hoppe, and Michael Kapps provided 
+excellent research assistance.
+† To view additional materials, visit the article page at 
+http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3286.
+--- Page 2 ---
+3287AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+We investigate the economic consequences of the French Revolution and the 
+reforms that were imposed on certain German polities as a consequence of the 
+Revolutionary Wars. Parts of Germany, primarily the west and northwest, were 
+invaded, ruled directly by France or through satellite states, and reformed, while 
+the south and the east were not. We first investigate the reduced-form relationship 
+between our definition of “French treatment,” the length of French occupation (in 
+years), and our main proxy for economic prosperity, urbanization rates. There is no 
+evidence of a negative relationship. Instead, many of our estimates show signifi-
+cantly faster growth of urbanization in treated areas during the second half of the 
+nineteenth century.
+3
+We then use data on the timing of institutional reforms across German polities to 
+investigate the effect of invasion both on various institutional outcomes and on long-
+run economic development. We show a strong association between institutional 
+reforms and French invasion (or control). Using this relationship as a first stage, 
+we then estimate instrumental-variables models, which indicate sizable effects of 
+institutional reforms on subsequent growth. The purpose of this two-stage strategy 
+is twofold. First, it allows us to distinguish the effect of the exogenous component 
+of reforms from endogenous, “defensive” modernization. Second, it enables us to 
+provide a test of the hypothesis that the effects of French invasion worked through 
+the institutions that they imposed in the occupied parts of Germany. Overall, our 
+results show no evidence that the reforms imposed by the French had negative eco-
+nomic consequences. On the contrary, evidence from a variety of different empirical 
+strategies shows that they had positive effects.
+Crucially for our identification strategy, parts of Germany did not choose the French 
+institutions, but those institutions were imposed on them first by the Revolution and 
+then by Napoleon.
+4 Moreover, territorial expansion by French armies did not target 
+places with a greater future growth potential. Instead, it had two major motives. 
+The first was defensive, especially in response to the threat of Austrian or Prussian 
+(or later British) attempts to topple the revolutionary regime. The second was ideo-
+logical, as the French sought to export the revolutionary ideals to other countries, 
+and at the same time tried to establish France’s “natural frontiers.”
+5 In any case, 
+the purpose of the institutional reforms of the French Revolution was not to foster 
+industrialization per se, though they may have achieved this objective as a byproduct 
+of their major goal of destroying the grip of the aristocracy, oligarchy, and the clergy 
+on political and economic power.
+6 Therefore, to a first approximation, we can think 
+3 The working paper version of our study (Acemoglu et al. 2009) reports cross-national, Europe-wide evidence 
+consistent with this pattern and also explores different definitions of “French treatment.”
+4 In most cases, there were local Jacobin (local radical) forces in the countries occupied by the French armies, 
+but the presence of such forces did not play a major role in determining which countries and cities were occupied 
+by the French. See, for example, William Doyle (1989, chapter 9).
+5 The revolutionary leader George Danton stated: “Les limites de la France sont marquées par la nature, nous 
+les atteindrons des quatre coins de l’horizon, du côté du Rhin, du côté de l’Océan, du côté des Alpes. Là, doivent 
+finir les bornes de notre république” (speech to National Convention, January 31, 1793; quoted in Timothy C. W. 
+Blanning 1983, p. 2).
+6 It is unlikely that the French could target areas with greater industrialization potential or that reforms were 
+made specifically to encourage industrial growth. In fact, most likely no one at the turn of the nineteenth century 
+could have anticipated the new technologies that were to arrive a few decades later (see the discussion in Joel Mokyr 
+2003). The exception to this statement is textiles. By 1800 the British and others had established some new tech-
+nologies that increased productivity (e.g., in spinning) by an order of magnitude. Textiles are an important part of 
+the economy in the Rhineland, discussed below, but there is no evidence that the French changed institutions in the 
+--- Page 3 ---
+3288 tHE AmERicAn Economic REViEW DEcEmBER 2011
+of the imposition of the institutions of the French Revolution as an “exogenous treat-
+ment” and investigate the economic implications of radical institutional reforms.
+The rest of the article is organized as follows. Section I provides an overview of 
+the history of the French Revolution and the subsequent invasion of Europe by the 
+French. Section II discusses our data. Section III provides reduced-form evidence 
+on the association between various measures of French occupation and our proxy 
+for economic development, urbanization, across German polities. Section IV uses 
+data on the nature and timing of institutional reforms to document the relation-
+ship between French occupation and these reforms and to estimate instrumental-
+variables models. Section V concludes, while several details on data collection and 
+construction are contained in the online Appendices.
+I. Historical Overview
+A. Europe before the Revolution
+Before the French Revolution, much of Europe was dominated by two kinds of 
+oligarchies: the landed nobility in agriculture and the urban-based oligarchy control-
+ling commerce and various occupations.
+7 By the end of the eighteenth century, feu-
+dalism in its most rigid form had disappeared in many parts of Europe, but several 
+attenuated variants of unfree labor relations in the countryside persisted. Serfdom 
+still continued in much of Eastern Europe (see Jerome Blum 1978), while it had 
+been replaced by various forms of taxes and tributes to landowners in other areas, 
+which could nonetheless be quite onerous and inhibited the creation of flexible labor 
+markets.
+8 For example, in the Rhineland, the first area in Germany to come under 
+French control, an attenuated form of serfdom (grundherrschaft), which severely 
+restricted freedom of movement, was still practiced (Blanning 1983). Moreover, 
+various rights of the nobility and clergy created a very unequal political and eco-
+nomic situation in rural areas. These groups were frequently exempt from taxation, 
+were subject to separate laws and courts, and enjoyed the right of taxation of the 
+peasants under their control.
+The urban oligarchy was perhaps even more pernicious to industrialization. 
+Almost all major occupations were controlled by guilds, significantly limiting entry 
+into those professions by others and often restricting adoption of new technologies 
+and business practices. Several examples of guilds preventing innovation are pro-
+vided by Herbert Kisch (1989), Sheilagh Ogilvie (2004), and Erik Lindberg (2009). 
+In the major cities of the Rhineland, Cologne and Aachen, the adoption of new 
+textile (spinning and weaving) machines was significantly delayed because of guild 
+Rhineland specifically because they foresaw great potential in the manufacture of cloth. Naturally, this does not rule 
+out the possibility that the areas occupied by the French had greater potential for industrial growth for other reasons.
+7 This historical overview draws on Doyle (1989), Robert R. Palmer (1959), Palmer (1964), Georges Rudé 
+(1988), Blanning (1983), Blanning (1986), Blanning (1996), David Gates (1997), Alexander Grab (2003), Charles 
+J. Esdaile (1996), Esdaile (2001), and Geoffrey Ellis (2003).
+8 Since one could be concerned that including Eastern Europe in the sample leads the control group to be very 
+heterogeneous, in the empirical work we show that all our results hold when we restrict our sample to Germany 
+west of the Elbe river.
+--- Page 4 ---
+3289AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+restrictions.9 In addition, many cities were controlled by a few families for many 
+generations, amassing wealth at the expense of potential new entrants with greater 
+ability or better technologies.
+B. the Revolution and its Effect on Europe
+The first war between revolutionary France and the major European powers—
+the so-called War of the First Coalition—did not break out until 1792. Contrary 
+to almost everyone’s expectations, the armies of the new Republic were victori-
+ous in an initially defensive war. France’s borders were thus expanded with an eye 
+towards creating an effective buffer between the new Republic and the hostile mon-
+archies of Prussia and Austria. The French quickly seized present-day Belgium, the 
+Netherlands, and also much of modern-day Switzerland. By 1795, the French had 
+firm control over the Rhineland (the left bank of the Rhine); in 1802 it was officially 
+incorporated into France.
+After Napoleon’s takeover, the French impact spread much more widely throughout 
+Europe. In Germany, where the direct control of the revolutionary armies had been 
+limited to the Rhineland, Napoleon constructed a string of satellite buffer states on 
+France’s northeastern border. The Peace of Lunéville (February 1801) led to a massive 
+reorganization of the territories that constituted the Holy Roman Empire. Hundreds of 
+independent states, ecclesiastical territories and free imperial cities vanished and were 
+consolidated into a cluster of larger kingdoms, principalities, and duchies; ultimately, 
+their number shrank to fewer than 40 states (Grab 2003). Most of these states except 
+Prussia were brought together in 1806 in the Confederation of the Rhine.
+At the same time, Napoleon proceeded to reorganize the territories in northwest 
+Germany into satellite states under his control. The Duchy of Berg on the right 
+bank of the Rhine was formed in March 1806 (ruled by his brother-in-law Joachim 
+Murat), the Kingdom of Westphalia (ruled by his brother Jérôme) in August 1807, 
+and the Grand Duchy of Frankfurt in February 1810 (Napoleon’s stepson, Eugene 
+de Beauharnais, was supposed to inherit it). These were run by the French and per-
+sisted until the collapse following Napoleon’s invasion of Russia. During this period 
+Napoleon also took over parts of Northern Germany, including in December 1810 
+the annexation into France of the plains of Lower Saxony (later part of the Kingdom 
+of Hanover) and the Hanseatic cities of Hamburg, Lübeck, and Bremen.
+C. institutional changes
+Many of the most radical institutional changes both in Europe in general and 
+within Germany were undertaken during the invasion of the French revolutionary 
+armies. While the impact of the French on the Rhineland during the 1790s remains 
+controversial, especially because of the great deal of plunder and the resulting 
+resentment by the local population mentioned above (see, e.g., Blanning 1983; 
+Doyle 1989), the importance of the revolutionary reforms in Rhineland is not in 
+question. Most significantly, between 1795 and 1798 the seigneurial regime and the 
+9 Differing views, supporting the efficiency of guilds, have been expressed, e.g., by Stephan R. Epstein (1998). 
+On this debate, see also Ogilvie (2007).
+--- Page 5 ---
+3290 tHE AmERicAn Economic REViEW DEcEmBER 2011
+guilds were abolished ( Blanning 1983), paving the way to a relatively free labor 
+market. Equally important were the legal changes. For example, the French created 
+a commercial court in Aachen in 1794 and followed with similar courts elsewhere in 
+the Rhineland (Jeffry Diefendorf 1980), which were to play an important role in the 
+creation of commercial and industrial businesses in the years to follow.
+Although Napoleon was an Emperor seeking to solidify his control, ruthlessly 
+when necessary, he nonetheless continued to implement the reforms initiated by the 
+revolutionary armies (see Grab 2003; Owen Connelly 1965; J. Stuart Woolf 1991). 
+Napoleon saw the imposition of the civil code (code napoléon) in the areas he con-
+trolled as his most important reform (Martyn Lyons 1994). Kisch emphasizes the 
+economic importance of this (1989, p. 212): “When the many strands of commercial 
+legislation were subsequently consolidated in the code napoléon, the Rhineland 
+(on the left bank) was not only given a most up-to-date legal framework, but also 
+a system of government in close harmony with the needs of a buoyantly industrial-
+izing society.” The Rhineland was transformed from an oligarchy-dominated area 
+to one open to new businesses and new entrants. Similar reforms were also system-
+atically introduced into the German satellite kingdoms, such as the Kingdom of 
+Westphalia, and the Grand Duchy of Berg.
+In practice, Napoleon’s institutional legacy outside of France is complicated, 
+especially since he was more inclined to compromise with local elites at some times. 
+Nevertheless, in most places there was a genuine attempt to continue and deepen 
+the reforms brought by the Revolution. The motivations for these reforms seem to 
+have been several. First, Napoleon had been deeply involved with the reforms of the 
+revolutionary period and shared the ideological commitment of the early reformers. 
+Second, like them, he wished to build a series of buffer states around France. Finally, 
+reforms such as abolishing the political control of the elite, feudal privileges, and 
+introducing equality before the law undermined existing elites and made it easier for 
+Napoleon to establish control over the areas he conquered.
+After the final collapse of Napoleon in 1815 the institutional reforms implemented 
+over the previous 25 years suffered various fates. In the Rhineland, whose largest part 
+was assigned to Prussia as a consequence of the Congress of Vienna, the new local 
+elites successfully fought to preserve French institutions, such as the civil and com-
+mercial codes. Prussia itself was inclined to continue on the path of reforms begun 
+under French rule (see Herbert A. L. Fisher 1903). The presence of a new elite created 
+by the reforms and determined to hang onto them was a key factor. In other places, 
+where the old ruling dynasties returned to power, such as in Hanover, Brunswick, 
+and Hesse-Kassel, most reforms were rolled back. A return to the status quo ante 
+was functional to the rulers’ need to rely on ancien régime institutions to support 
+their claim to power. In our econometric analysis in Section IV we specifically code 
+reforms throughout the nineteenth century to examine this issue empirically.
+II. Data
+A. outcome Variables
+We consider 19 distinct preunitary polities in Germany, which represent either 
+independent states in nineteenth-century Germany, or provinces of larger states 
+--- Page 6 ---
+3291AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+(Prussia, Bavaria). Our main measure of economic prosperity across these polities 
+is the urbanization rate of the area, defined as the fraction of the population living in 
+cities with more than 5,000 inhabitants. Paul Bairoch (1988, ch. 1) and Jan de Vries 
+(1984) argue that only areas with high agricultural productivity and a developed 
+transportation network could support large urban populations. Acemoglu, Johnson, 
+and Robinson (2002) present evidence that in both the time-series and the cross-sec-
+tion there is a close association between urbanization and income per capita before 
+as well as after industrialization.
+Urbanization rates at the level of preunitary German polities are computed 
+based on city size data from Bairoch, Jean Batou, and Pierre Chevre ( 1988) , 
+and on historical reconstructions of total populations based on various sources. 
+Details on the construction of these data are given in online Appendix B. 
+Urbanization rates after 1850 are obtained from the official statistical compila-
+tions of the German Empire. In addition to urbanization, we also use data on 
+the sectoral composition of employment for 64 German districts for the years 
+1849, 1882, 1895, and 1907 ( from Harald Frank 1994) . The share of employ-
+ment in industry is a good proxy for industrialization and thus enables us to 
+check whether the patterns we see in the urbanization rates are associated with 
+changes in industrialization.
+B. other Variables
+Our “treatment” is defined as the number of years between 1792 and 1815 that 
+the polity in question was under French occupation. We consider years in which the 
+French had direct control over these territories or installed republics and principali-
+ties directly dependent on French directives; we exclude years and months of pure 
+military invasion and control, such as for example in the case of Prussia. Table 1 
+lists all 19 polities considered in our dataset, sorted by their treatment status. To the 
+extent that some of these areas implemented modernizing reforms under pressure 
+from France (e.g., through the implicit or explicit threat of invasion), our treat-
+ment coding works against our hypothesis. Nevertheless, our two-stage least squares 
+strategy will correct for this potential bias by instrumenting for our index of reform 
+with the measure of French treatment.
+We construct an index of reforms in Germany, both to show the impact of the 
+French occupation on institutional reforms and as the right-hand-side variable in 
+our instrumental-variables strategy. Historical sources (see online Appendix D for 
+details) allow us to code the nature and timing of some of the reforms that took 
+place. We focus on the enactment of the French civil code, the restructuring of agri-
+cultural relations and the abolition of guilds. We interpret these reforms as an index 
+for the overall “package” of institutional reforms, which also includes changes in 
+areas that are less easy to classify, such as the nature of state administration and 
+tax collection, or the secularization of church lands (the latter was relevant only for 
+Catholic territories). Table 1 reports the incidence of reforms in Germany, as repre-
+sented by the first date of implementation.
+Column 2 shows the date at which the different polities introduced a written civil 
+code that guaranteed equality before the law. The French civil code (code napoléon) 
+falls under this category, but so do the Saxon civil code of 1863 and the German civil 
+--- Page 7 ---
+3292 tHE AmERicAn Economic REViEW DEcEmBER 2011
+code (Bürgerliches gesetzbuch) of 1900. 10 The civil code was introduced between 
+1802 and 1810 in the areas controlled by the French. Note that although Baden was 
+never treated, it introduced a version of the French civil code in 1810.
+The following two columns examine reforms in the agrarian sector: first, in 
+column 3, the date of the effective abolition of serfdom (often a nominal though 
+symbolic measure, as serfdom was not practiced any more around 1800 in most 
+parts of Germany west of the Elbe) and, in column 4, the proclamation of mea-
+sures determining the resolution of feudal landholding arrangements, such as the 
+grundherrschaft. In most cases, these measures consisted of laws allowing the pos-
+sibility to turn feudal arrangements into free contracts and determining the price 
+needed to redeem the property of a parcel of land (usually, 20–25 times the annual 
+payment due to the landlord). From the dates in columns 3 and 4, it is evident how 
+polities in the treated area undertook these reforms earlier than the ones in the con-
+trol regions. At the same time, it also appears that the polities that were assigned to 
+Prussia after the Congress of Vienna mostly maintained these reforms (Prussia itself 
+10 Our results are robust to considering also other forms of written civil codes that did not recognize uni-
+versal equality in front of the law, such as the Prussian Allgemeines landrecht of 1795 or the Bavarian codex 
+maximilianeus of 1756; see online Appendix E.
+Table 1—Territories and Reforms
+Territory
+Years of 
+French 
+presence
+Civil
+code
+Abolition
+of
+serfdom
+Agrarian 
+reform
+Abolition
+of
+guilds
+Reforms 
+index as
+of 1850
+Reforms 
+index as
+of 1900
+Pop. 
+weights 
+(1750)
+(1) (2) (3) (4) (5) (6) (7) (8)
+Panel A. treatment
+Rhineland (Prussia) 19 1802 1798 1804 1795 50.25 100.25 1,439
+Palatinate (Bavaria) 19 1802 1798 1804 1795 50.25 100.25 239
+Mark/Ruhr (Prussia) 6 1810–15, 1900 1808 1825 1809 28.25 65.75 150
+Westphalia (Prussia) 6 1810–15, 1900 1808 1825 1809 28.25 65.75 529
+Brunswick 6 1808–14, 1900 1808–18, 1834 1809–18, 1834 1808–15, 1864 16 50 155
+Province of Saxony
+ (Prussia)
+6 1808–15, 1900 1808 1809 1809 32.75 70.25 763
+Hessen-Kassel 6 1808–14, 1900 1808–14, 1832 1809–14, 1832 1808–16, 1869 15.25 48 294
+Hanover 3 1808–13, 1900 1808–14, 1833 1809–14, 1833 1808–15, 1869 14.25 47 1,090
+Average 9.98 32.41 72.88
+Panel B. control
+Baden 0 1810 1783 1820 1862 34.25 81.25 609
+Bavaria, southern half 0 1900 1808 1826 1868 16.5 49.5 1,163
+Hessen-Darmstadt 0 1900 1811 1816 1866 18.25 51.75 264
+Saxony 0 1865 1832 1832 1862 9 52.25 1,020
+Württemberg 0 1900 1817 1836 1862 11.75 46.25 925
+Average 0 16.31 54.46
+Panel c. control (east of the Elbe)
+Brandenburg (Prussia) 0 1900 1811 1821 1810 27 64.5 797
+East Prussia (Prussia) 0 1900 1811 1821 1810 27 64.5 554
+Pomerania (Prussia) 0 1900 1811 1821 1810 27 64.5 342
+Silesia (Prussia) 0 1900 1811 1821 1810 27 64.5 1,053
+Mecklenburg-Schwerin 0 1900 1820 1862 1869 7.5 37.25 217
+Schleswig-Holstein 0 1900 1805 1805 1867 22.5 55.75 541
+Average 0 25.1 61.46
+notes: Sources for the dates of reform are listed in the online Appendix. Averages are weighted by total population 
+in 1750 (reported in column 8, in 1,000s). The reform index in columns 6 and 7 has been computed exemplarily for 
+two dates (1850, 1900) according to the formula reported in the text.
+--- Page 8 ---
+3293AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+is the archetypal example of “defensive modernizer”). In contrast, other states such 
+as Brunswick, Hanover, and Hesse-Kassel, where the old rulers returned after 1815, 
+tried to roll back the Napoleonic reforms.
+Column 5 records the date in which guilds were abolished, either effectively or 
+indirectly, by removing mandatory membership for craftsmen. We know that the 
+abolition of guilds often went hand in hand with a liberal stance in granting con-
+cessions to set up industries and manufacturing activities, outside of the traditional 
+crafts, even though we did not code this latter feature explicitly. Again, we see that 
+the treated polities were early reformers (though with some setbacks), whereas the 
+other states, with the exception of Prussia, liberalized the crafts system only later in 
+the nineteenth century.
+In columns 6 and 7 we construct a simple index of reforms at two exemplary 
+dates, 1850 and 1900. For each polity, the index is computed simply by adding the 
+number of years each particular reform had been in place and dividing by 4. As an 
+example, consider the Duchy of Brunswick, which was controlled by the French 
+through the Kingdom of Westphalia, and where the old ruling dynasty was restored 
+by the Congress of Vienna. By 1850 there had been six years of validity of the code 
+napoléon, the abolition of serfdom had been in place for 26 years, agrarian reforms 
+for 25 years, and the abolition of guilds for seven years. Therefore the value of the 
+index for the Brunswick in 1850 is (6 + 25 + 26 + 7)/4 = 16. 
+This index shows a clear distinction between parts of western Germany that were 
+reformed by the French, those places which defensively modernized, like Prussia 
+or Baden, and the rest of Germany—this distinction is evident in the average val-
+ues reported at the bottom of each panel of Table 1, and in Figure 1. In 1850, for 
+instance, the reform index was 50.25 for the Rhineland and 28.25 for Westphalia. 
+The fact that it was 27 for the Prussian provinces east of the Elbe and 34.25 for 
+Baden highlights the potential extent of defensive modernization and suggests that 
+to be able to interpret the differences between treated and untreated polities as being 
+due to institutions, an instrumental-variables strategy is crucial.
+0
+20
+40
+60
+80
+Reforms index
+1700 1750 1800 1850 1900
+Year
+Treatment Control
+Figure 1. Reforms Index, by Treatment Group
+--- Page 9 ---
+3294 tHE AmERicAn Economic REViEW DEcEmBER 2011
+C. Descriptive statistics
+Table 2 records some basic descriptive statistics for our dataset, both in the sample 
+of 13 polities west of the Elbe (five of them in the treatment area) and in the entire 
+sample of 19 polities. Note that the treatment area (column 3) lies entirely west of 
+the Elbe. Areas to the east of the Elbe had stronger feudal labor relations before the 
+nineteenth century and may thus be less comparable to, and thus worse controls for, 
+the Western polities occupied by the French. We thus take these 13 polities to be 
+our baseline sample. Nevertheless, we believe that the areas east of the Elbe are still 
+useful because they provide evidence against a related but different hypothesis that 
+part of the effects of French occupation within Germany are partly (or largely) due 
+to defensive modernization efforts of Prussia.
+The first six rows of Table 2 describe urbanization rates in the six time periods 
+considered; this evolution is also depicted in Figures 2A and 2B. We can see that 
+there is little difference between the urbanization levels of treatment and control 
+groups prior to 1789. Indeed, in 1750 urbanization is slightly greater in the control 
+group when the whole sample is considered; in contrast, urbanization is slightly 
+greater in the treatment area when only polities west of the Elbe are considered.
+11 In 
+both cases, however, urbanization grows more rapidly in the treatment group after 
+1800. West of the Elbe, for example, by 1900 urbanization is almost 8 percentage 
+11 The panel is not balanced, as urbanization rates are missing for the Rhineland, Westphalia, Brunswick, Baden, 
+and Silesia in 1700.
+Table 2—Descriptive Statistics
+West of the Elbe Whole sample
+All Control Treated Control All
+(1) (2) (3) (4) (5)
+Urbanization in 1700 5.86 5.49 6.35 7.40 7.08
+[4.22] [2.89] [5.93] [5.75] [5.61]
+Urbanization in 1750 7.89 7.66 8.09 8.90 8.59
+[4.12] [4.19] [4.4] [4.91] [4.61]
+Urbanization in 1800 10.23 8.45 11.75 10.22 10.81
+[4.37] [3.47] [4.71] [5.16] [4.92]
+Urbanization in 1850 13.78 12.38 14.97 14.45 14.65
+[6.01] [5.42] [6.65] [7.9] [7.26]
+Urbanization in 1875 25.70 22.22 28.67 25.19 26.52
+[10.7] [9.15] [11.69] [11.2] [11.21]
+Urbanization in 1900 39.89 35.60 43.55 38.27 40.29
+[13.92] [12.12] [15.2] [14.4] [14.54]
+Share Protestant 0.579 0.532 0.618 0.677 0.654
+[0.343] [0.385] [0.303] [0.347] [0.33]
+Latitude 50.43 49.28 51.41 50.97 51.14
+[1.5] [1.15] [0.98] [2.22] [1.85]
+Longitude 9.89 10.89 9.03 12.78 11.34
+[2.01] [2.08] [1.51] [3.49] [3.42]
+Distance to Paris 592.4 631.8 558.7 808.9 712.9
+[146.3] [158] [128.2] [261.4] [251]
+note: Mean values (weighted by total population in 1750), standard deviations in brackets.
+--- Page 10 ---
+3295AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+points higher in areas occupied by Napoleon. The remaining four rows give descrip-
+tive statistics of the control variables used in parts of our analysis. The treated poli-
+ties lie slightly more to the north and to the west of the control polities (and are thus 
+closer to Paris). The share of Protestant population is also similar between treated 
+and control polities.
+III. Reduced-Form Evidence
+In this section we use ordinary least squares (OLS) regressions to investigate 
+the reduced-form relationship between our three measures of treatment and the 
+0
+10
+20
+30
+40
+Urbanization rate (in percent)
+1700 1750 1800 1850 1900
+Year
+Treatment Control (west of the Elbe)
+Difference
+Figure 2A. Urbanization Rates, by Treatment Group
+−10
+0
+10
+20
+30
+40
+Urbanization rate (in percent)
+1700 1750 1800 1850 1900
+Year
+Treatment Control (whole sample)
+Difference
+Figure 2B. Urbanization Rates, by Treatment Group
+--- Page 11 ---
+3296 tHE AmERicAn Economic REViEW DEcEmBER 2011
+urbanization rates across German polities. The panel includes data for the periods 
+1700, 1750, 1800, 1850, 1875, and 1900. Our basic reduced-form regression model 
+is as follows:
+(1)   u 
+jt  =  d t  +  δ j  +  ∑  
+τ∈    pre 
+  
+ 
+    α τ   ×  d τ  ×  i j  +  ∑  
+τ∈    post 
+  
+ 
+    α τ   ×  d τ  ×  i j  +  X  jt  ′   × γ +  ε jt ,
+where  u jt  is the urbanization rate in polity j at time t, the  d t s denote a full set of 
+time effects, the  δ j s denote a full set of polity fixed effects,  X jt  is a vector of other 
+covariates, which will be included in some of the robustness checks, and  ε jt  is a 
+disturbance term. The key variable of interest is the treatment variable  i j , which 
+corresponds to the number of years of French presence. The coefficients of interest 
+are thus  { α t } τ∈    pre    α τ  and { α t  } t∈    post    α τ  , where     pre  is the set of years before and     post  
+is the set of years after treatment, which together allow us to look at both pretrends 
+and post-French Revolution differential effects ( ∑  τ∈  
+ 
+    α τ   ×  d τ  ×  i j  stands for a 
+separate interaction for each τ in   ). Under our hypothesis that French occupation 
+was “econometrically exogenous,” we expect the coefficients { α t  } t∈    pre   not to be sig-
+nificantly different from zero, and if the French reforms were indeed beneficial for 
+long-run economic growth, { α t  } t∈    post   should be positive.
+Throughout the paper, all standard errors are robust, clustered at the country/
+polity level to allow for an arbitrary variance-covariance matrix capturing potential 
+serial correlation in the residual error term (see Jeffrey Wooldridge 2002, ch. 7).12
+A. main Results
+We start in column 1 of Table 3 with our baseline sample, West of the Elbe. We 
+also use population in 1750 as weights, since there are significant differences in the 
+size of the polities in our sample.13 The set     post  includes the treatment years 1850, 
+1875, and 1900,     pre  comprises 1750 and 1800, with 1700 as the omitted year. In col-
+umn 1 we see that     α  1750  = − 0.491 and     α  1800  = − 0.247, indicating that areas with 
+greater years of French presence were growing somewhat more slowly in the eigh-
+teenth century, though this differential is declining toward 1800.     α  1850  = − 0.160 
+with a standard error of 0.250, so that by 1850 there was no (statistical or economic) 
+effect of years of French presence on the growth of urbanization. By 1875, however, 
+there is a positive association between years of French presence and urbanization, 
+and by 1900, this effect is stronger: the estimated coefficient     α  1900  is equal to 0.634. 
+This implies a positive differential of 12 percentage points for areas treated with 19 
+years of French presence, which corresponds to approximately one standard devi-
+ation—a magnitude that is economically large but reasonable. 14 Even though the 
+12 The Huber-White standard errors turn out to be smaller than the standard errors clustered at the country/polity 
+level in almost all cases.
+13 Total population size in 1750 varies between less than 200,000 inhabitants (Brunswick, Mark) and over a 
+million (Rhineland, Silesia, Hanover, Bavaria). Unweighted regressions might be driven by sudden changes in 
+urbanization in the smaller polities as a few cities pass the 5,000 threshold to be included in the urbanization data; 
+weighted regressions avoid this problem by giving greater weight to changes in the larger polities, which are both 
+likely to be better measured and less subject to measurement error. Nevertheless, as is well known, there is no 
+ex ante reason for either specification to be preferred, and throughout we report both weighted and unweighted 
+specifications.
+14 One concern is that the number of clusters in Table 3 is relatively small (13/19 polities), raising the possibil-
+ity that asymptotic approximations may not be valid. As a remedy, we use the alternative wild bootstrap procedure 
+--- Page 12 ---
+3297AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+coefficients     α  1875  and     α  1900  are not individually significant, the p-value of the f-test 
+for the joint significance of all post-treatment years (1850, 1875, and 1900) at the 
+bottom of the table shows that post-treatment years are jointly statistically different 
+than the pre-1850 dates (at a 5 percent level of significance).15
+Column 2 repeats the same analysis without population weights. The results are 
+qualitatively similar, though weaker: the negative pretrend is reduced, but the coef-
+ficients relating to the years 1875 and 1900 are not jointly significant anymore. 
+Including also the territories east of the Elbe within the control region, as done in 
+columns 3 and 4, reinforces the baseline results, both in the weighted and in the 
+unweighted case. In column 3, the magnitudes of the coefficients are very similar 
+to those of the restricted sample in column 1. The f-test for joint significance of the 
+effects posttreatment years now rejects the null at 2 percent.
+We are also able to augment our data by adding the years 1880, 1885, 1895, 
+1905, and 1910 for 12 of our 19 polities. Repeating our baseline regressions on the 
+unbalanced panel that includes these years, we obtain very similar results both for 
+the West of the Elbe sample and for the whole sample, except that the f-tests now 
+always reject the hypothesis that there is no differential effect of posttreatment years 
+at less than 1 percent in all specifications (details available upon request).
+(based on the t-statistics with the null hypothesis imposed) suggested by A. Colin Cameron, Jonah B. Gelbach and 
+Douglas L. Miller (2008), computing the significance levels in 10,000 replications. This procedure has varying 
+effects on the significance levels of the results in Table 3. Results of weighted regressions usually become less 
+significant using bootstrapped t-statistics, whereas results of unweighted regressions are generally unaffected or 
+improved by this procedure. For example, in column 1 the p-value for     α  
+1900  increases slightly from 0.146 to 0.285, 
+whereas in column 2 the p-value for     α  1900  falls from 0.212 to 0.115. Similar results apply to the other estimates in 
+Tables 3, 4, and 6.
+15 The f-test enables us to investigate the hypothesis of whether there is any positive effect of French reforms, as 
+opposed to the t-tests, which are for the hypothesis that they had a positive effect in a specific year.
+Table 3—Urbanization in Germany
+Dependent variable: urbanization rate
+West of the Elbe All
+Weighted Unweighted Weighted Unweighted
+(1) (2) (3) (4)
+Years French presence × 1750 −0.491 −0.252 −0.488 −0.197
+[0.249] [0.172] [0.235] [0.164]
+Years French presence × 1800 −0.247 −0.0425 −0.268 −0.0471
+[0.225] [0.153] [0.227] [0.178]
+Years French presence × 1850 −0.160 0.0332 −0.221 −0.0235
+[0.250] [0.153] [0.249] [0.181]
+Years French presence × 1875 0.402 0.354 0.266 0.252
+[0.326] [0.295] [0.303] [0.299]
+Years French presence × 1900 0.634 0.529 0.503 0.506
+[0.408] [0.401] [0.376] [0.423]
+Observations 74 74 109 109
+Number of states 13 13 19 19
+p-value for joint significance after 1800 0.0532 0.463 0.0205 0.214
+notes: All regressions have full set of territory and year dummies. Robust standard errors clustered by territory. 
+Weighted regressions are weighted by territories’ total population in 1750.
+--- Page 13 ---
+3298 tHE AmERicAn Economic REViEW DEcEmBER 2011
+Overall, these results show no evidence of a negative effect of French occupation 
+on German polities. On the contrary, the estimates, and particularly the joint signifi-
+cance tests of post-treatment years, suggest that polities occupied and reformed by 
+the French experienced more rapid urbanization, especially after 1850. This is not 
+surprising. French reforms were accompanied by the disruptions caused by inva-
+sion and war, and this often had quite destructive and exploitative aspects (see, for 
+instance, Blanning 1983, Blanning 1986).
+16 Thus, the short-term impact of French 
+invasion may well have been negative. But this is uninformative about the long-run 
+economic impact of Revolution-imposed institutional changes. The most plausible 
+hypothesis is that the major role of the reforms was in creating an environment con-
+ducive to innovation and entrepreneurial activity. This environment mattered most 
+in the dissemination of the Industrial Revolution, which took place in Continental 
+Europe in the second half of the nineteenth century.
+17 Our evidence of positive 
+effects in the second half of the nineteenth century is consistent with this hypothesis.
+B. Robustness
+Table 4 investigates the robustness of our basic reduced-form results. In column 1, 
+we drop the coal-producing region of the Ruhr (corresponding to the former County 
+of Mark), since the presence of coal might have created a differential growth advan-
+tage in the second half of the nineteenth century. The results are very similar to the 
+baseline estimates.
+Columns 2–6 add a full set of interactions between each of our year dum-
+mies and various time-invariant characteristics that may have caused divergent 
+development paths. In column 2, for example, we include interactions between 
+the year dummies and fraction of the population of the area that is “Protestant” 
+(i.e.,  
+∑  τ  
+ 
+      η τ  ×  D τ  × Protestan t j  ). Column 3 instead includes a full set of year inter-
+actions with latitude to check whether our results could be due to time-varying 
+effects of geography. In both cases, the inclusion of the sets of covariates has little 
+effect on the magnitudes of our estimates (though with the latitude controls, the 
+effects are no longer jointly significant at 5 or 10 percent).
+More importantly, columns 4 and 5 include a full set of year interactions with 
+longitude and with the distance to Paris. Since areas further west and closer to 
+Paris are more likely to have been occupied by French forces, these interactions are 
+important to check whether our exclusion restriction—that years of French presence 
+are uncorrelated with other potential determinants of differential growth during the 
+nineteenth century—is valid. Reassuringly, the positive effects in 1875 and 1900 are 
+now both larger and more precisely estimated. The time interactions with longitude 
+and distance to Paris are themselves jointly significant at the 10 percent level or 
+16 Though it is possible that our urbanization measure fails to capture the short-run destructive effects of the 
+French wars, the working paper version of our work (Acemoglu et al. 2009) reported cross-country evidence show-
+ing similar results with Maddison’s estimates of GDP per capita.
+17 This argument is similar to that of Stanley L. Engerman and Kenneth L. Sokoloff (1997) and Acemoglu, 
+Johnson, and Robinson (2002) who argue that the divergence of institutions in colonial societies, which took place 
+between 1500 and 1800, had little economic impact until the age of industry. David Landes (1969 chs. 4–5) points 
+out how the catch-up of continental Europe took place concurrently with the expansion of advanced industrial tech-
+niques to areas beyond textile manufacturing, in particular to railway construction, iron production, and chemical 
+industry.
+--- Page 14 ---
+3299AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+less, and generally positive in value (the coefficient estimates that are not reported 
+indicate somewhat faster urbanization growth further to the east).
+Column 6 investigates the possibility that differential growth across German poli-
+ties in the nineteenth century is driven by the removal of internal borders, which 
+followed the reorganization of territories between 1792 and 1815. Some polities, 
+such as Württemberg or the Rhineland, resulted from the dissolution and merger of 
+dozens of minor territories. To control for the possible effects of these changes, we 
+include a set of interactions between the number of prerevolutionary polities and 
+post-1800 year dummies. In column 6, these interaction terms (not reported to save 
+space) are jointly significant but negative. In any case, the point estimates for the 
+effects of French presence are largely unaffected.
+The presence of negative point estimates for 1750 and 1800 raise a potential con-
+cern that there might be mean-reverting dynamics in the growth of different polities, 
+potentially confounding our estimates. To deal with this issue and as an additional 
+check for differential trends, in column 7 we include a full set of interactions between 
+initial urbanization  u 
+j,1750  (1750 is the first date with complete urbanization figures for 
+all polities) and the full set of year dummies. This is a flexible (and demanding) way 
+of controlling for any mean reversion effects or preexisting trends. Nevertheless, this 
+flexible specification has little effect on our estimates. For example,     α  1900  is now 0.650 
+(standard error 0.362) and the interactions between initial urbanization and the year 
+dummies are individually and jointly insignificant. Column 8 explicitly introduces the 
+lagged dependent variable on the right-hand side as a more direct check against mean 
+Table 4—Urbanization in Germany, Controls
+Dependent variable: Urbanization rate west of the Elbe
+Without 
+Mark/
+Ruhr Protestant Latitude Longitude
+Distance
+to 
+Paris
+Number 
+of old 
+territories
+Initial 
+urbani- 
+zation
+Arellano-
+Bond 
+GMM
+(1) (2) (3) (4) (5) (6) (7) (8)
+Years French presence −0.565 −0.547 −0.600 −0.435 −0.446 −0.531 −0.458
+ × 1750 [0.281] [0.308] [0.356] [0.244] [0.278] [0.294] [0.267]
+Years French presence −0.324 −0.336 −0.356 −0.256 −0.244 −0.288 −0.209 0.0520
+ × 1800 [0.249] [0.295] [0.324] [0.215] [0.248] [0.264] [0.245] [0.126]
+Years French presence −0.235 −0.229 −0.261 0.0182 −0.0269 −0.114 −0.136 0.372
+ × 1850 [0.275] [0.310] [0.356] [0.210] [0.242] [0.257] [0.261] [0.379]
+Years French presence 0.324 0.353 0.292 0.623 0.561 0.374 0.418
+ × 1875 [0.324] [0.312] [0.374] [0.250] [0.271] [0.305] [0.284]
+Years French presence 0.552 0.573 0.512 0.893 0.836 0.656 0.650 1.249
+ × 1900 [0.411] [0.370] [0.451] [0.321] [0.325] [0.382] [0.363] [0.713]
+Lagged urbanization −0.955
+[1.345]
+Observations 68 74 74 74 74 74 74 35
+Number of states 12 13 13 13 13 13 13 13
+p-value for joint
+ significance after 1800
+0.128 0.0705 0.176 0.0791 0.0625 0.0959 0.109 0.0312
+p-value for joint 
+ significance covariates
+· 0.0217 0.414 0.0222 0.0815 0.0267 0.123
+notes: All regressions have full set of territory and year dummies. Robust standard errors clustered by territory. All 
+regressions are weighted by territories’ total population in 1750. Controls in columns 2–6 (Protestant, latitude, lon-
+gitude, distance to Paris, number of prerevolutionary territories, urbanization in 1750) are included as a full set of 
+interactions with time dummies.
+--- Page 15 ---
+3300 tHE AmERicAn Economic REViEW DEcEmBER 2011
+reversion. To ensure consistency, these models are estimated using the Generalized 
+Method of Moments (GMM) strategy suggested by Manuel Arellano and Stephen R. 
+Bond (1991). We drop 1875 to obtain a panel with equidistant dates. The results are 
+generally similar to the baseline OLS estimates; the effect of the lagged dependent 
+variable itself is insignificant. Also noteworthy is that in this specification we find no 
+evidence of preexisting trends favoring areas subsequently occupied by the French. 
+We find this reassuring for our overall empirical strategy.
+C. Additional outcome Variables
+In addition to the previous results based on urbanization rates as our outcome 
+variable, in Table 5 we provide evidence using the sectoral composition of employ-
+ment as the outcome variable. Data are available for 64 districts across Germany for 
+the years 1849, 1882, 1895, and 1907. The advantage of using sectoral shares is that 
+it delivers a check on our results based on urbanization rates, through a variable that 
+closely captures the move out of agricultural activities and into the industrial and 
+manufacturing sectors. The disadvantage is that, given that the data start in 1849, we 
+cannot check for pretrends in the period before 1800. Given the lack of data before 
+1800, we simply report a series of cross-sectional regressions of the form:
+(2)  y 
+jt  =  d t  +  α t  ×  i j  +  ε jt  ,
+for each t. Here  y jt  is the outcome variable (sectoral shares of agriculture or indus-
+try/manufacturing) in district j at time t,  d t  now denotes a year-specific constant,  i j  
+again represents years of French presence in district j,  ε jt  is a disturbance term, and  
+α t  is the coefficient of interest. In particular, changes in  α t s can be interpreted as dif-
+ferential growth related to French treatment.
+The results in Table 5 show that, both west of the Elbe and in the whole sam-
+ple, there was already less agricultural and more industrial employment in areas 
+Table 5—Occupational Shares in Germany
+Dependent variable: share of population 
+employed in agriculture
+Dependent variable: share of population 
+employed in industry
+West of the Elbe All West of the Elbe All
+Weighted Unweighted Weighted Weighted Unweighted Weighted
+(1) (2) (3) (4) (5) (6)
+Years French presence, −0.430 −0.411 −0.508 0.055 0.061 0.374
+ 1849 [0.468] [0.460] [0.346] [0.376] [0.342] [0.369]
+Years French presence, −0.450 −0.486 −0.585 0.420 0.386 0.594
+ 1882 [0.285] [0.244] [0.253] [0.256] [0.240] [0.267]
+Years French presence, −0.570 −0.601 −0.658 0.472 0.449 0.640
+ 1895 [0.266] [0.242] [0.182] [0.248] [0.231] [0.222]
+Years French presence, −0.554 −0.585 −0.724 0.350 0.321 0.570
+ 1907 [0.281] [0.264] [0.237] [0.284] [0.251] [0.237]
+notes: Each cell corresponds to one cross-sectional regression. District level data. Robust standard errors clustered 
+at the state level. All regressions weighted by the districts’ total population in 1849. Number of observations (base-
+line/west of Elbe): 39/23 (1849), 62/44 (other years).
+--- Page 16 ---
+3301AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+occupied by the French by 1849, though these differences are not statistically sig-
+nificant. They become larger and statistically significant by 1882 and remain so 
+until 1908. This evidence therefore corroborates the pattern that emerges from the 
+urbanization data, suggesting that there was more rapid industrialization in areas 
+that underwent more significant reforms because of French occupation and invasion.
+IV . Institutional Reforms and Economic Growth
+In this section, we first use the data we collected on institutional reform across the 
+German polities to document the relationship between French occupation and ( the 
+timing of) reforms, thus establishing a firm link between French control and dimen-
+sions of institutional reforms that we can measure. We then use this relationship as 
+the first stage for a two-stage least squares ( 2SLS) strategy, where we estimate the 
+effect of an index of institutional reforms on growth during the nineteenth century. 
+This 2SLS strategy has three distinct advantages. First, it enables us to show a simple 
+link between institutional reforms and growth in the nineteenth century. Second, the 
+reduced-form evidence is difficult to interpret because some of the control polities, 
+such as Baden or the provinces of Prussia east of the Elbe, also underwent institutional 
+reforms, in part in a process of “defensive modernization” in response to the threat of 
+further French domination in continental Europe. The 2SLS estimates will be more 
+readily interpretable. Third, this strategy will enable us to conduct overidentification 
+tests to investigate whether we can reject the hypothesis that the effects of French 
+occupation are working primarily or solely through the institutional reforms.
+A. f rench occupation and institutional Reforms
+Table 1 and Figure 1 depicted our overall reform index and illustrated the rela-
+tionship between our various reform measures and years of French presence. To 
+summarize the relationship between the reform index and French occupation more 
+succinctly and in a way that can be used as the first stage for our 2SLS strategy, we 
+posit the following simple regression equation:
+(3)  R 
+jt  =  d t  +  δ j  + ψ × t ×  t t>1800  ×  i j  +  η jt  ,
+where  R jt  is the value of our reform index for polity j at time t;  d t  and  δ j  are time 
+effects and polity fixed effects; as usual,  i j  is our treatment variable, years of French 
+presence, and  η jt  is a disturbance term. The variable  t t>1800  is a dummy for post-1800 
+dates (1850, 1875, and 1900), so that t ×  t t>1800  is a linear time trend that turns on 
+after 1800 (and is equal to 0 before then). 18 Intuitively, this form implies that the 
+longer it has been since a polity has undergone French occupation, the higher its 
+reform index will be. This functional form is reasonable given the process of reform 
+in Germany, which started earlier in areas under French occupation but, by the late 
+1800s, spread similar reforms to the rest of Germany.
+18 To simplify the interpretation of coefficients, time t is divided by 1,000.
+--- Page 17 ---
+3302 tHE AmERicAn Economic REViEW DEcEmBER 2011
+Estimates from equation (3) are shown in panel B of Table 6. The first column, 
+using the sample west of the Elbe and population in 1750 as weights, shows a strong 
+relationship between our French occupation interaction variable and the reform index. 
+The coefficient estimate is 1.166 (standard error = 0.107). This strong relationship 
+indicates that even though there were reforms in German areas not occupied by the 
+French (perhaps because of “defensive modernization”), occupation by the French 
+was a significant determinant of reform. Column 2 replaces the French occupation 
+interaction variable t ×  t 
+t>1800  ×  i j  with a set of interactions of year dummies (from 
+1850 on) with years of French presence and reports the p-value of joint signifi-
+cance of all these interaction terms. This specification also supports the hypothesis 
+of a link between French rule and the implementation of reform ( p-value = 0.000). 
+Finally, columns 3–5 confirm these results by looking at specifications without pop-
+ulation weights and using the whole of Germany including areas east of the Elbe in 
+the sample. The magnitudes of the estimated coefficients are very similar.
+B. t wo-stage least squares Estimates
+We next turn to the 2SLS estimates of the effect of our reform index on urbaniza-
+tion. We posit the following second-stage equation:
+(4)  u 
+jt  =  d t  +  δ j  + ϕ ×  R jt  +  υ jt ,
+Table 6—Urbanization in Germany, Impact of Reforms
+Dependent variable: urbanization rate
+West of the Elbe All
+Weighted
+Weighted, 
+overid Unweighted Weighted Unweighted
+(1) (2) (3) (4) (5)
+Panel A. ols estimation
+Reforms index 0.281 0.281 0.220 0.268 0.191
+[0.114] [0.114] [0.122] [0.110] [0.105]
+Panel B. f irst stage
+French presence × post1800 1.166 1.116 1.006 0.960
+ × trend [0.107] [0.143] [0.108] [0.145]
+f-statistic excluded instruments 119.7 121.6 61.85 87.57 43.71
+p-value f-statistic 0.000 0.000 0.000 0.000 0.000
+Panel c. 2sls estimation
+Reforms index 0.291 0.321 0.204 0.284 0.193
+[0.102] [0.112] [0.124] [0.112] [0.143]
+Observations 74 74 69 109 109
+Number of states 13 13 12  19  19
+p-value overidentified test 0.328
+notes: All regressions have full set of territory and year dummies. Robust standard errors clustered by territory. 
+Weighted regressions are weighted by territories’ total population in 1750. The overidentified regression in column 
+2 uses a full set of interactions of “Years of French presence” and year dummies as excluded instruments.
+--- Page 18 ---
+3303AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+where  u jt  is urbanization,  d t  and  δ j  are time effects and polity fixed effects.
+The results of estimating (4) using (3) as the first-stage relationship are also shown 
+in Table 6. Panel A shows the OLS relationships for comparison. In the OLS, there 
+is a positive and significant association between our reform index and urbanization 
+in all specifications reported in Table 6.
+Panel B reports the 2SLS estimates of (4). For our baseline setup, column 1 shows 
+an estimate of    ϕ  = 0.290 (standard error = 0.102), which is highly significant. 
+Interestingly, this coefficient is of similar magnitude to the OLS estimate, which 
+suggests that three biases likely to be present in the OLS could be canceling each 
+other. The first of these biases is that the timing of reform is endogenous, which 
+will lead to an upward bias. The second is that many of the “control” polities also 
+underwent reforms, perhaps in response to the French threat, causing a potential 
+downward bias. The third is that the OLS coefficient might be subject to consider -
+able (downward) attenuation, both because the extent of reform is measured with 
+error and also because, conceptually, our reform index is only a proxy for a broader 
+range of institutional reforms undertaken during this era.
+Column 2 estimates the same model on the same sample, but now using all 
+post-1800 interactions (i.e., the  
+∑  τ∈    post   
+ 
+    α τ   ×  d τ  ×  i j  terms in terms of equation 
+(1), where this set     post  includes 1850, 1875, and 1900) as instruments. This not 
+only enables us to have a stronger first stage, but also, because we have more instru-
+ments than endogenous variables, we can perform an overidentification test for all 
+of these interactions being jointly valid instruments. Econometrically, this is just a 
+standard overidentification test. Economically, it amounts to testing whether we can 
+reject the hypothesis that the effects of the post-1800 time interactions with French 
+occupation work primarily or solely through the reforms index (and thus through 
+the institutional changes that the French imposed). To perform the overidentifica-
+tion test, we use the Huber-White variance-covariance matrix without clustering, 
+since this corresponds to smaller standard errors and thus stacks the cards against 
+our hypothesis. The p-value of the overidentification (f-)test reported at the bottom 
+shows that we comfortably fail to reject the above-mentioned hypothesis. This gives 
+some support to our interpretation that French occupation impacted urbanization 
+in German polities in the second half of the nineteenth century mainly through the 
+institutional reforms that it imposed.
+Column 3 estimates the same model as in column 1, now in an unweighted regres-
+sion. The 2SLS estimate is now smaller, 0.204, with a larger standard error, and is 
+thus significant only at 10 percent. In columns 4 and 5, we include polities to the east 
+of the Elbe, and the 2SLS coefficient estimates are very similar to the corresponding 
+estimates of columns 1 and 3.
+Overall the results in this section are broadly consistent with our interpretation 
+that occupation by the French induced significant institutional reforms and that 
+these reforms paved the way for more rapid economic development, particularly in 
+the second half of the nineteenth century.
+V . Concluding Remarks
+The French Revolution of 1789 started a complex process involving, among 
+other things, radical institutional changes. This process of change did not stop at the 
+--- Page 19 ---
+3304 tHE AmERicAn Economic REViEW DEcEmBER 2011
+French borders: the French revolutionary armies, and later Napoleon, invaded and 
+controlled large parts of Europe, including areas of Germany, where they undertook 
+essentially the same radical political, legal, and economic reforms as in France. 
+However, invasion also came with chaos and the exploitation of the occupied ter -
+ritories. This article is an attempt to gauge the long-run consequences of the French 
+Revolution, considering the radical institutional reforms imposed on neighboring 
+countries as a quasi-natural experiment.
+We find no evidence that areas that were under French occupation experienced 
+less rapid development. On the contrary, all of our evidence points to more rapid 
+economic growth as proxied by urbanization in areas that underwent the radical 
+institutional reforms brought by the French Revolution, especially after 1850. We 
+also presented additional evidence suggesting that the primary channel of influ-
+ence of French occupation was likely to have been the institutional reforms of the 
+Revolution. These findings are interesting not only because they provide a historical 
+appraisal of the economic impact of the French Revolution, but more importantly 
+because of their implications about the consequences of radical institutional reform. 
+Scholars have disagreed on the effectiveness of externally imposed radical institu-
+tional changes. The French Revolution is a clear example of a large-scale, radical 
+and “designed” institutional change. In this light, our findings support the centrality 
+of institutional differences for comparative economic development. More important, 
+the results are inconsistent with the view that externally imposed, radical, and “Big 
+Bang” style reforms can never be successful. On the contrary, the evidence supports 
+our hypothesis that the institutions of the ancien régime, in particular feudal land 
+and labor relations, urban oligarchies and guilds, and lack of equality before the law, 
+impeded prosperity, and that the radical institutional reforms that removed these 
+barriers paved the way for industrialization and economic growth.
+Naturally, all of these findings have to be interpreted with caution for several rea-
+sons. First, the evidence we present is fairly clear that institutional changes imposed 
+by the French Revolution did not have any negative effects, but the positive effects 
+are significant only in some specifications. Second, our analysis was limited to the 
+available historical data. Third, results from one historical episode cannot always be 
+extrapolated to other eras.
+19 Nevertheless, it is noteworthy that our findings do sug-
+gest that radical institutional reforms can have long-run beneficial consequences, at 
+least in certain historical contexts. This conclusion, if valid, raises the question: why 
+did they work when other externally imposed reforms often fail? One possibility is 
+that this was because the reforms were much more radical than is typically the case.20 
+The French reformed simultaneously in many dimensions and weakened the pow-
+ers of local elites, making a return to the status quo ante largely impossible. Even 
+when some prerevolution elites returned to power after 1815, there was a permanent 
+change in the political equilibrium. This scope and radicalism of the French reforms 
+are common with the postwar reform experiences in Germany and Japan and stand 
+19 Moreover, even if the imposition of French institutions did spur long-run growth, this would not mean that 
+they were “welfare enhancing” since they were imposed by force, they entailed various short-run and medium-run 
+costs, and, most importantly, French occupation created major distractions and human suffering.
+20 See Acemoglu and Robinson (2008) for a model in which limited reforms can be counterproductive.
+--- Page 20 ---
+3305AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+in contrast with many other, less successful reform experiences.21 Nevertheless, we 
+are not able to provide any evidence that this is the correct interpretation of the 
+historical events surrounding the French Revolution, and we view a more detailed 
+investigation of when and how externally imposed institutional reforms could be 
+effective and contribute to economic development as an interesting area for future 
+theoretical and empirical work.
+REFERENCES
+Acemoglu, Daron. 2008. “Oligarchic versus Democratic Societies.” Journal of the European Economic 
+Association, 6(1): 1–44.
+Acemoglu, Daron, and James A. Robinson. 2008. “Persistence of Power, Elites, and Institutions.” 
+American Economic Review, 98(1): 267–93.
+Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2002. “Reversal of Fortune: Geography 
+and Institutions in the Making of the Modern World Income Distribution.” quarterly Journal of 
+Economics, 117(4): 1231–94.
+Acemoglu, Daron, Davide Cantoni, Simon Johnson, and James A. Robinson. 2009. “The Conse-
+quences of Radical Reform: The French Revolution.” National Bureau of Economic Research 
+Working Paper 14831.
+Acemoglu, Daron, Davide Cantoni, Simon Johnson, and James Alan Robinson. 2011. “The Conse-
+quences of Radical Reform: The French Revolution: Dataset.” American Economic Review. http://
+www.aeaweb.org/articles.php?doi=10.1257/aer.101.7.3286.
+21 Our results also have some relevance to the literature on the role of culture in economic development and on 
+the interactions between culture and institutions (e.g., Lawrence E. Harrison and Samuel P. Huntington 2000; Avner 
+Greif 2006; Guido Tabellini 2010). In this context, the relatively successful transplantation of French institutions on 
+several German polities with different histories, cultures and traditions also suggests that differences in culture do 
+not create immutable barriers against institutional reform.
+Data Description
+Variable Description—Source
+Distance to Paris Great circle distance from a territory’s capital to Paris—own 
+calculation, based on latitude and longitude data.
+Latitude Latitude in degrees of a territory’s capital—Wikipedia.
+Longitude Longitude in degrees of a territory’s capital—Wikipedia.
+Number of prerevolutionary territories Number of territories of the Holy Roman Empire (immediate 
+to the Emperor) existing prior to the invasion of French 
+Revolutionary armies and the dissolution of the Empire through the 
+Reichsdeputationshauptschluss—see online Appendix C.
+Share agriculture Share of total population (in percent) whose primary employment is 
+in the agricultural sector—Frank (1994)
+Share industry Share of total population (in percent) whose primary employment is 
+in the industrial and manufacturing sector—Frank (1994)
+Share Protestant Approximate share of the population of Protestant (Lutheran/
+Calvinist) faith around 1800—own projection, based on nineteenth 
+century census data. Cf. also online Appendix B.
+Urbanization rate Percent of total population living in cities above 5,000 inhabitants—
+see online Appendix B.
+Years French presence Years of presence of French troops or rule by French-appointed 
+rulers—Grab (2003).
+--- Page 21 ---
+3306 tHE AmERicAn Economic REViEW DEcEmBER 2011
+Arellano, Manuel, and Stephen Bond. 1991. “Some Tests of Specification for Panel Data: Monte Carlo 
+Evidence and an Application to Employment Equations.” Review of Economic Studies, 58(2): 277–97.
+Bairoch, Paul. 1988. cities and Economic Development: f rom the Dawn of History to the Present. 
+Translated by Christopher Braider. Chicago: University of Chicago Press.
+Bairoch, Paul, Jean Batou, and Pierre Chevre. 1988. The Population of European Cities, 800–1850: 
+Data Bank and Short Summary of Results. Geneva: Librarie Droz.
+Berkowitz, Daniel, Katharina Pistor, and Jean-Francois Richard. 2003a. “Economic Development, 
+Legality, and the Transplant Effect.” European Economic Review, 47(1): 165–95.
+Berkowitz, Daniel, Katharina Pistor, and Jean-Francois Richard. 2003b. “The Transplant Effect.” 
+American Journal of Comparative Law, 51(1): 163–203.
+Blanning, Timothy C. W. 1983. the f rench Revolution in germany: occupation and Resistance in the 
+Rhineland, 1792–1802. Oxford: Oxford University Press.
+Blanning, Timothy C. W. 1986. the origins of the f rench Revolutionary Wars. London: Longman.
+Blanning, Timothy C. W. 1996. the f rench Revolutionary Wars, 1787–1802. New York: St. Martin’s 
+Press.
+Blum, Jerome. 1978. the End of the old order in Rural Europe. Princeton, NJ: Princeton University 
+Press.
+Cameron, A. Colin, Jonah B. Gelbach, and Douglas L. Miller. 2008. “Bootstrap-Based Improvements 
+for Inference with Clustered Errors.” Review of Economics and Statistics, 90(3): 414–27.
+Connelly, Owen. 1965. napoleon’s satellite Kingdoms. New York: Free Press.
+de Vries, Jan. 1984. European urbanization, 1500–1800. Cambridge, MA: Harvard University Press.
+Diefendorf, Jeffry. 1980. Businessmen and Politics in the Rhineland, 1789–1834. Princeton, NJ: Princ-
+eton University Press.
+Doyle, William. 1989. the oxford History of the f rench Revolution. Oxford: Oxford University Press.
+Ellis, Geoffrey. 2003. the napoleonic Empire. New York: Palgrave Macmillan.
+Engerman, Stanley L., and Kenneth L. Sokoloff. 1997. “Factor Endowments, Institutions, and Dif-
+ferential Paths of Growth among New World Economies: A View from Economic Historians of the 
+United States.” In How Latin America Fell behind: Essays on the Economic Histories of Brazil and 
+Mexico, 1800–1914, ed. Stephen Haber, 260–304. Stanford, CA: Stanford University Press.
+Epstein, Stephan R. 1998. “Craft Guilds, Apprenticeship, and Technological Change in Preindustrial 
+Europe.” Journal of Economic History, 58(3): 684–713.
+Esdaile, Charles J. 1996. the Wars of napoleon. New York: Longman.
+Esdaile, Charles J. 2001. the f rench Wars, 1792–1815. New York: Routledge.
+Fisher, Herbert A. L. 1903. studies in napoleonic statesmanship: germany. Oxford: Clarendon Press.
+Frank, Harald. 1994. Regionale Entwicklungsdisparitten im Deutschen industrialisierungsprozess 
+1849–1939: Eine Empirisch-analytische untersuchung. Muenster: Lit.
+Gates, David. 1997. the napoleonic Wars, 1803–1815. New York: Edward Arnold Publishers.
+Grab, Alexander. 2003. napoleon and the t ransformation of Europe. New York: Palgrave Macmillan.
+Greif, Avner. 2006. institutions and the Path to the modern Economy: lessons from medieval t rade. 
+Cambridge: Cambridge University Press.
+Harrison, Lawrence E., and Samuel P. Huntington. 2000. culture matters. New York: Basic Books.
+Hayek, Friedrich. 1960. the constitution of liberty. Chicago: Chicago University Press.
+Kisch, Herbert. 1989. f rom Domestic manufacture to industrial Revolution: the case of the Rhine-
+land t extile Districts. Oxford: Oxford University Press.
+Landes, David. 1969. the unbound Prometheus. Cambridge: Cambridge University Press.
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert W. Vishny. 1998. “Law and 
+Finance.” Journal of Political Economy, 106(6): 1113–55.
+Lindberg, Erik. 2009. “Club Goods and Inefficient Institutions: Why Danzig and Lübeck Failed in the 
+Early Modern Period.” Economic History Review, 62(3): 604–28.
+Lyons, Martyn. 1994. napoleon Bonaparte and the legacy of the f rench Revolution. New York: St. 
+Martin’s Press.
+Mokyr, Joel. 2003. “Industrial Revolution.” In Oxford Encyclopedia of Economic History, ed. Joel 
+Mokyr. Oxford: Oxford University Press.
+Ogilvie, Sheilagh. 2004. “Guilds, Efficiency, and Social Capital: Evidence from German Proto-indus-
+try.” Economic History Review, 57(2): 286–333.
+Ogilvie, Sheilagh. 2007. “Can We Rehabilitate the Guilds? A Sceptical Re-Appraisal.” University of 
+Cambridge Working Paper in Economics 2007.
+Olson, Mancur. 1982. the Rise and Decline of nations: Economic growth, stagflation, and social 
+Rigidities. New Haven, CT: Yale University Press.
+Palmer, Robert R. 1959. the Age of Democratic Revolution. Vol. i: the challenge. Princeton, NJ: 
+Princeton University Press.
+--- Page 22 ---
+3307AcEmoglu Et Al.: consEquEncEs of RADicAl REfoRmVol. 101 no. 7
+Palmer, Robert R. 1964. the Age of Democratic Revolution. Vol. ii: the struggle. Princeton, NJ: Princ-
+eton University Press.
+Rodrik, Dani. 2007. one Economics, many Recipes: globalization, institutions, and Economic 
+growth. Princeton, NJ: Princeton University Press.
+Rudé, Georges. 1988. the f rench Revolution: Its Causes, Its History and Its Legacy After 200 Years. 
+New York: Grove Press.
+Tabellini, Guido. 2010. “Culture and Institutions: Economic Development in the Regions of Europe.” 
+Journal of the European Economic Association, 8(4): 677–716.
+Wooldridge, Jeffrey. 2002. Econometric Analysis of Cross Section and Panel Data. Cambridge, MA: 
+MIT Press.
+Woolf, Stuart. 1991. napoleon’s integration of Europe. New York: Routledge.
+--- Page 23 ---
+This article has been cited by:
+1. Wolfgang Keller, Carol H. Shiue. 2020. Market integration and institutional change. Review of World
+Economics 156:2, 251-285. [Crossref]
+2. Stelios Michalopoulos, Elias Papaioannou. 2020. Historical Legacies and African Development.
+Journal of Economic Literature 58:1, 53-128. [Abstract] [View PDF article] [PDF with links]
+3. Aurelian-Petrus Plopeanu, Daniel Homocianu, Gabriela Bodea, Emil Lucian Crisan, Alin Adrian
+Mihaila. 2020. Assessing the Imprint of the Long‐gone Hapsburg Empire's Border on the Romanian
+Students' Migration Intentions. International Migration 26. . [Crossref]
+4. Naci Mocan, Samantha Bielen, Wim Marneffe. 2020. Quality of judicial institutions, crimes,
+misdemeanors, and dishonesty. European Journal of Political Economy 61, 101815. [Crossref]
+5. Giampaolo Lecce, Laura Ogliari. 2019. Institutional Transplant and Cultural Proximity: Evidence
+from Nineteenth-Century Prussia. The Journal of Economic History 79:4, 1060-1093. [Crossref]
+6. Milan Zafirovski. 2019. Collective‐unconscious apologetics of plutocracy and oligarchy: Chicago
+economics' ideological preferences revealed by the sociology of knowledge. Journal for the Theory of
+Social Behaviour 49:4, 499-518. [Crossref]
+7. Nicolas Devijlder, Koen Schoors. 2019. Land rights, local financial development and industrial activity:
+evidence from Flanders (nineteenth–early twentieth century). Cliometrica 101. . [Crossref]
+8. Ying Bai. 2019. Farewell to confucianism: The modernizing effect of dismantling China's imperial
+examination system. Journal of Development Economics 141, 102382. [Crossref]
+9. Avidit Acharya, Alexander Lee. 2019. Path Dependence in European Development: Medieval Politics,
+Conflict, and State Building. Comparative Political Studies 52:13-14, 2171-2206. [Crossref]
+10. Roberto Ezcurra, Vicente Rios. 2019. Quality of government in European regions: do spatial spillovers
+matter?. Regional Studies 87, 1-11. [Crossref]
+11. Carsten Hefeker. 2019. Stable money and central bank independence: implementing monetary
+institutions in postwar Germany. Public Choice 101. . [Crossref]
+12. Louis Pahlow, Sebastian Teupe. 2019. Introduction: Business and the Law. Management &
+Organizational History 14:4, 311-316. [Crossref]
+13. Ivan Lopez Cruz, Gustavo Torrens. 2019. The paradox of power revisited: internal and external
+conflict. Economic Theory 68:2, 421-460. [Crossref]
+14. Michael Wyrwich. 2019. Migration restrictions and long-term regional development: evidence from
+large-scale expulsions of Germans after World War II. Journal of Economic Geography 101. . [Crossref]
+15. S.P . Harish, Christopher Paik. 2019. Historical state stability and economic development in Europe.
+Political Science Research and Methods 51, 1-19. [Crossref]
+16. Laura Dague, Joanna N Lahey. 2019. Causal Inference Methods: Lessons from Applied
+Microeconomics. Journal of Public Administration Research and Theory 29:3, 511-529. [Crossref]
+17. Jason Garcia Portilla. 2019. “Ye Shall Know Them by Their Fruits”: Prosperity and Institutional
+Religion in Europe and the Americas. Religions 10:6, 362. [Crossref]
+18. Milan Zafirovski. 2019. The dark side of capitalism–in orthodox economics?. The European Journal
+of the History of Economic Thought 96, 1-52. [Crossref]
+19. Francesco D’Acunto, Marcel Prokopczuk, Michael Weber. 2019. Historical Antisemitism, Ethnic
+Specialization, and Financial Development. The Review of Economic Studies  86:3, 1170-1206.
+[Crossref]
+20. Stefan Voigt. Institutional Economics 11, . [Crossref]
+--- Page 24 ---
+21. Merima Ali, Odd-Helge Fjeldstad, Boqian Jiang, Abdulaziz B Shifa. 2019. Colonial Legacy, State-
+building and the Salience of Ethnicity in Sub-Saharan Africa. The Economic Journal  129:619,
+1048-1081. [Crossref]
+22. Florian M. Hollenbach. 2019. Elite interests and public spending: Evidence from Prussian cities. The
+Review of International Organizations 101. . [Crossref]
+23. Milan Zafirovski. 2019. A neglected gap in the Weber thesis? The long economic lag of capitalism
+from Protestantism. Social Science Information 58:1, 3-56. [Crossref]
+24. Jeremiah E Dittmar, Ralf R Meisenzahl. 2019. Public Goods Institutions, Human Capital, and
+Growth: Evidence from German History. The Review of Economic Studies 101. . [Crossref]
+25. Mark Koyama. Political Economy 727-759. [Crossref]
+26. Mark Koyama. Political Economy 1-33. [Crossref]
+27. Michele Postigliola, Mauro Rota. 2019. Institutional Shocks and Proximate Causes of Growth:
+Evidence From the Era of French Rule in Italy. SSRN Electronic Journal . [Crossref]
+28. Alessandro Roncaglia. . [Crossref]
+29. Dmitry Veselov. 2019. The Dynamics of Social Conflict during the Transition from Stagnation to
+Growth. Revue d'économie politique 129:5, 833. [Crossref]
+30. Philipp Robinson Rössner. 2018. Historia magistra vitae – ad acta oder ad nauseam?. Zeitschrift für
+Historische Forschung 45:4, 651-714. [Crossref]
+31. Mohamed Saleh. 2018. On the Road to Heaven: Taxation, Conversions, and the Coptic-Muslim
+Socioeconomic Gap in Medieval Egypt. The Journal of Economic History 78:2, 394-434. [Crossref]
+32. Milan Zafirovski. 2018. Rational Choice Theory or Pretense? The Claims, Equivalences, and
+Analogies of the “Economic Approach to Human Behavior”. Sociological Spectrum 38:3, 194-222.
+[Crossref]
+33. Sebastian Garmann. 2018. God save the queen, god save us all? Monarchies and institutional quality.
+Scottish Journal of Political Economy 65:2, 186-204. [Crossref]
+34. Andrei Markevich, Ekaterina Zhuravskaya. 2018. The Economic Effects of the Abolition of Serfdom:
+Evidence from the Russian Empire. American Economic Review 108:4-5, 1074-1117. [Abstract] [View
+PDF article] [PDF with links]
+35. Alexander Donges. Competition and Collusion 175-183. [Crossref]
+36. Giovanni Federico, Mark Dincecco. 2018. Napoleon in Italy: A Legacy of Institutional Reform?.
+SSRN Electronic Journal . [Crossref]
+37. Ivan A Canay, Andres Santos, Azeem Shaikh. 2018. The Wild Bootstrap with a 'Small' Number of
+'Large' Clusters. SSRN Electronic Journal . [Crossref]
+38. Milan Zafirovski. Wealth 1-18. [Crossref]
+39. Trevor O’Grady, Claudio Tagliapietra. 2017. Biological welfare and the commons: A natural
+experiment in the Alps, 1765–1845. Economics & Human Biology 27, 137-153. [Crossref]
+40. Mark Dincecco. State Capacity and Economic Development 11, . [Crossref]
+41. Fabian Wahl. 2017. Does European development have Roman roots? Evidence from the German
+Limes. Journal of Economic Growth 22:3, 313-349. [Crossref]
+42. Francesco Cinnirella, Jochen Streb. 2017. The role of human capital and innovation in economic
+development: evidence from post-Malthusian Prussia. Journal of Economic Growth  22:2, 193-227.
+[Crossref]
+43. Jean-Paul Carvalho, Mark Koyama, Michael Sacks. 2017. Education, identity, and community: lessons
+from Jewish emancipation. Public Choice 171:1-2, 119-143. [Crossref]
+--- Page 25 ---
+44. Noel D. Johnson, Mark Koyama. 2017. States and economic growth: Capacity and constraints.
+Explorations in Economic History 64, 1-20. [Crossref]
+45. MICHAEL KOPSIDIS, ULRICH PFISTER, FRIEDERIKE SCHOLTEN, JOHANNES
+BRACHT. 2017. Agricultural Output Growth in a Proto- and Early Industrial Setting: Evidence from
+Sharecropping in Western Westphalia and the Lower Rhineland, c. 1740–1860. Rural History 28:1,
+21-46. [Crossref]
+46. , , , . 2017. The Paradox of Water Management Projects in Central Asia: An Institutionalist
+Perspective. Water 9:4, 300. [Crossref]
+47. Christian Berker. 2017. The Geopolitical Context for Institutional Change: The Case of Prussia in
+the 17 th and 18 th Century. Journal of Contextual Economics 137:1-2, 31-67. [Crossref]
+48. Peter Murrell. 2017. Design and evolution in institutional development: The insignificance of the
+English Bill of Rights. Journal of Comparative Economics 45:1, 36-55. [Crossref]
+49. Alfred Reckendrees. 2017. Economic history in times of transition. Scandinavian Economic History
+Review 65:1, 1-5. [Crossref]
+50. Daniel Oto-Peralías, Diego Romero-Ávila. Views Linking Colonialism with Institutions 13-26.
+[Crossref]
+51. Tobias Wolbring. Experimente in der Wirtschaftssoziologie 501-520. [Crossref]
+52. Alexander Donges, Jean-Marie A. Meier, Rui Silva. 2017. The Impact of Institutions on Innovation.
+SSRN Electronic Journal . [Crossref]
+53. Areendam Chanda, Dachao Ruan. 2017. Early Urbanization and the Persistence of Regional Disparities
+within Countries. SSRN Electronic Journal . [Crossref]
+54. Meng Miao. 2017. Insider Takes All! Value of Political Connections in a Property Rights Reform.
+SSRN Electronic Journal . [Crossref]
+55. Giampaolo Lecce, Laura Ogliari, Tommaso Orlando. 2017. Resistance to Institutions and Cultural
+Distance: Brigandage in Post-Unification Italy. SSRN Electronic Journal . [Crossref]
+56. Noel Maurer, Leticia Arroyo Abad. 2017. Can Europe Run Greece? Lessons from U.S. Fiscal
+Receiverships in Latin America, 1904-31. SSRN Electronic Journal . [Crossref]
+57. Francesco D'Acunto, Marcel Prokopczuk, Michael Weber. 2017. Historical Antisemitism, Ethnic
+Specialization, and Financial Development. SSRN Electronic Journal . [Crossref]
+58. Theresa S Finley, Raphael Franck, Noel D. Johnson. 2017. The Effects of Land Redistribution:
+Evidence from the French Revolution. SSRN Electronic Journal . [Crossref]
+59. Daniel Oto-Peralías, Diego Romero-Ávila. 2016. The economic consequences of the Spanish
+Reconquest: the long-term effects of Medieval conquest and colonization. Journal of Economic Growth
+21:4, 409-464. [Crossref]
+60. A. Alesina, P . Giuliano. 2016. Culture and institutions. Part II. Voprosy Ekonomiki  :11, 24-56.
+[Crossref]
+61. Rok Spruk. 2016. Institutional transformation and the origins of world income distribution. Journal
+of Comparative Economics 44:4, 936-960. [Crossref]
+62. Mark Dincecco, Massimiliano Gaetano Onorato. 2016. Military conflict and the rise of urban Europe.
+Journal of Economic Growth 21:3, 259-282. [Crossref]
+63. DONGWOO YOO, RICHARD H. STECKEL. 2016. Property rights and economic development:
+the legacy of Japanese colonial institutions. Journal of Institutional Economics 12:3, 623-650. [Crossref]
+64. Ichiro Iwasaki, Taku Suzuki. 2016. RADICALISM VERSUS GRADUALISM: AN ANALYTICAL
+SURVEY OF THE TRANSITION STRATEGY DEBATE. Journal of Economic Surveys  30:4,
+807-834. [Crossref]
+--- Page 26 ---
+65. Johannes C. Buggle. 2016. Law and social capital: Evidence from the Code Napoleon in Germany.
+European Economic Review 87, 148-175. [Crossref]
+66. Francesco Cinnirella, Erik Hornung. 2016. Landownership concentration and the expansion of
+education. Journal of Development Economics 121, 135-152. [Crossref]
+67. Avidit Acharya, Matthew Blackwell, Maya Sen. 2016. The Political Legacy of American Slavery. The
+Journal of Politics 78:3, 621-641. [Crossref]
+68. Zhiqiang Dong, Yongjing Zhang. 2016. Accumulated social capital, institutional quality, and economic
+performance: Evidence from China. Economic Systems 40:2, 206-219. [Crossref]
+69. GERHARD WEGNER. 2016. Defensive modernization in Germany and in the Habsburg Empire
+– a historical study of capitalist transformation. Journal of Institutional Economics  12:2, 443-469.
+[Crossref]
+70. Milan Zafirovski. 2016. The Point of Origin before Destination. Comparative Sociology 15:3, 372-411.
+[Crossref]
+71. Daniel W. Bromley. 2016. The 2016 Veblen-Commons Award Recipient: Daniel W. Bromley:
+Institutional Economics. Journal of Economic Issues 50:2, 309-325. [Crossref]
+72. MITJA KOVAČ, ROK SPRUK. 2016. Institutional development, transaction costs and economic
+growth: evidence from a cross-country investigation. Journal of Institutional Economics 12:1, 129-159.
+[Crossref]
+73. MICHAEL KOPSIDIS, DANIEL W. BROMLEY. 2016. The French revolution and German
+industrialization: dubious models and doubtful causality. Journal of Institutional Economics  12:1,
+161-190. [Crossref]
+74. Sascha O. Becker, Katrin Boeckh, Christa Hainz, Ludger Woessmann. 2016. The Empire is Dead,
+Long Live the Empire! Long‐Run Persistence of Trust and Corruption in the Bureaucracy. The
+Economic Journal 126:590, 40-74. [Crossref]
+75. Milan Zafirovski. 2016. (Pre-)Capitalism and the “Spirit” of Protestantism—The Max Weber Reverse
+Thesis of Economic Conditions of Calvinism. Social Epistemology 30:1, 89-129. [Crossref]
+76. MILAN ZAFIROVSKI. 2016. THE WEBER THESIS OF CALVINISM AND CAPITALISM-
+ITS VARIOUS VERSIONS AND THEIR “FATE” IN SOCIAL SCIENCE. Journal of the History
+of the Behavioral Sciences 52:1, 41-58. [Crossref]
+77. N. Fuchs-Schündeln, T.A. Hassan. Natural Experiments in Macroeconomics 923-1012. [Crossref]
+78. Torsten Jochem, Ilia Murtazashvili, Jennifer Murtazashvili. 2016. Establishing Local Government in
+Fragile States: Experimental Evidence from Afghanistan. World Development 77, 293-310. [Crossref]
+79. Noel D. Johnson, Mark Koyama. 2016. Jewish Communities and City Growth in Preindustrial
+Europe. SSRN Electronic Journal . [Crossref]
+80. Rok Spruk. 2016. Electoral Laws, Political Institutions and Long-Run Development: Evidence from
+Latin America, 1800-2012. SSRN Electronic Journal . [Crossref]
+81. Alberto Alesina, Paola Giuliano. 2015. Culture and Institutions. Journal of Economic Literature 53:4,
+898-944. [Abstract] [View PDF article] [PDF with links]
+82. Randall Akee, Miriam Jorgensen, Uwe Sunde. 2015. Critical junctures and economic development –
+Evidence from the adoption of constitutions among American Indian Nations. Journal of Comparative
+Economics 43:4, 844-861. [Crossref]
+83. Paul Caruana-Galizia. 2015. Strategic colonies and economic development: real wages in Cyprus,
+Gibraltar, and Malta, 1836-1913. The Economic History Review 68:4, 1250-1276. [Crossref]
+84. Yuyu Chen, Suresh Naidu, Tinghua Yu, Noam Yuchtman. 2015. Intergenerational mobility and
+institutional change in 20th century China. Explorations in Economic History 58, 44-73. [Crossref]
+--- Page 27 ---
+85. Andreas Assiotis, Kevin Sylwester. 2015. Does Law and Order Attenuate the Benefits of Democracy
+on Economic Growth?. Economica 82:328, 644-670. [Crossref]
+86. Mark Dincecco. 2015. The Rise of Effective States in Europe. The Journal of Economic History 75:3,
+901-918. [Crossref]
+87. Davide Cantoni. 2015. The Economic Effects of the Protestant Reformation: Testing the Weber
+Hypothesis in the German Lands. Journal of the European Economic Association  13:4, 561-598.
+[Crossref]
+88. Gerhard Wegner. 2015. Capitalist transformation without political participation: German capitalism
+in the first half of the nineteenth century. Constitutional Political Economy 26:1, 61-86. [Crossref]
+89. Ran Li, Yiping Huang. 2015. How Does Financial Opening Affect Industrial Efficiency? The Case
+of Foreign Bank Entry in the People's Republic of China. Asian Development Review 32:1, 90-112.
+[Crossref]
+90. Daron Acemoglu, James A. Robinson. 2015. The Rise and Decline of General Laws of Capitalism.
+Journal of Economic Perspectives 29:1, 3-28. [Abstract] [View PDF article] [PDF with links]
+91. Sophie Webber. 2015. Randomising Development: Geography, Economics and the Search for
+Scientific Rigour. Tijdschrift voor economische en sociale geografie 106:1, 36-52. [Crossref]
+92. Martin Uebele, Daniel Gallardo-Albarrán. 2015. Paving the way to modernity: Prussian roads and
+grain market integration in Westphalia, 1821–1855. Scandinavian Economic History Review  63:1,
+69-92. [Crossref]
+93. Hans-Jürgen Wagener. Institutionentransfer 569-574. [Crossref]
+94. Cem Karayalcin, Hakan Yilmazkuday. 2015. Trade and Cities. The World Bank Economic Review 29:3,
+523-549. [Crossref]
+95. Mark Dincecco. 2015. The Rise of Effective States in Europe. SSRN Electronic Journal . [Crossref]
+96. Nicola Fuchs-Schundeln, Tarek A. Hassan. 2015. Natural Experiments in Macroeconomics. SSRN
+Electronic Journal . [Crossref]
+97. Mitja Kovac, Rok Spruk. 2015. The Effect of Legal Institutions on the Wealth of Mexico: Evidences
+from a Sub-National Empirical Investigation. SSRN Electronic Journal . [Crossref]
+98. Cinzia Di Novi, Massimiliano Piacenza, Silvana Robone, Gilberto Turati. 2015. How Does
+Fiscal Decentralization Affect Within-Regional Disparities in Well-Being? Evidence from Health
+Inequalities in Italy. SSRN Electronic Journal . [Crossref]
+99. Christopher J. Coyne, Abigail R. Hall. 2014. The empire strikes back: Adam Smith, John Stuart
+Mill, and the Robust Political Economy of empire. The Review of Austrian Economics 27:4, 359-385.
+[Crossref]
+100. Wolfgang Keller, Carol H. Shiue. 2014. Endogenous Formation of Free Trade Agreements: Evidence
+from the Zollverein's Impact on Market Integration. The Journal of Economic History  74:04,
+1168-1204. [Crossref]
+101. Sheilagh Ogilvie. 2014. The Economics of Guilds. Journal of Economic Perspectives  28:4, 169-192.
+[Abstract] [View PDF article] [PDF with links]
+102. Toke S. Aidt, Peter S. Jensen. 2014. Workers of the world, unite! Franchise extensions and the threat
+of revolution in Europe, 1820–1938. European Economic Review 72, 52-75. [Crossref]
+103. Stephen D. Krasner, Jeremy M. Weinstein. 2014. Improving Governance from the Outside In. Annual
+Review of Political Science 17:1, 123-145. [Crossref]
+104. Davide Cantoni, Noam Yuchtman. 2014. Medieval Universities, Legal Institutions, and the
+Commercial Revolution *. The Quarterly Journal of Economics 129:2, 823-887. [Crossref]
+--- Page 28 ---
+105. Valentina Dimitrova-Grajzl, Peter Grajzl, A. Joseph Guse. 2014. Jurisdiction, Crime, and
+Development: The Impact of Public Law 280 in Indian Country. Law & Society Review 48:1, 127-160.
+[Crossref]
+106. Nathan Nunn. Historical Development 347-402. [Crossref]
+107. Sheilagh Ogilvie, A.W. Carus. Institutions and Economic Growth in Historical Perspective 403-513.
+[Crossref]
+108. Holger Breinlich, Gianmarco I.P . Ottaviano, Jonathan R.W. Temple. Regional Growth and Regional
+Decline 683-779. [Crossref]
+109. Avidit Acharya, Matthew Blackwell, Maya Sen. 2014. The Political Legacy of American Slavery.
+SSRN Electronic Journal . [Crossref]
+110. Milan Zafirovski. The sociological core vs. the historical component of the weber thesis: Some deviant
+cases revisited 75-128. [Crossref]
+111. JAMES A. ROBINSON. 2013. Measuring institutions in the Trobriand Islands: a comment on Voigt's
+paper. Journal of Institutional Economics 9:1, 27-29. [Crossref]
+112. Andrew Beath, Fotini Christia, Ruben Enikolopov. 2013. Democratization, Division of
+Responsibilities and Governance Quality: Experimental Evidence on Local Institutions in Afghanistan.
+SSRN Electronic Journal . [Crossref]
+113. Christopher J. Coyne, Abigail R. Hall. 2013. The Empire Strikes Back: Adam Smith, John Stuart
+Mill, and the Robust Political Economy of Empire. SSRN Electronic Journal . [Crossref]
+114. Johannes Buggle. 2013. Law and Social Capital: Evidence from the Code Napoleon in Germany.
+SSRN Electronic Journal . [Crossref]
+115. Mark Dincecco, Massimiliano Gaetano Onorato. 2013. Military Conflict and the Economic Rise of
+Urban Europe. SSRN Electronic Journal . [Crossref]
+116. Christian A Johnson. 2013. Potential Output and Output Gap in Central America, Panama and
+Dominican Republic. IMF Working Papers 13:145, 1. [Crossref]
+117. Mark Dincecco, Mauricio Prado. 2012. Warfare, fiscal capacity, and performance. Journal of Economic
+Growth 17:3, 171-203. [Crossref]
+118. MICHAEL KOPSIDIS, NIKOLAUS WOLF. 2012. Agricultural Productivity Across Prussia During
+the Industrial Revolution: A Thünen Perspective. The Journal of Economic History  72:3, 634-670.
+[Crossref]
+119. Mauricio Prado, Mark Dincecco. 2012. Warfare, Fiscal Capacity, and Performance. SSRN Electronic
+Journal . [Crossref]
+120. Valentina P . Dimitrova-Grajzl, Peter Grajzl, A. Joseph Guse. 2012. Jurisdiction, Crime, and
+Development: The Impact of Public Law 280 in Indian Country. SSRN Electronic Journal . [Crossref]
+121. Cem Karayalçin, Hakan Yilmazkuday. 2012. Trade and Cities. SSRN Electronic Journal . [Crossref]
