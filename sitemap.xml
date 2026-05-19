@@ -11,6 +11,9 @@
     <loc>http://localhost:3000/final-exam-questions</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/final-essay</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/paper-presentation-assignments</loc>
   </url>
   <url>

@@ -10,6 +10,7 @@ Welcome to the course repository! Use the navigation menu to view the reading sc
 
 ### Quick Links
 - [Final Exam Preparation](final_exam_questions.md)
+- [Final Essay Exercise](../canvas/canvas_pages/final_essay.md)
 - [Course Outline and Reading Schedule](course_outline_and_reading_schedule.md)
 - [Paper Presentation Assignments](paper_presentation_assignments.md)
 - [Midterm Materials](midterm_materials.md)
