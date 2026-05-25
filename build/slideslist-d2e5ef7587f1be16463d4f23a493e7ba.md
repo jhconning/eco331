@@ -4,11 +4,13 @@ Below you will find the links to all active presentations for the semester.
 
 <!-- TOC_START -->
 
-*Last Deployed: 2026-05-08 09:28 EST*
+*Last Deployed: 2026-05-25 10:07 EST*
 
 ## Deployed Presentations
 
 - [Slavery and Colonization II](https://jhconning.github.io/eco331/slides/sl_10_slavery.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_10_slavery.pdf)) *(Last edit: 2026-05-08 09:07)*
+- [Automation, Technology, and Labor Demand](https://jhconning.github.io/eco331/slides/sl_11_automation.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_11_automation.pdf)) *(Last edit: 2026-05-18 22:58)*
+- [Last class](https://jhconning.github.io/eco331/slides/sl_12_lastclass.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_12_lastclass.pdf)) *(Last edit: 2026-05-19 09:16)*
 - [Introduction](https://jhconning.github.io/eco331/slides/sl_1_Intro.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_1_Intro.pdf)) *(Last edit: 2026-04-29 22:59)*
 - [Neolithic Revolutio and Early States](https://jhconning.github.io/eco331/slides/sl_2_EarlyStates_revised2.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_2_EarlyStates_revised2.pdf)) *(Last edit: 2026-04-29 22:59)*
 - [Geography](https://jhconning.github.io/eco331/slides/sl_3_Geography.html) ([PDF](https://jhconning.github.io/eco331/slides/sl_3_Geography.pdf)) *(Last edit: 2026-04-29 22:59)*
