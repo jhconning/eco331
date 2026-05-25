@@ -10,7 +10,7 @@ project:
     - title: Final Exam Prep
       file: final_exam_questions.md
     - title: Final Essay Exercise
-      file: ../canvas/canvas_pages/final_essay.md
+      file: final_essay.md
     - title: Paper Presentation Assignments
       file: paper_presentation_assignments.md
     - title: Midterm Materials
@@ -28,18 +28,18 @@ site:
     logo: images/IR1.png
   nav:
     - title: Home
-      file: index.md
+      url: /index
     - title: Reading Schedule
-      file: course_outline_and_reading_schedule.md
+      url: /course_outline_and_reading_schedule
     - title: Final Exam Prep
-      file: final_exam_questions.md
+      url: /final_exam_questions
     - title: Final Essay Exercise
-      file: ../canvas/canvas_pages/final_essay.md
+      url: /final_essay
     - title: Paper Presentation Assignments
-      file: paper_presentation_assignments.md
+      url: /paper_presentation_assignments
     - title: Midterm Materials
-      file: midterm_materials.md
+      url: /midterm_materials
     - title: Slide Decks
-      file: slideslist.md
+      url: /slideslist
     - title: Syllabus
-      file: course_syllabus.md
+      url: /course_syllabus

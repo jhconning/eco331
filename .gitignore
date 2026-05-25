@@ -1,9 +1,11 @@
-# Ignore generated slides and documents
+# Ignore generated slides, documents, and builds
 *.pdf
 *.html
 *.pptx
 *.aux
 *.log
+_build/
+docs/_build/
 
 # Ignore environment and secrets
 .env
@@ -19,3 +21,25 @@ exams/
 .obsidian/
 .trash/
 __pycache__/
+
+# Ignore non-website files and folders (keep locally but do not track/push)
+_meta/
+canvas/
+code/
+google-scholar-mcp/
+notes/
+raw/
+read/
+scripts/
+syllabus/
+templates/
+test_marp/
+wiki/
+
+# Ignore non-website root files
+AI_HANDOFF_COURSE_BRAIN.md
+BRAIN_SCHEMA.md
+Eco331 Dashboard.base
+course_modules.md
+output3.png
+work log.md
